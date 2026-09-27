@@ -1,5 +1,6 @@
 name: Multi-Company Jobs Notifier
 
+# Triggered every 10 minutes by an external cron-job.org job via workflow_dispatch.
 on:
   workflow_dispatch:
     inputs:
@@ -7,9 +8,6 @@ on:
         description: Comma-separated company slugs to scrape
         required: false
         default: apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber
-  schedule:
-    # Offset from :00/:10 to avoid GitHub's peak-load delays.
-    - cron: "3-59/10 * * * *"
 
 permissions:
   contents: write
