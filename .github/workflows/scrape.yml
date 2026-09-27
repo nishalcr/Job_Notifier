@@ -8,7 +8,8 @@ on:
         required: false
         default: apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber
   schedule:
-    - cron: "*/10 * * * *"
+    # Offset from :00/:10 to avoid GitHub's peak-load delays.
+    - cron: "3-59/10 * * * *"
 
 permissions:
   contents: write
