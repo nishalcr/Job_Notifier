@@ -74,6 +74,9 @@ def _normalize_json_job(raw_job: dict) -> dict | None:
     if not isinstance(raw_job, dict):
         return None
 
+    if "Id" in raw_job:
+        return _normalize_jobs_site_job(raw_job)
+
     job_id = str(raw_job.get("id") or "").strip()
     title = str(raw_job.get("title") or "").strip()
     if not job_id or not title:
@@ -88,6 +91,36 @@ def _normalize_json_job(raw_job: dict) -> dict | None:
         "posted": _extract_posted(raw_job),
         "description": _clean_description(str(raw_job.get("description") or "")),
         "url": UBER_JOB_URL_TEMPLATE.format(job_id=job_id),
+    }
+
+
+def _normalize_jobs_site_job(raw_job: dict) -> dict | None:
+    """Normalize a job from the jobs.uber.com search API."""
+    job_id = str(raw_job.get("Id") or "").strip()
+    title = str(raw_job.get("Title") or "").strip()
+    if not job_id or not title:
+        return None
+
+    path = next(
+        (url.get("Url") for url in raw_job.get("Urls") or [] if isinstance(url, dict) and url.get("Url")),
+        f"/en/jobs/{job_id}/",
+    )
+    locations = [
+        {"city": loc.get("City"), "region": loc.get("Region"), "countryName": loc.get("Country")}
+        for loc in raw_job.get("Locations") or []
+        if isinstance(loc, dict)
+    ]
+    description_html = str(raw_job.get("Description") or "")
+
+    return {
+        "key": job_id,
+        "job_id": job_id,
+        "title": title,
+        "team": ", ".join(raw_job.get("Teams") or []),
+        "location": _format_locations(locations),
+        "posted": str(raw_job.get("DisplayDate") or "").split("T", 1)[0],
+        "description": _clean_description(BeautifulSoup(description_html, "lxml").get_text(" ")),
+        "url": f"{UBER_JOBS_SITE_BASE_URL}{path}" if path.startswith("/") else path,
     }
 
 
