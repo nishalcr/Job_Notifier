@@ -1,16 +1,17 @@
 from companies.base import CompanyDefinition
+from companies.filters import (
+    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    DEFAULT_EXCLUDED_TITLE_PHRASES,
+    ENGINEERING_TITLE_KEYWORDS,
+)
 from lyft_parser import get_total_pages, get_total_results, parse_jobs
 
 LYFT_API_URL = "https://api.careerpuck.com/v1/public/job-boards/lyft"
 LYFT_SEARCH_URL = "https://app.careerpuck.com/job-board/lyft"
 
-EXCLUDED_ROLE_KEYWORDS = (
-    "engineering manager",
-    "gestionnaire en ingénierie",
-    "head of",
-    "senior",
-    "staff",
-)
+EXCLUDED_ROLE_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+EXCLUDED_TITLE_PHRASES = DEFAULT_EXCLUDED_TITLE_PHRASES
+
 
 
 def build_search_url(search_url: str, page_num: int) -> str:
@@ -46,4 +47,6 @@ COMPANY = CompanyDefinition(
     get_total_results=get_total_results,
     fetch_page_html=fetch_page_html,
     excluded_role_keywords=EXCLUDED_ROLE_KEYWORDS,
+    excluded_title_phrases=EXCLUDED_TITLE_PHRASES,
+    included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
 )

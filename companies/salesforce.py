@@ -1,6 +1,11 @@
 from urllib.parse import urlsplit, urlunsplit
 
 from companies.base import CompanyDefinition
+from companies.filters import (
+    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    DEFAULT_EXCLUDED_TITLE_PHRASES,
+    ENGINEERING_TITLE_KEYWORDS,
+)
 from salesforce_parser import get_total_pages, get_total_results, parse_jobs
 
 SALESFORCE_SEARCH_URL = (
@@ -13,19 +18,8 @@ SALESFORCE_SEARCH_URL = (
     "&workerSubType=3a910852b2c31010f48d2bbc8b020000"
 )
 
-EXCLUDED_ROLE_KEYWORDS = (
-    "principal",
-    "senior",
-    "staff",
-    "lead",
-    "director",
-    "manager",
-    "architect",
-    "pmts",
-    "smts",
-    "lmts",
-    "sr.",
-)
+EXCLUDED_ROLE_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+EXCLUDED_TITLE_PHRASES = DEFAULT_EXCLUDED_TITLE_PHRASES
 
 RESULTS_PER_PAGE = 20
 
@@ -127,4 +121,6 @@ COMPANY = CompanyDefinition(
     full_scrape_posted_strategy="empty",
     regular_scrape_posted_strategy="all-found-today",
     excluded_role_keywords=EXCLUDED_ROLE_KEYWORDS,
+    excluded_title_phrases=EXCLUDED_TITLE_PHRASES,
+    included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
 )

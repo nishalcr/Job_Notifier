@@ -15,7 +15,7 @@ import config
 from health import BROKEN, load_health, record_result, save_health
 from notifier import send_error, send_job_alert_for_company, send_plain, send_summary, verify_bot
 from runner import LAST_ERRORS, collect_jobs
-from state import filter_new_jobs, is_excluded_role, load_seen_jobs, should_exclude_title
+from state import filter_new_jobs, load_seen_jobs, passes_title_filters
 
 
 def parse_args() -> argparse.Namespace:
@@ -52,20 +52,7 @@ async def _run_company_scrape(browser, slug: str) -> tuple[bool, str]:
         print(f"[{runtime_config.slug}] New jobs (not seen before): {len(new_jobs)}")
 
         before = len(new_jobs)
-        new_jobs = [
-            job
-            for job in new_jobs
-            if not should_exclude_title(
-                job.get("title", ""),
-                runtime_config.excluded_role_keywords,
-                runtime_config.excluded_title_phrases,
-            )
-        ]
-        new_jobs = [
-            job
-            for job in new_jobs
-            if not is_excluded_role(job.get("title", ""), runtime_config.excluded_role_keywords)
-        ]
+        new_jobs = [job for job in new_jobs if passes_title_filters(job.get("title", ""), runtime_config)]
         excluded = before - len(new_jobs)
         if excluded:
             print(f"[{runtime_config.slug}] Excluded {excluded} job(s) by title filter")

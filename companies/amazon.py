@@ -2,6 +2,11 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from amazon_parser import get_total_pages, get_total_results, parse_jobs
 from companies.base import CompanyDefinition
+from companies.filters import (
+    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    DEFAULT_EXCLUDED_TITLE_PHRASES,
+    ENGINEERING_TITLE_KEYWORDS,
+)
 
 AMAZON_SEARCH_URL = (
     "https://www.amazon.jobs/en/search"
@@ -9,11 +14,12 @@ AMAZON_SEARCH_URL = (
     "&result_limit=10"
     "&sort=recent"
     "&category%5B%5D=software-development"
+    "&category%5B%5D=machine-learning-science"
+    "&category%5B%5D=systems-quality-security-engineering"
     "&job_type%5B%5D=Full-Time"
     "&country%5B%5D=USA"
     "&distanceType=Mi"
     "&radius=24km"
-    "&industry_experience=one_to_three_years"
     "&is_manager%5B%5D=0"
     "&latitude="
     "&longitude="
@@ -27,15 +33,9 @@ AMAZON_SEARCH_URL = (
     "&query_options="
 )
 
-EXCLUDED_ROLE_KEYWORDS = (
-    "principal",
-    "senior",
-    "staff",
-    "manager",
-    "director",
-    "lead",
-    "sr",
-)
+EXCLUDED_ROLE_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+EXCLUDED_TITLE_PHRASES = DEFAULT_EXCLUDED_TITLE_PHRASES
+
 
 
 def build_search_url(search_url: str, page_num: int) -> str:
@@ -51,7 +51,7 @@ COMPANY = CompanyDefinition(
     slug="amazon",
     display_name="Amazon",
     default_search_url=AMAZON_SEARCH_URL,
-    default_max_pages=4,
+    default_max_pages=5,
     default_full_scrape_max_pages=45,
     wait_selectors=(
         "text=Job ID:",
@@ -63,4 +63,6 @@ COMPANY = CompanyDefinition(
     get_total_pages=get_total_pages,
     get_total_results=get_total_results,
     excluded_role_keywords=EXCLUDED_ROLE_KEYWORDS,
+    excluded_title_phrases=EXCLUDED_TITLE_PHRASES,
+    included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
 )

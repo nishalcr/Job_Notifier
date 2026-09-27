@@ -2,6 +2,11 @@ import re
 from urllib.parse import urlsplit, urlunsplit
 
 from companies.base import CompanyDefinition
+from companies.filters import (
+    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    DEFAULT_EXCLUDED_TITLE_PHRASES,
+    ENGINEERING_TITLE_KEYWORDS,
+)
 from cvs_parser import get_total_pages, get_total_results, parse_jobs
 
 CVS_SEARCH_URL = (
@@ -9,16 +14,9 @@ CVS_SEARCH_URL = (
     "?keywords=software%20development%20engineer"
 )
 
-EXCLUDED_ROLE_KEYWORDS = (
-    "principal",
-    "staff",
-    "senior",
-    "lead",
-    "manager",
-    "director",
-    "architect",
-    "sr.",
-)
+EXCLUDED_ROLE_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+EXCLUDED_TITLE_PHRASES = DEFAULT_EXCLUDED_TITLE_PHRASES
+
 
 RESULTS_PER_PAGE = 10
 
@@ -141,4 +139,6 @@ COMPANY = CompanyDefinition(
     get_total_results=get_total_results,
     fetch_page_html=fetch_page_html,
     excluded_role_keywords=EXCLUDED_ROLE_KEYWORDS,
+    excluded_title_phrases=EXCLUDED_TITLE_PHRASES,
+    included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
 )

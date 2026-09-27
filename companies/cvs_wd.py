@@ -1,6 +1,11 @@
 from urllib.parse import urlsplit, urlunsplit
 
 from companies.base import CompanyDefinition
+from companies.filters import (
+    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    DEFAULT_EXCLUDED_TITLE_PHRASES,
+    ENGINEERING_TITLE_KEYWORDS,
+)
 from cvs_wd_parser import get_total_pages, get_total_results, parse_jobs
 
 # jobFamilyGroup param filters to "Technology" category
@@ -9,16 +14,9 @@ CVS_WD_SEARCH_URL = (
     "?jobFamilyGroup=e65dbadf6a50100168ed86fe4cf50001"
 )
 
-EXCLUDED_ROLE_KEYWORDS = (
-    "principal",
-    "staff",
-    "senior",
-    "lead",
-    "manager",
-    "director",
-    "architect",
-    "sr.",
-)
+EXCLUDED_ROLE_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+EXCLUDED_TITLE_PHRASES = DEFAULT_EXCLUDED_TITLE_PHRASES
+
 
 RESULTS_PER_PAGE = 20
 
@@ -118,4 +116,6 @@ COMPANY = CompanyDefinition(
     get_total_results=get_total_results,
     fetch_page_html=fetch_page_html,
     excluded_role_keywords=EXCLUDED_ROLE_KEYWORDS,
+    excluded_title_phrases=EXCLUDED_TITLE_PHRASES,
+    included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
 )

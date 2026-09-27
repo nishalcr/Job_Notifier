@@ -12,7 +12,7 @@ A fully automated job-board monitor that scrapes career pages across 10 major te
 - **Smart deduplication** — each company keeps its own `seen_jobs/<slug>.json` state file; jobs are tracked by stable ID so alerts never repeat
 - **Real-time Telegram alerts** — richly-formatted notifications include title, team, location, post date, role ID, and a direct link to apply
 - **Two scrape modes** — a fast *regular* scrape that alerts on new-since-last-run jobs, and a *full scrape* that seeds the seen-jobs state without sending alerts
-- **Title filtering** — configurable keyword and phrase blocklists per company strip intern/contract roles you don't care about
+- **Title filtering** — shared rules in `companies/filters.py` keep software-type IC roles from new grad through senior: titles must name an engineering role, and staff+/manager/director/intern/non-software engineering titles are dropped (whole-word matching)
 - **Scraper health alerts** — a company that errors or returns 0 jobs for 3 runs in a row (`HEALTH_FAILURE_THRESHOLD`) triggers one Telegram "broken" alert, and one "recovered" alert when it works again; state lives in `seen_jobs/_health.json`
 - **Plug-in adapter architecture** — adding a new company is a single file that implements `CompanyDefinition`; no core code changes required
 - **GitHub Actions CI/CD** — both workflows commit updated state back to the repo, cache the Playwright browser binary, and handle concurrent run conflicts with `git pull --rebase`

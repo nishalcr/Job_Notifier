@@ -1,11 +1,17 @@
 from urllib.parse import parse_qsl, quote, urlencode, urlsplit, urlunsplit
 
 from companies.base import CompanyDefinition
+from companies.filters import (
+    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    ENGINEERING_TITLE_KEYWORDS,
+    NON_IC_TITLE_PHRASES,
+    NON_SOFTWARE_TITLE_PHRASES,
+)
 from goldman_sachs_parser import get_total_pages, get_total_results, parse_jobs
 
 GOLDMAN_SACHS_SEARCH_URL = (
     "https://higher.gs.com/results"
-    "?EXPERIENCE_LEVEL=Analyst|Associate"
+    "?EXPERIENCE_LEVEL=Analyst|Associate|Vice%20President"
     "&JOB_FUNCTION=Software%20Engineering"
     "&LOCATION=Albany|New%20York|Atlanta|Boston|Chicago|Dallas|Houston|Irving"
     "|Richardson|Denver|Detroit|Troy|Draper|Salt%20Lake%20City|Jersey%20City"
@@ -16,12 +22,10 @@ GOLDMAN_SACHS_SEARCH_URL = (
     "&sort=POSTED_DATE"
 )
 
-EXCLUDED_ROLE_KEYWORDS = (
-    "vice president",
-    "executive director",
-    "managing director",
-    "partner",
-)
+EXCLUDED_ROLE_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+# Vice President is a senior IC level at Goldman Sachs, so only block partners.
+EXCLUDED_TITLE_PHRASES = NON_IC_TITLE_PHRASES + ("partner",) + NON_SOFTWARE_TITLE_PHRASES
+
 
 
 def build_search_url(search_url: str, page_num: int) -> str:
@@ -72,4 +76,6 @@ COMPANY = CompanyDefinition(
     get_total_pages=get_total_pages,
     get_total_results=get_total_results,
     excluded_role_keywords=EXCLUDED_ROLE_KEYWORDS,
+    excluded_title_phrases=EXCLUDED_TITLE_PHRASES,
+    included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
 )

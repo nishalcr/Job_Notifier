@@ -8,12 +8,26 @@ from datetime import date
 from typing import Any, Sequence
 
 import config
+from companies.filters import TARGET_LEVEL_KEYWORDS
 from config import CompanyRuntimeConfig
 
 STATE_VERSION = 3
 
-# Regex to split combo titles like "SWE II + Senior SWE" or "PM / Director"
-_COMBO_SPLIT = re.compile(r"\s*[+/|]\s*")
+# Rewrites applied before matching. "Senior Staff" is still staff level, and
+# Salesforce spells out its levels as "... Member of Technical Staff".
+_TITLE_NORMALIZATIONS = (
+    ("senior staff", "staff"),
+    ("sr. staff", "staff"),
+    ("sr staff", "staff"),
+    ("senior principal", "principal"),
+    ("sr. principal", "principal"),
+    ("sr principal", "principal"),
+    ("associate member of technical staff", "amts"),
+    ("senior member of technical staff", "smts"),
+    ("lead member of technical staff", "lmts"),
+    ("principal member of technical staff", "pmts"),
+    ("member of technical staff", "mts"),
+)
 
 
 def _company_state_file(company_slug: str) -> str:
@@ -79,41 +93,48 @@ def save_seen_jobs(company_slug: str, seen: dict[str, Any]) -> None:
         json.dump(state, handle, indent=2)
 
 
-def _part_matches_excluded(part: str, excluded_role_keywords: Sequence[str]) -> bool:
-    """Check if a single title part matches any excluded keyword."""
-    part_lower = part.strip().lower()
-    if not part_lower:
+def _contains_term(text: str, term: str) -> bool:
+    """Whole-word, case-insensitive match (so "sr" does not match "SRE")."""
+    term = term.strip().lower()
+    if not term:
         return False
-    return any(keyword.lower() in part_lower for keyword in excluded_role_keywords)
+    return re.search(rf"(?<!\w){re.escape(term)}(?!\w)", text.lower()) is not None
+
+
+def _normalize_title(title: str) -> str:
+    text = " ".join(title.lower().split())
+    for phrase, replacement in _TITLE_NORMALIZATIONS:
+        text = text.replace(phrase, replacement)
+    return text
 
 
 def is_excluded_role(title: str, excluded_role_keywords: Sequence[str]) -> bool:
     """
-    Return True if the job title should be excluded.
+    Return True if the title names a level above the target range.
 
-    Logic: split the title on combo delimiters (+, /, |).  If *every* part
-    contains an excluded keyword the role is excluded.  If at least one part
-    is clean, the job is kept — this preserves combo postings like
-    "Software Engineer II + Senior Software Engineer".
+    Multi-level postings such as "Senior / Lead / Principal Software Engineer"
+    are kept when they also name a target level (new grad through senior).
     """
-    parts = _COMBO_SPLIT.split(title)
-    if not parts or all(not p.strip() for p in parts):
+    text = _normalize_title(title)
+    if not any(_contains_term(text, keyword) for keyword in excluded_role_keywords):
         return False
-    return all(_part_matches_excluded(part, excluded_role_keywords) for part in parts if part.strip())
+    return not any(_contains_term(text, keyword) for keyword in TARGET_LEVEL_KEYWORDS)
 
-def should_exclude_title(
-    title: str,
-    excluded_role_keywords: Sequence[str],
-    excluded_title_phrases: Sequence[str],
-) -> bool:
-    title_lower = title.strip().lower()
-    if not title_lower:
+
+def passes_title_filters(title: str, runtime_config: CompanyRuntimeConfig) -> bool:
+    """Return True if a job title should be kept (and alerted on)."""
+    text = _normalize_title(title)
+    if not text:
         return False
 
-    if any(title_lower == keyword.lower() for keyword in excluded_role_keywords):
-        return True
+    included = runtime_config.definition.included_title_keywords
+    if included and not any(_contains_term(text, keyword) for keyword in included):
+        return False
 
-    return any(phrase.lower() in title_lower for phrase in excluded_title_phrases)
+    if any(_contains_term(text, phrase) for phrase in runtime_config.excluded_title_phrases):
+        return False
+
+    return not is_excluded_role(text, runtime_config.excluded_role_keywords)
 
 
 def _today_date_string() -> str:

@@ -13,7 +13,7 @@ from playwright.async_api import async_playwright
 
 import config
 from runner import collect_jobs
-from state import is_excluded_role, replace_seen_jobs, should_exclude_title
+from state import passes_title_filters, replace_seen_jobs
 
 
 def parse_args() -> argparse.Namespace:
@@ -34,18 +34,7 @@ async def _seed_company_jobs(browser, slug: str) -> bool:
         runtime_config = config.get_company_runtime(slug)
         unique_jobs = await collect_jobs(browser, runtime_config, runtime_config.full_scrape_max_pages)
         filtered_jobs = [
-            job
-            for job in unique_jobs
-            if not should_exclude_title(
-                job.get("title", ""),
-                runtime_config.excluded_role_keywords,
-                runtime_config.excluded_title_phrases,
-            )
-        ]
-        filtered_jobs = [
-            job
-            for job in filtered_jobs
-            if not is_excluded_role(job.get("title", ""), runtime_config.excluded_role_keywords)
+            job for job in unique_jobs if passes_title_filters(job.get("title", ""), runtime_config)
         ]
 
         excluded = len(unique_jobs) - len(filtered_jobs)

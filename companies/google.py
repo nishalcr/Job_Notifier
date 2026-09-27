@@ -1,6 +1,11 @@
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from companies.base import CompanyDefinition
+from companies.filters import (
+    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    DEFAULT_EXCLUDED_TITLE_PHRASES,
+    ENGINEERING_TITLE_KEYWORDS,
+)
 from google_parser import get_total_pages, get_total_results, parse_jobs
 
 GOOGLE_SEARCH_URL = (
@@ -8,22 +13,15 @@ GOOGLE_SEARCH_URL = (
     "?location=United%20States"
     "&target_level=MID"
     "&target_level=EARLY"
+    "&target_level=ADVANCED"
     "&employment_type=FULL_TIME"
     "&sort_by=date"
-    "&q=%22Software%20Engineer%22"
+    "&q=engineer"
 )
 
-EXCLUDED_ROLE_KEYWORDS = (
-    "principal",
-    "staff",
-    "senior",
-    "Senior",
-    "sr.",
-    "manager",
-    "lead",
-    "director",
-    "III",
-)
+EXCLUDED_ROLE_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+EXCLUDED_TITLE_PHRASES = DEFAULT_EXCLUDED_TITLE_PHRASES
+
 
 
 def build_search_url(search_url: str, page_num: int) -> str:
@@ -50,4 +48,6 @@ COMPANY = CompanyDefinition(
     get_total_pages=get_total_pages,
     get_total_results=get_total_results,
     excluded_role_keywords=EXCLUDED_ROLE_KEYWORDS,
+    excluded_title_phrases=EXCLUDED_TITLE_PHRASES,
+    included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
 )

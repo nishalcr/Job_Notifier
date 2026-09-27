@@ -7,12 +7,14 @@ from bs4 import BeautifulSoup
 LYFT_BASE_URL = "https://app.careerpuck.com"
 LYFT_JOB_LINK_RE = re.compile(r"/job-board/lyft/job/(?P<job_id>\d+)")
 LYFT_TOTAL_RESULTS_RE = re.compile(r"(?P<count>\d+)\s+job postings found", re.IGNORECASE)
-LYFT_DEPARTMENT_NAME = "Software Engineering"
-ALLOWED_LOCATIONS = {
-    "new york, ny",
-    "san francisco, ca",
-    "seattle, wa",
+LYFT_DEPARTMENT_NAMES = {
+    "Software Engineering",
+    "University",
+    "Data Science",
+    "Security & Privacy",
 }
+# US postings look like "San Francisco, CA", "New York, NY, San Francisco, CA" or "U.S. Anywhere".
+US_LOCATION_RE = re.compile(r",\s*[A-Z]{2}\b|\bU\.?S\.?\b")
 
 
 def parse_jobs(payload: str) -> list[dict]:
@@ -53,7 +55,7 @@ def _normalize_json_job(raw_job: dict) -> dict | None:
         for department in raw_job.get("departments") or []
         if isinstance(department, dict)
     ]
-    if LYFT_DEPARTMENT_NAME not in departments:
+    if not LYFT_DEPARTMENT_NAMES.intersection(departments):
         return None
 
     office_names = [
@@ -141,8 +143,7 @@ def _extract_card_fields(card_text: str) -> tuple[str, str, str]:
 
 
 def _is_allowed_location(location: str) -> bool:
-    normalized_location = " ".join(location.strip().lower().split())
-    return normalized_location in ALLOWED_LOCATIONS
+    return bool(US_LOCATION_RE.search(location))
 
 
 def get_total_results(payload: str) -> int | None:

@@ -4,43 +4,24 @@ from urllib.parse import parse_qs, urlencode, urlsplit, urlunsplit
 from playwright.async_api import TimeoutError as PlaywrightTimeout
 
 from companies.base import CompanyDefinition
+from companies.filters import (
+    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    DEFAULT_EXCLUDED_TITLE_PHRASES,
+    ENGINEERING_TITLE_KEYWORDS,
+)
 from uber_parser import get_total_pages, get_total_results, parse_jobs
 
 # Uber moved careers to jobs.uber.com (Cloudflare-protected). The search API only
-# honours `team` and `page`, so locations are filtered client-side.
+# honours `team` and `page`, so the US-only filter is applied client-side.
 UBER_JOBS_SITE_URL = "https://jobs.uber.com/en/jobs/"
 UBER_SEARCH_API_PATH = "/api/jobs/search/"
 UBER_SEARCH_URL = f"{UBER_JOBS_SITE_URL}?team=Engineer"
 
 UBER_COUNTRY = "united states"
-UBER_CITIES = (
-    "san francisco",
-    "sunnyvale",
-    "los angeles",
-    "new york",
-    "new york city",
-    "chicago",
-    "seattle",
-    "miami",
-    "phoenix",
-    "dallas",
-    "boston",
-    "washington",
-    "nashville",
-    "denver",
-    "atlanta",
-)
 
-EXCLUDED_ROLE_KEYWORDS = (
-    "principal",
-    "senior",
-    "staff",
-    "lead",
-    "director",
-    "manager",
-    "sr.",
-    "sr ",
-)
+EXCLUDED_ROLE_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+EXCLUDED_TITLE_PHRASES = DEFAULT_EXCLUDED_TITLE_PHRASES
+
 
 RESULTS_PER_PAGE = 10
 MAX_API_PAGES = 100
@@ -73,9 +54,7 @@ def _matches_location(raw_job: dict) -> bool:
     for location in raw_job.get("Locations") or []:
         if not isinstance(location, dict):
             continue
-        country = str(location.get("Country") or "").strip().lower()
-        city = str(location.get("City") or "").strip().lower()
-        if country == UBER_COUNTRY and city in UBER_CITIES:
+        if str(location.get("Country") or "").strip().lower() == UBER_COUNTRY:
             return True
     return False
 
@@ -180,4 +159,6 @@ COMPANY = CompanyDefinition(
     get_total_results=get_total_results,
     fetch_page_html=fetch_page_html,
     excluded_role_keywords=EXCLUDED_ROLE_KEYWORDS,
+    excluded_title_phrases=EXCLUDED_TITLE_PHRASES,
+    included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
 )
