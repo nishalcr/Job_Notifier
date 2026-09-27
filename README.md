@@ -75,6 +75,24 @@ cp .env.example .env   # fill in TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID
 2. Add two repository secrets: `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`.
 3. Enable the **Multi-Company Jobs Notifier** workflow — it triggers on `workflow_dispatch` and can be wired to a cron schedule.
 
+### Reliable 10-minute trigger (Cloudflare Worker)
+
+GitHub's built-in cron often runs late or skips runs, so `dispatcher/` holds a
+Cloudflare Worker whose cron trigger calls `workflow_dispatch` every 10 minutes.
+
+1. Create a fine-grained GitHub token for this repository only, with
+   **Actions: Read and write** permission.
+2. From `dispatcher/`:
+
+   ```bash
+   npx wrangler@latest login
+   npx wrangler@latest secret put GITHUB_TOKEN   # paste the token at the prompt
+   npx wrangler@latest deploy
+   ```
+
+The `schedule:` trigger in `scrape.yml` stays as a backup; the workflow's
+concurrency group prevents overlapping runs.
+
 ## Usage
 
 ```bash

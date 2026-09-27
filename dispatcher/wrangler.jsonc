@@ -1,0 +1,19 @@
+{
+  // Cloudflare Worker that starts the notifier workflow every 10 minutes.
+  // GitHub's own cron is unreliable (late or skipped runs), Cloudflare cron triggers are not.
+  "name": "job-notifier-dispatcher",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-01",
+  "triggers": {
+    "crons": ["*/10 * * * *"]
+  },
+  "vars": {
+    "GITHUB_REPO": "nishalcr/Job_Notifier",
+    "GITHUB_WORKFLOW": "scrape.yml",
+    "GITHUB_REF": "main"
+  },
+  // GITHUB_TOKEN is a secret: set it with `wrangler secret put GITHUB_TOKEN`.
+  "observability": {
+    "enabled": true
+  }
+}
