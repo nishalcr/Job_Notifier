@@ -10,7 +10,3 @@ venv/
 artifacts/
 seen_jobs/
 .env.example
-
-# Cloudflare dispatcher
-dispatcher/.wrangler/
-dispatcher/.dev.vars
