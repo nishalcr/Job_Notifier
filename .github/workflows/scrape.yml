@@ -25,6 +25,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
         with:
+          # Check out the branch tip, not the commit from when this run was queued:
+          # a queued run must see seen_jobs/ saved by the run it waited for.
+          ref: ${{ github.ref_name }}
           fetch-depth: 0
 
       - name: Set up Python
