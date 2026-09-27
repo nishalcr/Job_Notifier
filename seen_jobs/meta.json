@@ -4,75 +4,54 @@
     "company": "meta"
   },
   "jobs": {
-    "998357492128826": {
-      "first_seen": 1790480050.962811,
-      "posted": "",
-      "title": "Software Engineer, Machine Learning",
-      "job_id": "998357492128826",
-      "url": "https://www.metacareers.com/profile/job_details/998357492128826"
-    },
     "2486789151677735": {
-      "first_seen": 1790480050.9628127,
+      "first_seen": 1790525879.699127,
       "posted": "",
       "title": "Software Engineer, Infrastructure",
       "job_id": "2486789151677735",
       "url": "https://www.metacareers.com/profile/job_details/2486789151677735"
     },
+    "2045779119402472": {
+      "first_seen": 1790525879.699129,
+      "posted": "",
+      "title": "QA Engineering Lead",
+      "job_id": "2045779119402472",
+      "url": "https://www.metacareers.com/profile/job_details/2045779119402472"
+    },
+    "998357492128826": {
+      "first_seen": 1790525879.6991298,
+      "posted": "",
+      "title": "Software Engineer, Machine Learning",
+      "job_id": "998357492128826",
+      "url": "https://www.metacareers.com/profile/job_details/998357492128826"
+    },
     "1203016587809246": {
-      "first_seen": 1790480050.9628134,
+      "first_seen": 1790525879.6991305,
       "posted": "",
       "title": "Software Engineer, iOS",
       "job_id": "1203016587809246",
       "url": "https://www.metacareers.com/profile/job_details/1203016587809246"
     },
     "938746892241216": {
-      "first_seen": 1790480050.962814,
+      "first_seen": 1790525879.6991315,
       "posted": "",
       "title": "Network Engineer, Foundation & Support",
       "job_id": "938746892241216",
       "url": "https://www.metacareers.com/profile/job_details/938746892241216"
     },
-    "1318844793447458": {
-      "first_seen": 1790480050.9628153,
-      "posted": "",
-      "title": "Marketing Insights Researcher",
-      "job_id": "1318844793447458",
-      "url": "https://www.metacareers.com/profile/job_details/1318844793447458"
-    },
     "1645503493182815": {
-      "first_seen": 1790480050.962816,
+      "first_seen": 1790525879.699132,
       "posted": "",
       "title": "Software Engineer, Machine Learning RecSys",
       "job_id": "1645503493182815",
       "url": "https://www.metacareers.com/profile/job_details/1645503493182815"
     },
     "1394915781774041": {
-      "first_seen": 1790480050.962817,
+      "first_seen": 1790525879.699133,
       "posted": "",
       "title": "Software Engineer, Android",
       "job_id": "1394915781774041",
       "url": "https://www.metacareers.com/profile/job_details/1394915781774041"
-    },
-    "2045779119402472": {
-      "first_seen": 1790523701.1913676,
-      "posted": "2026-09-27",
-      "title": "QA Engineering Lead",
-      "job_id": "2045779119402472",
-      "url": "https://www.metacareers.com/profile/job_details/2045779119402472"
-    },
-    "1296230207698571": {
-      "first_seen": 1790523701.1913698,
-      "posted": "2026-09-27",
-      "title": "Technical Program Manager",
-      "job_id": "1296230207698571",
-      "url": "https://www.metacareers.com/profile/job_details/1296230207698571"
-    },
-    "1122428030133565": {
-      "first_seen": 1790523701.1913726,
-      "posted": "2026-09-27",
-      "title": "Policy Manager, Data Center Community Engagement & Strategic Initiatives",
-      "job_id": "1122428030133565",
-      "url": "https://www.metacareers.com/profile/job_details/1122428030133565"
     }
   }
 }

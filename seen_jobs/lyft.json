@@ -4,103 +4,96 @@
     "company": "lyft"
   },
   "jobs": {
+    "8402813002": {
+      "first_seen": 1790525871.2863383,
+      "posted": "2026-02-11T19:44:31.372Z",
+      "title": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
+      "job_id": "8402813002",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8402813002"
+    },
     "8806570002": {
-      "first_seen": 1790480042.8345625,
+      "first_seen": 1790525871.28634,
       "posted": "2026-09-18T22:40:33.541Z",
       "title": "Backend Software Engineer, Airports",
       "job_id": "8806570002",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8806570002"
     },
+    "8772602002": {
+      "first_seen": 1790525871.2863414,
+      "posted": "2026-09-02T07:14:04.046Z",
+      "title": "Business Systems Engineer",
+      "job_id": "8772602002",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8772602002"
+    },
     "8639200002": {
-      "first_seen": 1790480042.8345647,
+      "first_seen": 1790525871.2863426,
       "posted": "2026-07-20T20:55:30.974Z",
       "title": "ML Software Engineer, ETA",
       "job_id": "8639200002",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8639200002"
     },
     "8689127002": {
-      "first_seen": 1790480042.8345654,
+      "first_seen": 1790525871.286344,
       "posted": "2026-08-18T19:04:30.027Z",
       "title": "Machine Learning Engineer",
       "job_id": "8689127002",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8689127002"
     },
     "8688633002": {
-      "first_seen": 1790480042.834566,
+      "first_seen": 1790525871.2863448,
       "posted": "2026-08-18T19:04:29.114Z",
       "title": "Machine Learning Engineer, Fulfillment",
       "job_id": "8688633002",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8688633002"
     },
+    "8806580002": {
+      "first_seen": 1790525871.286346,
+      "posted": "2026-09-14T21:09:48.504Z",
+      "title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+      "job_id": "8806580002",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8806580002"
+    },
+    "8806969002": {
+      "first_seen": 1790525871.286347,
+      "posted": "2026-09-14T21:09:50.532Z",
+      "title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+      "job_id": "8806969002",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8806969002"
+    },
+    "8430552002": {
+      "first_seen": 1790525871.2863483,
+      "posted": "2026-02-20T20:52:22.429Z",
+      "title": "Senior Machine Learning Engineer, Recommendations",
+      "job_id": "8430552002",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8430552002"
+    },
+    "8780012002": {
+      "first_seen": 1790525871.2863493,
+      "posted": "2026-09-15T16:25:19.318Z",
+      "title": "Senior Software Engineer - iOS",
+      "job_id": "8780012002",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8780012002"
+    },
+    "8445493002": {
+      "first_seen": 1790525871.2863505,
+      "posted": "2026-03-04T15:07:57.688Z",
+      "title": "Senior Software Engineer, Lyft Business",
+      "job_id": "8445493002",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8445493002"
+    },
     "8772571002": {
-      "first_seen": 1790480042.8345666,
+      "first_seen": 1790525871.286352,
       "posted": "2026-09-02T07:13:51.756Z",
       "title": "Software Engineer",
       "job_id": "8772571002",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8772571002"
     },
     "8772594002": {
-      "first_seen": 1790480042.8345673,
+      "first_seen": 1790525871.2863529,
       "posted": "2026-09-02T07:13:55.306Z",
       "title": "Software Engineer",
       "job_id": "8772594002",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8772594002"
-    },
-    "8662378002": {
-      "first_seen": 1790523693.2428725,
-      "posted": "2026-09-27",
-      "title": "Engineering Manager, Global Growth",
-      "job_id": "8662378002",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8662378002"
-    },
-    "8806580002": {
-      "first_seen": 1790523693.2428758,
-      "posted": "2026-09-27",
-      "title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
-      "job_id": "8806580002",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8806580002"
-    },
-    "8806969002": {
-      "first_seen": 1790523693.242877,
-      "posted": "2026-09-27",
-      "title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
-      "job_id": "8806969002",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8806969002"
-    },
-    "8430552002": {
-      "first_seen": 1790523693.242878,
-      "posted": "2026-09-27",
-      "title": "Senior Machine Learning Engineer, Recommendations",
-      "job_id": "8430552002",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8430552002"
-    },
-    "8780012002": {
-      "first_seen": 1790523693.242879,
-      "posted": "2026-09-27",
-      "title": "Senior Software Engineer - iOS",
-      "job_id": "8780012002",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8780012002"
-    },
-    "8445493002": {
-      "first_seen": 1790523693.2428803,
-      "posted": "2026-09-27",
-      "title": "Senior Software Engineer, Lyft Business",
-      "job_id": "8445493002",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8445493002"
-    },
-    "8761940002": {
-      "first_seen": 1790523693.242882,
-      "posted": "2026-09-27",
-      "title": "Staff Android Tooling Engineer",
-      "job_id": "8761940002",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8761940002"
-    },
-    "8688631002": {
-      "first_seen": 1790523693.2428834,
-      "posted": "2026-09-27",
-      "title": "Staff Software Engineer, Lyft Business",
-      "job_id": "8688631002",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8688631002"
     }
   }
 }

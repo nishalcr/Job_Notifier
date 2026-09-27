@@ -4,586 +4,432 @@
     "company": "apple"
   },
   "jobs": {
-    "200685421-0836": {
-      "first_seen": 1790479668.9060428,
+    "200651071-0836": {
+      "first_seen": 1790525473.8693216,
       "posted": "",
-      "title": "Data Scientist - Capacity Planning - Apple Data Platform",
-      "job_id": "200685421-0836",
-      "url": "https://jobs.apple.com/en-us/details/200685421-0836/data-scientist-capacity-planning-apple-data-platform?team=SFTWR"
+      "title": "Senior Machine Learning Engineer, NLP, Input Experience",
+      "job_id": "200651071-0836",
+      "url": "https://jobs.apple.com/en-us/details/200651071-0836/senior-machine-learning-engineer-nlp-input-experience?team=SFTWR"
+    },
+    "200647309-0836": {
+      "first_seen": 1790525473.8693268,
+      "posted": "",
+      "title": "Senior ML Engineer, Apple Ray, Apple Data Platform",
+      "job_id": "200647309-0836",
+      "url": "https://jobs.apple.com/en-us/details/200647309-0836/senior-ml-engineer-apple-ray-apple-data-platform?team=SFTWR"
     },
     "200641231-3337": {
-      "first_seen": 1790479668.9060462,
+      "first_seen": 1790525473.8693287,
       "posted": "",
       "title": "Software Engineer - Traffic (ASE) - Secure Service Networking",
       "job_id": "200641231-3337",
       "url": "https://jobs.apple.com/en-us/details/200641231-3337/software-engineer-traffic-ase-secure-service-networking?team=SFTWR"
     },
     "200684650-3956": {
-      "first_seen": 1790479668.906048,
+      "first_seen": 1790525473.869335,
       "posted": "",
       "title": "Sr Network Reliability Engineer, IS",
       "job_id": "200684650-3956",
       "url": "https://jobs.apple.com/en-us/details/200684650-3956/sr-network-reliability-engineer-is?team=SFTWR"
     },
-    "200643393-0836": {
-      "first_seen": 1790479668.906049,
-      "posted": "",
-      "title": "Lab Operations Engineering Program Specialist",
-      "job_id": "200643393-0836",
-      "url": "https://jobs.apple.com/en-us/details/200643393-0836/lab-operations-engineering-program-specialist?team=SFTWR"
-    },
     "200661302-0836": {
-      "first_seen": 1790479668.90605,
+      "first_seen": 1790525473.8693368,
       "posted": "",
       "title": "Machine Learning Engineer, SIML",
       "job_id": "200661302-0836",
       "url": "https://jobs.apple.com/en-us/details/200661302-0836/machine-learning-engineer-siml?team=SFTWR"
     },
     "200661302-3337": {
-      "first_seen": 1790479668.906051,
+      "first_seen": 1790525473.8693385,
       "posted": "",
       "title": "Machine Learning Engineer, SIML",
       "job_id": "200661302-3337",
       "url": "https://jobs.apple.com/en-us/details/200661302-3337/machine-learning-engineer-siml?team=SFTWR"
     },
+    "200685954-0836": {
+      "first_seen": 1790525473.8693404,
+      "posted": "",
+      "title": "Software Engineering Technical Lead, Apple Pay \u2014 Wallet, Payments & Commerce (WPC)",
+      "job_id": "200685954-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685954-0836/software-engineering-technical-lead-apple-pay-wallet-payments-commerce-wpc?team=SFTWR"
+    },
+    "200685555-3543": {
+      "first_seen": 1790525473.8693419,
+      "posted": "",
+      "title": "Senior Software Engineer, Development Engineering Workflows, Core OS",
+      "job_id": "200685555-3543",
+      "url": "https://jobs.apple.com/en-us/details/200685555-3543/senior-software-engineer-development-engineering-workflows-core-os?team=SFTWR"
+    },
     "200685970-3543": {
-      "first_seen": 1790479668.906052,
+      "first_seen": 1790525473.8693433,
       "posted": "",
       "title": "OS Power and Performance - Software Development Engineer in Test",
       "job_id": "200685970-3543",
       "url": "https://jobs.apple.com/en-us/details/200685970-3543/os-power-and-performance-software-development-engineer-in-test?team=SFTWR"
     },
-    "200685918-0670": {
-      "first_seen": 1790479668.906053,
+    "200684879-3337": {
+      "first_seen": 1790525473.8693445,
       "posted": "",
-      "title": "Product Design Producer, Music & Podcasts",
-      "job_id": "200685918-0670",
-      "url": "https://jobs.apple.com/en-us/details/200685918-0670/product-design-producer-music-podcasts?team=SFTWR"
-    },
-    "200685918-0836": {
-      "first_seen": 1790479668.9060538,
-      "posted": "",
-      "title": "Product Design Producer, Music & Podcasts",
-      "job_id": "200685918-0836",
-      "url": "https://jobs.apple.com/en-us/details/200685918-0836/product-design-producer-music-podcasts?team=SFTWR"
+      "title": "Senior System Security Software Engineer, Platform Attestation",
+      "job_id": "200684879-3337",
+      "url": "https://jobs.apple.com/en-us/details/200684879-3337/senior-system-security-software-engineer-platform-attestation?team=SFTWR"
     },
     "200685900-3543": {
-      "first_seen": 1790479668.9060547,
+      "first_seen": 1790525473.8693461,
       "posted": "",
       "title": "Security Engineer - Health Software",
       "job_id": "200685900-3543",
       "url": "https://jobs.apple.com/en-us/details/200685900-3543/security-engineer-health-software?team=SFTWR"
     },
     "200685900-3956": {
-      "first_seen": 1790479668.9060557,
+      "first_seen": 1790525473.8693478,
       "posted": "",
       "title": "Security Engineer - Health Software",
       "job_id": "200685900-3956",
       "url": "https://jobs.apple.com/en-us/details/200685900-3956/security-engineer-health-software?team=SFTWR"
     },
-    "200685800-0670": {
-      "first_seen": 1790479668.9060566,
+    "200684674-3121": {
+      "first_seen": 1790525473.869349,
       "posted": "",
-      "title": "Managing Producer \u2013 Content Design for Music & Podcasts (Apple Services: Product, Design & Marketing)",
-      "job_id": "200685800-0670",
-      "url": "https://jobs.apple.com/en-us/details/200685800-0670/managing-producer-content-design-for-music-podcasts-apple-services-product-design-marketing?team=SFTWR"
+      "title": "Senior Network Planning Engineer, Infrastructure Services",
+      "job_id": "200684674-3121",
+      "url": "https://jobs.apple.com/en-us/details/200684674-3121/senior-network-planning-engineer-infrastructure-services?team=SFTWR"
     },
     "200684671-3121": {
-      "first_seen": 1790479668.9060578,
+      "first_seen": 1790525473.869351,
       "posted": "",
       "title": "Network Deployment Engineer, Infrastructure Services",
       "job_id": "200684671-3121",
       "url": "https://jobs.apple.com/en-us/details/200684671-3121/network-deployment-engineer-infrastructure-services?team=SFTWR"
     },
     "200684671-3401": {
-      "first_seen": 1790479668.9060588,
+      "first_seen": 1790525473.8693523,
       "posted": "",
       "title": "Network Deployment Engineer, Infrastructure Services",
       "job_id": "200684671-3401",
       "url": "https://jobs.apple.com/en-us/details/200684671-3401/network-deployment-engineer-infrastructure-services?team=SFTWR"
     },
-    "200635706-0836": {
-      "first_seen": 1790479668.9060597,
+    "200685084-0240": {
+      "first_seen": 1790525473.869354,
       "posted": "",
-      "title": "Developer Publications - Content Engineer",
-      "job_id": "200635706-0836",
-      "url": "https://jobs.apple.com/en-us/details/200635706-0836/developer-publications-content-engineer?team=SFTWR"
+      "title": "Senior Network Security Engineer, Infrastructure Services",
+      "job_id": "200685084-0240",
+      "url": "https://jobs.apple.com/en-us/details/200685084-0240/senior-network-security-engineer-infrastructure-services?team=SFTWR"
     },
-    "200635706-3543": {
-      "first_seen": 1790479668.9060605,
+    "200685676-0365": {
+      "first_seen": 1790525473.869356,
       "posted": "",
-      "title": "Developer Publications - Content Engineer",
-      "job_id": "200635706-3543",
-      "url": "https://jobs.apple.com/en-us/details/200635706-3543/developer-publications-content-engineer?team=SFTWR"
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200685676-0365",
+      "url": "https://jobs.apple.com/en-us/details/200685676-0365/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200685676-0836": {
+      "first_seen": 1790525473.869357,
+      "posted": "",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200685676-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685676-0836/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200685676-3543": {
+      "first_seen": 1790525473.8693585,
+      "posted": "",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200685676-3543",
+      "url": "https://jobs.apple.com/en-us/details/200685676-3543/senior-systems-engineer-watch-software?team=SFTWR"
     },
     "200680492-0836": {
-      "first_seen": 1790479668.9060616,
+      "first_seen": 1790525473.8693602,
       "posted": "",
       "title": "Visual Generation Framework Software Engineer - Proactive",
       "job_id": "200680492-0836",
       "url": "https://jobs.apple.com/en-us/details/200680492-0836/visual-generation-framework-software-engineer-proactive?team=SFTWR"
     },
     "200680492-3337": {
-      "first_seen": 1790479668.9060621,
+      "first_seen": 1790525473.8693614,
       "posted": "",
       "title": "Visual Generation Framework Software Engineer - Proactive",
       "job_id": "200680492-3337",
       "url": "https://jobs.apple.com/en-us/details/200680492-3337/visual-generation-framework-software-engineer-proactive?team=SFTWR"
     },
     "200685742-0670": {
-      "first_seen": 1790479668.906063,
+      "first_seen": 1790525473.8693633,
       "posted": "",
       "title": "Software Engineer, Music Search",
       "job_id": "200685742-0670",
       "url": "https://jobs.apple.com/en-us/details/200685742-0670/software-engineer-music-search?team=SFTWR"
     },
-    "200685539-0670": {
-      "first_seen": 1790479668.9060636,
-      "posted": "",
-      "title": "Localization Producer - Apple Music",
-      "job_id": "200685539-0670",
-      "url": "https://jobs.apple.com/en-us/details/200685539-0670/localization-producer-apple-music?team=SFTWR"
-    },
     "200684874-3956": {
-      "first_seen": 1790479668.9060647,
+      "first_seen": 1790525473.8693655,
       "posted": "",
       "title": "Apple Neural Engine Performance and Power Engineer",
       "job_id": "200684874-3956",
       "url": "https://jobs.apple.com/en-us/details/200684874-3956/apple-neural-engine-performance-and-power-engineer?team=SFTWR"
     },
     "200685683-0670": {
-      "first_seen": 1790479668.9060652,
+      "first_seen": 1790525473.8693671,
       "posted": "",
       "title": "Sr Software Engineer, Employee Experience & Productivity",
       "job_id": "200685683-0670",
       "url": "https://jobs.apple.com/en-us/details/200685683-0670/sr-software-engineer-employee-experience-productivity?team=SFTWR"
     },
-    "200685712-3760": {
-      "first_seen": 1790479668.9060664,
-      "posted": "",
-      "title": "3D Game Artist, Platform Architecture",
-      "job_id": "200685712-3760",
-      "url": "https://jobs.apple.com/en-us/details/200685712-3760/3d-game-artist-platform-architecture?team=SFTWR"
-    },
     "200646833-0836": {
-      "first_seen": 1790479668.9060674,
+      "first_seen": 1790525473.8693688,
       "posted": "",
       "title": "Software Development Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems",
       "job_id": "200646833-0836",
       "url": "https://jobs.apple.com/en-us/details/200646833-0836/software-development-engineer-frameworks-ai-ml-wireless-technologies-ecosystems?team=SFTWR"
     },
     "200685701-0836": {
-      "first_seen": 1790479668.9060683,
+      "first_seen": 1790525473.8693705,
       "posted": "",
       "title": "Wireless Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200685701-0836",
       "url": "https://jobs.apple.com/en-us/details/200685701-0836/wireless-bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
     },
     "200685582-0240": {
-      "first_seen": 1790479668.9060743,
+      "first_seen": 1790525473.869386,
       "posted": "",
       "title": "Software Engineer, Reliability Engineering, AiDP",
       "job_id": "200685582-0240",
       "url": "https://jobs.apple.com/en-us/details/200685582-0240/software-engineer-reliability-engineering-aidp?team=SFTWR"
     },
     "200685582-3956": {
-      "first_seen": 1790479668.9060757,
+      "first_seen": 1790525473.8693876,
       "posted": "",
       "title": "Software Engineer, Reliability Engineering, AiDP",
       "job_id": "200685582-3956",
       "url": "https://jobs.apple.com/en-us/details/200685582-3956/software-engineer-reliability-engineering-aidp?team=SFTWR"
     },
+    "200684823-3401": {
+      "first_seen": 1790525473.8693888,
+      "posted": "",
+      "title": "Senior Software Engineer (SDET), Infrastructure Services",
+      "job_id": "200684823-3401",
+      "url": "https://jobs.apple.com/en-us/details/200684823-3401/senior-software-engineer-sdet-infrastructure-services?team=SFTWR"
+    },
     "200671293-3956": {
-      "first_seen": 1790479668.9060767,
+      "first_seen": 1790525473.8693905,
       "posted": "",
       "title": "Front End Engineer - Retail and Marcom",
       "job_id": "200671293-3956",
       "url": "https://jobs.apple.com/en-us/details/200671293-3956/front-end-engineer-retail-and-marcom?team=SFTWR"
     },
-    "200685225-0776": {
-      "first_seen": 1790479668.9060774,
+    "200685546-3337": {
+      "first_seen": 1790525473.8693924,
       "posted": "",
-      "title": "HelpLine Technical Support Analyst, Employee Experience & Productivity",
-      "job_id": "200685225-0776",
-      "url": "https://jobs.apple.com/en-us/details/200685225-0776/helpline-technical-support-analyst-employee-experience-productivity?team=SFTWR"
+      "title": "Senior Security Engineer",
+      "job_id": "200685546-3337",
+      "url": "https://jobs.apple.com/en-us/details/200685546-3337/senior-security-engineer?team=SFTWR"
     },
-    "200685507-3956": {
-      "first_seen": 1790479668.906078,
+    "200684841-3401": {
+      "first_seen": 1790525473.8693938,
       "posted": "",
-      "title": "App Review Specialist, Turkish Language",
-      "job_id": "200685507-3956",
-      "url": "https://jobs.apple.com/en-us/details/200685507-3956/app-review-specialist-turkish-language?team=SFTWR"
+      "title": "Sr. Site Reliability Engineer, Infrastructure Services",
+      "job_id": "200684841-3401",
+      "url": "https://jobs.apple.com/en-us/details/200684841-3401/sr-site-reliability-engineer-infrastructure-services?team=SFTWR"
     },
     "200676528-0157": {
-      "first_seen": 1790479668.906079,
+      "first_seen": 1790525473.8693955,
       "posted": "",
       "title": "Distributed Systems Software Engineer (Golang)",
       "job_id": "200676528-0157",
       "url": "https://jobs.apple.com/en-us/details/200676528-0157/distributed-systems-software-engineer-golang?team=SFTWR"
     },
     "200676528-3543": {
-      "first_seen": 1790479668.90608,
+      "first_seen": 1790525473.8693967,
       "posted": "",
       "title": "Distributed Systems Software Engineer (Golang)",
       "job_id": "200676528-3543",
       "url": "https://jobs.apple.com/en-us/details/200676528-3543/distributed-systems-software-engineer-golang?team=SFTWR"
     },
     "200676528-3749": {
-      "first_seen": 1790479668.906081,
+      "first_seen": 1790525473.8693979,
       "posted": "",
       "title": "Distributed Systems Software Engineer (Golang)",
       "job_id": "200676528-3749",
       "url": "https://jobs.apple.com/en-us/details/200676528-3749/distributed-systems-software-engineer-golang?team=SFTWR"
     },
-    "200685498-3956": {
-      "first_seen": 1790479668.9060817,
+    "200685531-0157": {
+      "first_seen": 1790525473.8693988,
       "posted": "",
-      "title": "App Review Specialist, Spanish Language",
-      "job_id": "200685498-3956",
-      "url": "https://jobs.apple.com/en-us/details/200685498-3956/app-review-specialist-spanish-language?team=SFTWR"
+      "title": "Sr. Data Engineer, iCloud Insights Engineering",
+      "job_id": "200685531-0157",
+      "url": "https://jobs.apple.com/en-us/details/200685531-0157/sr-data-engineer-icloud-insights-engineering?team=SFTWR"
     },
-    "200685219-1435": {
-      "first_seen": 1790479668.9060829,
+    "200685531-0670": {
+      "first_seen": 1790525473.8694005,
       "posted": "",
-      "title": "HelpLine Technical Support Analyst, Employee Experience & Productivity",
-      "job_id": "200685219-1435",
-      "url": "https://jobs.apple.com/en-us/details/200685219-1435/helpline-technical-support-analyst-employee-experience-productivity?team=SFTWR"
+      "title": "Sr. Data Engineer, iCloud Insights Engineering",
+      "job_id": "200685531-0670",
+      "url": "https://jobs.apple.com/en-us/details/200685531-0670/sr-data-engineer-icloud-insights-engineering?team=SFTWR"
     },
-    "200685219-0776": {
-      "first_seen": 1790479668.9060836,
+    "200685531-0836": {
+      "first_seen": 1790525473.8694022,
       "posted": "",
-      "title": "HelpLine Technical Support Analyst, Employee Experience & Productivity",
-      "job_id": "200685219-0776",
-      "url": "https://jobs.apple.com/en-us/details/200685219-0776/helpline-technical-support-analyst-employee-experience-productivity?team=SFTWR"
+      "title": "Sr. Data Engineer, iCloud Insights Engineering",
+      "job_id": "200685531-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685531-0836/sr-data-engineer-icloud-insights-engineering?team=SFTWR"
+    },
+    "200685444-0836": {
+      "first_seen": 1790525473.8694038,
+      "posted": "",
+      "title": "Senior Software ML Engineer - Watch Software",
+      "job_id": "200685444-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685444-0836/senior-software-ml-engineer-watch-software?team=SFTWR"
+    },
+    "200685444-3543": {
+      "first_seen": 1790525473.869405,
+      "posted": "",
+      "title": "Senior Software ML Engineer - Watch Software",
+      "job_id": "200685444-3543",
+      "url": "https://jobs.apple.com/en-us/details/200685444-3543/senior-software-ml-engineer-watch-software?team=SFTWR"
+    },
+    "200685444-3337": {
+      "first_seen": 1790525473.8694065,
+      "posted": "",
+      "title": "Senior Software ML Engineer - Watch Software",
+      "job_id": "200685444-3337",
+      "url": "https://jobs.apple.com/en-us/details/200685444-3337/senior-software-ml-engineer-watch-software?team=SFTWR"
     },
     "200685118-0836": {
-      "first_seen": 1790479668.9060843,
+      "first_seen": 1790525473.8694077,
       "posted": "",
       "title": "Data Engineer - Capacity Planning - Apple Data Platform",
       "job_id": "200685118-0836",
       "url": "https://jobs.apple.com/en-us/details/200685118-0836/data-engineer-capacity-planning-apple-data-platform?team=SFTWR"
     },
+    "200685081-0836": {
+      "first_seen": 1790525473.8694093,
+      "posted": "",
+      "title": "Senior Site Reliability Engineer",
+      "job_id": "200685081-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685081-0836/senior-site-reliability-engineer?team=SFTWR"
+    },
+    "200679008-1435": {
+      "first_seen": 1790525473.8694127,
+      "posted": "",
+      "title": "Senior Cloud Engineer (Wallet, Payments and Commerce)",
+      "job_id": "200679008-1435",
+      "url": "https://jobs.apple.com/en-us/details/200679008-1435/senior-cloud-engineer-wallet-payments-and-commerce?team=SFTWR"
+    },
     "200670315-0836": {
-      "first_seen": 1790479668.906085,
+      "first_seen": 1790525473.8694139,
       "posted": "",
       "title": "Software Integrity Engineer, Sensing & Connectivity",
       "job_id": "200670315-0836",
       "url": "https://jobs.apple.com/en-us/details/200670315-0836/software-integrity-engineer-sensing-connectivity?team=SFTWR"
     },
+    "200682046-0836": {
+      "first_seen": 1790525473.8694155,
+      "posted": "",
+      "title": "Senior Infrastructure SRE",
+      "job_id": "200682046-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682046-0836/senior-infrastructure-sre?team=SFTWR"
+    },
     "200676254-0157": {
-      "first_seen": 1790479668.906086,
+      "first_seen": 1790525473.8694172,
       "posted": "",
       "title": "Backend Software Engineer (Golang)",
       "job_id": "200676254-0157",
       "url": "https://jobs.apple.com/en-us/details/200676254-0157/backend-software-engineer-golang?team=SFTWR"
     },
     "200676254-3543": {
-      "first_seen": 1790479668.906087,
+      "first_seen": 1790525473.8694181,
       "posted": "",
       "title": "Backend Software Engineer (Golang)",
       "job_id": "200676254-3543",
       "url": "https://jobs.apple.com/en-us/details/200676254-3543/backend-software-engineer-golang?team=SFTWR"
     },
     "200685169-0836": {
-      "first_seen": 1790479668.9060876,
+      "first_seen": 1790525473.86942,
       "posted": "",
       "title": "Spotlight UI Engineer",
       "job_id": "200685169-0836",
       "url": "https://jobs.apple.com/en-us/details/200685169-0836/spotlight-ui-engineer?team=SFTWR"
     },
+    "200685182-0836": {
+      "first_seen": 1790525473.8694215,
+      "posted": "",
+      "title": "Senior Security Software Engineer - Secure Transports",
+      "job_id": "200685182-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685182-0836/senior-security-software-engineer-secure-transports?team=SFTWR"
+    },
     "200681216-0836": {
-      "first_seen": 1790479668.9060884,
+      "first_seen": 1790525473.8694232,
       "posted": "",
       "title": "iOS Engineer, Apple Pay Security",
       "job_id": "200681216-0836",
       "url": "https://jobs.apple.com/en-us/details/200681216-0836/ios-engineer-apple-pay-security?team=SFTWR"
     },
+    "200673946-0836": {
+      "first_seen": 1790525473.869426,
+      "posted": "",
+      "title": "Senior iOS Experiences Engineer - Services Special Project",
+      "job_id": "200673946-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673946-0836/senior-ios-experiences-engineer-services-special-project?team=SFTWR"
+    },
     "200685106-0836": {
-      "first_seen": 1790479668.9060895,
+      "first_seen": 1790525473.8694274,
       "posted": "",
       "title": "UI Frameworks Engineer, Swift Platform Experience",
       "job_id": "200685106-0836",
       "url": "https://jobs.apple.com/en-us/details/200685106-0836/ui-frameworks-engineer-swift-platform-experience?team=SFTWR"
     },
     "200683826-0836": {
-      "first_seen": 1790479668.906091,
+      "first_seen": 1790525473.8694284,
       "posted": "",
       "title": "Performance & Automation Test Engineer, Creativity Apps",
       "job_id": "200683826-0836",
       "url": "https://jobs.apple.com/en-us/details/200683826-0836/performance-automation-test-engineer-creativity-apps?team=SFTWR"
     },
-    "200684248-0836": {
-      "first_seen": 1790479668.9060917,
-      "posted": "",
-      "title": "Machine Learning & Data Scientist, OS Power & Performance",
-      "job_id": "200684248-0836",
-      "url": "https://jobs.apple.com/en-us/details/200684248-0836/machine-learning-data-scientist-os-power-performance?team=SFTWR"
-    },
     "200685121-3543": {
-      "first_seen": 1790479668.906093,
+      "first_seen": 1790525473.86943,
       "posted": "",
       "title": "Systems Engineer - Health Software",
       "job_id": "200685121-3543",
       "url": "https://jobs.apple.com/en-us/details/200685121-3543/systems-engineer-health-software?team=SFTWR"
     },
     "200685121-3956": {
-      "first_seen": 1790479668.9060936,
+      "first_seen": 1790525473.8694313,
       "posted": "",
       "title": "Systems Engineer - Health Software",
       "job_id": "200685121-3956",
       "url": "https://jobs.apple.com/en-us/details/200685121-3956/systems-engineer-health-software?team=SFTWR"
     },
-    "200652696-3543": {
-      "first_seen": 1790479668.9060946,
-      "posted": "",
-      "title": "Data Scientist, Audio Telemetry Intelligence",
-      "job_id": "200652696-3543",
-      "url": "https://jobs.apple.com/en-us/details/200652696-3543/data-scientist-audio-telemetry-intelligence?team=SFTWR"
-    },
     "200685051-0157": {
-      "first_seen": 1790479668.9060955,
+      "first_seen": 1790525473.869433,
       "posted": "",
       "title": "Graphics Software Engineer",
       "job_id": "200685051-0157",
       "url": "https://jobs.apple.com/en-us/details/200685051-0157/graphics-software-engineer?team=SFTWR"
     },
+    "200683340-0836": {
+      "first_seen": 1790525473.8694336,
+      "posted": "",
+      "title": "Senior Software Engineer, Find My",
+      "job_id": "200683340-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683340-0836/senior-software-engineer-find-my?team=SFTWR"
+    },
     "200684530-0836": {
-      "first_seen": 1790479668.9060965,
+      "first_seen": 1790525473.8694375,
       "posted": "",
       "title": "Sr Software Engineer, Applied AI and Test Automation - Camera Software",
       "job_id": "200684530-0836",
       "url": "https://jobs.apple.com/en-us/details/200684530-0836/sr-software-engineer-applied-ai-and-test-automation-camera-software?team=SFTWR"
     },
     "200684982-3956": {
-      "first_seen": 1790479668.9060972,
+      "first_seen": 1790525473.8694384,
       "posted": "",
       "title": "Modem System Test Engineer - Wireless Technologies and Ecosystems",
       "job_id": "200684982-3956",
       "url": "https://jobs.apple.com/en-us/details/200684982-3956/modem-system-test-engineer-wireless-technologies-and-ecosystems?team=SFTWR"
     },
     "200684820-3543": {
-      "first_seen": 1790479668.9060981,
+      "first_seen": 1790525473.8694391,
       "posted": "",
       "title": "Software Development Engineer in Test - Charging & Inductive Power",
       "job_id": "200684820-3543",
       "url": "https://jobs.apple.com/en-us/details/200684820-3543/software-development-engineer-in-test-charging-inductive-power?team=SFTWR"
-    },
-    "200684964-0836": {
-      "first_seen": 1790479668.9060988,
-      "posted": "",
-      "title": "Data Engineer, Apple Ads",
-      "job_id": "200684964-0836",
-      "url": "https://jobs.apple.com/en-us/details/200684964-0836/data-engineer-apple-ads?team=SFTWR"
-    },
-    "200671481-0670": {
-      "first_seen": 1790479668.9060998,
-      "posted": "",
-      "title": "Software Engineer, Employee Experience & Productivity",
-      "job_id": "200671481-0670",
-      "url": "https://jobs.apple.com/en-us/details/200671481-0670/software-engineer-employee-experience-productivity?team=SFTWR"
-    },
-    "200652948-0670": {
-      "first_seen": 1790479668.9061007,
-      "posted": "",
-      "title": "Software Engineer, Employee Experience & Productivity",
-      "job_id": "200652948-0670",
-      "url": "https://jobs.apple.com/en-us/details/200652948-0670/software-engineer-employee-experience-productivity?team=SFTWR"
-    },
-    "200684861-0836": {
-      "first_seen": 1790479668.9061015,
-      "posted": "",
-      "title": "ODI Server Engineer",
-      "job_id": "200684861-0836",
-      "url": "https://jobs.apple.com/en-us/details/200684861-0836/odi-server-engineer?team=SFTWR"
-    },
-    "200684904-0836": {
-      "first_seen": 1790479668.9061022,
-      "posted": "",
-      "title": "Software Integrity Engineer, CoreMotion, Sensing & Connectivity",
-      "job_id": "200684904-0836",
-      "url": "https://jobs.apple.com/en-us/details/200684904-0836/software-integrity-engineer-coremotion-sensing-connectivity?team=SFTWR"
-    },
-    "200684740-0836": {
-      "first_seen": 1790479668.9061058,
-      "posted": "",
-      "title": "Software Integrity Engineer, Sensing & Connectivity",
-      "job_id": "200684740-0836",
-      "url": "https://jobs.apple.com/en-us/details/200684740-0836/software-integrity-engineer-sensing-connectivity?team=SFTWR"
-    },
-    "200684845-0836": {
-      "first_seen": 1790479668.906107,
-      "posted": "",
-      "title": "Camera Power & Performance Engineer",
-      "job_id": "200684845-0836",
-      "url": "https://jobs.apple.com/en-us/details/200684845-0836/camera-power-performance-engineer?team=SFTWR"
-    },
-    "200683520-3121": {
-      "first_seen": 1790479668.906108,
-      "posted": "",
-      "title": "Network Engineer, Infrastructure Services",
-      "job_id": "200683520-3121",
-      "url": "https://jobs.apple.com/en-us/details/200683520-3121/network-engineer-infrastructure-services?team=SFTWR"
-    },
-    "200670440-0836": {
-      "first_seen": 1790479668.9061084,
-      "posted": "",
-      "title": "Systems Software Engineer, Intelligence Orchestration, Proactive Intelligence",
-      "job_id": "200670440-0836",
-      "url": "https://jobs.apple.com/en-us/details/200670440-0836/systems-software-engineer-intelligence-orchestration-proactive-intelligence?team=SFTWR"
-    },
-    "200684475-0157": {
-      "first_seen": 1790479668.906109,
-      "posted": "",
-      "title": "Data Governance Engineer",
-      "job_id": "200684475-0157",
-      "url": "https://jobs.apple.com/en-us/details/200684475-0157/data-governance-engineer?team=SFTWR"
-    },
-    "200684475-0836": {
-      "first_seen": 1790479668.90611,
-      "posted": "",
-      "title": "Data Governance Engineer",
-      "job_id": "200684475-0836",
-      "url": "https://jobs.apple.com/en-us/details/200684475-0836/data-governance-engineer?team=SFTWR"
-    },
-    "200672921-0836": {
-      "first_seen": 1790479668.906111,
-      "posted": "",
-      "title": "Software Engineer, Algorithms (SDE)",
-      "job_id": "200672921-0836",
-      "url": "https://jobs.apple.com/en-us/details/200672921-0836/software-engineer-algorithms-sde?team=SFTWR"
-    },
-    "200684265-3401": {
-      "first_seen": 1790479668.9061117,
-      "posted": "",
-      "title": "Software Engineer, Finance Engineering",
-      "job_id": "200684265-3401",
-      "url": "https://jobs.apple.com/en-us/details/200684265-3401/software-engineer-finance-engineering?team=SFTWR"
-    },
-    "200651071-0836": {
-      "first_seen": 1790523564.246731,
-      "posted": "2026-09-27",
-      "title": "Senior Machine Learning Engineer, NLP, Input Experience",
-      "job_id": "200651071-0836",
-      "url": "https://jobs.apple.com/en-us/details/200651071-0836/senior-machine-learning-engineer-nlp-input-experience?team=SFTWR"
-    },
-    "200685976-0670": {
-      "first_seen": 1790523564.2467356,
-      "posted": "2026-09-27",
-      "title": "Lead Designer, Design Systems & Structures",
-      "job_id": "200685976-0670",
-      "url": "https://jobs.apple.com/en-us/details/200685976-0670/lead-designer-design-systems-structures?team=SFTWR"
-    },
-    "200685976-2459": {
-      "first_seen": 1790523564.2467372,
-      "posted": "2026-09-27",
-      "title": "Lead Designer, Design Systems & Structures",
-      "job_id": "200685976-2459",
-      "url": "https://jobs.apple.com/en-us/details/200685976-2459/lead-designer-design-systems-structures?team=SFTWR"
-    },
-    "200647309-0836": {
-      "first_seen": 1790523564.2467382,
-      "posted": "2026-09-27",
-      "title": "Senior ML Engineer, Apple Ray, Apple Data Platform",
-      "job_id": "200647309-0836",
-      "url": "https://jobs.apple.com/en-us/details/200647309-0836/senior-ml-engineer-apple-ray-apple-data-platform?team=SFTWR"
-    },
-    "200685898-3543": {
-      "first_seen": 1790523564.2467391,
-      "posted": "2026-09-27",
-      "title": "SDET Manager, Mail & Messages Automated Testing Frameworks",
-      "job_id": "200685898-3543",
-      "url": "https://jobs.apple.com/en-us/details/200685898-3543/sdet-manager-mail-messages-automated-testing-frameworks?team=SFTWR"
-    },
-    "200685954-0836": {
-      "first_seen": 1790523564.2467413,
-      "posted": "2026-09-27",
-      "title": "Software Engineering Technical Lead, Apple Pay \u2014 Wallet, Payments & Commerce (WPC)",
-      "job_id": "200685954-0836",
-      "url": "https://jobs.apple.com/en-us/details/200685954-0836/software-engineering-technical-lead-apple-pay-wallet-payments-commerce-wpc?team=SFTWR"
-    },
-    "200685555-3543": {
-      "first_seen": 1790523564.246742,
-      "posted": "2026-09-27",
-      "title": "Senior Software Engineer, Development Engineering Workflows, Core OS",
-      "job_id": "200685555-3543",
-      "url": "https://jobs.apple.com/en-us/details/200685555-3543/senior-software-engineer-development-engineering-workflows-core-os?team=SFTWR"
-    },
-    "200684879-3337": {
-      "first_seen": 1790523564.2467434,
-      "posted": "2026-09-27",
-      "title": "Senior System Security Software Engineer, Platform Attestation",
-      "job_id": "200684879-3337",
-      "url": "https://jobs.apple.com/en-us/details/200684879-3337/senior-system-security-software-engineer-platform-attestation?team=SFTWR"
-    },
-    "200674019-0836": {
-      "first_seen": 1790523564.2467449,
-      "posted": "2026-09-27",
-      "title": "Senior Data Analyst, Health Operations (MSO)",
-      "job_id": "200674019-0836",
-      "url": "https://jobs.apple.com/en-us/details/200674019-0836/senior-data-analyst-health-operations-mso?team=SFTWR"
-    },
-    "200684674-3121": {
-      "first_seen": 1790523564.246746,
-      "posted": "2026-09-27",
-      "title": "Senior Network Planning Engineer, Infrastructure Services",
-      "job_id": "200684674-3121",
-      "url": "https://jobs.apple.com/en-us/details/200684674-3121/senior-network-planning-engineer-infrastructure-services?team=SFTWR"
-    },
-    "200685084-0240": {
-      "first_seen": 1790523564.2467475,
-      "posted": "2026-09-27",
-      "title": "Senior Network Security Engineer, Infrastructure Services",
-      "job_id": "200685084-0240",
-      "url": "https://jobs.apple.com/en-us/details/200685084-0240/senior-network-security-engineer-infrastructure-services?team=SFTWR"
-    },
-    "200685766-0836": {
-      "first_seen": 1790523564.2467484,
-      "posted": "2026-09-27",
-      "title": "Senior Staff Machine Learning Engineer, ML Platform",
-      "job_id": "200685766-0836",
-      "url": "https://jobs.apple.com/en-us/details/200685766-0836/senior-staff-machine-learning-engineer-ml-platform?team=SFTWR"
-    },
-    "200685766-2459": {
-      "first_seen": 1790523564.2467492,
-      "posted": "2026-09-27",
-      "title": "Senior Staff Machine Learning Engineer, ML Platform",
-      "job_id": "200685766-2459",
-      "url": "https://jobs.apple.com/en-us/details/200685766-2459/senior-staff-machine-learning-engineer-ml-platform?team=SFTWR"
-    },
-    "200685676-0365": {
-      "first_seen": 1790523564.2467504,
-      "posted": "2026-09-27",
-      "title": "Senior Systems Engineer, Watch Software",
-      "job_id": "200685676-0365",
-      "url": "https://jobs.apple.com/en-us/details/200685676-0365/senior-systems-engineer-watch-software?team=SFTWR"
-    },
-    "200685676-0836": {
-      "first_seen": 1790523564.2467513,
-      "posted": "2026-09-27",
-      "title": "Senior Systems Engineer, Watch Software",
-      "job_id": "200685676-0836",
-      "url": "https://jobs.apple.com/en-us/details/200685676-0836/senior-systems-engineer-watch-software?team=SFTWR"
-    },
-    "200685676-3543": {
-      "first_seen": 1790523564.2467518,
-      "posted": "2026-09-27",
-      "title": "Senior Systems Engineer, Watch Software",
-      "job_id": "200685676-3543",
-      "url": "https://jobs.apple.com/en-us/details/200685676-3543/senior-systems-engineer-watch-software?team=SFTWR"
-    },
-    "200648818-3401": {
-      "first_seen": 1790523564.246753,
-      "posted": "2026-09-27",
-      "title": "Manager, Engineering Program Management - Claris",
-      "job_id": "200648818-3401",
-      "url": "https://jobs.apple.com/en-us/details/200648818-3401/manager-engineering-program-management-claris?team=SFTWR"
-    },
-    "200679240-3956": {
-      "first_seen": 1790523564.2467537,
-      "posted": "2026-09-27",
-      "title": "Sr Software Engineering Program Manager - Claris",
-      "job_id": "200679240-3956",
-      "url": "https://jobs.apple.com/en-us/details/200679240-3956/sr-software-engineering-program-manager-claris?team=SFTWR"
     }
   }
 }

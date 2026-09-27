@@ -5,88 +5,81 @@
   },
   "jobs": {
     "180700": {
-      "first_seen": 1790480014.8704174,
+      "first_seen": 1790525811.6722243,
       "posted": "",
       "title": "Software Engineer, Global Banking & Markets, Electronic Trading",
       "job_id": "180700",
       "url": "https://higher.gs.com/roles/180700"
     },
     "178378": {
-      "first_seen": 1790480014.870419,
+      "first_seen": 1790525811.672226,
       "posted": "",
       "title": "Quantitative Developer, Global Banking & Markets, Systematic Market Marking",
       "job_id": "178378",
       "url": "https://higher.gs.com/roles/178378"
     },
     "177423": {
-      "first_seen": 1790480014.8704197,
+      "first_seen": 1790525811.6722271,
       "posted": "",
       "title": "Software Engineer, Global Banking & Markets, AI/ML Technology",
       "job_id": "177423",
       "url": "https://higher.gs.com/roles/177423"
     },
     "178036": {
-      "first_seen": 1790480014.8704205,
+      "first_seen": 1790525811.6722279,
       "posted": "",
       "title": "The Core Engineering-Corporate Treasury, New York, Associate, Software Engineering",
       "job_id": "178036",
       "url": "https://higher.gs.com/roles/178036"
     },
+    "169232": {
+      "first_seen": 1790525811.6722283,
+      "posted": "",
+      "title": "Security Engineer - Bengaluru- Vice President",
+      "job_id": "169232",
+      "url": "https://higher.gs.com/roles/169232"
+    },
     "182893": {
-      "first_seen": 1790480014.870421,
+      "first_seen": 1790525811.6722293,
       "posted": "",
       "title": "Software Engineer, Global Banking & Markets, Trading Technology",
       "job_id": "182893",
       "url": "https://higher.gs.com/roles/182893"
     },
     "179758": {
-      "first_seen": 1790480014.8704214,
+      "first_seen": 1790525811.6722305,
       "posted": "",
       "title": "Software Engineering - SRE Data - Software Engineer - Associate - Dallas",
       "job_id": "179758",
       "url": "https://higher.gs.com/roles/179758"
     },
     "153024": {
-      "first_seen": 1790480014.8704224,
+      "first_seen": 1790525811.672231,
       "posted": "",
       "title": "Engineering - SRE Platforms - SRE Engineer - Associate - Dallas",
       "job_id": "153024",
       "url": "https://higher.gs.com/roles/153024"
     },
     "164034": {
-      "first_seen": 1790480014.8704228,
+      "first_seen": 1790525811.6722317,
       "posted": "",
       "title": "Asset & Wealth Management - iOS Mobile Engineer - Marcus - Associate - Richardson",
       "job_id": "164034",
       "url": "https://higher.gs.com/roles/164034"
     },
-    "152248": {
-      "first_seen": 1790480014.8704236,
-      "posted": "",
-      "title": "AWS Solutions Architect, Global Banking & Markets, Cloud Platform",
-      "job_id": "152248",
-      "url": "https://higher.gs.com/roles/152248"
-    },
     "181810": {
-      "first_seen": 1790480014.870424,
+      "first_seen": 1790525811.6722324,
       "posted": "",
       "title": "Engineering-L2-Dallas-Analyst-Software Engineering",
       "job_id": "181810",
       "url": "https://higher.gs.com/roles/181810"
     },
     "119977": {
-      "first_seen": 1790480014.8704247,
+      "first_seen": 1790525811.6722329,
       "posted": "",
       "title": "Software Engineer - FCO Technology Team - Analyst - SLC",
       "job_id": "119977",
       "url": "https://higher.gs.com/roles/119977"
-    },
-    "169232": {
-      "first_seen": 1790523685.55199,
-      "posted": "2026-09-27",
-      "title": "Security Engineer - Bengaluru- Vice President",
-      "job_id": "169232",
-      "url": "https://higher.gs.com/roles/169232"
     }
   }
 }
