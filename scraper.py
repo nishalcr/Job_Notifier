@@ -12,8 +12,9 @@ import time
 from playwright.async_api import async_playwright
 
 import config
-from notifier import send_error, send_job_alert_for_company, send_summary, verify_bot
-from runner import collect_jobs
+from health import BROKEN, load_health, record_result, save_health
+from notifier import send_error, send_job_alert_for_company, send_plain, send_summary, verify_bot
+from runner import LAST_ERRORS, collect_jobs
 from state import filter_new_jobs, is_excluded_role, load_seen_jobs, should_exclude_title
 
 
@@ -28,7 +29,8 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-async def _run_company_scrape(browser, slug: str) -> bool:
+async def _run_company_scrape(browser, slug: str) -> tuple[bool, str]:
+    """Scrape one company. Returns (ok, error message)."""
     runtime_config = None
 
     try:
@@ -41,14 +43,10 @@ async def _run_company_scrape(browser, slug: str) -> bool:
                     f"[scraper] WARNING: No jobs were extracted for "
                     f"{runtime_config.display_name}. Treating as non-fatal for this company."
                 )
-                return True
+                return True, ""
 
             print(f"[scraper] No jobs were extracted for {runtime_config.display_name}.")
-            await send_error(
-                runtime_config.display_name,
-                "No jobs extracted. The page structure may have changed.",
-            )
-            return False
+            return False, LAST_ERRORS.get(slug) or "No jobs extracted. The page structure may have changed."
 
         new_jobs = filter_new_jobs(runtime_config, unique_jobs)
         print(f"[{runtime_config.slug}] New jobs (not seen before): {len(new_jobs)}")
@@ -89,12 +87,29 @@ async def _run_company_scrape(browser, slug: str) -> bool:
             f"[{runtime_config.slug}] Seen jobs database: "
             f"{len(load_seen_jobs(runtime_config.slug))} entries"
         )
-        return True
+        return True, ""
     except Exception as exc:
-        company_name = runtime_config.display_name if runtime_config else slug
         print(f"[{slug}] Unexpected company failure: {exc}")
-        await send_error(company_name, f"Unexpected error: {exc}")
-        return False
+        return False, f"Unexpected error: {exc}"
+
+
+async def _report_health(health: dict, slug: str, ok: bool, error: str) -> None:
+    transition = record_result(health, slug, ok, error)
+    if transition is None:
+        return
+
+    try:
+        company_name = config.get_company_runtime(slug).display_name
+    except Exception:
+        company_name = slug
+
+    if transition == BROKEN:
+        failures = health[slug]["consecutive_failures"]
+        print(f"[health] {company_name} marked broken after {failures} consecutive failures")
+        await send_error(company_name, f"Broken for {failures} consecutive runs. Last error: {error}")
+    else:
+        print(f"[health] {company_name} recovered")
+        await send_plain(f"✅ {company_name} scraper recovered.")
 
 
 async def run_scraper(selected_companies: list[str] | None = None) -> None:
@@ -116,6 +131,7 @@ async def run_scraper(selected_companies: list[str] | None = None) -> None:
             print("[scraper] TELEGRAM_CHAT_ID is not set.")
 
     failed_companies = []
+    health = load_health()
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(
@@ -124,10 +140,13 @@ async def run_scraper(selected_companies: list[str] | None = None) -> None:
         )
         try:
             for slug in requested_companies:
-                if not await _run_company_scrape(browser, slug):
+                ok, error = await _run_company_scrape(browser, slug)
+                if not ok:
                     failed_companies.append(slug)
+                await _report_health(health, slug, ok, error)
         finally:
             await browser.close()
+            save_health(health)
 
     elapsed = time.time() - start_time
     print(f"\n[scraper] Run completed in {elapsed:.1f}s")

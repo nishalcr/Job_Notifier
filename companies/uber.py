@@ -180,5 +180,4 @@ COMPANY = CompanyDefinition(
     get_total_results=get_total_results,
     fetch_page_html=fetch_page_html,
     excluded_role_keywords=EXCLUDED_ROLE_KEYWORDS,
-    allow_empty_results=True,
 )

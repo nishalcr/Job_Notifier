@@ -11,6 +11,9 @@ BROWSER_USER_AGENT = (
 )
 BROWSER_VIEWPORT = {"width": 1440, "height": 1200}
 
+# Last scrape error per company slug, for health reporting.
+LAST_ERRORS: dict[str, str] = {}
+
 
 async def scrape_page(page, runtime_config: config.CompanyRuntimeConfig, url: str) -> str:
     if runtime_config.definition.fetch_page_html:
@@ -54,6 +57,7 @@ async def collect_jobs(browser, runtime_config: config.CompanyRuntimeConfig, pag
 
     all_jobs = []
     target_pages = page_limit
+    LAST_ERRORS.pop(runtime_config.slug, None)
     context = await browser.new_context(user_agent=BROWSER_USER_AGENT, viewport=BROWSER_VIEWPORT)
     page = await context.new_page()
 
@@ -106,10 +110,12 @@ async def collect_jobs(browser, runtime_config: config.CompanyRuntimeConfig, pag
             except PlaywrightTimeout as exc:
                 await _capture_diagnostics(page, runtime_config, page_num, "playwright_timeout")
                 print(f"[{runtime_config.slug}] Timeout on page {page_num}: {exc}")
+                LAST_ERRORS[runtime_config.slug] = f"Timeout on page {page_num}: {exc}"
                 break
             except Exception as exc:
                 await _capture_diagnostics(page, runtime_config, page_num, "unexpected_error")
                 print(f"[{runtime_config.slug}] Error on page {page_num}: {exc}")
+                LAST_ERRORS[runtime_config.slug] = f"Error on page {page_num}: {exc}"
                 break
     finally:
         await context.close()
