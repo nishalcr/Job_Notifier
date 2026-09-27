@@ -3,5 +3,111 @@
     "version": 3,
     "company": "uber"
   },
-  "jobs": {}
+  "jobs": {
+    "302505": {
+      "first_seen": 1790523448.1797311,
+      "posted": "2026-09-25",
+      "title": "Applications Developer II - IAM Operations",
+      "job_id": "302505",
+      "url": "https://jobs.uber.com/en/jobs/302505/"
+    },
+    "302709": {
+      "first_seen": 1790523448.1797342,
+      "posted": "2026-09-25",
+      "title": "Software Engineer II - Engineer",
+      "job_id": "302709",
+      "url": "https://jobs.uber.com/en/jobs/302709/"
+    },
+    "301355": {
+      "first_seen": 1790523448.1797361,
+      "posted": "2026-09-24",
+      "title": "PhD 2026 Graduate Software Engineer II (AV Labs), United States",
+      "job_id": "301355",
+      "url": "https://jobs.uber.com/en/jobs/301355/"
+    },
+    "302471": {
+      "first_seen": 1790523448.179737,
+      "posted": "2026-09-23",
+      "title": "Financial Systems Engineer \u2014 Revenue Product",
+      "job_id": "302471",
+      "url": "https://jobs.uber.com/en/jobs/302471/"
+    },
+    "302639": {
+      "first_seen": 1790523448.1797385,
+      "posted": "2026-09-22",
+      "title": "Software Engineer II - Android",
+      "job_id": "302639",
+      "url": "https://jobs.uber.com/en/jobs/302639/"
+    },
+    "301475": {
+      "first_seen": 1790523448.1797395,
+      "posted": "2026-08-05",
+      "title": "Machine Learning Engineer II - AV Labs",
+      "job_id": "301475",
+      "url": "https://jobs.uber.com/en/jobs/301475/"
+    },
+    "158830": {
+      "first_seen": 1790523448.1797404,
+      "posted": "2026-09-08",
+      "title": "Oracle Cloud Payroll System Analyst",
+      "job_id": "158830",
+      "url": "https://jobs.uber.com/en/jobs/158830/"
+    },
+    "154758": {
+      "first_seen": 1790523448.1797411,
+      "posted": "2026-06-19",
+      "title": "Applications Developer II - ServiceNow",
+      "job_id": "154758",
+      "url": "https://jobs.uber.com/en/jobs/154758/"
+    },
+    "300522": {
+      "first_seen": 1790523448.1797426,
+      "posted": "2026-08-25",
+      "title": "Software Engineer II - AV Labs Platform",
+      "job_id": "300522",
+      "url": "https://jobs.uber.com/en/jobs/300522/"
+    },
+    "159171": {
+      "first_seen": 1790523448.1797438,
+      "posted": "2026-07-06",
+      "title": "Data Center Engineer, Structured Cabling & Physical Network",
+      "job_id": "159171",
+      "url": "https://jobs.uber.com/en/jobs/159171/"
+    },
+    "302106": {
+      "first_seen": 1790523448.1797447,
+      "posted": "2026-09-01",
+      "title": "Security Technologist II - Incident Command",
+      "job_id": "302106",
+      "url": "https://jobs.uber.com/en/jobs/302106/"
+    },
+    "300777": {
+      "first_seen": 1790523448.1797462,
+      "posted": "2026-09-04",
+      "title": "Sr Software Engineer (C++) - AV Labs",
+      "job_id": "300777",
+      "url": "https://jobs.uber.com/en/jobs/300777/"
+    },
+    "159160": {
+      "first_seen": 1790523448.1797469,
+      "posted": "2026-08-10",
+      "title": "Data Center Engineer, Electrical",
+      "job_id": "159160",
+      "url": "https://jobs.uber.com/en/jobs/159160/"
+    },
+    "300477": {
+      "first_seen": 1790523448.1797478,
+      "posted": "2026-07-14",
+      "title": "Software Engineer II - AV Labs",
+      "job_id": "300477",
+      "url": "https://jobs.uber.com/en/jobs/300477/"
+    },
+    "301156": {
+      "first_seen": 1790523448.1797485,
+      "posted": "2026-08-11",
+      "title": "Machine Learning Engineer II - AV Labs",
+      "job_id": "301156",
+      "url": "https://jobs.uber.com/en/jobs/301156/"
+    }
+  }
 }
