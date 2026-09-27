@@ -13,9 +13,12 @@ from playwright.async_api import async_playwright
 
 import config
 from health import BROKEN, load_health, record_result, save_health
-from notifier import send_error, send_job_alert_for_company, send_plain, send_summary, verify_bot
+from notifier import send_error, send_job_alert_for_company, send_job_digest, send_plain, verify_bot
 from runner import LAST_ERRORS, collect_jobs
-from state import filter_new_jobs, load_seen_jobs, passes_title_filters
+from state import filter_new_jobs, is_seen_elsewhere, load_seen_jobs, mark_jobs_seen, passes_title_filters
+
+# More new jobs than this for one company in one run are sent as a digest.
+DIGEST_THRESHOLD = 5
 
 
 def parse_args() -> argparse.Namespace:
@@ -51,22 +54,30 @@ async def _run_company_scrape(browser, slug: str) -> tuple[bool, str]:
         new_jobs = filter_new_jobs(runtime_config, unique_jobs)
         print(f"[{runtime_config.slug}] New jobs (not seen before): {len(new_jobs)}")
 
-        before = len(new_jobs)
-        new_jobs = [job for job in new_jobs if passes_title_filters(job.get("title", ""), runtime_config)]
-        excluded = before - len(new_jobs)
-        if excluded:
-            print(f"[{runtime_config.slug}] Excluded {excluded} job(s) by title filter")
+        to_alert = []
+        skipped = []
+        for job in new_jobs:
+            if not passes_title_filters(job.get("title", ""), runtime_config):
+                skipped.append(job)
+            elif is_seen_elsewhere(job, runtime_config.definition.shares_jobs_with):
+                skipped.append(job)
+            else:
+                to_alert.append(job)
+        if skipped:
+            print(f"[{runtime_config.slug}] Skipped {len(skipped)} job(s) (title filter or already alerted)")
+        mark_jobs_seen(runtime_config, skipped)
 
-        if new_jobs:
-            print(f"[{runtime_config.slug}] Sending {len(new_jobs)} Telegram notification(s)...")
-            for index, job in enumerate(new_jobs, 1):
-                print(f"  [{index}/{len(new_jobs)}] {job['title']}")
-                success = await send_job_alert_for_company(runtime_config.display_name, job)
-                if not success:
-                    print(f"[{runtime_config.slug}] Failed to send notification")
-                if index < len(new_jobs):
-                    await asyncio.sleep(0.5)
-            await send_summary(runtime_config.display_name, len(new_jobs), len(unique_jobs))
+        if to_alert:
+            print(f"[{runtime_config.slug}] Sending {len(to_alert)} job(s) to Telegram...")
+            for job in to_alert:
+                print(f"  - {job['title']}")
+            delivered = await _send_alerts(runtime_config.display_name, to_alert)
+            mark_jobs_seen(runtime_config, delivered)
+            if len(delivered) < len(to_alert):
+                print(
+                    f"[{runtime_config.slug}] {len(to_alert) - len(delivered)} alert(s) failed; "
+                    "they will be retried next run"
+                )
         else:
             print(f"[{runtime_config.slug}] No new jobs to notify.")
 
@@ -78,6 +89,20 @@ async def _run_company_scrape(browser, slug: str) -> tuple[bool, str]:
     except Exception as exc:
         print(f"[{slug}] Unexpected company failure: {exc}")
         return False, f"Unexpected error: {exc}"
+
+
+async def _send_alerts(company_name: str, jobs: list[dict]) -> list[dict]:
+    """Send alerts one per job, or as a digest for bursts. Returns delivered jobs."""
+    if len(jobs) > DIGEST_THRESHOLD:
+        return await send_job_digest(company_name, jobs)
+
+    delivered = []
+    for index, job in enumerate(jobs):
+        if index:
+            await asyncio.sleep(0.5)
+        if await send_job_alert_for_company(company_name, job):
+            delivered.append(job)
+    return delivered
 
 
 async def _report_health(health: dict, slug: str, ok: bool, error: str) -> None:

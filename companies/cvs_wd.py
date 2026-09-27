@@ -118,4 +118,5 @@ COMPANY = CompanyDefinition(
     excluded_role_keywords=EXCLUDED_ROLE_KEYWORDS,
     excluded_title_phrases=EXCLUDED_TITLE_PHRASES,
     included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
+    shares_jobs_with=("cvs",),
 )

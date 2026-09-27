@@ -26,4 +26,6 @@ class CompanyDefinition:
     excluded_role_keywords: tuple[str, ...] = ()
     excluded_title_phrases: tuple[str, ...] = ()
     included_title_keywords: tuple[str, ...] = ()
+    # Other adapters that list the same jobs under the same IDs (alert only once).
+    shares_jobs_with: tuple[str, ...] = ()
     allow_empty_results: bool = False

@@ -87,7 +87,26 @@ def _extract_location(lines: list[str], title: str) -> str:
             break
         location_parts.append(line)
 
-    return " ".join(location_parts).strip()
+    return _format_locations(location_parts)
+
+
+def _format_locations(parts: list[str]) -> str:
+    """Collapse ["Locations", "A, WA, USA", "B, TX, USA", "+4 other locations"] to "A, WA, USA; +5 more"."""
+    locations = []
+    extra = 0
+    for part in parts:
+        if part.lower() in {"location", "locations"}:
+            continue
+        match = re.match(r"\+\s*(\d+)\s+other", part, re.I)
+        if match:
+            extra += int(match.group(1))
+            continue
+        locations.append(part)
+
+    if not locations:
+        return ""
+    extra += len(locations) - 1
+    return f"{locations[0]}; +{extra} more" if extra else locations[0]
 
 
 def _extract_posted(text: str) -> str:

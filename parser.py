@@ -45,6 +45,10 @@ def _candidate_containers(soup: BeautifulSoup) -> list:
         while card is not None:
             text = card.get_text("\n", strip=True)
             if "Role Number" in text and len(text) > 80:
+                # Prefer the whole result row: it also holds the location and date.
+                row = card.find_parent("li")
+                if row is not None and row.get_text("\n", strip=True).count("Role Number") == 1:
+                    card = row
                 marker = str(card)
                 if marker not in seen:
                     containers.append(card)
@@ -95,7 +99,7 @@ def _is_non_title_line(line: str, role_number: str) -> bool:
         return True
     if "role number" in lowered:
         return True
-    if lowered.startswith("location "):
+    if lowered == "location" or lowered.startswith("location "):
         return True
     if "weekly hours" in lowered:
         return True
@@ -156,9 +160,12 @@ def _extract_posted(text: str) -> str:
 
 
 def _extract_location(lines: list[str]) -> str:
-    for line in lines:
+    for index, line in enumerate(lines):
         if line.startswith("Location "):
             return line.replace("Location ", "", 1).strip()
+        # Newer cards put the value on the line after a bare "Location" label.
+        if line.strip() == "Location" and index + 1 < len(lines):
+            return lines[index + 1].strip()
     return ""
 
 

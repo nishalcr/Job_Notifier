@@ -159,24 +159,34 @@ def _resolve_posted_value(job: dict, strategy: str, today: str) -> str:
     return job.get("posted", "")
 
 
+def _job_key(job: dict) -> str:
+    return job.get("key") or job.get("job_id") or job.get("role_number") or ""
+
+
 def filter_new_jobs(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) -> list[dict]:
+    """
+    Return jobs that are not in the seen store yet.
+
+    New jobs are not saved here: call mark_jobs_seen once each one has been
+    alerted or deliberately skipped, so a failed Telegram send is retried on
+    the next run instead of being lost.
+    """
     seen = load_seen_jobs(runtime_config.slug)
     new_jobs = []
     discovered_on = _today_date_string()
+    strategy = runtime_config.definition.regular_scrape_posted_strategy
     changed = False
 
     for job in jobs:
-        key = job.get("key") or job.get("job_id") or job.get("role_number")
+        key = _job_key(job)
         if not key:
             continue
-        strategy = runtime_config.definition.regular_scrape_posted_strategy
+        job.setdefault("source_posted", job.get("posted", ""))
         posted_value = _resolve_posted_value(job, strategy, discovered_on)
         job["posted"] = posted_value
 
         if key not in seen:
             new_jobs.append(job)
-            seen[key] = _job_state_payload(job, posted_override=posted_value)
-            changed = True
             continue
 
         if strategy == "all-found-today":
@@ -191,13 +201,30 @@ def filter_new_jobs(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) -> l
     return new_jobs
 
 
+def mark_jobs_seen(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) -> None:
+    if not jobs:
+        return
+    seen = load_seen_jobs(runtime_config.slug)
+    for job in jobs:
+        key = _job_key(job)
+        if key and key not in seen:
+            seen[key] = _job_state_payload(job, posted_override=job.get("posted", ""))
+    save_seen_jobs(runtime_config.slug, seen)
+
+
+def is_seen_elsewhere(job: dict, company_slugs: Sequence[str]) -> bool:
+    """True if another adapter for the same employer already saw this job ID."""
+    key = _job_key(job)
+    return bool(key) and any(key in load_seen_jobs(slug) for slug in company_slugs)
+
+
 def replace_seen_jobs(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) -> None:
     seen = {}
     posted_strategy = runtime_config.definition.full_scrape_posted_strategy
     today = _today_date_string()
 
     for job in jobs:
-        key = job.get("key") or job.get("job_id") or job.get("role_number")
+        key = _job_key(job)
         if not key:
             continue
         seen[key] = _job_state_payload(

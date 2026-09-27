@@ -1,51 +1,82 @@
 """Telegram notification sender for the multi-company jobs notifier."""
 
+import asyncio
+
 import httpx
 
 import config
 
 TELEGRAM_API = f"https://api.telegram.org/bot{config.TELEGRAM_BOT_TOKEN}"
 
+# Telegram rejects messages over 4096 characters; leave room for escaping.
+MAX_MESSAGE_CHARS = 3800
+MAX_SEND_ATTEMPTS = 3
+MAX_RETRY_AFTER_SECONDS = 60
+
 
 async def send_job_alert_for_company(company_name: str, job: dict) -> bool:
     """Send a single job notification to Telegram. Returns True on success."""
     title = job.get("title", "Unknown Position")
     team = job.get("team", "")
-    location = job.get("location", "Location not specified")
-    posted = job.get("posted", "")
+    location = job.get("location", "")
+    posted = _format_posted(job.get("source_posted", ""))
     role_number = job.get("job_id") or job.get("role_number") or job.get("key", "")
     weekly_hours = job.get("weekly_hours", "")
     url = job.get("url", "")
     escaped_company = _escape_md(company_name)
 
     lines = [
-        f"🔔 *New {escaped_company} Job Opening*",
+        f"🔔 *New {escaped_company} Job*",
         "",
         f"📌 *{_escape_md(title)}*",
-        f"📍 {_escape_md(location)}",
     ]
     if team:
-        lines.insert(3, f"🏢 {_escape_md(team)}")
+        lines.append(f"🏢 {_escape_md(team)}")
+    if location:
+        lines.append(f"📍 {_escape_md(location)}")
     if posted:
-        lines.append(f"🗓 {_escape_md(posted)}")
+        lines.append(f"🗓 Posted {_escape_md(posted)}")
     if role_number:
         lines.append(f"🆔 `{_escape_md(role_number)}`")
     if weekly_hours:
         lines.append(f"⏱ {_escape_md(weekly_hours)}")
     if url:
-        lines.extend(["", f"[Open on {escaped_company} Careers]({url})"])
+        lines.extend(["", f"[Apply on {escaped_company} Careers]({_escape_url(url)})"])
 
     return await _send_message("\n".join(lines), parse_mode="MarkdownV2")
 
 
-async def send_summary(company_name: str, new_count: int, total_scraped: int) -> bool:
-    """Send a summary message after a scraping run with new jobs."""
-    message = (
-        f"📊 *{_escape_md(company_name)} Jobs Scan Complete*\n\n"
-        f"• New jobs found: *{new_count}*\n"
-        f"• Total jobs scanned: *{total_scraped}*"
-    )
-    return await _send_message(message, parse_mode="MarkdownV2")
+async def send_job_digest(company_name: str, jobs: list[dict]) -> list[dict]:
+    """
+    Send several jobs as compact digest message(s).
+
+    Returns the jobs whose message was delivered, so callers only mark those seen.
+    """
+    header = f"🔔 *{len(jobs)} new {_escape_md(company_name)} jobs*"
+    delivered = []
+    chunk_lines: list[str] = []
+    chunk_jobs: list[dict] = []
+
+    async def flush() -> None:
+        if not chunk_jobs:
+            return
+        text = "\n".join([header, "", *chunk_lines])
+        if await _send_message(text, parse_mode="MarkdownV2"):
+            delivered.extend(chunk_jobs)
+        chunk_lines.clear()
+        chunk_jobs.clear()
+
+    for job in jobs:
+        line = f"• [{_escape_md(job.get('title', 'Unknown Position'))}]({_escape_url(job.get('url', ''))})"
+        if job.get("location"):
+            line += f" — {_escape_md(job['location'])}"
+        if chunk_jobs and len(header) + sum(len(x) + 1 for x in chunk_lines) + len(line) > MAX_MESSAGE_CHARS:
+            await flush()
+            await asyncio.sleep(0.5)
+        chunk_lines.append(line)
+        chunk_jobs.append(job)
+    await flush()
+    return delivered
 
 
 async def send_error(company_name: str, error_msg: str) -> bool:
@@ -72,7 +103,7 @@ async def verify_bot() -> bool:
 
 
 async def _send_message(text: str, parse_mode: str = "MarkdownV2") -> bool:
-    """Low-level Telegram sendMessage call."""
+    """Low-level Telegram sendMessage call with rate-limit retries."""
     if not config.TELEGRAM_BOT_TOKEN or not config.TELEGRAM_CHAT_ID:
         print("[notifier] TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set - skipping notification.")
         return False
@@ -80,35 +111,61 @@ async def _send_message(text: str, parse_mode: str = "MarkdownV2") -> bool:
     payload = {
         "chat_id": config.TELEGRAM_CHAT_ID,
         "text": text,
-        "disable_web_page_preview": False,
+        "link_preview_options": {"is_disabled": True},
     }
     if parse_mode:
         payload["parse_mode"] = parse_mode
 
     try:
         async with httpx.AsyncClient(timeout=15) as client:
-            resp = await client.post(f"{TELEGRAM_API}/sendMessage", json=payload)
-            if resp.status_code == 200 and resp.json().get("ok"):
-                return True
-            print(f"[notifier] Telegram API error: {resp.status_code} - {resp.text}")
-            if parse_mode and resp.status_code == 400:
-                payload["parse_mode"] = ""
-                payload["text"] = text.replace("*", "").replace("`", "").replace("\\", "")
-                resp2 = await client.post(f"{TELEGRAM_API}/sendMessage", json=payload)
-                return resp2.status_code == 200
-            return False
+            for attempt in range(1, MAX_SEND_ATTEMPTS + 1):
+                resp = await client.post(f"{TELEGRAM_API}/sendMessage", json=payload)
+                if resp.status_code == 200 and resp.json().get("ok"):
+                    return True
+                print(f"[notifier] Telegram API error: {resp.status_code} - {resp.text}")
+
+                if resp.status_code == 429 and attempt < MAX_SEND_ATTEMPTS:
+                    retry_after = _retry_after_seconds(resp)
+                    print(f"[notifier] Rate limited; retrying in {retry_after}s")
+                    await asyncio.sleep(retry_after)
+                    continue
+
+                if resp.status_code == 400 and payload.get("parse_mode"):
+                    # Formatting rejected: resend once as plain text.
+                    payload.pop("parse_mode")
+                    payload["text"] = text.replace("*", "").replace("`", "").replace("\\", "")
+                    continue
+
+                return False
     except httpx.HTTPError as exc:
         print(f"[notifier] HTTP error sending Telegram message: {exc}")
-        return False
+    return False
+
+
+def _retry_after_seconds(resp: httpx.Response) -> int:
+    try:
+        retry_after = int(resp.json().get("parameters", {}).get("retry_after", 1))
+    except (ValueError, TypeError, AttributeError):
+        retry_after = 1
+    return max(1, min(retry_after, MAX_RETRY_AFTER_SECONDS))
+
+
+def _format_posted(value: str) -> str:
+    """Normalize a source post date: ISO timestamps become YYYY-MM-DD."""
+    value = str(value or "").strip()
+    if value.lower().startswith("posted "):
+        value = value[len("posted "):].strip()
+    if len(value) > 10 and value[4:5] == "-" and "T" in value:
+        value = value.split("T", 1)[0]
+    return value
 
 
 def _escape_md(text: str) -> str:
     """Escape special characters for Telegram MarkdownV2."""
-    special = r"_*[]()~`>#+-=|{}.!"
-    escaped = ""
-    for ch in text:
-        if ch in special:
-            escaped += f"\\{ch}"
-        else:
-            escaped += ch
-    return escaped
+    special = r"_*[]()~`>#+-=|{}.!\\"
+    return "".join(f"\\{ch}" if ch in special else ch for ch in str(text))
+
+
+def _escape_url(url: str) -> str:
+    """Escape a URL for the (...) part of a MarkdownV2 link."""
+    return str(url).replace("\\", "\\\\").replace(")", "\\)")
