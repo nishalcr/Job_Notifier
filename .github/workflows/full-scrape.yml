@@ -48,7 +48,7 @@ jobs:
         id: run_full_scraper
         continue-on-error: true
         env:
-          COMPANIES: ${{ inputs.companies }}
+          COMPANIES: ${{ inputs.companies || 'apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber' }}
         run: python full_scrape.py
 
       - name: Upload full-scrape diagnostics
