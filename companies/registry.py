@@ -1,6 +1,7 @@
 from companies.amazon import COMPANY as AMAZON
 from companies.apple import COMPANY as APPLE
 from companies.base import CompanyDefinition
+from companies.microsoft import COMPANY as MICROSOFT
 from companies.amex import COMPANY as AMEX
 from companies.capitalone import COMPANY as CAPITALONE
 from companies.netflix import COMPANY as NETFLIX
@@ -62,6 +63,7 @@ COMPANIES: dict[str, CompanyDefinition] = {
     AMEX.slug: AMEX,
     CAPITALONE.slug: CAPITALONE,
     NETFLIX.slug: NETFLIX,
+    MICROSOFT.slug: MICROSOFT,
     STRIPE.slug: STRIPE,
 }
 

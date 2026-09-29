@@ -157,6 +157,7 @@ HARDWARE_DOMAIN_PHRASES = (
     "construction",
     "civil",
     "chemical",
+    "physical security",
     # Automotive
     "cae",
     "mechatronics",
