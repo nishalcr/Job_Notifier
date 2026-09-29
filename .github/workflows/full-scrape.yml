@@ -6,7 +6,7 @@ on:
       companies:
         description: Comma-separated company slugs to seed into seen_jobs/
         required: false
-        default: apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber,nvidia,hp,samsung,cisco,jpmc,dell,doordash,ibm,disney,paramount,ford,paypal,intel,amd,yahoo,reddit,redhat,capitalone,amex,stripe,netflix
+        default: apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber,nvidia,hp,samsung,cisco,jpmc,dell,doordash,ibm,disney,paramount,ford,paypal,intel,amd,yahoo,reddit,redhat,capitalone,amex,stripe,netflix,microsoft
 
 permissions:
   contents: write
@@ -51,7 +51,7 @@ jobs:
         id: run_full_scraper
         continue-on-error: true
         env:
-          COMPANIES: ${{ inputs.companies || 'apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber,nvidia,hp,samsung,cisco,jpmc,dell,doordash,ibm,disney,paramount,ford,paypal,intel,amd,yahoo,reddit,redhat,capitalone,amex,stripe,netflix' }}
+          COMPANIES: ${{ inputs.companies || 'apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber,nvidia,hp,samsung,cisco,jpmc,dell,doordash,ibm,disney,paramount,ford,paypal,intel,amd,yahoo,reddit,redhat,capitalone,amex,stripe,netflix,microsoft' }}
         run: python full_scrape.py
 
       - name: Upload full-scrape diagnostics

@@ -7,7 +7,7 @@ on:
       companies:
         description: Comma-separated company slugs to scrape
         required: false
-        default: apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber,nvidia,hp,samsung,cisco,jpmc,dell,doordash,ibm,disney,paramount,ford,paypal,intel,amd,yahoo,reddit,redhat,capitalone,amex,stripe,netflix
+        default: apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber,nvidia,hp,samsung,cisco,jpmc,dell,doordash,ibm,disney,paramount,ford,paypal,intel,amd,yahoo,reddit,redhat,capitalone,amex,stripe,netflix,microsoft
 
 permissions:
   contents: write
@@ -54,7 +54,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          COMPANIES: ${{ inputs.companies || 'apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber,nvidia,hp,samsung,cisco,jpmc,dell,doordash,ibm,disney,paramount,ford,paypal,intel,amd,yahoo,reddit,redhat,capitalone,amex,stripe,netflix' }}
+          COMPANIES: ${{ inputs.companies || 'apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber,nvidia,hp,samsung,cisco,jpmc,dell,doordash,ibm,disney,paramount,ford,paypal,intel,amd,yahoo,reddit,redhat,capitalone,amex,stripe,netflix,microsoft' }}
         run: python scraper.py
 
       - name: Upload scraper diagnostics
