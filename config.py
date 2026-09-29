@@ -15,6 +15,8 @@ load_dotenv()
 # Telegram
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
+# Timezone for the time shown in the per-run separator message.
+ALERT_TIMEZONE = os.getenv("ALERT_TIMEZONE", "America/Phoenix")
 
 # Scraping
 PAGE_LOAD_TIMEOUT = int(os.getenv("PAGE_LOAD_TIMEOUT", "15000"))

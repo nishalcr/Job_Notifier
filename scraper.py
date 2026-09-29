@@ -13,12 +13,22 @@ from playwright.async_api import async_playwright
 
 import config
 from health import BROKEN, load_health, record_result, save_health
-from notifier import send_error, send_job_alert_for_company, send_job_digest, send_plain, verify_bot
+from notifier import (
+    send_error,
+    send_job_alert_for_company,
+    send_job_digest,
+    send_plain,
+    send_run_header,
+    verify_bot,
+)
 from runner import LAST_ERRORS, collect_jobs
 from state import filter_new_jobs, is_seen_elsewhere, load_seen_jobs, mark_jobs_seen, passes_title_filters
 
 # More new jobs than this for one company in one run are sent as a digest.
 DIGEST_THRESHOLD = 5
+
+# Whether this run already sent its separator message (sent only if the run has alerts).
+_run_header_sent = False
 
 
 def parse_args() -> argparse.Namespace:
@@ -93,6 +103,10 @@ async def _run_company_scrape(browser, slug: str) -> tuple[bool, str]:
 
 async def _send_alerts(company_name: str, jobs: list[dict]) -> list[dict]:
     """Send alerts one per job, or as a digest for bursts. Returns delivered jobs."""
+    global _run_header_sent
+    if not _run_header_sent:
+        _run_header_sent = await send_run_header()
+
     if len(jobs) > DIGEST_THRESHOLD:
         return await send_job_digest(company_name, jobs)
 
@@ -126,6 +140,8 @@ async def _report_health(health: dict, slug: str, ok: bool, error: str) -> None:
 
 async def run_scraper(selected_companies: list[str] | None = None) -> None:
     """Main scraper entry point."""
+    global _run_header_sent
+    _run_header_sent = False
     start_time = time.time()
     requested_companies = config.get_selected_company_slugs(selected_companies)
 

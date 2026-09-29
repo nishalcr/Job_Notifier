@@ -1,6 +1,8 @@
 """Telegram notification sender for the multi-company jobs notifier."""
 
 import asyncio
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import httpx
 
@@ -77,6 +79,14 @@ async def send_job_digest(company_name: str, jobs: list[dict]) -> list[dict]:
         chunk_jobs.append(job)
     await flush()
     return delivered
+
+
+async def send_run_header() -> bool:
+    """Separator sent before the first alert of a run, so each run's alerts stand apart."""
+    now = datetime.now(ZoneInfo(config.ALERT_TIMEZONE))
+    stamp = f"{now:%b} {now.day}, {now:%I:%M %p}".replace(" 0", " ")
+    divider = "━━━━━━━━━━━━━━━━━━━━"
+    return await _send_message(f"{divider}\n🕐 New jobs · {stamp}\n{divider}", parse_mode="")
 
 
 async def send_error(company_name: str, error_msg: str) -> bool:
