@@ -56,6 +56,7 @@ TARGET_LEVEL_KEYWORDS = (
 # People managers, architects, and internships. Any match drops the title.
 NON_IC_TITLE_PHRASES = (
     "manager",
+    "mgr",
     "director",
     "head of",
     "architect",
@@ -86,6 +87,8 @@ NON_SOFTWARE_ROLE_PHRASES = (
     "technician",
     "sourcer",
     "recruiter",
+    "technologist",
+    "contractor",
 )
 
 # Hardware, fab and physical-engineering domains. A match drops the title unless
@@ -155,6 +158,33 @@ HARDWARE_DOMAIN_PHRASES = (
     "construction",
     "civil",
     "chemical",
+    # Automotive
+    "cae",
+    "mechatronics",
+    "propulsion",
+    "powertrain",
+    "driveline",
+    "emissions",
+    "aftertreatment",
+    "subsystem",
+    "occupant safety",
+    "body exteriors",
+    "battery",
+    "electronics",
+    # Chip design and test
+    "design engineer",
+    "architecture engineer",
+    "product development engineer",
+    "applications engineer",
+    "cad",
+    "signal integrity",
+    "dft",
+    "atpg",
+    "fpga",
+    "power analysis",
+    "pdk",
+    "tfm",
+    "density fill",
 )
 
 # Words that mark a title as software work despite a hardware-domain phrase.
@@ -172,6 +202,8 @@ SOFTWARE_TITLE_KEYWORDS = (
     "full stack",
     "backend",
     "frontend",
+    "front end",
+    "front-end",
 )
 
 NON_SOFTWARE_TITLE_PHRASES = NON_SOFTWARE_ROLE_PHRASES + HARDWARE_DOMAIN_PHRASES

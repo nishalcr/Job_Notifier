@@ -1,11 +1,4 @@
-import re
-
-from companies.workday import workday_company
-
-# Cisco's Workday site has no country filter; the posting path starts with the
-# primary location, e.g. "/job/San-Jose-California-US/...".
-US_PATH_RE = re.compile(r"^/job/[^/]*-US/")
-
+from companies.workday import is_us_posting, workday_company
 
 COMPANY = workday_company(
     slug="cisco",
@@ -22,6 +15,7 @@ COMPANY = workday_company(
     },
     # Cisco's "Technical Leader" is above senior, and "Leader, ..." is a manager.
     extra_excluded_title_phrases=("leader",),
-    posting_filter=lambda posting: bool(US_PATH_RE.match(posting.get("externalPath") or "")),
+    # No country filter on Cisco's site.
+    posting_filter=is_us_posting,
     default_max_pages=4,
 )

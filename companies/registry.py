@@ -1,6 +1,15 @@
 from companies.amazon import COMPANY as AMAZON
 from companies.apple import COMPANY as APPLE
 from companies.base import CompanyDefinition
+from companies.reddit import COMPANY as REDDIT
+from companies.redhat import COMPANY as REDHAT
+from companies.yahoo import COMPANY as YAHOO
+from companies.amd import COMPANY as AMD
+from companies.disney import COMPANY as DISNEY
+from companies.ford import COMPANY as FORD
+from companies.intel import COMPANY as INTEL
+from companies.paramount import COMPANY as PARAMOUNT
+from companies.paypal import COMPANY as PAYPAL
 from companies.cisco import COMPANY as CISCO
 from companies.dell import COMPANY as DELL
 from companies.doordash import COMPANY as DOORDASH
@@ -37,6 +46,15 @@ COMPANIES: dict[str, CompanyDefinition] = {
     JPMC.slug: JPMC,
     NVIDIA.slug: NVIDIA,
     SAMSUNG.slug: SAMSUNG,
+    AMD.slug: AMD,
+    DISNEY.slug: DISNEY,
+    FORD.slug: FORD,
+    INTEL.slug: INTEL,
+    PARAMOUNT.slug: PARAMOUNT,
+    PAYPAL.slug: PAYPAL,
+    REDDIT.slug: REDDIT,
+    REDHAT.slug: REDHAT,
+    YAHOO.slug: YAHOO,
 }
 
 
