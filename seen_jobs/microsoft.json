@@ -1,0 +1,1674 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "microsoft"
+  },
+  "jobs": {
+    "1970393557007934": {
+      "first_seen": 1790714848.8346574,
+      "posted": "2026-09-29",
+      "title": "Software Engineer II",
+      "job_id": "200057950",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557007934"
+    },
+    "1970393557014454": {
+      "first_seen": 1790714848.8346622,
+      "posted": "2026-09-29",
+      "title": "Security Assurance Engineer II - Marketing Security Risk & Compliance",
+      "job_id": "200058418",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557014454"
+    },
+    "1970393557014464": {
+      "first_seen": 1790714848.8346639,
+      "posted": "2026-09-29",
+      "title": "Senior Software Engineer - Marketing Security Risk & Compliance",
+      "job_id": "200058420",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557014464"
+    },
+    "1970393557007516": {
+      "first_seen": 1790714848.8346655,
+      "posted": "2026-09-29",
+      "title": "Software Engineer II - Full Stack",
+      "job_id": "200057834",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557007516"
+    },
+    "1970393557008566": {
+      "first_seen": 1790714848.8346667,
+      "posted": "2026-09-29",
+      "title": "Software Engineer",
+      "job_id": "200058252",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008566"
+    },
+    "1970393557008064": {
+      "first_seen": 1790714848.834668,
+      "posted": "2026-09-29",
+      "title": "Senior Detection Portfolio Engineer",
+      "job_id": "200058056",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008064"
+    },
+    "1970393556860973": {
+      "first_seen": 1790714848.8346698,
+      "posted": "2026-09-29",
+      "title": "Software Engineer - CTJ - Poly",
+      "job_id": "200035645",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973"
+    },
+    "1970393557016433": {
+      "first_seen": 1790714848.834671,
+      "posted": "2026-09-29",
+      "title": "Software Engineering II",
+      "job_id": "200058578",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557016433"
+    },
+    "1970393557007991": {
+      "first_seen": 1790714848.8346727,
+      "posted": "2026-09-29",
+      "title": "Senior Software Engineer - CTJ - TS/SCI",
+      "job_id": "200057999",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557007991"
+    },
+    "1970393556999173": {
+      "first_seen": 1790714848.8346744,
+      "posted": "2026-09-29",
+      "title": "Software Engineer II - CTJ - Poly",
+      "job_id": "200055889",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999173"
+    },
+    "1970393557014905": {
+      "first_seen": 1790714848.8346756,
+      "posted": "2026-09-29",
+      "title": "Senior Software Engineer - CoreAI",
+      "job_id": "200058479",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557014905"
+    },
+    "1970393556983222": {
+      "first_seen": 1790714848.8346767,
+      "posted": "2026-09-28",
+      "title": "Azure Cloud Infrastructure Engineer",
+      "job_id": "200052630",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983222"
+    },
+    "1970393556914839": {
+      "first_seen": 1790714848.8346777,
+      "posted": "2026-09-28",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "job_id": "200041565",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839"
+    },
+    "1970393557007990": {
+      "first_seen": 1790714848.8346791,
+      "posted": "2026-09-28",
+      "title": "Software Engineer",
+      "job_id": "200057994",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557007990"
+    },
+    "1970393556969536": {
+      "first_seen": 1790714848.8346806,
+      "posted": "2026-09-28",
+      "title": "Software Engineer II",
+      "job_id": "200049090",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556969536"
+    },
+    "1970393557002080": {
+      "first_seen": 1790714848.8346825,
+      "posted": "2026-09-28",
+      "title": "Software Engineer II - Windows in Cloud",
+      "job_id": "200056884",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557002080"
+    },
+    "1970393557008050": {
+      "first_seen": 1790714848.8346837,
+      "posted": "2026-09-28",
+      "title": "Senior Software Engineer, Online Ads Frontend",
+      "job_id": "200058033",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008050"
+    },
+    "1970393556986766": {
+      "first_seen": 1790714848.8346848,
+      "posted": "2026-09-28",
+      "title": "Senior Software Engineer - CTJ - Poly",
+      "job_id": "200053388",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986766"
+    },
+    "1970393556945260": {
+      "first_seen": 1790714848.834686,
+      "posted": "2026-09-26",
+      "title": "Senior Software Engineer",
+      "job_id": "200045539",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556945260"
+    },
+    "1970393556869701": {
+      "first_seen": 1790714848.834687,
+      "posted": "2026-09-25",
+      "title": "Senior Software Engineer - DPU Integrations",
+      "job_id": "200038443",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556869701"
+    },
+    "1970393557001979": {
+      "first_seen": 1790714848.8346882,
+      "posted": "2026-09-25",
+      "title": "Cloud Network Engineer",
+      "job_id": "200056831",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557001979"
+    },
+    "1970393557007640": {
+      "first_seen": 1790714848.8346891,
+      "posted": "2026-09-25",
+      "title": "Senior Software Engineer - Copilot",
+      "job_id": "200057871",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557007640"
+    },
+    "1970393557007484": {
+      "first_seen": 1790714848.83469,
+      "posted": "2026-09-25",
+      "title": "Software Engineering IC4",
+      "job_id": "200057803",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557007484"
+    },
+    "1970393557006899": {
+      "first_seen": 1790714848.8346908,
+      "posted": "2026-09-25",
+      "title": "Software Engineer II - Operating Systems",
+      "job_id": "200057588",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557006899"
+    },
+    "1970393556995496": {
+      "first_seen": 1790714848.8346913,
+      "posted": "2026-09-25",
+      "title": "Software Engineer I - CTJ - Poly",
+      "job_id": "200055479",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556995496"
+    },
+    "1970393556982278": {
+      "first_seen": 1790714848.8346918,
+      "posted": "2026-09-25",
+      "title": "Software Engineer II - C++",
+      "job_id": "200052132",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982278"
+    },
+    "1970393556926994": {
+      "first_seen": 1790714848.834693,
+      "posted": "2026-09-25",
+      "title": "Senior Software Engineer",
+      "job_id": "200042782",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926994"
+    },
+    "1970393556982728": {
+      "first_seen": 1790714848.8346941,
+      "posted": "2026-09-25",
+      "title": "Software Engineer II - Fundamentals",
+      "job_id": "200052349",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982728"
+    },
+    "1970393557004928": {
+      "first_seen": 1790714848.8346949,
+      "posted": "2026-09-25",
+      "title": "Software Engineer - User Experience",
+      "job_id": "200057382",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004928"
+    },
+    "1970393556972729": {
+      "first_seen": 1790714848.834696,
+      "posted": "2026-09-25",
+      "title": "Senior Software Engineer (Windows ML MLIR Platform)",
+      "job_id": "200049773",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972729"
+    },
+    "1970393557001880": {
+      "first_seen": 1790714848.8346975,
+      "posted": "2026-09-25",
+      "title": "Software Engineer II - CTJ - Poly",
+      "job_id": "200056724",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557001880"
+    },
+    "1970393556867127": {
+      "first_seen": 1790714848.8346987,
+      "posted": "2026-09-25",
+      "title": "Senior Software Engineer",
+      "job_id": "200037606",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867127"
+    },
+    "1970393556981906": {
+      "first_seen": 1790714848.8346999,
+      "posted": "2026-09-25",
+      "title": "Senior Software Engineer",
+      "job_id": "200051820",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981906"
+    },
+    "1970393557008070": {
+      "first_seen": 1790714848.8347006,
+      "posted": "2026-09-24",
+      "title": "Software Engineer II - Storage and File Systems",
+      "job_id": "200058042",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008070"
+    },
+    "1970393557007526": {
+      "first_seen": 1790714848.8347015,
+      "posted": "2026-09-24",
+      "title": "Software Engineer II - AI Infrastructure",
+      "job_id": "200057843",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557007526"
+    },
+    "1970393556995345": {
+      "first_seen": 1790714848.8347027,
+      "posted": "2026-09-24",
+      "title": "Software Engineer II",
+      "job_id": "200055410",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556995345"
+    },
+    "1970393557002604": {
+      "first_seen": 1790714848.834704,
+      "posted": "2026-09-24",
+      "title": "Security Engineer",
+      "job_id": "200057045",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557002604"
+    },
+    "1970393556992027": {
+      "first_seen": 1790714848.834705,
+      "posted": "2026-09-24",
+      "title": "Software Engineer II/Sr. Software Engineer",
+      "job_id": "200054590",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556992027"
+    },
+    "1970393557002217": {
+      "first_seen": 1790714848.8347065,
+      "posted": "2026-09-24",
+      "title": "Senior Software Engineer - Trust Experience and Compliance team",
+      "job_id": "200056919",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557002217"
+    },
+    "1970393557002610": {
+      "first_seen": 1790714848.8347077,
+      "posted": "2026-09-24",
+      "title": "Senior Software Engineer",
+      "job_id": "200057050",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557002610"
+    },
+    "1970393557007257": {
+      "first_seen": 1790714848.8347087,
+      "posted": "2026-09-24",
+      "title": "Software Engineer II",
+      "job_id": "200057667",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557007257"
+    },
+    "1970393556958208": {
+      "first_seen": 1790714848.8347094,
+      "posted": "2026-09-24",
+      "title": "Software Engineer II",
+      "job_id": "200047436",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556958208"
+    },
+    "1970393557002747": {
+      "first_seen": 1790714848.8347104,
+      "posted": "2026-09-24",
+      "title": "Cloud Network Engineer - CTJ - Poly",
+      "job_id": "200057137",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557002747"
+    },
+    "1970393556998691": {
+      "first_seen": 1790714848.8347116,
+      "posted": "2026-09-24",
+      "title": "Senior Forward Deployed Engineer",
+      "job_id": "200055820",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556998691"
+    },
+    "1970393556998699": {
+      "first_seen": 1790714848.8347123,
+      "posted": "2026-09-24",
+      "title": "Senior Forward Deployed Engineer",
+      "job_id": "200055823",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556998699"
+    },
+    "1970393556955745": {
+      "first_seen": 1790714848.834713,
+      "posted": "2026-09-24",
+      "title": "Senior Software Engineer",
+      "job_id": "200046770",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955745"
+    },
+    "1970393557004525": {
+      "first_seen": 1790714848.8347142,
+      "posted": "2026-09-24",
+      "title": "Senior Software Engineer - Microservices & Windows Imaging",
+      "job_id": "200057231",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004525"
+    },
+    "1970393556922928": {
+      "first_seen": 1790714848.834715,
+      "posted": "2026-09-24",
+      "title": "Software Engineer II - Compromise & Fraud Protection",
+      "job_id": "200042198",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922928"
+    },
+    "1970393556980793": {
+      "first_seen": 1790714848.8347158,
+      "posted": "2026-09-24",
+      "title": "Senior Software Engineer",
+      "job_id": "200051289",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556980793"
+    },
+    "1970393556955801": {
+      "first_seen": 1790714848.834717,
+      "posted": "2026-09-24",
+      "title": "Sr. Software Engineer",
+      "job_id": "200046806",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955801"
+    },
+    "1970393556958701": {
+      "first_seen": 1790714848.834718,
+      "posted": "2026-09-24",
+      "title": "Senior Software Engineer",
+      "job_id": "200047631",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556958701"
+    },
+    "1970393557002586": {
+      "first_seen": 1790714848.834719,
+      "posted": "2026-09-23",
+      "title": "Software Engineer II - Backend",
+      "job_id": "200057034",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557002586"
+    },
+    "1970393557002595": {
+      "first_seen": 1790714848.8347197,
+      "posted": "2026-09-23",
+      "title": "Senior & Principal Software Engineer - Systems & Infrastructure",
+      "job_id": "200057041",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557002595"
+    },
+    "1970393557005291": {
+      "first_seen": 1790714848.8347208,
+      "posted": "2026-09-23",
+      "title": "Software Engineer II - UI/UX Product Engineering",
+      "job_id": "200057394",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557005291"
+    },
+    "1970393556982924": {
+      "first_seen": 1790714848.8347213,
+      "posted": "2026-09-23",
+      "title": "Software Engineer - Intune",
+      "job_id": "200052447",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982924"
+    },
+    "1970393556959667": {
+      "first_seen": 1790714848.8347225,
+      "posted": "2026-09-23",
+      "title": "Senior Software Engineer - Substrate App Platform team",
+      "job_id": "200047800",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556959667"
+    },
+    "1970393556856910": {
+      "first_seen": 1790714848.834724,
+      "posted": "2026-09-23",
+      "title": "Sr. Software Engineering",
+      "job_id": "200034283",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856910"
+    },
+    "1970393557004677": {
+      "first_seen": 1790714848.8347256,
+      "posted": "2026-09-23",
+      "title": "Security Research Engineer",
+      "job_id": "200057271",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004677"
+    },
+    "1970393556953704": {
+      "first_seen": 1790714848.8347268,
+      "posted": "2026-09-23",
+      "title": "Senior Software Engineer",
+      "job_id": "200046484",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953704"
+    },
+    "1970393556998562": {
+      "first_seen": 1790714848.834728,
+      "posted": "2026-09-23",
+      "title": "Senior Network Security Engineer",
+      "job_id": "200055739",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556998562"
+    },
+    "1970393556853720": {
+      "first_seen": 1790714848.834729,
+      "posted": "2026-09-23",
+      "title": "Senior Software Engineer - Performance Tooling",
+      "job_id": "200033507",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556853720"
+    },
+    "1970393556944353": {
+      "first_seen": 1790714848.8347297,
+      "posted": "2026-09-23",
+      "title": "Senior Software Engineer",
+      "job_id": "200045384",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556944353"
+    },
+    "1970393556991944": {
+      "first_seen": 1790714848.8347309,
+      "posted": "2026-09-23",
+      "title": "Senior Data Engineer",
+      "job_id": "200054507",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556991944"
+    },
+    "1970393556960243": {
+      "first_seen": 1790714848.8347323,
+      "posted": "2026-09-23",
+      "title": "Senior Software Engineer",
+      "job_id": "200047882",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556960243"
+    },
+    "1970393557004712": {
+      "first_seen": 1790714848.8347332,
+      "posted": "2026-09-23",
+      "title": "Senior Software Engineer, Mixed Reality",
+      "job_id": "200057291",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004712"
+    },
+    "1970393556938697": {
+      "first_seen": 1790714848.834734,
+      "posted": "2026-09-23",
+      "title": "Senior Site Reliability Engineer",
+      "job_id": "200043923",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556938697"
+    },
+    "1970393557004889": {
+      "first_seen": 1790714848.834735,
+      "posted": "2026-09-23",
+      "title": "Software Engineer 2 - CoreAI",
+      "job_id": "200057363",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004889"
+    },
+    "1970393557004869": {
+      "first_seen": 1790714848.8347354,
+      "posted": "2026-09-23",
+      "title": "Senior Security Engineer - Development",
+      "job_id": "200057350",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004869"
+    },
+    "1970393557006869": {
+      "first_seen": 1790714848.834736,
+      "posted": "2026-09-23",
+      "title": "Platform Service Engineer",
+      "job_id": "200057565",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557006869"
+    },
+    "1970393556999328": {
+      "first_seen": 1790714848.834737,
+      "posted": "2026-09-23",
+      "title": "Software Engineer II - CTJ- POLY",
+      "job_id": "200055970",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999328"
+    },
+    "1970393556986674": {
+      "first_seen": 1790714848.834738,
+      "posted": "2026-09-22",
+      "title": "Senior Software Engineer",
+      "job_id": "200053374",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986674"
+    },
+    "1970393557001458": {
+      "first_seen": 1790714848.8347397,
+      "posted": "2026-09-22",
+      "title": "Software Engineering, CoreAI",
+      "job_id": "200056676",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557001458"
+    },
+    "1970393556986783": {
+      "first_seen": 1790714848.8347406,
+      "posted": "2026-09-22",
+      "title": "Senior Software Engineer",
+      "job_id": "200053413",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986783"
+    },
+    "1970393556752179": {
+      "first_seen": 1790714848.834742,
+      "posted": "2026-09-22",
+      "title": "Senior Software Engineer",
+      "job_id": "200025773",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752179"
+    },
+    "1970393556982903": {
+      "first_seen": 1790714848.8347428,
+      "posted": "2026-09-22",
+      "title": "Software Engineer - CTJ - TS (Cleared)",
+      "job_id": "200052440",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982903"
+    },
+    "1970393556982911": {
+      "first_seen": 1790714848.8347435,
+      "posted": "2026-09-22",
+      "title": "Software Engineer - CTJ - TS (Cleared)",
+      "job_id": "200052442",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982911"
+    },
+    "1970393557006772": {
+      "first_seen": 1790714848.834745,
+      "posted": "2026-09-22",
+      "title": "Software Engineer II - CTJ - Poly",
+      "job_id": "200057538",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557006772"
+    },
+    "1970393556859432": {
+      "first_seen": 1790714848.8347456,
+      "posted": "2026-09-22",
+      "title": "Software Engineer - CTJ - Poly",
+      "job_id": "200035142",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859432"
+    },
+    "1970393557004890": {
+      "first_seen": 1790714848.8347464,
+      "posted": "2026-09-22",
+      "title": "Software Engineer 2 - Engineering Systems",
+      "job_id": "200057367",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004890"
+    },
+    "1970393557004762": {
+      "first_seen": 1790714848.8347473,
+      "posted": "2026-09-22",
+      "title": "Senior Software Engineer - CTJ - Poly",
+      "job_id": "200057297",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004762"
+    },
+    "1970393556999283": {
+      "first_seen": 1790714848.8347478,
+      "posted": "2026-09-22",
+      "title": "Senior Software Engineer",
+      "job_id": "200055949",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999283"
+    },
+    "1970393556984158": {
+      "first_seen": 1790714848.834749,
+      "posted": "2026-09-22",
+      "title": "Service Engineer II - Ads Platform",
+      "job_id": "200052855",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556984158"
+    },
+    "1970393556853053": {
+      "first_seen": 1790714848.8347502,
+      "posted": "2026-09-22",
+      "title": "Senior Applied Scientist",
+      "job_id": "200033298",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556853053"
+    },
+    "1970393556998412": {
+      "first_seen": 1790714848.834751,
+      "posted": "2026-09-22",
+      "title": "Senior Software Engineer - Git Systems Engineering (GitHub - CoreAI)",
+      "job_id": "200055655",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556998412"
+    },
+    "1970393556942052": {
+      "first_seen": 1790714848.834752,
+      "posted": "2026-09-22",
+      "title": "Senior Software Engineer",
+      "job_id": "200044827",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556942052"
+    },
+    "1970393557004822": {
+      "first_seen": 1790714848.8347528,
+      "posted": "2026-09-22",
+      "title": "Senior Software Engineer, Integration and Automation",
+      "job_id": "200057337",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004822"
+    },
+    "1970393556899616": {
+      "first_seen": 1790714848.8347545,
+      "posted": "2026-09-22",
+      "title": "Senior Software Engineer",
+      "job_id": "200041048",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556899616"
+    },
+    "1970393556994518": {
+      "first_seen": 1790714848.834756,
+      "posted": "2026-09-22",
+      "title": "Senior Software Engineer - VS Code (GitHub - CoreAI)",
+      "job_id": "200055141",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556994518"
+    },
+    "1970393556981927": {
+      "first_seen": 1790714848.8347569,
+      "posted": "2026-09-22",
+      "title": "Software Engineer II and Senior Software Engineer",
+      "job_id": "200051841",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981927"
+    },
+    "1970393556995318": {
+      "first_seen": 1790714848.8347578,
+      "posted": "2026-09-21",
+      "title": "Data Engineer II- Windows Servicing & Delivery Update Platform team",
+      "job_id": "200055390",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556995318"
+    },
+    "1970393556980918": {
+      "first_seen": 1790714848.834759,
+      "posted": "2026-09-21",
+      "title": "Senior Software Engineer",
+      "job_id": "200051296",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556980918"
+    },
+    "1970393557002478": {
+      "first_seen": 1790714848.8347597,
+      "posted": "2026-09-21",
+      "title": "Software Development Engineer",
+      "job_id": "200057020",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557002478"
+    },
+    "1970393556992116": {
+      "first_seen": 1790714848.8347604,
+      "posted": "2026-09-21",
+      "title": "Senior Software Engineer",
+      "job_id": "200054642",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556992116"
+    },
+    "1970393556972091": {
+      "first_seen": 1790714848.8347614,
+      "posted": "2026-09-21",
+      "title": "Senior Software Engineer",
+      "job_id": "200049459",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972091"
+    },
+    "1970393556999239": {
+      "first_seen": 1790714848.8347628,
+      "posted": "2026-09-21",
+      "title": "Senior Software Engineer- M365",
+      "job_id": "200055933",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999239"
+    },
+    "1970393556971398": {
+      "first_seen": 1790714848.834764,
+      "posted": "2026-09-21",
+      "title": "Developer Experience Engineer II and/or Senior Developer Experience Engineer",
+      "job_id": "200049202",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556971398"
+    },
+    "1970393556942068": {
+      "first_seen": 1790714848.834765,
+      "posted": "2026-09-21",
+      "title": "Software Engineer II and/or Senior Software Engineer - AI Compilers",
+      "job_id": "200044839",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556942068"
+    },
+    "1970393556999978": {
+      "first_seen": 1790714848.834766,
+      "posted": "2026-09-19",
+      "title": "Senior Applied Scientist - Outlook Science Team",
+      "job_id": "200056171",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999978"
+    },
+    "1970393556999184": {
+      "first_seen": 1790714848.8347669,
+      "posted": "2026-09-18",
+      "title": "Senior Software Engineer - Full Stack AI/ML",
+      "job_id": "200055894",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999184"
+    },
+    "1970393556999149": {
+      "first_seen": 1790714848.8347678,
+      "posted": "2026-09-18",
+      "title": "Software Engineer II - CTJ- POLY",
+      "job_id": "200055883",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999149"
+    },
+    "1970393556995513": {
+      "first_seen": 1790714848.834769,
+      "posted": "2026-09-18",
+      "title": "Senior Software Engineer",
+      "job_id": "200055492",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556995513"
+    },
+    "1970393556998445": {
+      "first_seen": 1790714848.8347697,
+      "posted": "2026-09-18",
+      "title": "Software Engineer II",
+      "job_id": "200055672",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556998445"
+    },
+    "1970393556956375": {
+      "first_seen": 1790714848.8347704,
+      "posted": "2026-09-18",
+      "title": "Software Engineer 2 - Azure Functions",
+      "job_id": "200046970",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556956375"
+    },
+    "1970393556999153": {
+      "first_seen": 1790714848.8347712,
+      "posted": "2026-09-18",
+      "title": "Software Engineer II- CTJ- POLY",
+      "job_id": "200055886",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999153"
+    },
+    "1970393556864775": {
+      "first_seen": 1790714848.8347719,
+      "posted": "2026-09-18",
+      "title": "Applied AI Engineer II",
+      "job_id": "200037066",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864775"
+    },
+    "1970393556926981": {
+      "first_seen": 1790714848.8347728,
+      "posted": "2026-09-18",
+      "title": "Senior Software Engineer",
+      "job_id": "200042779",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926981"
+    },
+    "1970393557001498": {
+      "first_seen": 1790714848.8347738,
+      "posted": "2026-09-18",
+      "title": "AI Security Engineer",
+      "job_id": "200056717",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557001498"
+    },
+    "1970393556944354": {
+      "first_seen": 1790714848.8347747,
+      "posted": "2026-09-18",
+      "title": "Senior Software Engineer",
+      "job_id": "200045385",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556944354"
+    },
+    "1970393556982502": {
+      "first_seen": 1790714848.834776,
+      "posted": "2026-09-18",
+      "title": "Senior Software Engineer",
+      "job_id": "200052207",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982502"
+    },
+    "1970393556971348": {
+      "first_seen": 1790714848.8347766,
+      "posted": "2026-09-17",
+      "title": "Senior Software Engineer",
+      "job_id": "200049166",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556971348"
+    },
+    "1970393556995540": {
+      "first_seen": 1790714848.834777,
+      "posted": "2026-09-16",
+      "title": "Senior Software Engineer - CTJ - TS/SCI",
+      "job_id": "200055501",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556995540"
+    },
+    "1970393556999273": {
+      "first_seen": 1790714848.834778,
+      "posted": "2026-09-16",
+      "title": "Senior Software Engineer - Maia Model Enablement",
+      "job_id": "200055935",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999273"
+    },
+    "1970393556944449": {
+      "first_seen": 1790714848.8347788,
+      "posted": "2026-09-16",
+      "title": "Senior Security Engineer and Principal Security Engineer (Multiple Positions)",
+      "job_id": "200045403",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556944449"
+    },
+    "1970393556991990": {
+      "first_seen": 1790714848.8347797,
+      "posted": "2026-09-16",
+      "title": "Software Engineer II and Sr.Software Engineer(multiple roles) Windows Engineering Systems Core Build",
+      "job_id": "200054534",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556991990"
+    },
+    "1970393556995326": {
+      "first_seen": 1790714848.8347805,
+      "posted": "2026-09-16",
+      "title": "Software Engineer II - CTJ - Poly",
+      "job_id": "200055401",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556995326"
+    },
+    "1970393556962699": {
+      "first_seen": 1790714848.8347814,
+      "posted": "2026-09-15",
+      "title": "Senior Software Engineer",
+      "job_id": "200048944",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962699"
+    },
+    "1970393556999275": {
+      "first_seen": 1790714848.8347821,
+      "posted": "2026-09-15",
+      "title": "Senior and/or Principal Software Engineer- AI Frameworks",
+      "job_id": "200055943",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999275"
+    },
+    "1970393556999280": {
+      "first_seen": 1790714848.834783,
+      "posted": "2026-09-15",
+      "title": "Senior Software Engineer- AI Frameworks",
+      "job_id": "200055940",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999280"
+    },
+    "1970393556995380": {
+      "first_seen": 1790714848.8347838,
+      "posted": "2026-09-15",
+      "title": "Senior Software Engineer - CTJ - TS/SCI",
+      "job_id": "200055440",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556995380"
+    },
+    "1970393556754360": {
+      "first_seen": 1790714848.8347845,
+      "posted": "2026-09-15",
+      "title": "Senior Software Engineer",
+      "job_id": "200027180",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556754360"
+    },
+    "1970393556995383": {
+      "first_seen": 1790714848.8347852,
+      "posted": "2026-09-15",
+      "title": "Software Engineer II - CTJ - Poly",
+      "job_id": "200055430",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556995383"
+    },
+    "1970393556999212": {
+      "first_seen": 1790714848.834786,
+      "posted": "2026-09-15",
+      "title": "Senior and/or Principal Software Engineer- AI Frameworks",
+      "job_id": "200055915",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999212"
+    },
+    "1970393556999208": {
+      "first_seen": 1790714848.8347871,
+      "posted": "2026-09-15",
+      "title": "Software Engineering II",
+      "job_id": "200055901",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999208"
+    },
+    "1970393556998542": {
+      "first_seen": 1790714848.834788,
+      "posted": "2026-09-15",
+      "title": "Senior and/or Principal Software Engineer- LLM Serving Performance",
+      "job_id": "200055726",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556998542"
+    },
+    "1970393556999207": {
+      "first_seen": 1790714848.834789,
+      "posted": "2026-09-15",
+      "title": "Software Engineering II",
+      "job_id": "200055896",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999207"
+    },
+    "1970393556994468": {
+      "first_seen": 1790714848.8347902,
+      "posted": "2026-09-15",
+      "title": "Senior Software Engineer",
+      "job_id": "200055134",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556994468"
+    },
+    "1970393556939574": {
+      "first_seen": 1790714848.834791,
+      "posted": "2026-09-14",
+      "title": "Senior Software Engineer - FDE",
+      "job_id": "200044291",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556939574"
+    },
+    "1970393556995354": {
+      "first_seen": 1790714848.834792,
+      "posted": "2026-09-12",
+      "title": "Software Engineer II - CTJ - Poly",
+      "job_id": "200055415",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556995354"
+    },
+    "1970393556992090": {
+      "first_seen": 1790714848.8347929,
+      "posted": "2026-09-11",
+      "title": "Senior Software Engineer - CTJ - Poly",
+      "job_id": "200054621",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556992090"
+    },
+    "1970393556992082": {
+      "first_seen": 1790714848.834794,
+      "posted": "2026-09-11",
+      "title": "Software Engineer II - CTJ - Poly",
+      "job_id": "200054612",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556992082"
+    },
+    "1970393556941956": {
+      "first_seen": 1790714848.834795,
+      "posted": "2026-09-11",
+      "title": "Senior Service Engineer - Azure Storage",
+      "job_id": "200044787",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556941956"
+    },
+    "1970393556988132": {
+      "first_seen": 1790714848.8347957,
+      "posted": "2026-09-11",
+      "title": "Senior Software Engineer",
+      "job_id": "200053612",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556988132"
+    },
+    "1970393556984683": {
+      "first_seen": 1790714848.834797,
+      "posted": "2026-09-11",
+      "title": "Software Engineer II - CTJ - POLY",
+      "job_id": "200053056",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556984683"
+    },
+    "1970393556924521": {
+      "first_seen": 1790714848.8347974,
+      "posted": "2026-09-11",
+      "title": "Senior Software Engineer",
+      "job_id": "200042397",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556924521"
+    },
+    "1970393556994428": {
+      "first_seen": 1790714848.834798,
+      "posted": "2026-09-10",
+      "title": "Software Engineering II and Senior Software Engineer (CoreAI - Post Training)",
+      "job_id": "200055109",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556994428"
+    },
+    "1970393556945414": {
+      "first_seen": 1790714848.8347988,
+      "posted": "2026-09-10",
+      "title": "Software Engineer II",
+      "job_id": "200045590",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556945414"
+    },
+    "1970393556992147": {
+      "first_seen": 1790714848.8347995,
+      "posted": "2026-09-10",
+      "title": "Senior Software Engineer (Agentic AI)",
+      "job_id": "200054665",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556992147"
+    },
+    "1970393556952551": {
+      "first_seen": 1790714848.8348002,
+      "posted": "2026-09-09",
+      "title": "Software Engineer II and/or Senior Software Engineer - Backend",
+      "job_id": "200046273",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556952551"
+    },
+    "1970393556988227": {
+      "first_seen": 1790714848.8348014,
+      "posted": "2026-09-09",
+      "title": "Security Engineer II",
+      "job_id": "200053674",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556988227"
+    },
+    "1970393556950757": {
+      "first_seen": 1790714848.8348022,
+      "posted": "2026-09-08",
+      "title": "Senior Software Engineer",
+      "job_id": "200046068",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556950757"
+    },
+    "1970393556950618": {
+      "first_seen": 1790714848.8348029,
+      "posted": "2026-09-08",
+      "title": "Senior Software Engineer",
+      "job_id": "200046031",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556950618"
+    },
+    "1970393556983319": {
+      "first_seen": 1790714848.8348038,
+      "posted": "2026-09-04",
+      "title": "Senior Software Engineer - Windows Solutions FDE",
+      "job_id": "200052666",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983319"
+    },
+    "1970393556988036": {
+      "first_seen": 1790714848.8348043,
+      "posted": "2026-09-04",
+      "title": "Software Engineer II - CTJ - Poly",
+      "job_id": "200053568",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556988036"
+    },
+    "1970393556983003": {
+      "first_seen": 1790714848.834805,
+      "posted": "2026-09-04",
+      "title": "Software Engineer II",
+      "job_id": "200052464",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983003"
+    },
+    "1970393556949556": {
+      "first_seen": 1790714848.8348057,
+      "posted": "2026-09-03",
+      "title": "Senior Applied Scientist-Ads Monetization",
+      "job_id": "200045933",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556949556"
+    },
+    "1970393556950907": {
+      "first_seen": 1790714848.8348072,
+      "posted": "2026-09-03",
+      "title": "Senior and/or Principal Software Engineer - AI Frameworks Networking, Systems and Tools",
+      "job_id": "200046146",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556950907"
+    },
+    "1970393556956513": {
+      "first_seen": 1790714848.834808,
+      "posted": "2026-09-03",
+      "title": "Senior Software Engineer",
+      "job_id": "200047074",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556956513"
+    },
+    "1970393556874947": {
+      "first_seen": 1790714848.834809,
+      "posted": "2026-09-02",
+      "title": "Software Engineer",
+      "job_id": "200040324",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556874947"
+    },
+    "1970393556939575": {
+      "first_seen": 1790714848.8348098,
+      "posted": "2026-09-02",
+      "title": "Software Engineer - FDE",
+      "job_id": "200044292",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556939575"
+    },
+    "1970393556945456": {
+      "first_seen": 1790714848.8348107,
+      "posted": "2026-09-02",
+      "title": "Senior and/or Principal Software Engineer - Performance",
+      "job_id": "200045617",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556945456"
+    },
+    "1970393556982499": {
+      "first_seen": 1790714848.8348114,
+      "posted": "2026-09-02",
+      "title": "Senior Software Engineer",
+      "job_id": "200052210",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982499"
+    },
+    "1970393556960670": {
+      "first_seen": 1790714848.8348126,
+      "posted": "2026-09-01",
+      "title": "Senior Software Engineer",
+      "job_id": "200048249",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556960670"
+    },
+    "1970393556981197": {
+      "first_seen": 1790714848.834813,
+      "posted": "2026-09-01",
+      "title": "Senior Software Engineer",
+      "job_id": "200051484",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981197"
+    },
+    "1970393556956564": {
+      "first_seen": 1790714848.8348145,
+      "posted": "2026-09-01",
+      "title": "Senior Software Engineer",
+      "job_id": "200047092",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556956564"
+    },
+    "1970393556959733": {
+      "first_seen": 1790714848.8348148,
+      "posted": "2026-09-01",
+      "title": "Senior Software Engineer - AI Experiences, Microsoft Edge",
+      "job_id": "200047834",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556959733"
+    },
+    "1970393556981198": {
+      "first_seen": 1790714848.8348153,
+      "posted": "2026-08-31",
+      "title": "Software Engineer II",
+      "job_id": "200051486",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981198"
+    },
+    "1970393556980225": {
+      "first_seen": 1790714848.834816,
+      "posted": "2026-08-28",
+      "title": "Senior Software Engineer",
+      "job_id": "200050899",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556980225"
+    },
+    "1970393556981118": {
+      "first_seen": 1790714848.8348167,
+      "posted": "2026-08-28",
+      "title": "Senior Software Engineer",
+      "job_id": "200051435",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981118"
+    },
+    "1970393556981453": {
+      "first_seen": 1790714848.8348176,
+      "posted": "2026-08-27",
+      "title": "Senior Software Engineer - Ads Data Platform",
+      "job_id": "200051643",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556981453"
+    },
+    "1970393556978398": {
+      "first_seen": 1790714848.8348184,
+      "posted": "2026-08-26",
+      "title": "Senior Software Engineer",
+      "job_id": "200050168",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556978398"
+    },
+    "1970393556978598": {
+      "first_seen": 1790714848.834819,
+      "posted": "2026-08-26",
+      "title": "Senior Applied Scientist",
+      "job_id": "200050264",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556978598"
+    },
+    "1970393556641776": {
+      "first_seen": 1790714848.8348196,
+      "posted": "2026-08-25",
+      "title": "Software Engineer AI Infra",
+      "job_id": "200015777",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556641776"
+    },
+    "1970393556978027": {
+      "first_seen": 1790714848.8348203,
+      "posted": "2026-08-25",
+      "title": "Sr. Software Engineer -CTJ- Poly",
+      "job_id": "200049958",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556978027"
+    },
+    "1970393556957379": {
+      "first_seen": 1790714848.8348215,
+      "posted": "2026-08-25",
+      "title": "Senior Software Engineer - Windows App",
+      "job_id": "200047144",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556957379"
+    },
+    "1970393556874530": {
+      "first_seen": 1790714848.834822,
+      "posted": "2026-08-21",
+      "title": "Senior Software Engineer",
+      "job_id": "200040108",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556874530"
+    },
+    "1970393556978114": {
+      "first_seen": 1790714848.8348227,
+      "posted": "2026-08-21",
+      "title": "Senior Software Engineer - AI Experiences, Copilot",
+      "job_id": "200050006",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556978114"
+    },
+    "1970393556971607": {
+      "first_seen": 1790714848.8348234,
+      "posted": "2026-08-21",
+      "title": "Senior Software Engineer - Windows 365 Link",
+      "job_id": "200049353",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556971607"
+    },
+    "1970393556962586": {
+      "first_seen": 1790714848.8348246,
+      "posted": "2026-08-20",
+      "title": "Senior Software Engineer",
+      "job_id": "200048905",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962586"
+    },
+    "1970393556972103": {
+      "first_seen": 1790714848.834825,
+      "posted": "2026-08-19",
+      "title": "Senior Software Engineer",
+      "job_id": "200049475",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972103"
+    },
+    "1970393556962976": {
+      "first_seen": 1790714848.8348258,
+      "posted": "2026-08-19",
+      "title": "Senior Software Engineer",
+      "job_id": "200049070",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962976"
+    },
+    "1970393556972760": {
+      "first_seen": 1790714848.8348265,
+      "posted": "2026-08-19",
+      "title": "Senior Data & Applied Scientist",
+      "job_id": "200049810",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972760"
+    },
+    "1970393556971567": {
+      "first_seen": 1790714848.8348286,
+      "posted": "2026-08-17",
+      "title": "Software Engineer II - CTJ - Poly",
+      "job_id": "200049322",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556971567"
+    },
+    "1970393556955710": {
+      "first_seen": 1790714848.834829,
+      "posted": "2026-08-17",
+      "title": "Senior Software Engineer",
+      "job_id": "200046750",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955710"
+    },
+    "1970393556960465": {
+      "first_seen": 1790714848.8348296,
+      "posted": "2026-08-14",
+      "title": "Software Engineer II",
+      "job_id": "200048083",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556960465"
+    },
+    "1970393556929195": {
+      "first_seen": 1790714848.8348303,
+      "posted": "2026-08-14",
+      "title": "Senior Software Engineer, MS Edge Growth",
+      "job_id": "200043310",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556929195"
+    },
+    "1970393556958162": {
+      "first_seen": 1790714848.8348315,
+      "posted": "2026-08-14",
+      "title": "Software Engineer II",
+      "job_id": "200047407",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556958162"
+    },
+    "1970393556960260": {
+      "first_seen": 1790714848.8348324,
+      "posted": "2026-08-14",
+      "title": "Senior Software Engineer, Ads",
+      "job_id": "200047896",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556960260"
+    },
+    "1970393556957406": {
+      "first_seen": 1790714848.8348331,
+      "posted": "2026-08-11",
+      "title": "Service Engineer II - A365 and AI Admin",
+      "job_id": "200047160",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556957406"
+    },
+    "1970393556945279": {
+      "first_seen": 1790714848.834834,
+      "posted": "2026-08-11",
+      "title": "Senior Software Engineer",
+      "job_id": "200045542",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556945279"
+    },
+    "1970393556860172": {
+      "first_seen": 1790714848.8348346,
+      "posted": "2026-08-10",
+      "title": "Senior Software Engineer - Responsible AI - CoreAI",
+      "job_id": "200035405",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860172"
+    },
+    "1970393556944404": {
+      "first_seen": 1790714848.8348355,
+      "posted": "2026-08-07",
+      "title": "Senior Software Engineer",
+      "job_id": "200045386",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556944404"
+    },
+    "1970393556955027": {
+      "first_seen": 1790714848.834836,
+      "posted": "2026-08-07",
+      "title": "Software Engineer II",
+      "job_id": "200046564",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955027"
+    },
+    "1970393556958399": {
+      "first_seen": 1790714848.834837,
+      "posted": "2026-08-07",
+      "title": "Senior/Principal Software Engineer",
+      "job_id": "200047554",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556958399"
+    },
+    "1970393556955804": {
+      "first_seen": 1790714848.8348377,
+      "posted": "2026-08-07",
+      "title": "Senior Software Engineer",
+      "job_id": "200046803",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955804"
+    },
+    "1970393556958137": {
+      "first_seen": 1790714848.8348386,
+      "posted": "2026-08-06",
+      "title": "Senior Software Engineer",
+      "job_id": "200047403",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556958137"
+    },
+    "1970393556863227": {
+      "first_seen": 1790714848.8348396,
+      "posted": "2026-08-06",
+      "title": "Software Engineer II, Foundry Agents - CoreAI",
+      "job_id": "200036533",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863227"
+    },
+    "1970393556955762": {
+      "first_seen": 1790714848.8348405,
+      "posted": "2026-08-05",
+      "title": "Senior Software Engineer - CoreAI",
+      "job_id": "200046792",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955762"
+    },
+    "1970393556957550": {
+      "first_seen": 1790714848.834841,
+      "posted": "2026-08-05",
+      "title": "Senior Data & Applied Scientist",
+      "job_id": "200047225",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556957550"
+    },
+    "1970393556943739": {
+      "first_seen": 1790714848.834842,
+      "posted": "2026-08-03",
+      "title": "Senior Software Engineer",
+      "job_id": "200045220",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556943739"
+    },
+    "1970393556953139": {
+      "first_seen": 1790714848.834843,
+      "posted": "2026-07-31",
+      "title": "Cloud Network Engineer II",
+      "job_id": "200046374",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953139"
+    },
+    "1970393556945467": {
+      "first_seen": 1790714848.8348436,
+      "posted": "2026-07-31",
+      "title": "Senior Software Engineer, Ads Platform",
+      "job_id": "200045639",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556945467"
+    },
+    "1970393556944467": {
+      "first_seen": 1790714848.8348446,
+      "posted": "2026-07-31",
+      "title": "Senior Software Engineer, Media Platforms",
+      "job_id": "200045408",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556944467"
+    },
+    "1970393556944468": {
+      "first_seen": 1790714848.834845,
+      "posted": "2026-07-31",
+      "title": "Senior Software Engineer, Event Integrations",
+      "job_id": "200045414",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556944468"
+    },
+    "1970393556944466": {
+      "first_seen": 1790714848.834846,
+      "posted": "2026-07-31",
+      "title": "Senior Software Engineer, Distributed Systems",
+      "job_id": "200045410",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556944466"
+    },
+    "1970393556944736": {
+      "first_seen": 1790714848.8348465,
+      "posted": "2026-07-30",
+      "title": "Senior Software Engineer, Ads Platform Frontend",
+      "job_id": "200045440",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556944736"
+    },
+    "1970393556944463": {
+      "first_seen": 1790714848.8348475,
+      "posted": "2026-07-30",
+      "title": "Senior Software Engineer, Ads AI",
+      "job_id": "200045411",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556944463"
+    },
+    "1970393556945521": {
+      "first_seen": 1790714848.8348484,
+      "posted": "2026-07-30",
+      "title": "Senior Language Engineer",
+      "job_id": "200045677",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556945521"
+    },
+    "1970393556947844": {
+      "first_seen": 1790714848.8348489,
+      "posted": "2026-07-30",
+      "title": "Sr. Software Engineer -CTJ- Poly",
+      "job_id": "200045840",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556947844"
+    },
+    "1970393556942025": {
+      "first_seen": 1790714848.8348498,
+      "posted": "2026-07-29",
+      "title": "Sr. Software Engineer - CTJ - Secret",
+      "job_id": "200044821",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556942025"
+    },
+    "1970393556944723": {
+      "first_seen": 1790714848.8348505,
+      "posted": "2026-07-29",
+      "title": "Senior Software Engineer, Ads Platform Frontend",
+      "job_id": "200045437",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556944723"
+    },
+    "1970393556943730": {
+      "first_seen": 1790714848.8348513,
+      "posted": "2026-07-24",
+      "title": "Software Engineer II",
+      "job_id": "200045217",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556943730"
+    },
+    "1970393556942087": {
+      "first_seen": 1790714848.834852,
+      "posted": "2026-07-23",
+      "title": "Senior Software Engineering, Ads Platform",
+      "job_id": "200044853",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556942087"
+    },
+    "1970393556940340": {
+      "first_seen": 1790714848.834853,
+      "posted": "2026-07-23",
+      "title": "Senior Software Engineer",
+      "job_id": "200044389",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556940340"
+    },
+    "1970393556928325": {
+      "first_seen": 1790714848.834854,
+      "posted": "2026-07-17",
+      "title": "Software Engineer",
+      "job_id": "200043065",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928325"
+    },
+    "1970393556855692": {
+      "first_seen": 1790714848.8348544,
+      "posted": "2026-07-16",
+      "title": "Senior Software Engineer",
+      "job_id": "200033788",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855692"
+    },
+    "1970393556928467": {
+      "first_seen": 1790714848.8348548,
+      "posted": "2026-07-16",
+      "title": "Senior Software Engineer",
+      "job_id": "200043114",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928467"
+    },
+    "1970393556928312": {
+      "first_seen": 1790714848.8348553,
+      "posted": "2026-07-15",
+      "title": "Senior Software Engineer",
+      "job_id": "200043059",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928312"
+    },
+    "1970393556928404": {
+      "first_seen": 1790714848.8348563,
+      "posted": "2026-07-14",
+      "title": "Software Engineer II",
+      "job_id": "200043101",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928404"
+    },
+    "1970393556929279": {
+      "first_seen": 1790714848.834857,
+      "posted": "2026-07-13",
+      "title": "Sr Software Engineer/Principal Software Engineer",
+      "job_id": "200043324",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556929279"
+    },
+    "1970393556928923": {
+      "first_seen": 1790714848.8348575,
+      "posted": "2026-07-10",
+      "title": "Senior/Software Engineer II - Backend",
+      "job_id": "200043253",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928923"
+    },
+    "1970393556650765": {
+      "first_seen": 1790714848.8348582,
+      "posted": "2026-07-10",
+      "title": "Applied Scientist II / Senior Applied Scientist - Responsible AI (CoreAI)",
+      "job_id": "200017828",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556650765"
+    },
+    "1970393556753211": {
+      "first_seen": 1790714848.8348596,
+      "posted": "2026-07-10",
+      "title": "Member of Technical Staff - Responsible AI (CoreAI)",
+      "job_id": "200026409",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556753211"
+    },
+    "1970393556754916": {
+      "first_seen": 1790714848.8348606,
+      "posted": "2026-07-07",
+      "title": "Senior/Principal Software Engineer - Growth (CoreAI)",
+      "job_id": "200027546",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556754916"
+    },
+    "1970393556746669": {
+      "first_seen": 1790714848.8348613,
+      "posted": "2026-07-01",
+      "title": "Senior Software Engineer",
+      "job_id": "200023147",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556746669"
+    },
+    "1970393556915319": {
+      "first_seen": 1790714848.834862,
+      "posted": "2026-06-29",
+      "title": "Principal/Senior Software Engineer, Experimentation Platform - CoreAI",
+      "job_id": "200041631",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556915319"
+    },
+    "1970393556875882": {
+      "first_seen": 1790714848.834863,
+      "posted": "2026-06-25",
+      "title": "Senior Software Engineer",
+      "job_id": "200040584",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556875882"
+    },
+    "1970393556863455": {
+      "first_seen": 1790714848.8348637,
+      "posted": "2026-06-25",
+      "title": "Senior Applied Scientist",
+      "job_id": "200036651",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863455"
+    },
+    "1970393556855901": {
+      "first_seen": 1790714848.8348644,
+      "posted": "2026-06-24",
+      "title": "Senior Software Engineer - Network Engineer",
+      "job_id": "200033853",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855901"
+    },
+    "1970393556874987": {
+      "first_seen": 1790714848.8348653,
+      "posted": "2026-06-24",
+      "title": "Senior Software Engineering",
+      "job_id": "200040340",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556874987"
+    },
+    "1970393556913038": {
+      "first_seen": 1790714848.8348663,
+      "posted": "2026-06-24",
+      "title": "Member of Technical Staff, Microsoft Robotics",
+      "job_id": "200041301",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556913038"
+    },
+    "1970393556866169": {
+      "first_seen": 1790714848.834867,
+      "posted": "2026-06-02",
+      "title": "Sr. Software Engineer - CTJ - Poly",
+      "job_id": "200037212",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866169"
+    },
+    "1970393556863430": {
+      "first_seen": 1790714848.8348675,
+      "posted": "2026-06-02",
+      "title": "Software Engineer II - CTJ - Poly",
+      "job_id": "200036633",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863430"
+    },
+    "1970393556872425": {
+      "first_seen": 1790714848.8348682,
+      "posted": "2026-06-02",
+      "title": "Senior Software Engineer/ Principal Software Engineer - Copilot CLI",
+      "job_id": "200039153",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556872425"
+    },
+    "1970393556864745": {
+      "first_seen": 1790714848.834869,
+      "posted": "2026-05-20",
+      "title": "Senior Software Engineer",
+      "job_id": "200037052",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864745"
+    },
+    "1970393556863239": {
+      "first_seen": 1790714848.8348699,
+      "posted": "2026-05-18",
+      "title": "Sr. Software Engineer -CTJ- Poly",
+      "job_id": "200036536",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863239"
+    },
+    "1970393556863221": {
+      "first_seen": 1790714848.8348708,
+      "posted": "2026-05-11",
+      "title": "Senior Software Engineer, Foundry Agents - CoreAI",
+      "job_id": "200036529",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863221"
+    },
+    "1970393556756267": {
+      "first_seen": 1790714848.8348713,
+      "posted": "2026-04-21",
+      "title": "Software Engineer II- (GCC\u2011High/DoD)- CTJ- Secret",
+      "job_id": "200027997",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556756267"
+    },
+    "1970393556857965": {
+      "first_seen": 1790714848.8348722,
+      "posted": "2026-04-16",
+      "title": "Senior Research Software Engineer",
+      "job_id": "200034594",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556857965"
+    },
+    "1970393556856214": {
+      "first_seen": 1790714848.8348732,
+      "posted": "2026-04-06",
+      "title": "Software Engineering II - CTJ - Poly",
+      "job_id": "200033996",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856214"
+    },
+    "1970393556637088": {
+      "first_seen": 1790714848.834874,
+      "posted": "2026-04-03",
+      "title": "Software Engineer II -CTJ - Poly",
+      "job_id": "200012081",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556637088"
+    },
+    "1970393556852481": {
+      "first_seen": 1790714848.8348746,
+      "posted": "2026-03-25",
+      "title": "Software Engineer II - CTJ - Poly",
+      "job_id": "200033073",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852481"
+    },
+    "1970393556843673": {
+      "first_seen": 1790714848.8348753,
+      "posted": "2026-03-19",
+      "title": "Site Reliability Engineering- CTJ- Poly",
+      "job_id": "200031762",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556843673"
+    },
+    "1970393556824773": {
+      "first_seen": 1790714848.834876,
+      "posted": "2026-03-18",
+      "title": "Software Engineer - CTJ - Poly",
+      "job_id": "200030145",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824773"
+    },
+    "1970393556744851": {
+      "first_seen": 1790714848.8348768,
+      "posted": "2026-02-24",
+      "title": "Software Engineer II",
+      "job_id": "200022182",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556744851"
+    },
+    "1970393556761670": {
+      "first_seen": 1790714848.834877,
+      "posted": "2026-02-20",
+      "title": "Site Reliability Engineer - CTJ - POLY",
+      "job_id": "200028305",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556761670"
+    },
+    "1970393556756224": {
+      "first_seen": 1790714848.8348777,
+      "posted": "2026-02-18",
+      "title": "Senior Software Engineer - Browser Platform",
+      "job_id": "200027964",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556756224"
+    },
+    "1970393556748026": {
+      "first_seen": 1790714848.8348784,
+      "posted": "2026-01-27",
+      "title": "Senior Software Engineer",
+      "job_id": "200023283",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556748026"
+    },
+    "1970393556657018": {
+      "first_seen": 1790714848.834879,
+      "posted": "2026-01-08",
+      "title": "Software Engineer II - CTJ - POLY",
+      "job_id": "200019691",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556657018"
+    }
+  }
+}
