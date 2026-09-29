@@ -1,5 +1,7 @@
 """Adapter for Greenhouse job boards via the public boards API (all jobs in one request)."""
 
+from typing import Callable
+
 from companies import json_api
 from companies.base import CompanyDefinition
 from companies.filters import (
@@ -9,9 +11,23 @@ from companies.filters import (
 )
 
 
-def greenhouse_company(*, slug: str, display_name: str, board: str) -> CompanyDefinition:
-    """Build a company from a Greenhouse board token; keeps US locations only."""
+def greenhouse_company(
+    *,
+    slug: str,
+    display_name: str,
+    board: str,
+    us_office: Callable[[str], bool] | None = None,
+) -> CompanyDefinition:
+    """
+    Build a company from a Greenhouse board token; keeps US jobs only.
+
+    US is read from the location text, or from office names when us_office is
+    given (for boards whose locations are bare city names). Office names need
+    the full job payload (content=true).
+    """
     api_url = f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs"
+    if us_office:
+        api_url += "?content=true"
     board_url = f"https://job-boards.greenhouse.io/{board}"
 
     async def fetch_page_html(page, runtime_config, url: str) -> str:
@@ -23,7 +39,11 @@ def greenhouse_company(*, slug: str, display_name: str, board: str) -> CompanyDe
         jobs = []
         for posting in (await response.json()).get("jobs") or []:
             location = ((posting.get("location") or {}).get("name") or "").strip()
-            if not json_api.is_us_location(location):
+            if us_office:
+                offices = [office.get("name") or "" for office in posting.get("offices") or []]
+                if not any(us_office(name) for name in offices):
+                    continue
+            elif not json_api.is_us_location(location):
                 continue
             job_id = str(posting.get("id") or "").strip()
             title = str(posting.get("title") or "").strip()
@@ -34,7 +54,7 @@ def greenhouse_company(*, slug: str, display_name: str, board: str) -> CompanyDe
                     "key": job_id,
                     "job_id": job_id,
                     "title": title,
-                    "location": json_api.format_locations(location.split(";")),
+                    "location": json_api.format_locations(location.replace(",", ";").split(";") if us_office else location.split(";")),
                     "posted": str(posting.get("first_published") or "").split("T", 1)[0],
                     "url": posting.get("absolute_url") or f"{board_url}/jobs/{job_id}",
                 }

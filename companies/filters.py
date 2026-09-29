@@ -120,7 +120,6 @@ HARDWARE_DOMAIN_PHRASES = (
     "reliability engineer",
     "reliability test",
     "validation",
-    "quality engineer",
     "quality & reliability",
     "production quality",
     "regulation",

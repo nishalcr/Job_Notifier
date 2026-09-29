@@ -19,13 +19,16 @@ def is_us_posting(posting: dict) -> bool:
     True if a posting's primary location (the first path segment) is in the US.
 
     For sites without a country filter. Paths look like "/job/San-Jose-California-US/...",
-    "/job/Orlando-FL-USA/...", "/job/US-Arizona-Phoenix/..." or
+    "/job/Orlando-FL-USA/...", "/job/US-Arizona-Phoenix/...", "/job/McLean-VA/..." or
     "/job/Austin-Texas-United-States-of-America/...".
     """
     parts = (posting.get("externalPath") or "").split("/")
     segment = parts[2] if len(parts) > 2 else ""
-    tokens = set(segment.split("-"))
-    return bool(tokens & {"US", "USA"}) or "United-States" in segment
+    tokens = segment.split("-")
+    if {"US", "USA"} & set(tokens) or "United-States" in segment:
+        return True
+    # "City-ST" paths, e.g. "/job/McLean-VA/...".
+    return len(tokens) > 1 and tokens[-1] in json_api.US_STATE_CODES
 
 
 def workday_company(
