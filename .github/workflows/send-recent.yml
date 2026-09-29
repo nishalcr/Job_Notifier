@@ -1,0 +1,53 @@
+name: Send Jobs Posted On A Day
+
+# Manual catch-up: sends matching jobs posted on a given day to Telegram, even if
+# they were already marked seen (e.g. when a company was first seeded).
+on:
+  workflow_dispatch:
+    inputs:
+      companies:
+        description: Comma-separated company slugs
+        required: true
+        default: microsoft
+      posted_on:
+        description: Date to send (YYYY-MM-DD); empty means today
+        required: false
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  send:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Cache Playwright browsers
+        uses: actions/cache@v5
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+
+      - name: Install Playwright Chromium
+        run: python -m playwright install chromium --with-deps
+
+      - name: Send jobs
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          COMPANIES: ${{ inputs.companies }}
+          POSTED_ON: ${{ inputs.posted_on }}
+        run: python send_recent.py ${POSTED_ON:+--posted-on "$POSTED_ON"}
