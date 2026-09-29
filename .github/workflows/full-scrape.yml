@@ -6,7 +6,7 @@ on:
       companies:
         description: Comma-separated company slugs to seed into seen_jobs/
         required: false
-        default: apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber,nvidia,hp,samsung,cisco,jpmc,dell,doordash,ibm
+        default: apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber,nvidia,hp,samsung,cisco,jpmc,dell,doordash,ibm,disney,paramount,ford,paypal,intel,amd,yahoo,reddit,redhat,capitalone,amex,stripe,netflix
 
 permissions:
   contents: write
@@ -18,7 +18,7 @@ concurrency:
 jobs:
   full-scrape:
     runs-on: ubuntu-24.04
-    timeout-minutes: 20
+    timeout-minutes: 45
 
     steps:
       - name: Checkout repository
@@ -51,7 +51,7 @@ jobs:
         id: run_full_scraper
         continue-on-error: true
         env:
-          COMPANIES: ${{ inputs.companies || 'apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber,nvidia,hp,samsung,cisco,jpmc,dell,doordash,ibm' }}
+          COMPANIES: ${{ inputs.companies || 'apple,amazon,cvs,cvs_wd,goldman-sachs,google,lyft,meta,salesforce,uber,nvidia,hp,samsung,cisco,jpmc,dell,doordash,ibm,disney,paramount,ford,paypal,intel,amd,yahoo,reddit,redhat,capitalone,amex,stripe,netflix' }}
         run: python full_scrape.py
 
       - name: Upload full-scrape diagnostics

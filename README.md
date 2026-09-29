@@ -7,7 +7,7 @@ A fully automated job-board monitor that scrapes career pages across 10 major te
 
 ## Features
 
-- **18 companies out of the box** — Amazon, Apple, Cisco, CVS Health (two adapters), Dell, DoorDash, Goldman Sachs, Google, HP, IBM, JPMorgan Chase, Lyft, Meta, NVIDIA, Salesforce, Samsung, and Uber
+- **31 companies out of the box** — Amazon, AMD, American Express, Apple, Capital One, Cisco, CVS Health (two adapters), Dell, Disney, DoorDash, Ford, Goldman Sachs, Google, HP, IBM, Intel, JPMorgan Chase, Lyft, Meta, Netflix, NVIDIA, Paramount, PayPal, Red Hat, Reddit, Salesforce, Samsung, Stripe, Uber, and Yahoo
 - **Headless browser scraping** — Playwright + Chromium handles JS-heavy career pages and interactive pagination without brittle DOM hacks
 - **Smart deduplication** — each company keeps its own `seen_jobs/<slug>.json` state file; jobs are tracked by stable ID so alerts never repeat
 - **Real-time Telegram alerts** — richly-formatted notifications include title, team, location, post date, role ID, and a direct link to apply
