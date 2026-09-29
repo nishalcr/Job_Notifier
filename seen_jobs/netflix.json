@@ -1,0 +1,624 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "netflix"
+  },
+  "jobs": {
+    "790318653296": {
+      "first_seen": 1790709752.8035903,
+      "posted": "",
+      "title": "Software Engineering L5, Open Connect Platform",
+      "job_id": "JR42807",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318653296"
+    },
+    "790318597004": {
+      "first_seen": 1790709752.8035927,
+      "posted": "",
+      "title": "Software Engineer 4 - Revenue Infrastructure",
+      "job_id": "JR42725",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318597004"
+    },
+    "790318510397": {
+      "first_seen": 1790709752.8035944,
+      "posted": "",
+      "title": "Software Engineer L5 - AI Observability & Agent Evaluation",
+      "job_id": "JR42630",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318510397"
+    },
+    "790318493298": {
+      "first_seen": 1790709752.8035953,
+      "posted": "",
+      "title": "Software Engineer 4 - tvOS",
+      "job_id": "JR42609",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318493298"
+    },
+    "790318497041": {
+      "first_seen": 1790709752.8035963,
+      "posted": "",
+      "title": "Software Engineering 5 - Ads Agent (Agentic Platform for Enterprise)",
+      "job_id": "JR42613",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318497041"
+    },
+    "790318497409": {
+      "first_seen": 1790709752.803597,
+      "posted": "",
+      "title": "Software Engineer 5 - Ads Authorization (AuthZ) Platform",
+      "job_id": "JR42614",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318497409"
+    },
+    "790318469189": {
+      "first_seen": 1790709752.8035984,
+      "posted": "",
+      "title": "Software Engineer 4 - TV & Web Player Platform",
+      "job_id": "JR42566",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318469189"
+    },
+    "790318399847": {
+      "first_seen": 1790709752.8035994,
+      "posted": "",
+      "title": "Analytics Engineer 5 - Media Science DSE",
+      "job_id": "JR42478",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318399847"
+    },
+    "790318346280": {
+      "first_seen": 1790709752.8036003,
+      "posted": "",
+      "title": "Full Stack Software Engineer 4 - Account Consumer Experiences",
+      "job_id": "JR42430",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318346280"
+    },
+    "790318333462": {
+      "first_seen": 1790709752.8036017,
+      "posted": "",
+      "title": "Analytics Engineer 5 - Cloud Games Infrastructure Data Products",
+      "job_id": "JR42411",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318333462"
+    },
+    "790318333614": {
+      "first_seen": 1790709752.8036027,
+      "posted": "",
+      "title": "Software Engineer 4 - Media Encoding Pipelines",
+      "job_id": "JR42412",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318333614"
+    },
+    "790318313236": {
+      "first_seen": 1790709752.8036041,
+      "posted": "",
+      "title": "Full Stack Software Engineer 4 - Localization Engineering",
+      "job_id": "JR42392",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318313236"
+    },
+    "790318161607": {
+      "first_seen": 1790709752.803605,
+      "posted": "",
+      "title": "Full Stack Software Engineer 5 - Studio Orchestration Platform",
+      "job_id": "JR42337",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318161607"
+    },
+    "790318105221": {
+      "first_seen": 1790709752.8036058,
+      "posted": "",
+      "title": "Software Engineer 5 - Developer Infrastructure & Quality Platform",
+      "job_id": "JR42308",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318105221"
+    },
+    "790318126309": {
+      "first_seen": 1790709752.8036067,
+      "posted": "",
+      "title": "Solutions Software Engineer 5",
+      "job_id": "JR42322",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318126309"
+    },
+    "790318080831": {
+      "first_seen": 1790709752.8036077,
+      "posted": "",
+      "title": "Software Engineering 6 - Ads Engineering",
+      "job_id": "JR42289",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318080831"
+    },
+    "790318040862": {
+      "first_seen": 1790709752.8036087,
+      "posted": "",
+      "title": "Software Engineer 4 - Android",
+      "job_id": "JR42271",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318040862"
+    },
+    "790318041034": {
+      "first_seen": 1790709752.8036096,
+      "posted": "",
+      "title": "Software Engineer 5 - iOS",
+      "job_id": "JR42272",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318041034"
+    },
+    "790318043838": {
+      "first_seen": 1790709752.8036103,
+      "posted": "",
+      "title": "Software Engineer 5 - TV Product UI",
+      "job_id": "JR42274",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318043838"
+    },
+    "790317940553": {
+      "first_seen": 1790709752.8036113,
+      "posted": "",
+      "title": "Software Engineer 4- Ink",
+      "job_id": "JR42236",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317940553"
+    },
+    "790317912171": {
+      "first_seen": 1790709752.8036125,
+      "posted": "",
+      "title": "Distributed Systems Engineer (L5) - Compute",
+      "job_id": "JR42212",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317912171"
+    },
+    "790317890482": {
+      "first_seen": 1790709752.8036134,
+      "posted": "",
+      "title": "Software Engineer 5 - TV Client Foundations",
+      "job_id": "JR42179",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317890482"
+    },
+    "790317897268": {
+      "first_seen": 1790709752.8036146,
+      "posted": "",
+      "title": "Software Engineer - Customer Service Platform",
+      "job_id": "JR42197",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317897268"
+    },
+    "790317885399": {
+      "first_seen": 1790709752.8036156,
+      "posted": "",
+      "title": "Machine Learning Scientist 5 - Localization",
+      "job_id": "JR42170",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317885399"
+    },
+    "790317859053": {
+      "first_seen": 1790709752.8036163,
+      "posted": "",
+      "title": "Software Engineer (L5) - JavaScript Platform",
+      "job_id": "JR42156",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317859053"
+    },
+    "790317811890": {
+      "first_seen": 1790709752.8036172,
+      "posted": "",
+      "title": "Full Stack Software Engineer 4 - Product Localization",
+      "job_id": "JR42133",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317811890"
+    },
+    "790317801472": {
+      "first_seen": 1790709752.803619,
+      "posted": "",
+      "title": "Integration Engineer - Talent Technology Engineering",
+      "job_id": "JR42119",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317801472"
+    },
+    "790317770581": {
+      "first_seen": 1790709752.8036196,
+      "posted": "",
+      "title": "Research Engineer 4/5 - Member Lifecycle and Monetization",
+      "job_id": "JR42075",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317770581"
+    },
+    "790317755516": {
+      "first_seen": 1790709752.8036206,
+      "posted": "",
+      "title": "Full Stack Software Engineer 4 - Content Promotion and Distribution",
+      "job_id": "JR42055",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317755516"
+    },
+    "790317759230": {
+      "first_seen": 1790709752.8036215,
+      "posted": "",
+      "title": "Analytics Engineer 5 - Infrastructure Efficiency & Productivity",
+      "job_id": "JR42062",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317759230"
+    },
+    "790317739137": {
+      "first_seen": 1790709752.8036227,
+      "posted": "",
+      "title": "Software Engineer 5 - Android",
+      "job_id": "JR42041",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317739137"
+    },
+    "790317688403": {
+      "first_seen": 1790709752.8036237,
+      "posted": "",
+      "title": "Software Engineer 4 - Finance and Tax Technology",
+      "job_id": "JR41999",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317688403"
+    },
+    "790317691412": {
+      "first_seen": 1790709752.8036246,
+      "posted": "",
+      "title": "Senior Software Engineer (L5) - Personalization Data",
+      "job_id": "JR42004",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317691412"
+    },
+    "790317652867": {
+      "first_seen": 1790709752.8036258,
+      "posted": "",
+      "title": "Machine Learning Scientist 5- Forecasting Aggregation",
+      "job_id": "JR41952",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317652867"
+    },
+    "790317653612": {
+      "first_seen": 1790709752.8036265,
+      "posted": "",
+      "title": "Software Engineer 4 - DevOps, CI/CD",
+      "job_id": "JR41955",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317653612"
+    },
+    "790317663518": {
+      "first_seen": 1790709752.8036273,
+      "posted": "",
+      "title": "Full Stack Software Engineer 5 - Eventing & Communications Platform",
+      "job_id": "JR41960",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317663518"
+    },
+    "790317592200": {
+      "first_seen": 1790709752.803628,
+      "posted": "",
+      "title": "Security Analytics Engineer L5",
+      "job_id": "JR41881",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317592200"
+    },
+    "790317632322": {
+      "first_seen": 1790709752.8036292,
+      "posted": "",
+      "title": "Analytics Engineer 5 - Promotional Media",
+      "job_id": "JR41927",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317632322"
+    },
+    "790317589519": {
+      "first_seen": 1790709752.80363,
+      "posted": "",
+      "title": "Software Engineer 5 - Platform Data Products",
+      "job_id": "JR41877",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317589519"
+    },
+    "790317597274": {
+      "first_seen": 1790709752.803631,
+      "posted": "",
+      "title": "Analytics Engineer 5 - New Content Experiences DSE",
+      "job_id": "JR41896",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317597274"
+    },
+    "790317580317": {
+      "first_seen": 1790709752.8036318,
+      "posted": "",
+      "title": "Machine Learning Engineer 5 - Ads Measurement",
+      "job_id": "JR41857",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317580317"
+    },
+    "790317562846": {
+      "first_seen": 1790709752.8036332,
+      "posted": "",
+      "title": "Distributed Systems Engineer 5 - Core Ad Serving Platform",
+      "job_id": "JR41843",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317562846"
+    },
+    "790317562896": {
+      "first_seen": 1790709752.803634,
+      "posted": "",
+      "title": "Software Engineer 5 - Ads Forecasting and Simulation",
+      "job_id": "JR41845",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317562896"
+    },
+    "790317280456": {
+      "first_seen": 1790709752.803635,
+      "posted": "",
+      "title": "Security Engineer 5 - IAM",
+      "job_id": "JR41731",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317280456"
+    },
+    "790317397849": {
+      "first_seen": 1790709752.8036356,
+      "posted": "",
+      "title": "Data Visualization Engineer 5 - Member Insights Engineering",
+      "job_id": "JR41811",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317397849"
+    },
+    "790317144081": {
+      "first_seen": 1790709752.803637,
+      "posted": "",
+      "title": "Software Engineer 3- Ink",
+      "job_id": "JR41639",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317144081"
+    },
+    "790317123344": {
+      "first_seen": 1790709752.803638,
+      "posted": "",
+      "title": "Software Engineering 6 - Ads Finance",
+      "job_id": "JR41601",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317123344"
+    },
+    "790317014834": {
+      "first_seen": 1790709752.803639,
+      "posted": "",
+      "title": "Software Engineer 5 - Open Connect Control Plane",
+      "job_id": "JR41535",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317014834"
+    },
+    "790317012038": {
+      "first_seen": 1790709752.80364,
+      "posted": "",
+      "title": "Member of Technical Staff, Agentic Systems - Games",
+      "job_id": "JR41530",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317012038"
+    },
+    "790316828724": {
+      "first_seen": 1790709752.8036408,
+      "posted": "",
+      "title": "Software Engineering 5 -Ads Measurement Experimentation",
+      "job_id": "JR41427",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316828724"
+    },
+    "790316828714": {
+      "first_seen": 1790709752.8036416,
+      "posted": "",
+      "title": "Software Engineering 5 - Ads Conversion Attribution",
+      "job_id": "JR41426",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316828714"
+    },
+    "790316489737": {
+      "first_seen": 1790709752.8036425,
+      "posted": "",
+      "title": "Analytics Engineer 5 - Content & Studio",
+      "job_id": "JR41240",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316489737"
+    },
+    "790316459079": {
+      "first_seen": 1790709752.8036435,
+      "posted": "",
+      "title": "AV Events Engineer",
+      "job_id": "JR41201",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316459079"
+    },
+    "790316857527": {
+      "first_seen": 1790709752.8036444,
+      "posted": "",
+      "title": "Software Engineer 5 - Ads Pricing & Packaging",
+      "job_id": "JR41477",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316857527"
+    },
+    "790316305359": {
+      "first_seen": 1790709752.8036451,
+      "posted": "",
+      "title": "Software Engineer L5 - Audio/Video Tools and Tests",
+      "job_id": "JR41108",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316305359"
+    },
+    "790316306653": {
+      "first_seen": 1790709752.8036458,
+      "posted": "",
+      "title": "Machine Learning Scientist 6 - Ads Member Understanding",
+      "job_id": "JR41114",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316306653"
+    },
+    "790316292023": {
+      "first_seen": 1790709752.803647,
+      "posted": "",
+      "title": "Software Engineer 5 \u2013 Agent Platform, AI Platform",
+      "job_id": "JR41100",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316292023"
+    },
+    "790316208627": {
+      "first_seen": 1790709752.8036478,
+      "posted": "",
+      "title": "Analytics Engineer 5 - Identity & Signal",
+      "job_id": "JR40982",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316208627"
+    },
+    "790316234203": {
+      "first_seen": 1790709752.8036487,
+      "posted": "",
+      "title": "Senior Software Engineer - Design Systems",
+      "job_id": "JR41034",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316234203"
+    },
+    "790302428910": {
+      "first_seen": 1790709752.80365,
+      "posted": "",
+      "title": "Machine Learning Engineer 5 - Decisioning & Optimization",
+      "job_id": "JR33085",
+      "url": "https://explore.jobs.netflix.net/careers/job/790302428910"
+    },
+    "790316165312": {
+      "first_seen": 1790709752.8036506,
+      "posted": "",
+      "title": "Software Engineer 4/5 \u2013 Model Development and Management, AI Platform",
+      "job_id": "JR40898",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316165312"
+    },
+    "790315153299": {
+      "first_seen": 1790709752.8036513,
+      "posted": "",
+      "title": "Machine Learning Scientist 5 - Sales, Ads DSE",
+      "job_id": "JR39817",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315153299"
+    },
+    "790316013491": {
+      "first_seen": 1790709752.8036523,
+      "posted": "",
+      "title": "Security Engineer (L5) - Cloud Architecture, Tooling and Security",
+      "job_id": "JR40755",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316013491"
+    },
+    "790315141428": {
+      "first_seen": 1790709752.8036535,
+      "posted": "",
+      "title": "Software Engineer 5 - Ads Identity Graph",
+      "job_id": "JR39786",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315141428"
+    },
+    "790315989769": {
+      "first_seen": 1790709752.8036542,
+      "posted": "",
+      "title": "Machine Learning Scientist 5 - Ads Bidding",
+      "job_id": "JR40735",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315989769"
+    },
+    "790316003395": {
+      "first_seen": 1790709752.803655,
+      "posted": "",
+      "title": "Software Engineer 5 - Partner Test Tech",
+      "job_id": "JR40739",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316003395"
+    },
+    "790315141427": {
+      "first_seen": 1790709752.8036559,
+      "posted": "",
+      "title": "Machine Learning Engineer 5 - Ads Signals & Targeting",
+      "job_id": "JR39785",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315141427"
+    },
+    "790315141457": {
+      "first_seen": 1790709752.803657,
+      "posted": "",
+      "title": "Software Engineer 5 - Ads Signals Conversion API",
+      "job_id": "JR39788",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315141457"
+    },
+    "790315764701": {
+      "first_seen": 1790709752.8036578,
+      "posted": "",
+      "title": "Software Engineer 4 -  Ads Policy Infrastructure",
+      "job_id": "JR40365",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315764701"
+    },
+    "790315764777": {
+      "first_seen": 1790709752.8036585,
+      "posted": "",
+      "title": "Machine Learning Scientist 6, Creative & Policy - Ads",
+      "job_id": "JR40367",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315764777"
+    },
+    "790315228907": {
+      "first_seen": 1790709752.8036594,
+      "posted": "",
+      "title": "Machine Learning Scientist 5 - Ad Ranking",
+      "job_id": "JR39909",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315228907"
+    },
+    "790314629098": {
+      "first_seen": 1790709752.8036604,
+      "posted": "",
+      "title": "Software Engineer 5 - Ads Engineering",
+      "job_id": "JR39277",
+      "url": "https://explore.jobs.netflix.net/careers/job/790314629098"
+    },
+    "790313551840": {
+      "first_seen": 1790709752.803661,
+      "posted": "",
+      "title": "Data Engineer (L5) - Ads",
+      "job_id": "JR38106",
+      "url": "https://explore.jobs.netflix.net/careers/job/790313551840"
+    },
+    "790313529500": {
+      "first_seen": 1790709752.803662,
+      "posted": "",
+      "title": "Software Engineer 4 - Ads Engineering",
+      "job_id": "JR38054",
+      "url": "https://explore.jobs.netflix.net/careers/job/790313529500"
+    },
+    "790313345439": {
+      "first_seen": 1790709752.8036628,
+      "posted": "",
+      "title": "Data Engineer (L5)",
+      "job_id": "JR37949",
+      "url": "https://explore.jobs.netflix.net/careers/job/790313345439"
+    },
+    "790313081060": {
+      "first_seen": 1790709752.8036642,
+      "posted": "",
+      "title": "Machine Learning Scientist 4 - Content & Conversation Modeling",
+      "job_id": "JR37504",
+      "url": "https://explore.jobs.netflix.net/careers/job/790313081060"
+    },
+    "790312429328": {
+      "first_seen": 1790709752.803665,
+      "posted": "",
+      "title": "Software Engineer 5 - Ads Eventing",
+      "job_id": "JR36536",
+      "url": "https://explore.jobs.netflix.net/careers/job/790312429328"
+    },
+    "790302428788": {
+      "first_seen": 1790709752.803666,
+      "posted": "",
+      "title": "Machine Learning Engineer 5 - Ads Platform Engineering",
+      "job_id": "JR33083",
+      "url": "https://explore.jobs.netflix.net/careers/job/790302428788"
+    },
+    "790300762468": {
+      "first_seen": 1790709752.8036668,
+      "posted": "",
+      "title": "Software Engineer 5 \u2013 Training Platform, AI Platform",
+      "job_id": "JR31231",
+      "url": "https://explore.jobs.netflix.net/careers/job/790300762468"
+    },
+    "790300763299": {
+      "first_seen": 1790709752.8036678,
+      "posted": "",
+      "title": "Software Engineer 4/5 \u2013  Data and Feature Infrastructure, AI Platform",
+      "job_id": "JR31232",
+      "url": "https://explore.jobs.netflix.net/careers/job/790300763299"
+    },
+    "790300763300": {
+      "first_seen": 1790709752.8036685,
+      "posted": "",
+      "title": "Research Engineer 5/6 \u2013 AI for Member Systems",
+      "job_id": "JR31233",
+      "url": "https://explore.jobs.netflix.net/careers/job/790300763300"
+    },
+    "790300350307": {
+      "first_seen": 1790709752.8036692,
+      "posted": "",
+      "title": "Software Engineer 4/5 \u2013 Model Serving Systems, AI Platform",
+      "job_id": "JR31056",
+      "url": "https://explore.jobs.netflix.net/careers/job/790300350307"
+    },
+    "790300766176": {
+      "first_seen": 1790709752.80367,
+      "posted": "",
+      "title": "Software Engineer 4/5\u2013 AI for Member Systems",
+      "job_id": "JR31251",
+      "url": "https://explore.jobs.netflix.net/careers/job/790300766176"
+    },
+    "790298021186": {
+      "first_seen": 1790709752.803671,
+      "posted": "",
+      "title": "Software Engineer 5 - Member, Commerce & Games Engineering",
+      "job_id": "JR28716",
+      "url": "https://explore.jobs.netflix.net/careers/job/790298021186"
+    },
+    "790298020581": {
+      "first_seen": 1790709752.8036718,
+      "posted": "",
+      "title": "Distributed Systems Engineer (L5) - Data Platform",
+      "job_id": "JR28718",
+      "url": "https://explore.jobs.netflix.net/careers/job/790298020581"
+    },
+    "790298118429": {
+      "first_seen": 1790709752.8036726,
+      "posted": "",
+      "title": "Distributed Systems Engineer 5 - Content & Business Products",
+      "job_id": "JR28751",
+      "url": "https://explore.jobs.netflix.net/careers/job/790298118429"
+    },
+    "790298020874": {
+      "first_seen": 1790709752.8036747,
+      "posted": "",
+      "title": "Software Engineer 4 - Member, Commerce & Games Engineering",
+      "job_id": "JR28715",
+      "url": "https://explore.jobs.netflix.net/careers/job/790298020874"
+    },
+    "790298021069": {
+      "first_seen": 1790709752.8036757,
+      "posted": "",
+      "title": "Distributed Systems Engineer (L4) - Data Platform",
+      "job_id": "JR28717",
+      "url": "https://explore.jobs.netflix.net/careers/job/790298021069"
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "intel"
+  },
+  "jobs": {
+    "Spotlight Job": {
+      "first_seen": 1790709661.6235476,
+      "posted": "Posted 26 Days Ago",
+      "title": "Database Administrator PL/SQL Developer",
+      "job_id": "Spotlight Job",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Database-Administrator-PL-SQL-Developer_JR0286800"
+    },
+    "JR0287359": {
+      "first_seen": 1790709661.6235504,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior Systems Engineer \u2013 Windows Active Directory",
+      "job_id": "JR0287359",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Senior-Systems-Engineer---Windows-Active-Directory_JR0287359"
+    },
+    "JR0287203": {
+      "first_seen": 1790709661.6235516,
+      "posted": "Posted 5 Days Ago",
+      "title": "Foundry Cloud Services Developer",
+      "job_id": "JR0287203",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203"
+    },
+    "JR0286035": {
+      "first_seen": 1790709661.6235528,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior Network Operations Engineer",
+      "job_id": "JR0286035",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Senior-Network-Operations-Engineer_JR0286035"
+    },
+    "JR0286998": {
+      "first_seen": 1790709661.6235538,
+      "posted": "Posted 15 Days Ago",
+      "title": "Software Engineer \u2013 Datacenter",
+      "job_id": "JR0286998",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0286998"
+    },
+    "JR0286999": {
+      "first_seen": 1790709661.6235552,
+      "posted": "Posted 15 Days Ago",
+      "title": "Software QA Engineer",
+      "job_id": "JR0286999",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-QA-Engineer_JR0286999"
+    },
+    "JR0282484": {
+      "first_seen": 1790709661.6235561,
+      "posted": "Posted 18 Days Ago",
+      "title": "Software Development Engineer",
+      "job_id": "JR0282484",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Engineer_JR0282484"
+    },
+    "JR0283073": {
+      "first_seen": 1790709661.623557,
+      "posted": "Posted 26 Days Ago",
+      "title": "GPU Software Development Engineer",
+      "job_id": "JR0283073",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0283073"
+    },
+    "JR0283580": {
+      "first_seen": 1790709661.6235583,
+      "posted": "Posted 29 Days Ago",
+      "title": "Middleware Development Engineer",
+      "job_id": "JR0283580",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Middleware-Development-Engineer_JR0283580-1"
+    },
+    "JR0286687": {
+      "first_seen": 1790709661.6235595,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Identity Security - PKI Engineer",
+      "job_id": "JR0286687",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Identity-Security---PKI-Engineer_JR0286687"
+    },
+    "JR0286599": {
+      "first_seen": 1790709661.6235604,
+      "posted": "Posted 30+ Days Ago",
+      "title": "EDA Tools Software Engineer",
+      "job_id": "JR0286599",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/EDA-Tools-Software-Engineer_JR0286599"
+    },
+    "JR0284429": {
+      "first_seen": 1790709661.623562,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Operations Research Engineer",
+      "job_id": "JR0284429",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research-Engineer_JR0284429"
+    },
+    "JR0286351": {
+      "first_seen": 1790709661.623563,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Operations Research Engineer",
+      "job_id": "JR0286351",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research-Engineer_JR0286351"
+    },
+    "JR0286396": {
+      "first_seen": 1790709661.623564,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior EDA Tools Software Engineer",
+      "job_id": "JR0286396",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Senior-EDA-Tools-Software-Engineer_JR0286396"
+    },
+    "JR0286250": {
+      "first_seen": 1790709661.623565,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Semiconductor Device Modeling Engineer",
+      "job_id": "JR0286250",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Semiconductor-Device-Modeling-Engineer_JR0286250"
+    },
+    "JR0285229": {
+      "first_seen": 1790709661.6235662,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Sr.  EDA Tools Engineer - PERC ESD",
+      "job_id": "JR0285229",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Sr--EDA-Tools-Engineer---PERC-ESD_JR0285229"
+    },
+    "JR0284296": {
+      "first_seen": 1790709661.6235669,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Load Balancer Network Engineer",
+      "job_id": "JR0284296",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Load-Balancer-Network-Engineer_JR0284296"
+    }
+  }
+}

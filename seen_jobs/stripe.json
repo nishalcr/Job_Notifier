@@ -1,0 +1,351 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "stripe"
+  },
+  "jobs": {
+    "8172503": {
+      "first_seen": 1790709728.3592298,
+      "posted": "2026-09-09",
+      "title": "Abuse Research Engineer",
+      "job_id": "8172503",
+      "url": "https://stripe.com/jobs/search?gh_jid=8172503"
+    },
+    "8044460": {
+      "first_seen": 1790709728.3592317,
+      "posted": "2026-07-03",
+      "title": "AI Engineer",
+      "job_id": "8044460",
+      "url": "https://stripe.com/jobs/search?gh_jid=8044460"
+    },
+    "7557403": {
+      "first_seen": 1790709728.3592327,
+      "posted": "2026-01-22",
+      "title": "Android Engineer, Terminal OS Platform",
+      "job_id": "7557403",
+      "url": "https://stripe.com/jobs/search?gh_jid=7557403"
+    },
+    "6042172": {
+      "first_seen": 1790709728.3592336,
+      "posted": "2024-06-14",
+      "title": "Backend Engineer, Core Technology",
+      "job_id": "6042172",
+      "url": "https://stripe.com/jobs/search?gh_jid=6042172"
+    },
+    "7476555": {
+      "first_seen": 1790709728.3592343,
+      "posted": "2026-03-03",
+      "title": "Backend Engineer, Developer & End-user Experience Platform",
+      "job_id": "7476555",
+      "url": "https://stripe.com/jobs/search?gh_jid=7476555"
+    },
+    "7988264": {
+      "first_seen": 1790709728.359235,
+      "posted": "2026-09-15",
+      "title": "Backend Engineer, Intelligent Commerce",
+      "job_id": "7988264",
+      "url": "https://stripe.com/jobs/search?gh_jid=7988264"
+    },
+    "8131144": {
+      "first_seen": 1790709728.359236,
+      "posted": "2026-08-14",
+      "title": "Backend Engineer, Link",
+      "job_id": "8131144",
+      "url": "https://stripe.com/jobs/search?gh_jid=8131144"
+    },
+    "7232592": {
+      "first_seen": 1790709728.359237,
+      "posted": "2026-02-03",
+      "title": "Backend Engineer, Payments and Risk",
+      "job_id": "7232592",
+      "url": "https://stripe.com/jobs/search?gh_jid=7232592"
+    },
+    "7235875": {
+      "first_seen": 1790709728.3592374,
+      "posted": "2025-09-11",
+      "title": "Backend Engineer, Privy",
+      "job_id": "7235875",
+      "url": "https://stripe.com/jobs/search?gh_jid=7235875"
+    },
+    "7982720": {
+      "first_seen": 1790709728.3592381,
+      "posted": "2026-06-05",
+      "title": "Client Platform Security Engineer",
+      "job_id": "7982720",
+      "url": "https://stripe.com/jobs/search?gh_jid=7982720"
+    },
+    "7867389": {
+      "first_seen": 1790709728.3592389,
+      "posted": "2026-05-04",
+      "title": "Cloud Security Engineer",
+      "job_id": "7867389",
+      "url": "https://stripe.com/jobs/search?gh_jid=7867389"
+    },
+    "7230452": {
+      "first_seen": 1790709728.3592403,
+      "posted": "2025-09-08",
+      "title": "Forward Deployed Engineer, Privy",
+      "job_id": "7230452",
+      "url": "https://stripe.com/jobs/search?gh_jid=7230452"
+    },
+    "8194606": {
+      "first_seen": 1790709728.359241,
+      "posted": "2026-09-22",
+      "title": "Frontend Engineer, Data Product Experiences",
+      "job_id": "8194606",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194606"
+    },
+    "8142764": {
+      "first_seen": 1790709728.3592417,
+      "posted": "2026-08-20",
+      "title": "Full Stack Engineer, Bridge",
+      "job_id": "8142764",
+      "url": "https://stripe.com/jobs/search?gh_jid=8142764"
+    },
+    "8118929": {
+      "first_seen": 1790709728.3592424,
+      "posted": "2026-08-17",
+      "title": "Full Stack Engineer, Enterprise & Ecosystem",
+      "job_id": "8118929",
+      "url": "https://stripe.com/jobs/search?gh_jid=8118929"
+    },
+    "8214618": {
+      "first_seen": 1790709728.3592432,
+      "posted": "2026-09-28",
+      "title": "Full Stack Engineer, Enterprise Engineering",
+      "job_id": "8214618",
+      "url": "https://stripe.com/jobs/search?gh_jid=8214618"
+    },
+    "8062305": {
+      "first_seen": 1790709728.359244,
+      "posted": "2026-07-13",
+      "title": "Full Stack Engineer, Link",
+      "job_id": "8062305",
+      "url": "https://stripe.com/jobs/search?gh_jid=8062305"
+    },
+    "8039548": {
+      "first_seen": 1790709728.3592448,
+      "posted": "2026-06-30",
+      "title": "Full Stack Engineer, Support Experience (Greater China Support)",
+      "job_id": "8039548",
+      "url": "https://stripe.com/jobs/search?gh_jid=8039548"
+    },
+    "7462961": {
+      "first_seen": 1790709728.3592453,
+      "posted": "2026-01-02",
+      "title": "Infrastructure Engineer, Privy",
+      "job_id": "7462961",
+      "url": "https://stripe.com/jobs/search?gh_jid=7462961"
+    },
+    "8175647": {
+      "first_seen": 1790709728.359246,
+      "posted": "2026-09-22",
+      "title": "Integration Engineer (Metronome)",
+      "job_id": "8175647",
+      "url": "https://stripe.com/jobs/search?gh_jid=8175647"
+    },
+    "8080454": {
+      "first_seen": 1790709728.3592467,
+      "posted": "2026-08-18",
+      "title": "Integration Engineer, Metronome",
+      "job_id": "8080454",
+      "url": "https://stripe.com/jobs/search?gh_jid=8080454"
+    },
+    "8075570": {
+      "first_seen": 1790709728.359248,
+      "posted": "2026-07-29",
+      "title": "Integration Engineer, Professional Services",
+      "job_id": "8075570",
+      "url": "https://stripe.com/jobs/search?gh_jid=8075570"
+    },
+    "8075577": {
+      "first_seen": 1790709728.359249,
+      "posted": "2026-07-29",
+      "title": "Integration Engineer, Professional Services",
+      "job_id": "8075577",
+      "url": "https://stripe.com/jobs/search?gh_jid=8075577"
+    },
+    "8203973": {
+      "first_seen": 1790709728.3592498,
+      "posted": "2026-09-23",
+      "title": "Integration Engineer, Professional Services",
+      "job_id": "8203973",
+      "url": "https://stripe.com/jobs/search?gh_jid=8203973"
+    },
+    "8224915": {
+      "first_seen": 1790709728.3592505,
+      "posted": "2026-09-28",
+      "title": "Machine Learning Engineer, Growth Platform",
+      "job_id": "8224915",
+      "url": "https://stripe.com/jobs/search?gh_jid=8224915"
+    },
+    "8197886": {
+      "first_seen": 1790709728.3592513,
+      "posted": "2026-09-21",
+      "title": "Machine Learning Engineer, Link",
+      "job_id": "8197886",
+      "url": "https://stripe.com/jobs/search?gh_jid=8197886"
+    },
+    "8233889": {
+      "first_seen": 1790709728.3592517,
+      "posted": "2026-09-25",
+      "title": "Offensive Security Engineer",
+      "job_id": "8233889",
+      "url": "https://stripe.com/jobs/search?gh_jid=8233889"
+    },
+    "8139998": {
+      "first_seen": 1790709728.3592525,
+      "posted": "2026-08-18",
+      "title": "Product Analytics - Developer Experience, Bridge",
+      "job_id": "8139998",
+      "url": "https://stripe.com/jobs/search?gh_jid=8139998"
+    },
+    "8174965": {
+      "first_seen": 1790709728.3592534,
+      "posted": "2026-09-09",
+      "title": "Security Engineer",
+      "job_id": "8174965",
+      "url": "https://stripe.com/jobs/search?gh_jid=8174965"
+    },
+    "7776179": {
+      "first_seen": 1790709728.3592544,
+      "posted": "2026-04-02",
+      "title": "Security Engineer, Bridge",
+      "job_id": "7776179",
+      "url": "https://stripe.com/jobs/search?gh_jid=7776179"
+    },
+    "8073092": {
+      "first_seen": 1790709728.3592553,
+      "posted": "2026-07-30",
+      "title": "Security Engineer, Privy",
+      "job_id": "8073092",
+      "url": "https://stripe.com/jobs/search?gh_jid=8073092"
+    },
+    "8175099": {
+      "first_seen": 1790709728.359256,
+      "posted": "2026-09-02",
+      "title": "Senior Software Engineer",
+      "job_id": "8175099",
+      "url": "https://stripe.com/jobs/search?gh_jid=8175099"
+    },
+    "8230952": {
+      "first_seen": 1790709728.3592567,
+      "posted": "2026-09-24",
+      "title": "Senior Software Engineer, Backend",
+      "job_id": "8230952",
+      "url": "https://stripe.com/jobs/search?gh_jid=8230952"
+    },
+    "8177860": {
+      "first_seen": 1790709728.3592577,
+      "posted": "2026-09-03",
+      "title": "Senior Software Engineer, Docs Product",
+      "job_id": "8177860",
+      "url": "https://stripe.com/jobs/search?gh_jid=8177860"
+    },
+    "8194328": {
+      "first_seen": 1790709728.3592582,
+      "posted": "2026-09-10",
+      "title": "Senior Software Engineer, Product Velocity",
+      "job_id": "8194328",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194328"
+    },
+    "8137972": {
+      "first_seen": 1790709728.359259,
+      "posted": "2026-08-17",
+      "title": "Software Engineer",
+      "job_id": "8137972",
+      "url": "https://stripe.com/jobs/search?gh_jid=8137972"
+    },
+    "8174105": {
+      "first_seen": 1790709728.3592594,
+      "posted": "2026-09-02",
+      "title": "Software Engineer",
+      "job_id": "8174105",
+      "url": "https://stripe.com/jobs/search?gh_jid=8174105"
+    },
+    "8069941": {
+      "first_seen": 1790709728.35926,
+      "posted": "2026-07-20",
+      "title": "Software Engineer, Authorization Infrastructure",
+      "job_id": "8069941",
+      "url": "https://stripe.com/jobs/search?gh_jid=8069941"
+    },
+    "8198280": {
+      "first_seen": 1790709728.3592606,
+      "posted": "2026-09-14",
+      "title": "Software Engineer, Backend",
+      "job_id": "8198280",
+      "url": "https://stripe.com/jobs/search?gh_jid=8198280"
+    },
+    "7277110": {
+      "first_seen": 1790709728.3592618,
+      "posted": "2025-11-20",
+      "title": "Software Engineer, Bridge",
+      "job_id": "7277110",
+      "url": "https://stripe.com/jobs/search?gh_jid=7277110"
+    },
+    "8212508": {
+      "first_seen": 1790709728.3592622,
+      "posted": "2026-09-17",
+      "title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "job_id": "8212508",
+      "url": "https://stripe.com/jobs/search?gh_jid=8212508"
+    },
+    "8197135": {
+      "first_seen": 1790709728.359263,
+      "posted": "2026-09-14",
+      "title": "Software Engineer, High Availability and Disaster Recovery",
+      "job_id": "8197135",
+      "url": "https://stripe.com/jobs/search?gh_jid=8197135"
+    },
+    "8128744": {
+      "first_seen": 1790709728.3592634,
+      "posted": "2026-08-31",
+      "title": "Software Engineer, New Grad",
+      "job_id": "8128744",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128744"
+    },
+    "8197891": {
+      "first_seen": 1790709728.3592649,
+      "posted": "2026-09-11",
+      "title": "Software Engineer, Online Database Infrastructure",
+      "job_id": "8197891",
+      "url": "https://stripe.com/jobs/search?gh_jid=8197891"
+    },
+    "8198207": {
+      "first_seen": 1790709728.3592656,
+      "posted": "2026-09-14",
+      "title": "Software Engineer, Payins Card Networks",
+      "job_id": "8198207",
+      "url": "https://stripe.com/jobs/search?gh_jid=8198207"
+    },
+    "7761694": {
+      "first_seen": 1790709728.3592663,
+      "posted": "2026-03-31",
+      "title": "Software Engineer, Product Security Data Platforms",
+      "job_id": "7761694",
+      "url": "https://stripe.com/jobs/search?gh_jid=7761694"
+    },
+    "7396679": {
+      "first_seen": 1790709728.3592668,
+      "posted": "2025-11-14",
+      "title": "Software Engineer, Secrets Infrastructure",
+      "job_id": "7396679",
+      "url": "https://stripe.com/jobs/search?gh_jid=7396679"
+    },
+    "7507904": {
+      "first_seen": 1790709728.3592675,
+      "posted": "2025-12-31",
+      "title": "Software Engineer - Smart Contract, Bridge",
+      "job_id": "7507904",
+      "url": "https://stripe.com/jobs/search?gh_jid=7507904"
+    },
+    "8089353": {
+      "first_seen": 1790709728.3592684,
+      "posted": "2026-08-04",
+      "title": "Software Engineer, Vulnerability Management",
+      "job_id": "8089353",
+      "url": "https://stripe.com/jobs/search?gh_jid=8089353"
+    }
+  }
+}
