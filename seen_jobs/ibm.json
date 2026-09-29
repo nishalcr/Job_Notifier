@@ -1,0 +1,596 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "ibm"
+  },
+  "jobs": {
+    "109737": {
+      "first_seen": 1790650001.5531313,
+      "posted": "",
+      "title": "Senior Software Developer",
+      "job_id": "109737",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=109737"
+    },
+    "133630": {
+      "first_seen": 1790650001.5531352,
+      "posted": "",
+      "title": "Entry Level Software Developer 2027 - Durham",
+      "job_id": "133630",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133630"
+    },
+    "133531": {
+      "first_seen": 1790650001.5531368,
+      "posted": "",
+      "title": "Application Developer-Google Cloud FullStack",
+      "job_id": "133531",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133531"
+    },
+    "133533": {
+      "first_seen": 1790650001.5531383,
+      "posted": "",
+      "title": "Application Developer-Google Cloud FullStack",
+      "job_id": "133533",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133533"
+    },
+    "134117": {
+      "first_seen": 1790650001.5531397,
+      "posted": "",
+      "title": "QA/Test Developer ELH",
+      "job_id": "134117",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134117"
+    },
+    "133532": {
+      "first_seen": 1790650001.5531414,
+      "posted": "",
+      "title": "Application Developer-Google Cloud FullStack",
+      "job_id": "133532",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133532"
+    },
+    "131998": {
+      "first_seen": 1790650001.5531433,
+      "posted": "",
+      "title": "Microservices Developer",
+      "job_id": "131998",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131998"
+    },
+    "133928": {
+      "first_seen": 1790650001.553145,
+      "posted": "",
+      "title": "Entry-Level Software Developer 2027 - Lowell",
+      "job_id": "133928",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133928"
+    },
+    "134599": {
+      "first_seen": 1790650001.5531464,
+      "posted": "",
+      "title": "Application Developer - IT Service Management",
+      "job_id": "134599",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134599"
+    },
+    "134607": {
+      "first_seen": 1790650001.5531483,
+      "posted": "",
+      "title": "Application Developer - IT Service Management",
+      "job_id": "134607",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134607"
+    },
+    "134605": {
+      "first_seen": 1790650001.55315,
+      "posted": "",
+      "title": "Application Developer - IT Service Management",
+      "job_id": "134605",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134605"
+    },
+    "134601": {
+      "first_seen": 1790650001.5531523,
+      "posted": "",
+      "title": "Application Developer - IT Service Management",
+      "job_id": "134601",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134601"
+    },
+    "128814": {
+      "first_seen": 1790650001.5531533,
+      "posted": "",
+      "title": "Associate Application Developer 2027- ServiceNow",
+      "job_id": "128814",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128814"
+    },
+    "128530": {
+      "first_seen": 1790650001.5531547,
+      "posted": "",
+      "title": "Associate Application Developer 2027- ServiceNow",
+      "job_id": "128530",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128530"
+    },
+    "133527": {
+      "first_seen": 1790650001.5531561,
+      "posted": "",
+      "title": "Data Engineer-Business Intelligence",
+      "job_id": "133527",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133527"
+    },
+    "129264": {
+      "first_seen": 1790650001.553158,
+      "posted": "",
+      "title": "Front End Software Developer",
+      "job_id": "129264",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129264"
+    },
+    "133967": {
+      "first_seen": 1790650001.5531595,
+      "posted": "",
+      "title": "Full Stack Developer/Data Engineer TS/SCI",
+      "job_id": "133967",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133967"
+    },
+    "131294": {
+      "first_seen": 1790650001.5531611,
+      "posted": "",
+      "title": "Site Reliability Engineer ELH - OneIT - Durham, NC - 2027",
+      "job_id": "131294",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131294"
+    },
+    "132819": {
+      "first_seen": 1790650001.5531626,
+      "posted": "",
+      "title": "Entry Level Site Reliability Engineering Professional - Austin, TX - 2027",
+      "job_id": "132819",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132819"
+    },
+    "131516": {
+      "first_seen": 1790650001.553164,
+      "posted": "",
+      "title": "Confluent - Senior Software Engineer - Cloud Compute Platform",
+      "job_id": "131516",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131516"
+    },
+    "132890": {
+      "first_seen": 1790650001.5531657,
+      "posted": "",
+      "title": "Site Reliability Engineer ELH - OneIT - Poughkeepsie, NY",
+      "job_id": "132890",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132890"
+    },
+    "130872": {
+      "first_seen": 1790650001.553167,
+      "posted": "",
+      "title": "Entry Level Back End Developer - Poughkeepsie, NY - 2027",
+      "job_id": "130872",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130872"
+    },
+    "132701": {
+      "first_seen": 1790650001.5531693,
+      "posted": "",
+      "title": "Entry Level Software Developer-Tucson-AZ",
+      "job_id": "132701",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132701"
+    },
+    "130932": {
+      "first_seen": 1790650001.5531707,
+      "posted": "",
+      "title": "Senior Forward Deployed Engineer",
+      "job_id": "130932",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130932"
+    },
+    "132571": {
+      "first_seen": 1790650001.553172,
+      "posted": "",
+      "title": "ELH Software Engineer / Agent Engineer - EDA - Austin 2027",
+      "job_id": "132571",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132571"
+    },
+    "132570": {
+      "first_seen": 1790650001.5531738,
+      "posted": "",
+      "title": "ELH Software Engineer / Agent Engineer - EDA - Poughkeepsie 2027",
+      "job_id": "132570",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132570"
+    },
+    "130384": {
+      "first_seen": 1790650001.5531752,
+      "posted": "",
+      "title": "Entry Level Software Developer-Poughkeepsie-NY",
+      "job_id": "130384",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130384"
+    },
+    "130369": {
+      "first_seen": 1790650001.5531766,
+      "posted": "",
+      "title": "Entry Level Software Developer-Different locations",
+      "job_id": "130369",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130369"
+    },
+    "130379": {
+      "first_seen": 1790650001.553178,
+      "posted": "",
+      "title": "Entry Level QA/Test Engineer-Poughkeepsie-NY",
+      "job_id": "130379",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130379"
+    },
+    "109736": {
+      "first_seen": 1790650001.5531797,
+      "posted": "",
+      "title": "Software Developer",
+      "job_id": "109736",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=109736"
+    },
+    "130378": {
+      "first_seen": 1790650001.553181,
+      "posted": "",
+      "title": "Entry Level Software Developer-Rochester, MN",
+      "job_id": "130378",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130378"
+    },
+    "131308": {
+      "first_seen": 1790650001.5531824,
+      "posted": "",
+      "title": "Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",
+      "job_id": "131308",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131308"
+    },
+    "131393": {
+      "first_seen": 1790650001.5531836,
+      "posted": "",
+      "title": "DevOps/Fullstack Developer TS/SCI",
+      "job_id": "131393",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131393"
+    },
+    "120562": {
+      "first_seen": 1790650001.5531845,
+      "posted": "",
+      "title": "Quantum algorithm developer",
+      "job_id": "120562",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=120562"
+    },
+    "131805": {
+      "first_seen": 1790650001.553186,
+      "posted": "",
+      "title": "Entry level Backend Developer - San Jose, CA - 2027",
+      "job_id": "131805",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131805"
+    },
+    "131383": {
+      "first_seen": 1790650001.5531874,
+      "posted": "",
+      "title": "Qubit Characterization Engineer",
+      "job_id": "131383",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131383"
+    },
+    "73787": {
+      "first_seen": 1790650001.5531888,
+      "posted": "",
+      "title": "Entry Level Back End Developer 2026",
+      "job_id": "73787",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=73787"
+    },
+    "131212": {
+      "first_seen": 1790650001.5531902,
+      "posted": "",
+      "title": "Entry Level Cloud Developer - Chicago, IL - 2027",
+      "job_id": "131212",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131212"
+    },
+    "131607": {
+      "first_seen": 1790650001.5531917,
+      "posted": "",
+      "title": "Confluent - Senior Software Engineer II - Fleet Management Unified Deployment",
+      "job_id": "131607",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131607"
+    },
+    "131027": {
+      "first_seen": 1790650001.5531929,
+      "posted": "",
+      "title": "Entry Level Back-End Developer - Dallas, TX - 2027",
+      "job_id": "131027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131027"
+    },
+    "129123": {
+      "first_seen": 1790650001.5531945,
+      "posted": "",
+      "title": "Associate Application Developer - Oracle - 2027",
+      "job_id": "129123",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129123"
+    },
+    "131165": {
+      "first_seen": 1790650001.5531957,
+      "posted": "",
+      "title": "SW Developer | AI Center of Excellence - Austin, TX - 2027",
+      "job_id": "131165",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131165"
+    },
+    "130924": {
+      "first_seen": 1790650001.5531971,
+      "posted": "",
+      "title": "Entry Level QA/Test Developer-Tucson-AZ",
+      "job_id": "130924",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130924"
+    },
+    "130921": {
+      "first_seen": 1790650001.553199,
+      "posted": "",
+      "title": "Entry Level Site Reliability Engineer - Tucson-AZ",
+      "job_id": "130921",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130921"
+    },
+    "131023": {
+      "first_seen": 1790650001.5532005,
+      "posted": "",
+      "title": "Entry Level Back-End Developer-Tucson-AZ",
+      "job_id": "131023",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131023"
+    },
+    "131025": {
+      "first_seen": 1790650001.5532014,
+      "posted": "",
+      "title": "Entry Level Back-End Developer-Houston-TX",
+      "job_id": "131025",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131025"
+    },
+    "129901": {
+      "first_seen": 1790650001.5532026,
+      "posted": "",
+      "title": "Entry Level Software Engineering \u2013 Agentic AI & Workflow Automation 2027",
+      "job_id": "129901",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129901"
+    },
+    "118808": {
+      "first_seen": 1790650001.5532038,
+      "posted": "",
+      "title": "Forward Deploy Engineer",
+      "job_id": "118808",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=118808"
+    },
+    "90509": {
+      "first_seen": 1790650001.5532048,
+      "posted": "",
+      "title": "Quantum Computing Systems Engineer",
+      "job_id": "90509",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=90509"
+    },
+    "129641": {
+      "first_seen": 1790650001.5532062,
+      "posted": "",
+      "title": "QA Engineer Lead \u2013 Guidewire (On-site TX)",
+      "job_id": "129641",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129641"
+    },
+    "129646": {
+      "first_seen": 1790650001.5532079,
+      "posted": "",
+      "title": "QA Engineer Lead - ALIP (On-site TX)",
+      "job_id": "129646",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129646"
+    },
+    "129639": {
+      "first_seen": 1790650001.5532093,
+      "posted": "",
+      "title": "QA Engineer Lead \u2013 Guidewire (On-site TX)",
+      "job_id": "129639",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129639"
+    },
+    "128543": {
+      "first_seen": 1790650001.553211,
+      "posted": "",
+      "title": "Confluent - Senior Software Engineer - Backend",
+      "job_id": "128543",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128543"
+    },
+    "129645": {
+      "first_seen": 1790650001.5532124,
+      "posted": "",
+      "title": "QA Engineer Lead - ALIP (On-site TX)",
+      "job_id": "129645",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129645"
+    },
+    "128174": {
+      "first_seen": 1790650001.5532134,
+      "posted": "",
+      "title": "Senior Software Engineer II - Confluent",
+      "job_id": "128174",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128174"
+    },
+    "129644": {
+      "first_seen": 1790650001.5532148,
+      "posted": "",
+      "title": "QA Engineer Lead \u2013 Guidewire (On-site TX)",
+      "job_id": "129644",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129644"
+    },
+    "129784": {
+      "first_seen": 1790650001.5532157,
+      "posted": "",
+      "title": "Entry Level Software Developer 2027",
+      "job_id": "129784",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129784"
+    },
+    "128241": {
+      "first_seen": 1790650001.5532167,
+      "posted": "",
+      "title": "Confluent - Senior Software Engineer - Cloud Platform",
+      "job_id": "128241",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128241"
+    },
+    "119310": {
+      "first_seen": 1790650001.5532181,
+      "posted": "",
+      "title": "Network Automation Engineer",
+      "job_id": "119310",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=119310"
+    },
+    "114905": {
+      "first_seen": 1790650001.553219,
+      "posted": "",
+      "title": "Cryogenic Plant Engineer",
+      "job_id": "114905",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=114905"
+    },
+    "129235": {
+      "first_seen": 1790650001.5532207,
+      "posted": "",
+      "title": "Sr. Data Engineer (TS/SCI) - Reston",
+      "job_id": "129235",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129235"
+    },
+    "128352": {
+      "first_seen": 1790650001.5532217,
+      "posted": "",
+      "title": "Confluent - Senior Software Engineer II",
+      "job_id": "128352",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128352"
+    },
+    "128891": {
+      "first_seen": 1790650001.553223,
+      "posted": "",
+      "title": "Associate Data Engineer \u2013  Data Services - 2027",
+      "job_id": "128891",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128891"
+    },
+    "128793": {
+      "first_seen": 1790650001.5532236,
+      "posted": "",
+      "title": "Associate Application Developer - Oracle - 2027",
+      "job_id": "128793",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128793"
+    },
+    "128773": {
+      "first_seen": 1790650001.553225,
+      "posted": "",
+      "title": "Associate Application Developer Oracle - 2027",
+      "job_id": "128773",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128773"
+    },
+    "129114": {
+      "first_seen": 1790650001.5532262,
+      "posted": "",
+      "title": "Associate Data Engineer - AI & Analytics - 2027",
+      "job_id": "129114",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129114"
+    },
+    "128778": {
+      "first_seen": 1790650001.5532274,
+      "posted": "",
+      "title": "Associate Developer \u2013 Adobe 2027",
+      "job_id": "128778",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128778"
+    },
+    "128804": {
+      "first_seen": 1790650001.553229,
+      "posted": "",
+      "title": "Associate Data Engineer 2027 \u2013 AI & Analytics",
+      "job_id": "128804",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128804"
+    },
+    "128789": {
+      "first_seen": 1790650001.55323,
+      "posted": "",
+      "title": "Associate Full stack Developer 2027 - Digital Product",
+      "job_id": "128789",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128789"
+    },
+    "129429": {
+      "first_seen": 1790650001.553231,
+      "posted": "",
+      "title": "Associate Data Engineer \u2013 AI & Analytics - 2027",
+      "job_id": "129429",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129429"
+    },
+    "128608": {
+      "first_seen": 1790650001.5532322,
+      "posted": "",
+      "title": "Associate Data Engineer 2027 - AI & Data Analytics",
+      "job_id": "128608",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128608"
+    },
+    "128812": {
+      "first_seen": 1790650001.5532331,
+      "posted": "",
+      "title": "Associate Application Developer Salesforce -2027",
+      "job_id": "128812",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128812"
+    },
+    "128806": {
+      "first_seen": 1790650001.553234,
+      "posted": "",
+      "title": "Associate Application Developer IBM Tech & Red Hat - 2027",
+      "job_id": "128806",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128806"
+    },
+    "128732": {
+      "first_seen": 1790650001.5532353,
+      "posted": "",
+      "title": "Associate Application Developer - Azure and Microsoft - 2027",
+      "job_id": "128732",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128732"
+    },
+    "128753": {
+      "first_seen": 1790650001.5532362,
+      "posted": "",
+      "title": "Associate Application Developer 2027- ServiceNow",
+      "job_id": "128753",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128753"
+    },
+    "128796": {
+      "first_seen": 1790650001.5532372,
+      "posted": "",
+      "title": "Associate Application Developer AWS - 2027",
+      "job_id": "128796",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128796"
+    },
+    "128786": {
+      "first_seen": 1790650001.553238,
+      "posted": "",
+      "title": "Associate Application Developer - Adobe 2027",
+      "job_id": "128786",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128786"
+    },
+    "119683": {
+      "first_seen": 1790650001.553239,
+      "posted": "",
+      "title": "Senior Java Software Engineer \u2013 Legacy Modernization",
+      "job_id": "119683",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=119683"
+    },
+    "119566": {
+      "first_seen": 1790650001.55324,
+      "posted": "",
+      "title": "Sr. Software Engineer (TS/SCI)",
+      "job_id": "119566",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=119566"
+    },
+    "115541": {
+      "first_seen": 1790650001.5532408,
+      "posted": "",
+      "title": "Adobe Fusion Developer",
+      "job_id": "115541",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=115541"
+    },
+    "126913": {
+      "first_seen": 1790650001.553242,
+      "posted": "",
+      "title": "Quantum Developer Relations Lead",
+      "job_id": "126913",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=126913"
+    },
+    "121485": {
+      "first_seen": 1790650001.5532427,
+      "posted": "",
+      "title": "Cybersecurity Remediation Engineer",
+      "job_id": "121485",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=121485"
+    },
+    "106509": {
+      "first_seen": 1790650001.5532436,
+      "posted": "",
+      "title": "Software Developer for Quantum-Centric Supercomputing",
+      "job_id": "106509",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=106509"
+    },
+    "106514": {
+      "first_seen": 1790650001.5532446,
+      "posted": "",
+      "title": "Senior Software Developer for Quantum-Centric Supercomputing",
+      "job_id": "106514",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=106514"
+    }
+  }
+}

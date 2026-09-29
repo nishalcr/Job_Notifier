@@ -1,0 +1,3466 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "nvidia"
+  },
+  "jobs": {
+    "JR2025391": {
+      "first_seen": 1790649909.6080015,
+      "posted": "Posted Today",
+      "title": "Senior Software Engineer, Capacity Management - DGX Cloud",
+      "job_id": "JR2025391",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Capacity-Management---DGX-Cloud_JR2025391"
+    },
+    "JR2022552": {
+      "first_seen": 1790649909.6080062,
+      "posted": "Posted Today",
+      "title": "Senior Software Engineer, Core Infrastructure Services - DGX Cloud",
+      "job_id": "JR2022552",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-Remote/Senior-Software-Engineer--Core-Infrastructure-Services---DGX-Cloud_JR2022552"
+    },
+    "JR1999730": {
+      "first_seen": 1790649909.6080084,
+      "posted": "Posted Today",
+      "title": "Senior Software Engineer, At Scale Compute Analysis",
+      "job_id": "JR1999730",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Data-Engineer_JR1999730"
+    },
+    "JR2014997": {
+      "first_seen": 1790649909.6080108,
+      "posted": "Posted Today",
+      "title": "Senior HPC Storage Engineer",
+      "job_id": "JR2014997",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-Storage-Engineer_JR2014997"
+    },
+    "JR2018113": {
+      "first_seen": 1790649909.6080122,
+      "posted": "Posted Today",
+      "title": "Senior Network Reliability Engineer - DGX Cloud",
+      "job_id": "JR2018113",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Reliability-Engineer---DGX-Cloud_JR2018113"
+    },
+    "JR1997186": {
+      "first_seen": 1790649909.6080136,
+      "posted": "Posted Today",
+      "title": "Senior Software Engineer, NCCL",
+      "job_id": "JR1997186",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--GPU-Communications-and-Networking_JR1997186"
+    },
+    "JR2011122": {
+      "first_seen": 1790649909.6080148,
+      "posted": "Posted Today",
+      "title": "Platform Software Validation Engineer - SDET",
+      "job_id": "JR2011122",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---Datacenter-Server-OS_JR2011122"
+    },
+    "JR2024816": {
+      "first_seen": 1790649909.6080155,
+      "posted": "Posted Today",
+      "title": "Senior AI Infrastructure Engineer - EDA Infrastructure",
+      "job_id": "JR2024816",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-AI-infrastructure-engineer---Hardware-Infrastructure-Engineering_JR2024816"
+    },
+    "JR2025155": {
+      "first_seen": 1790649909.608017,
+      "posted": "Posted Today",
+      "title": "Senior Software Engineer, Object Storage - DGX Cloud",
+      "job_id": "JR2025155",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Object-Storage---DGX-Cloud_JR2025155"
+    },
+    "JR2014127": {
+      "first_seen": 1790649909.608018,
+      "posted": "Posted Today",
+      "title": "Senior HPC and LSF Operations Engineer",
+      "job_id": "JR2014127",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-and-LSF-Operations-Engineer_JR2014127"
+    },
+    "JR2021549": {
+      "first_seen": 1790649909.608019,
+      "posted": "Posted Today",
+      "title": "Senior Systems Software Engineer, Compute Stack Acceleration",
+      "job_id": "JR2021549",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Compute-Stack-Acceleration_JR2021549"
+    },
+    "JR2015287": {
+      "first_seen": 1790649909.608021,
+      "posted": "Posted Today",
+      "title": "Senior Linux Kernel Systems Software Engineer \u2013 CSP Engagements",
+      "job_id": "JR2015287",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Linux-Kernel-Systems-Software-Engineer---CSP-Engagements_JR2015287"
+    },
+    "JR2023960": {
+      "first_seen": 1790649909.6080225,
+      "posted": "Posted Today",
+      "title": "Senior Compute Platform Engineer, LSF\u00a0- EDA Infrastructure",
+      "job_id": "JR2023960",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Compute-Platform-Engineer--LSF-_JR2023960"
+    },
+    "JR2014651": {
+      "first_seen": 1790649909.6080234,
+      "posted": "Posted Today",
+      "title": "Senior Software Engineer, Metrics and Evaluation - Autonomous Vehicles",
+      "job_id": "JR2014651",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Metrics-and-Evaluation---Autonomous-Vehicles_JR2014651"
+    },
+    "JR2026403": {
+      "first_seen": 1790649909.6080246,
+      "posted": "Posted Today",
+      "title": "Senior Software Engineer, Network Visibility Platform - DGX Cloud",
+      "job_id": "JR2026403",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Network-Visibility-Platform---DGX-Cloud_JR2026403"
+    },
+    "JR2022482": {
+      "first_seen": 1790649909.6080256,
+      "posted": "Posted Today",
+      "title": "Senior Software Engineer, Networking DGX Cloud",
+      "job_id": "JR2022482",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-Remote/Senior-Software-Engineer--Networking-DGX-Cloud_JR2022482"
+    },
+    "JR2021605": {
+      "first_seen": 1790649909.6080267,
+      "posted": "Posted Today",
+      "title": "System Software Engineer - GeForce NOW Low Latency Streaming",
+      "job_id": "JR2021605",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GeForce-NOW-Low-Latency-Streaming_JR2021605"
+    },
+    "JR2024968": {
+      "first_seen": 1790649909.6080277,
+      "posted": "Posted Today",
+      "title": "Senior Systems Software Engineer - Machine Learning",
+      "job_id": "JR2024968",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Machine-Learning_JR2024968"
+    },
+    "JR2025150": {
+      "first_seen": 1790649909.608029,
+      "posted": "Posted Today",
+      "title": "Senior System Firmware Engineer",
+      "job_id": "JR2025150",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Firmware-Engineer_JR2025150"
+    },
+    "JR2025892": {
+      "first_seen": 1790649909.6080296,
+      "posted": "Posted Today",
+      "title": "Senior Software Engineer, Test - Autonomous Vehicles",
+      "job_id": "JR2025892",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Test---Autonomous-Vehicles_JR2025892"
+    },
+    "JR2024262": {
+      "first_seen": 1790649909.6080306,
+      "posted": "Posted Today",
+      "title": "Senior Software Engineer - AI Inference Performance",
+      "job_id": "JR2024262",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---AI-Inference-Performance_JR2024262"
+    },
+    "JR2011908": {
+      "first_seen": 1790649909.6080315,
+      "posted": "Posted Today",
+      "title": "Senior Deep Learning Framework Communications Engineer",
+      "job_id": "JR2011908",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Framework-Communications-Engineer_JR2011908"
+    },
+    "JR1997214": {
+      "first_seen": 1790649909.6080327,
+      "posted": "Posted Today",
+      "title": "Senior System Software Engineer - GPU Performance",
+      "job_id": "JR1997214",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-Performance-Engineer_JR1997214"
+    },
+    "JR1999599": {
+      "first_seen": 1790649909.608034,
+      "posted": "Posted Today",
+      "title": "Senior Firmware Engineer \u2013 CSP Engagements",
+      "job_id": "JR1999599",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---CSP-Engagements_JR1999599"
+    },
+    "JR2026619": {
+      "first_seen": 1790649909.6080348,
+      "posted": "Posted Today",
+      "title": "Senior Software Engineer, Distributed Systems Engineer - DGX Cloud",
+      "job_id": "JR2026619",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Distributed-Systems-Engineer---DGX-Cloud_JR2026619"
+    },
+    "JR2021516": {
+      "first_seen": 1790649909.608036,
+      "posted": "Posted Today",
+      "title": "Senior Software Engineer, AI Agent Compute",
+      "job_id": "JR2021516",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Software-Engineer--AI-Agent-Compute_JR2021516-1"
+    },
+    "JR2026536": {
+      "first_seen": 1790649909.6080375,
+      "posted": "Posted Today",
+      "title": "GPU SW Security Engineer",
+      "job_id": "JR2026536",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-SW-Security-Engineer_JR2026536"
+    },
+    "JR2026446": {
+      "first_seen": 1790649909.6080384,
+      "posted": "Posted Today",
+      "title": "Senior System Software Engineer, NVLink Fusion",
+      "job_id": "JR2026446",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--NVLink-Fusion_JR2026446-1"
+    },
+    "JR2026538": {
+      "first_seen": 1790649909.6080394,
+      "posted": "Posted Today",
+      "title": "AI Software Engineer, Lightspeed Studios",
+      "job_id": "JR2026538",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/AI-Software-Engineer--Lightspeed-Studios_JR2026538"
+    },
+    "JR2023962": {
+      "first_seen": 1790649909.60804,
+      "posted": "Posted Yesterday",
+      "title": "Senior Infrastructure Automation Engineer, Compute Platform - EDA Infrastructure",
+      "job_id": "JR2023962",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Remote/Senior-Infrastructure-Automation-Engineer--Compute-Platform_JR2023962"
+    },
+    "JR2024825": {
+      "first_seen": 1790649909.6080413,
+      "posted": "Posted Yesterday",
+      "title": "Senior Software Engineer - Distributed Systems Engineer, EDA Infrastructure",
+      "job_id": "JR2024825",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Remote/Senior-Software-Engineer---Distributed-Systems-Engineer--EDA-Infrastructure_JR2024825-1"
+    },
+    "JR2013271": {
+      "first_seen": 1790649909.6080425,
+      "posted": "Posted Yesterday",
+      "title": "Senior Site Reliability Engineer - HPC",
+      "job_id": "JR2013271",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---HPC_JR2013271"
+    },
+    "JR2024331": {
+      "first_seen": 1790649909.6080434,
+      "posted": "Posted Yesterday",
+      "title": "Senior System Software Engineer - Scientific Computing PaaS",
+      "job_id": "JR2024331",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Scientific-Computing-PaaS_JR2024331"
+    },
+    "JR2002387": {
+      "first_seen": 1790649909.6080444,
+      "posted": "Posted Yesterday",
+      "title": "Senior Network Engineer - DGX Cloud",
+      "job_id": "JR2002387",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Engineer---DGX-Cloud_JR2002387-2"
+    },
+    "JR1996987": {
+      "first_seen": 1790649909.6080453,
+      "posted": "Posted 2 Days Ago",
+      "title": "Senior Systems Software Engineer - GPU Performance at Scale",
+      "job_id": "JR1996987",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Performance-Engineer_JR1996987"
+    },
+    "JR2014178": {
+      "first_seen": 1790649909.6080465,
+      "posted": "Posted 3 Days Ago",
+      "title": "HPC Operations Engineer",
+      "job_id": "JR2014178",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/HPC-Operations-Engineer_JR2014178"
+    },
+    "JR2019870": {
+      "first_seen": 1790649909.6080472,
+      "posted": "Posted 3 Days Ago",
+      "title": "Senior Systems Software Engineer, Data Center Platform Enablement",
+      "job_id": "JR2019870",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870"
+    },
+    "JR2018245": {
+      "first_seen": 1790649909.6080484,
+      "posted": "Posted 3 Days Ago",
+      "title": "Senior Software Engineer, Security",
+      "job_id": "JR2018245",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Security-Architect_JR2018245"
+    },
+    "JR2020549": {
+      "first_seen": 1790649909.6080496,
+      "posted": "Posted 4 Days Ago",
+      "title": "Senior Software Engineer, PyTorch - Deep Learning",
+      "job_id": "JR2020549",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--PyTorch---Deep-Learning_JR2020549"
+    },
+    "JR2007944": {
+      "first_seen": 1790649909.608051,
+      "posted": "Posted 4 Days Ago",
+      "title": "Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud",
+      "job_id": "JR2007944",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Kubernetes-and-Virtualization---DGX-Cloud_JR2007944"
+    },
+    "JR2014880": {
+      "first_seen": 1790649909.6080525,
+      "posted": "Posted 4 Days Ago",
+      "title": "Senior Software Engineer, System Validation - EDA Infrastructure",
+      "job_id": "JR2014880",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Next-Generation-Architecture---EDA-Infrastructure_JR2014880"
+    },
+    "JR2024972": {
+      "first_seen": 1790649909.6080534,
+      "posted": "Posted 4 Days Ago",
+      "title": "Senior Systems Software Engineer- EDA Infrastructure",
+      "job_id": "JR2024972",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Systems-Software-Engineer--EDA-Infrastructure_JR2024972-1"
+    },
+    "JR2026239": {
+      "first_seen": 1790649909.6080549,
+      "posted": "Posted 4 Days Ago",
+      "title": "Software QA Engineer",
+      "job_id": "JR2026239",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer_JR2026239"
+    },
+    "JR2026242": {
+      "first_seen": 1790649909.608057,
+      "posted": "Posted 5 Days Ago",
+      "title": "Software QA Engineer",
+      "job_id": "JR2026242",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer_JR2026242"
+    },
+    "JR2022380": {
+      "first_seen": 1790649909.608059,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior System Integration Engineer, Memory",
+      "job_id": "JR2022380",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Integration-Engineer--Memory_JR2022380"
+    },
+    "JR2018836": {
+      "first_seen": 1790649909.6080604,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior Power Integrity Co-Design Engineer",
+      "job_id": "JR2018836",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Power-Integrity-Co-Design-Engineer_JR2018836-2"
+    },
+    "JR2016045": {
+      "first_seen": 1790649909.6080618,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior Software Triage Engineer - Autonomous Vehicles",
+      "job_id": "JR2016045",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Triage-Engineer---Autonomous-Vehicles_JR2016045"
+    },
+    "JR2020354": {
+      "first_seen": 1790649909.6080632,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior Data Backend Engineer",
+      "job_id": "JR2020354",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Backend-Engineer_JR2020354"
+    },
+    "JR2023609": {
+      "first_seen": 1790649909.6080642,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior Software Engineer, DGX Cloud Production Engineering",
+      "job_id": "JR2023609",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Production-Engineering_JR2023609"
+    },
+    "JR2026332": {
+      "first_seen": 1790649909.6080651,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior System Software Engineer, Robotics",
+      "job_id": "JR2026332",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Robotics_JR2026332"
+    },
+    "JR2026148": {
+      "first_seen": 1790649909.6080663,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior Data Application Engineer \u2013 Enterprise Data Management",
+      "job_id": "JR2026148",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Application-Engineer---Enterprise-Data-Management_JR2026148"
+    },
+    "JR2025879": {
+      "first_seen": 1790649909.608067,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior Engineer, Performance",
+      "job_id": "JR2025879",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Engineer--Performance_JR2025879"
+    },
+    "JR2009512": {
+      "first_seen": 1790649909.6080687,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior Data Engineer - Financial Transactions & Automation",
+      "job_id": "JR2009512",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer---Financial-Transactions---Automation_JR2009512"
+    },
+    "JR2025616": {
+      "first_seen": 1790649909.6080697,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior DFT Engineer",
+      "job_id": "JR2025616",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2025616"
+    },
+    "JR2024462": {
+      "first_seen": 1790649909.608071,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior Hypervisor and RTOS Engineer",
+      "job_id": "JR2024462",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Hypervisor-and-RTOS-Engineer_JR2024462"
+    },
+    "JR2011622": {
+      "first_seen": 1790649909.6080728,
+      "posted": "Posted 5 Days Ago",
+      "title": "System Software Engineer, Profiler - GPU",
+      "job_id": "JR2011622",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/System-Software-Engineer--Profiler---GPU_JR2011622"
+    },
+    "JR2026029": {
+      "first_seen": 1790649909.6080737,
+      "posted": "Posted 5 Days Ago",
+      "title": "Senior SRAM Engineer, Circuit Design",
+      "job_id": "JR2026029",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-SRAM-Engineer--Circuit-Design_JR2026029"
+    },
+    "JR2026206": {
+      "first_seen": 1790649909.6080747,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior Firmware Verification Engineer",
+      "job_id": "JR2026206",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Verification-Engineer_JR2026206"
+    },
+    "JR2026385": {
+      "first_seen": 1790649909.608076,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior Solution Engineer, Networking",
+      "job_id": "JR2026385",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--Networking_JR2026385"
+    },
+    "JR2026405": {
+      "first_seen": 1790649909.6080773,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior System Software Engineer - GPU Power and Performance Management",
+      "job_id": "JR2026405",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---GPU-Power-and-Performance-Management_JR2026405-1"
+    },
+    "JR2026393": {
+      "first_seen": 1790649909.6080785,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior System Software Engineer - GPU SW",
+      "job_id": "JR2026393",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---GPU-SW_JR2026393-1"
+    },
+    "JR2024570": {
+      "first_seen": 1790649909.6080801,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior Distributed Software Engineer, Golang - DGX Cloud",
+      "job_id": "JR2024570",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Distributed-Software-Engineer--Golang---DGX-Cloud_JR2024570-1"
+    },
+    "JR2021102": {
+      "first_seen": 1790649909.608081,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior System Software Engineer - AV Platform",
+      "job_id": "JR2021102",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2021102"
+    },
+    "JR2025689": {
+      "first_seen": 1790649909.6080825,
+      "posted": "Posted 6 Days Ago",
+      "title": "Applied Machine Learning Engineer - AI for VLSI Design",
+      "job_id": "JR2025689",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer---AI-for-VLSI-Design_JR2025689"
+    },
+    "JR2019589": {
+      "first_seen": 1790649909.6080835,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior Software Development Engineer in Test - SDET",
+      "job_id": "JR2019589",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---SDET_JR2019589"
+    },
+    "JR2020431": {
+      "first_seen": 1790649909.6080844,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior Software Development Engineer in Test",
+      "job_id": "JR2020431",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test_JR2020431"
+    },
+    "JR2021098": {
+      "first_seen": 1790649909.6080854,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior DFT Power Methodology Engineer",
+      "job_id": "JR2021098",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Power-Methodology-Engineer_JR2021098-1"
+    },
+    "JR2022681": {
+      "first_seen": 1790649909.6080863,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior DFT Engineer",
+      "job_id": "JR2022681",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2022681"
+    },
+    "JR2026364": {
+      "first_seen": 1790649909.6080868,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior System Software Engineer - Embedded Controller",
+      "job_id": "JR2026364",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Embedded-Controller_JR2026364"
+    },
+    "JR2026388": {
+      "first_seen": 1790649909.6080875,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior System Software Engineer - Datacenter Power Management",
+      "job_id": "JR2026388",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Datacenter-Power-Management_JR2026388"
+    },
+    "JR2026368": {
+      "first_seen": 1790649909.6080883,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior System Firmware Engineer - SOC and GPU",
+      "job_id": "JR2026368",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Firmware-Engineer---SOC-and-GPU_JR2026368"
+    },
+    "JR2021517": {
+      "first_seen": 1790649909.6080897,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior Software Engineer, Linux Platform",
+      "job_id": "JR2021517",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Software-Engineer--Linux-Platform_JR2021517"
+    },
+    "JR2012046": {
+      "first_seen": 1790649909.6080906,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior Software Engineer, Hardware Tools and Methodology Development",
+      "job_id": "JR2012046",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Hardware-Tools-and-Methodology-Development_JR2012046"
+    },
+    "JR2021512": {
+      "first_seen": 1790649909.6080914,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior Network Security Engineer - DGX Cloud",
+      "job_id": "JR2021512",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Security-Engineer---DGX-Cloud_JR2021512"
+    },
+    "JR2009350": {
+      "first_seen": 1790649909.608092,
+      "posted": "Posted 6 Days Ago",
+      "title": "Senior SOC Design Engineer",
+      "job_id": "JR2009350",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-SOC-Design-Engineer_JR2009350"
+    },
+    "JR2024872": {
+      "first_seen": 1790649909.608093,
+      "posted": "Posted 7 Days Ago",
+      "title": "Senior Full Stack Software Engineer, Data Platform",
+      "job_id": "JR2024872",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Full-Stack-Software-Engineer--Data-Platform_JR2024872"
+    },
+    "JR2026256": {
+      "first_seen": 1790649909.6080942,
+      "posted": "Posted 7 Days Ago",
+      "title": "Senior System Software Engineer - GPU Power Management",
+      "job_id": "JR2026256",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---GPU-Power-Management_JR2026256"
+    },
+    "JR2024551": {
+      "first_seen": 1790649909.6080952,
+      "posted": "Posted 7 Days Ago",
+      "title": "Data Application Engineer, Enterprise Data Management",
+      "job_id": "JR2024551",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Application-Engineer--Enterprise-Data-Management_JR2024551"
+    },
+    "JR2025923": {
+      "first_seen": 1790649909.608096,
+      "posted": "Posted 7 Days Ago",
+      "title": "Senior System Software Engineer \u2013 Linux-Tegra Power Management and Performance Optimization",
+      "job_id": "JR2025923",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Linux-Tegra-Power-Management-and-Performance-Optimization_JR2025923"
+    },
+    "JR2026097": {
+      "first_seen": 1790649909.6080978,
+      "posted": "Posted 7 Days Ago",
+      "title": "Senior Applications Software Engineer, Perception and Sensor Fusion",
+      "job_id": "JR2026097",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applications-Software-Engineer--Perception-and-Sensor-Fusion_JR2026097"
+    },
+    "JR2014097": {
+      "first_seen": 1790649909.6080987,
+      "posted": "Posted 7 Days Ago",
+      "title": "Senior Software Engineer, Attestation Services - DGX Cloud",
+      "job_id": "JR2014097",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Attestation-Services---DGX-Cloud_JR2014097"
+    },
+    "JR2005335": {
+      "first_seen": 1790649909.6081,
+      "posted": "Posted 7 Days Ago",
+      "title": "Senior Memory System Engineer",
+      "job_id": "JR2005335",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Memory-System-Engineer_JR2005335"
+    },
+    "JR2018983": {
+      "first_seen": 1790649909.6081011,
+      "posted": "Posted 7 Days Ago",
+      "title": "Senior Customer Safety Engineer - Automotive",
+      "job_id": "JR2018983",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Customer-Safety-Engineer---Automotive_JR2018983"
+    },
+    "JR2025643": {
+      "first_seen": 1790649909.6081023,
+      "posted": "Posted 7 Days Ago",
+      "title": "Senior Software Engineer - Networking",
+      "job_id": "JR2025643",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Embedded-Engineer---Networking_JR2025643"
+    },
+    "JR2023733": {
+      "first_seen": 1790649909.608104,
+      "posted": "Posted 7 Days Ago",
+      "title": "CPU Design Methodology Engineer",
+      "job_id": "JR2023733",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/CPU-Design-Methodology-Engineer_JR2023733"
+    },
+    "JR2024785": {
+      "first_seen": 1790649909.6081052,
+      "posted": "Posted 7 Days Ago",
+      "title": "Senior Machine Learning Engineer, Perception - Autonomous Driving",
+      "job_id": "JR2024785",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--Perception---Autonomous-Driving_JR2024785"
+    },
+    "JR2025121": {
+      "first_seen": 1790649909.6081076,
+      "posted": "Posted 7 Days Ago",
+      "title": "Senior Software Control Integration Engineer - Autonomous Vehicles",
+      "job_id": "JR2025121",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Control-Integration-Engineer---Autonomous-Vehicles_JR2025121"
+    },
+    "JR2023850": {
+      "first_seen": 1790649909.6081083,
+      "posted": "Posted 7 Days Ago",
+      "title": "Senior Synthetic Data Engineer - Autonomous Driving",
+      "job_id": "JR2023850",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Synthetic-Data-Engineer---Autonomous-Driving_JR2023850-1"
+    },
+    "JR2025971": {
+      "first_seen": 1790649909.6081088,
+      "posted": "Posted 8 Days Ago",
+      "title": "Senior Solution Engineer, Compute Systems",
+      "job_id": "JR2025971",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--Compute-Systems_JR2025971"
+    },
+    "JR2025388": {
+      "first_seen": 1790649909.6081095,
+      "posted": "Posted 8 Days Ago",
+      "title": "Senior Software Engineer, Capacity Management - DGX Cloud",
+      "job_id": "JR2025388",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Capacity-Management---DGX-Cloud_JR2025388"
+    },
+    "JR2026042": {
+      "first_seen": 1790649909.608111,
+      "posted": "Posted 8 Days Ago",
+      "title": "Senior Storage Software Engineer - DGX Cloud",
+      "job_id": "JR2026042",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Software-Engineer---DGX-Cloud_JR2026042"
+    },
+    "JR2020348": {
+      "first_seen": 1790649909.6081116,
+      "posted": "Posted 9 Days Ago",
+      "title": "Senior Software Engineer - Manufacturing and Factory",
+      "job_id": "JR2020348",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Manufacturing-and-Factory_JR2020348-1"
+    },
+    "JR2001098": {
+      "first_seen": 1790649909.608112,
+      "posted": "Posted 9 Days Ago",
+      "title": "Senior Software Engineer, Cloud-Native Stack \u2013 CSP Engagements",
+      "job_id": "JR2001098",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Cloud-Native-Stack---CSP-Engagements_JR2001098"
+    },
+    "JR2020884": {
+      "first_seen": 1790649909.608113,
+      "posted": "Posted 10 Days Ago",
+      "title": "Senior DFT Methodology Engineer",
+      "job_id": "JR2020884",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Methodology-Engineer_JR2020884"
+    },
+    "JR2025165": {
+      "first_seen": 1790649909.608114,
+      "posted": "Posted 10 Days Ago",
+      "title": "Senior System Software Engineer - Dynamo-Triton Inference Server",
+      "job_id": "JR2025165",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Dynamo-Triton-Inference-Server_JR2025165"
+    },
+    "JR2025163": {
+      "first_seen": 1790649909.6081147,
+      "posted": "Posted 10 Days Ago",
+      "title": "Senior Context Fusion AI Engineer - Autonomous Vehicles",
+      "job_id": "JR2025163",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Context-Fusion-AI-Engineer---Autonomous-Vehicles_JR2025163"
+    },
+    "JR2025038": {
+      "first_seen": 1790649909.6081154,
+      "posted": "Posted 10 Days Ago",
+      "title": "Senior Integration Engineer, End-to-End Model - Autonomous Vehicles",
+      "job_id": "JR2025038",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Integration-Engineer--End-to-End-Model---Autonomous-Vehicles_JR2025038"
+    },
+    "JR2024202": {
+      "first_seen": 1790649909.6081161,
+      "posted": "Posted 10 Days Ago",
+      "title": "Senior Perception Software Engineer",
+      "job_id": "JR2024202",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Perception-Software-Engineer_JR2024202"
+    },
+    "JR2010334": {
+      "first_seen": 1790649909.608117,
+      "posted": "Posted 10 Days Ago",
+      "title": "Senior Software Development Engineer, Neural Graph Infrastructure",
+      "job_id": "JR2010334",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-CAD-Infrastructure-Development-Engineer_JR2010334"
+    },
+    "JR2026138": {
+      "first_seen": 1790649909.6081185,
+      "posted": "Posted 11 Days Ago",
+      "title": "Senior Compiler Engineer, Agentic Compiler Systems",
+      "job_id": "JR2026138",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer--Agentic-Compiler-Systems_JR2026138-1"
+    },
+    "JR2000499": {
+      "first_seen": 1790649909.6081192,
+      "posted": "Posted 11 Days Ago",
+      "title": "Senior DFT Engineer",
+      "job_id": "JR2000499",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2000499"
+    },
+    "JR2025233": {
+      "first_seen": 1790649909.6081202,
+      "posted": "Posted 11 Days Ago",
+      "title": "Senior Agentic Insights Engineer",
+      "job_id": "JR2025233",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Agentic-Insights-Engineer_JR2025233-1"
+    },
+    "JR2018453": {
+      "first_seen": 1790649909.6081214,
+      "posted": "Posted 11 Days Ago",
+      "title": "Senior Firmware Engineer - GPU",
+      "job_id": "JR2018453",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-SC-Remote/Senior-Firmware-Engineer---GPU_JR2018453"
+    },
+    "JR2025019": {
+      "first_seen": 1790649909.608122,
+      "posted": "Posted 11 Days Ago",
+      "title": "Senior Linux Systems Engineer - EDA Infrastructure",
+      "job_id": "JR2025019",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Linux-Systems-Engineer---EDA-Infrastructure_JR2025019"
+    },
+    "JR2025059": {
+      "first_seen": 1790649909.608123,
+      "posted": "Posted 11 Days Ago",
+      "title": "Senior Performance Engineer",
+      "job_id": "JR2025059",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Performance-Engineer_JR2025059"
+    },
+    "JR2025776": {
+      "first_seen": 1790649909.6081243,
+      "posted": "Posted 11 Days Ago",
+      "title": "Senior DevOps Engineer",
+      "job_id": "JR2025776",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DevOps-Engineer_JR2025776"
+    },
+    "JR2025862": {
+      "first_seen": 1790649909.6081252,
+      "posted": "Posted 11 Days Ago",
+      "title": "Senior System Software Integration and Debug Engineer",
+      "job_id": "JR2025862",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Integration-and-Debug-Engineer_JR2025862-1"
+    },
+    "JR2017657": {
+      "first_seen": 1790649909.6081262,
+      "posted": "Posted 11 Days Ago",
+      "title": "Senior DFT Engineer",
+      "job_id": "JR2017657",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2017657"
+    },
+    "JR2005063": {
+      "first_seen": 1790649909.608127,
+      "posted": "Posted 11 Days Ago",
+      "title": "Senior Software Engineer, Humanoid Robotics",
+      "job_id": "JR2005063",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Humanoid-Robotics_JR2005063"
+    },
+    "JR2024918": {
+      "first_seen": 1790649909.6081278,
+      "posted": "Posted 12 Days Ago",
+      "title": "System Software Engineer, Performance - CUDA Driver",
+      "job_id": "JR2024918",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Performance---CUDA-Driver_JR2024918"
+    },
+    "JR2025674": {
+      "first_seen": 1790649909.608129,
+      "posted": "Posted 12 Days Ago",
+      "title": "Senior Software Engineer - Embedded Linux for Edge",
+      "job_id": "JR2025674",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Embedded-Linux-for-Edge_JR2025674"
+    },
+    "JR2025486": {
+      "first_seen": 1790649909.60813,
+      "posted": "Posted 12 Days Ago",
+      "title": "Senior Graphics Driver Engineer",
+      "job_id": "JR2025486",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Graphics-Driver-Engineer_JR2025486"
+    },
+    "JR2025748": {
+      "first_seen": 1790649909.6081314,
+      "posted": "Posted 12 Days Ago",
+      "title": "Performance Engineer",
+      "job_id": "JR2025748",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer_JR2025748"
+    },
+    "JR2022264": {
+      "first_seen": 1790649909.6081324,
+      "posted": "Posted 12 Days Ago",
+      "title": "Senior VLSI Library Methodology Engineer",
+      "job_id": "JR2022264",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-VLSI-Library-Methodology-Engineer_JR2022264"
+    },
+    "JR2013728": {
+      "first_seen": 1790649909.6081336,
+      "posted": "Posted 12 Days Ago",
+      "title": "Senior System Software Engineer - AV Platform",
+      "job_id": "JR2013728",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2013728"
+    },
+    "JR2018042": {
+      "first_seen": 1790649909.608135,
+      "posted": "Posted 12 Days Ago",
+      "title": "Senior AI Infrastructure Software Engineer - DGX Cloud",
+      "job_id": "JR2018042",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Infrastructure-Software-Engineer---DGX-Cloud_JR2018042"
+    },
+    "JR2021622": {
+      "first_seen": 1790649909.608136,
+      "posted": "Posted 12 Days Ago",
+      "title": "Senior Compiler Optimization Engineer - MLIR",
+      "job_id": "JR2021622",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Compiler-Optimization-Engineer---MLIR_JR2021622"
+    },
+    "JR2016558": {
+      "first_seen": 1790649909.6081371,
+      "posted": "Posted 12 Days Ago",
+      "title": "Senior System Software Engineer - AV Platform",
+      "job_id": "JR2016558",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2016558"
+    },
+    "JR2021582": {
+      "first_seen": 1790649909.608138,
+      "posted": "Posted 12 Days Ago",
+      "title": "Senior MGX Ecosystem Engineer",
+      "job_id": "JR2021582",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-MGX-Ecosystem-Engineer_JR2021582"
+    },
+    "JR2025255": {
+      "first_seen": 1790649909.6081393,
+      "posted": "Posted 12 Days Ago",
+      "title": "Senior Network Engineer - Deployments",
+      "job_id": "JR2025255",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Engineer---Deployments_JR2025255"
+    },
+    "JR2022268": {
+      "first_seen": 1790649909.6081407,
+      "posted": "Posted 12 Days Ago",
+      "title": "Senior EDA Engineer, SOC Design Methodology",
+      "job_id": "JR2022268",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--SOC-Design-Methodology_JR2022268"
+    },
+    "JR2020790": {
+      "first_seen": 1790649909.6081421,
+      "posted": "Posted 12 Days Ago",
+      "title": "Senior DFT Engineer",
+      "job_id": "JR2020790",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2020790"
+    },
+    "JR2015949": {
+      "first_seen": 1790649909.6081433,
+      "posted": "Posted 12 Days Ago",
+      "title": "Embedded Software Engineer - DPU Platform",
+      "job_id": "JR2015949",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1"
+    },
+    "JR2017846": {
+      "first_seen": 1790649909.6081443,
+      "posted": "Posted 12 Days Ago",
+      "title": "Senior Embedded Software Engineer, DPU - Networking",
+      "job_id": "JR2017846",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-Software-Engineer--DPU---Networking_JR2017846"
+    },
+    "JR2020271": {
+      "first_seen": 1790649909.6081455,
+      "posted": "Posted 13 Days Ago",
+      "title": "Senior Systems Software Engineer \u2013 GPU Software",
+      "job_id": "JR2020271",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---GPU-Software_JR2020271"
+    },
+    "JR2025745": {
+      "first_seen": 1790649909.6081464,
+      "posted": "Posted 13 Days Ago",
+      "title": "Senior Deep Learning Engineer, Cosmo 3D Spatial",
+      "job_id": "JR2025745",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Engineer--Cosmo-3D-Spatial_JR2025745"
+    },
+    "JR2019844": {
+      "first_seen": 1790649909.6081471,
+      "posted": "Posted 13 Days Ago",
+      "title": "Senior Deep Learning Compiler Engineer - HW-SW Codesign",
+      "job_id": "JR2019844",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Compiler-Engineer---XLA_JR2019844"
+    },
+    "JR2025602": {
+      "first_seen": 1790649909.6081479,
+      "posted": "Posted 13 Days Ago",
+      "title": "Modeling Engineer, Supply Chain Optimization",
+      "job_id": "JR2025602",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Modeling-Engineer--Supply-Chain-Optimization_JR2025602"
+    },
+    "JR2023933": {
+      "first_seen": 1790649909.6081488,
+      "posted": "Posted 13 Days Ago",
+      "title": "Senior Software Engineer, GNN",
+      "job_id": "JR2023933",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Software-Engineer--GNN_JR2023933"
+    },
+    "JR2023856": {
+      "first_seen": 1790649909.6081495,
+      "posted": "Posted 13 Days Ago",
+      "title": "NVIDIA 2027 Summer Internships: Ph.D. Engineering",
+      "job_id": "JR2023856",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856"
+    },
+    "JR2022625": {
+      "first_seen": 1790649909.6081502,
+      "posted": "Posted 13 Days Ago",
+      "title": "Senior System Test Engineer, Networking",
+      "job_id": "JR2022625",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Test-Engineer--Networking_JR2022625"
+    },
+    "JR2023340": {
+      "first_seen": 1790649909.608151,
+      "posted": "Posted 13 Days Ago",
+      "title": "System Software Engineer - Trusted Firmware",
+      "job_id": "JR2023340",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Trusted-Firmware_JR2023340"
+    },
+    "JR2018093": {
+      "first_seen": 1790649909.6081524,
+      "posted": "Posted 13 Days Ago",
+      "title": "Senior Software Engineer - Simulation",
+      "job_id": "JR2018093",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Simulation_JR2018093"
+    },
+    "JR2007452": {
+      "first_seen": 1790649909.6081533,
+      "posted": "Posted 13 Days Ago",
+      "title": "Senior Software Engineer, Subnet Management",
+      "job_id": "JR2007452",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Subnet-Manager_JR2007452"
+    },
+    "JR2025518": {
+      "first_seen": 1790649909.6081543,
+      "posted": "Posted 13 Days Ago",
+      "title": "Senior Software Engineer, CAD Tool Development - Circuits",
+      "job_id": "JR2025518",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CAD-Tool-Development---Circuits_JR2025518"
+    },
+    "JR2019752": {
+      "first_seen": 1790649909.608156,
+      "posted": "Posted 13 Days Ago",
+      "title": "Senior Math Libraries Engineer - LLM Integration and Developer Experience",
+      "job_id": "JR2019752",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Math-Libraries-Engineer---LLM-Integration-and-Developer-Experience_JR2019752-1"
+    },
+    "JR2025464": {
+      "first_seen": 1790649909.6081572,
+      "posted": "Posted 13 Days Ago",
+      "title": "Senior Software Engineer - Cluster Networking",
+      "job_id": "JR2025464",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Cluster-Networking_JR2025464"
+    },
+    "JR2023857": {
+      "first_seen": 1790649909.608158,
+      "posted": "Posted 13 Days Ago",
+      "title": "Senior Software QA Test Development Engineer - Diagnostics",
+      "job_id": "JR2023857",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-QA-Test-Development-Engineer---Diagnostics_JR2023857"
+    },
+    "JR2003389": {
+      "first_seen": 1790649909.6081595,
+      "posted": "Posted 14 Days Ago",
+      "title": "Senior Cloud Software Engineer, DGXC Data Services",
+      "job_id": "JR2003389",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGXC-Data-Services_JR2003389"
+    },
+    "JR2013322": {
+      "first_seen": 1790649909.6081605,
+      "posted": "Posted 14 Days Ago",
+      "title": "Senior System Software Engineer - CUDA Chips",
+      "job_id": "JR2013322",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---CUDA-Chips_JR2013322"
+    },
+    "JR2014056": {
+      "first_seen": 1790649909.6081614,
+      "posted": "Posted 14 Days Ago",
+      "title": "Senior Software Engineer, CUDA UMD - Graphs and GPU Sharing",
+      "job_id": "JR2014056",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-UMD---Graphs-and-GPU-Sharing_JR2014056"
+    },
+    "JR2014589": {
+      "first_seen": 1790649909.6081629,
+      "posted": "Posted 14 Days Ago",
+      "title": "Senior Localization Engineer - Autonomous Vehicles",
+      "job_id": "JR2014589",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Localization-Engineer---Autonomous-Vehicles_JR2014589"
+    },
+    "JR2025621": {
+      "first_seen": 1790649909.608164,
+      "posted": "Posted 14 Days Ago",
+      "title": "Senior System Software Engineer, Agentic Kernel Development",
+      "job_id": "JR2025621",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Agentic-Kernel-Development_JR2025621"
+    },
+    "JR2024798": {
+      "first_seen": 1790649909.6081648,
+      "posted": "Posted 14 Days Ago",
+      "title": "Senior Software Engineer, Open Harness Engineering",
+      "job_id": "JR2024798",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Software-Engineer--Open-Harness-Engineering_JR2024798"
+    },
+    "JR2025588": {
+      "first_seen": 1790649909.6081662,
+      "posted": "Posted 15 Days Ago",
+      "title": "Senior Software Engineer - Embedded Platform",
+      "job_id": "JR2025588",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Embedded-Platform_JR2025588"
+    },
+    "JR2025345": {
+      "first_seen": 1790649909.6081672,
+      "posted": "Posted 15 Days Ago",
+      "title": "Senior System Software Engineer, Software-Defined Networking",
+      "job_id": "JR2025345",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-System-Software-Engineer--Software-Defined-Networking_JR2025345-1"
+    },
+    "JR2020844": {
+      "first_seen": 1790649909.608168,
+      "posted": "Posted 15 Days Ago",
+      "title": "Senior Storage Software Engineer, DGXC Data Services",
+      "job_id": "JR2020844",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Software-Engineer--DGXC-Data-Services_JR2020844"
+    },
+    "JR2018101": {
+      "first_seen": 1790649909.608169,
+      "posted": "Posted 17 Days Ago",
+      "title": "Senior Software Engineer - DGX Cloud Production Engineering",
+      "job_id": "JR2018101",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Production-Engineer---DGX-Cloud_JR2018101"
+    },
+    "JR2021887": {
+      "first_seen": 1790649909.6081703,
+      "posted": "Posted 17 Days Ago",
+      "title": "Security Research Engineer, AI Safety and Security Engineering",
+      "job_id": "JR2021887",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Research-Engineer--AI-Safety-and-Security-Engineering_JR2021887"
+    },
+    "JR2018693": {
+      "first_seen": 1790649909.6081715,
+      "posted": "Posted 17 Days Ago",
+      "title": "Senior C++ Software Engineer - Infrastructure Tools",
+      "job_id": "JR2018693",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-C---Software-Engineer---Infrastructure-Tools_JR2018693"
+    },
+    "JR2025164": {
+      "first_seen": 1790649909.6081727,
+      "posted": "Posted 17 Days Ago",
+      "title": "Senior High Performance AI Engineer, Agentic AI",
+      "job_id": "JR2025164",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-High-Performance-AI-Engineer--Agentic-AI_JR2025164"
+    },
+    "JR2025361": {
+      "first_seen": 1790649909.6081743,
+      "posted": "Posted 17 Days Ago",
+      "title": "Senior Solution Engineer, Networking",
+      "job_id": "JR2025361",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--Networking_JR2025361"
+    },
+    "JR2025344": {
+      "first_seen": 1790649909.6081753,
+      "posted": "Posted 17 Days Ago",
+      "title": "Senior System Software Engineer \u2013 Linux-Tegra Power Management and Performance Optimization",
+      "job_id": "JR2025344",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Linux-Tegra-Power-Management-and-Performance-Optimization_JR2025344"
+    },
+    "JR2024747": {
+      "first_seen": 1790649909.6081765,
+      "posted": "Posted 17 Days Ago",
+      "title": "Senior Systems Software Engineer, Observability and Telemetry Platform",
+      "job_id": "JR2024747",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Observability-and-Telemetry-Platform_JR2024747"
+    },
+    "JR2021919": {
+      "first_seen": 1790649909.6081772,
+      "posted": "Posted 17 Days Ago",
+      "title": "Senior Developer Technology Engineer - Agentic AI",
+      "job_id": "JR2021919",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---Agentic-SoC-Performance_JR2021919"
+    },
+    "JR2015858": {
+      "first_seen": 1790649909.6081784,
+      "posted": "Posted 18 Days Ago",
+      "title": "Senior Package Modeling Engineer",
+      "job_id": "JR2015858",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Package-Modeling-Engineer_JR2015858"
+    },
+    "JR2002670": {
+      "first_seen": 1790649909.6081796,
+      "posted": "Posted 18 Days Ago",
+      "title": "Senior Deep Learning Software Engineer, Inference",
+      "job_id": "JR2002670",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Software-Engineer--Inference_JR2002670"
+    },
+    "JR2024769": {
+      "first_seen": 1790649909.6081805,
+      "posted": "Posted 18 Days Ago",
+      "title": "Senior Platform Security Engineer \u2013 Device Trust, Attestation and Secure Browser",
+      "job_id": "JR2024769",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-Security-Engineer---Device-Trust--Attestation-and-Secure-Browser_JR2024769"
+    },
+    "JR2018368": {
+      "first_seen": 1790649909.6081815,
+      "posted": "Posted 18 Days Ago",
+      "title": "Senior System Software Engineer, RTL-to-GDS Flow Platform",
+      "job_id": "JR2018368",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Staff-System-Software-Engineer--RTL-to-GDS-Flow-Platform_JR2018368"
+    },
+    "JR2024601": {
+      "first_seen": 1790649909.6081824,
+      "posted": "Posted 18 Days Ago",
+      "title": "Senior Storage Platform Engineer",
+      "job_id": "JR2024601",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Platform-Engineer_JR2024601-1"
+    },
+    "JR2005386": {
+      "first_seen": 1790649909.6081834,
+      "posted": "Posted 19 Days Ago",
+      "title": "EDA Workflow Optimization Engineer",
+      "job_id": "JR2005386",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/EDA-Workflow-Optimization-Engineer_JR2005386"
+    },
+    "JR2020429": {
+      "first_seen": 1790649909.608184,
+      "posted": "Posted 19 Days Ago",
+      "title": "Senior Software Development Engineer in Test, Confidential Computing - SDET",
+      "job_id": "JR2020429",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test--Confidential-Computing---SDET_JR2020429-1"
+    },
+    "JR2025013": {
+      "first_seen": 1790649909.608185,
+      "posted": "Posted 19 Days Ago",
+      "title": "Senior Infrastructure Engineer - Infrastructure Security and Core Services",
+      "job_id": "JR2025013",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Infrastructure-Engineer---Infrastructure-Security-and-Core-Services_JR2025013"
+    },
+    "JR2025158": {
+      "first_seen": 1790649909.6081858,
+      "posted": "Posted 19 Days Ago",
+      "title": "Senior Robotics Systems Engineer \u2014 Sim-to-Real",
+      "job_id": "JR2025158",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Systems-Engineer---Sim-to-Real_JR2025158"
+    },
+    "JR2025157": {
+      "first_seen": 1790649909.6081867,
+      "posted": "Posted 19 Days Ago",
+      "title": "Senior Developer Technology Engineer - Simulation Performance",
+      "job_id": "JR2025157",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---Simulation-Performance_JR2025157"
+    },
+    "JR2024273": {
+      "first_seen": 1790649909.6081877,
+      "posted": "Posted 19 Days Ago",
+      "title": "Senior Software Engineer, AV Planner - Autonomous Vehicles",
+      "job_id": "JR2024273",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AV-Planner---Autonomous-Vehicles_JR2024273-1"
+    },
+    "JR2016911": {
+      "first_seen": 1790649909.6081882,
+      "posted": "Posted 19 Days Ago",
+      "title": "Senior Sensor Fusion Engineer - Autonomous Vehicles",
+      "job_id": "JR2016911",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Sensor-Fusion-Engineer---Autonomous-Vehicles_JR2016911"
+    },
+    "JR2020007": {
+      "first_seen": 1790649909.608189,
+      "posted": "Posted 19 Days Ago",
+      "title": "Senior DL Compiler Engineer -CUDA Tile",
+      "job_id": "JR2020007",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DL-Compiler-Engineer--CUDA-Tile_JR2020007-1"
+    },
+    "JR2017642": {
+      "first_seen": 1790649909.60819,
+      "posted": "Posted 19 Days Ago",
+      "title": "Senior Power Integrity Methodology CAD Engineer",
+      "job_id": "JR2017642",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Power-Integrity-Methodology-CAD-Engineer_JR2017642-1"
+    },
+    "JR2021651": {
+      "first_seen": 1790649909.6081913,
+      "posted": "Posted 19 Days Ago",
+      "title": "Senior Physical Design Interposer Engineer",
+      "job_id": "JR2021651",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Interposer-Automation-Engineer_JR2021651"
+    },
+    "JR2011747": {
+      "first_seen": 1790649909.6081922,
+      "posted": "Posted 19 Days Ago",
+      "title": "Senior Quantum Systems Engineer - Quantum Computing",
+      "job_id": "JR2011747",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Quantum-Systems-Engineer---Quantum-Computing_JR2011747"
+    },
+    "JR2025003": {
+      "first_seen": 1790649909.608195,
+      "posted": "Posted 19 Days Ago",
+      "title": "Senior Infrastructure Engineer - AI, Automation, Observability and Monitoring",
+      "job_id": "JR2025003",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Infrastructure-Engineer---AI--Automation--Observability-and-Monitoring_JR2025003"
+    },
+    "JR2024930": {
+      "first_seen": 1790649909.608196,
+      "posted": "Posted 20 Days Ago",
+      "title": "Senior Software Engineer, Cosmos Infrastructure and End to End Performance",
+      "job_id": "JR2024930",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Cosmos-Infrastructure-and-End-to-End-Performance_JR2024930-1"
+    },
+    "JR2023222": {
+      "first_seen": 1790649909.6081975,
+      "posted": "Posted 20 Days Ago",
+      "title": "Senior System Software Engineer, ML and Vector Search",
+      "job_id": "JR2023222",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--ML-and-Vector-Search_JR2023222"
+    },
+    "JR2023061": {
+      "first_seen": 1790649909.6081982,
+      "posted": "Posted 20 Days Ago",
+      "title": "Senior Software Engineer - Traffic and Networking",
+      "job_id": "JR2023061",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Traffic-and-Networking_JR2023061"
+    },
+    "JR2025273": {
+      "first_seen": 1790649909.6081991,
+      "posted": "Posted 20 Days Ago",
+      "title": "Senior System Software Engineer - Platform Software",
+      "job_id": "JR2025273",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Platform-Software_JR2025273"
+    },
+    "JR2017453": {
+      "first_seen": 1790649909.6081998,
+      "posted": "Posted 20 Days Ago",
+      "title": "Senior Photonic Layout Design Engineer",
+      "job_id": "JR2017453",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Photonic-Layout-Design-Engineer_JR2017453"
+    },
+    "JR2024881": {
+      "first_seen": 1790649909.6082006,
+      "posted": "Posted 20 Days Ago",
+      "title": "Senior AI Workflow Engineer",
+      "job_id": "JR2024881",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Workflow-Engineer_JR2024881-1"
+    },
+    "JR2025251": {
+      "first_seen": 1790649909.608379,
+      "posted": "Posted 20 Days Ago",
+      "title": "Senior Firmware Verification and Bringup Engineer",
+      "job_id": "JR2025251",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Verification-and-Bringup-Engineer_JR2025251"
+    },
+    "JR2022034": {
+      "first_seen": 1790649909.60838,
+      "posted": "Posted 21 Days Ago",
+      "title": "Senior Deep Learning Software Infrastructure Engineer",
+      "job_id": "JR2022034",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034"
+    },
+    "JR2020107": {
+      "first_seen": 1790649909.6083815,
+      "posted": "Posted 22 Days Ago",
+      "title": "Lead Systems Software Test Engineer \u2013 CSP Engagements",
+      "job_id": "JR2020107",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Lead-Systems-Software-Test-Engineer---CSP-Engagements_JR2020107"
+    },
+    "JR2020850": {
+      "first_seen": 1790649909.6083827,
+      "posted": "Posted 24 Days Ago",
+      "title": "Senior DFT Methodology - Data Analytics and Applied AI Engineer",
+      "job_id": "JR2020850",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Methodology---Data-Analytics-and-Applied-AI-Engineer_JR2020850"
+    },
+    "JR1968313": {
+      "first_seen": 1790649909.6083837,
+      "posted": "Posted 24 Days Ago",
+      "title": "System Design Engineer",
+      "job_id": "JR1968313",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer_JR1968313"
+    },
+    "JR2002040": {
+      "first_seen": 1790649909.6083853,
+      "posted": "Posted 24 Days Ago",
+      "title": "Senior System Design Engineer",
+      "job_id": "JR2002040",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Design-Engineer_JR2002040"
+    },
+    "JR2020264": {
+      "first_seen": 1790649909.6083863,
+      "posted": "Posted 24 Days Ago",
+      "title": "Senior Signal Integrity Engineer \u2013 Cryogenic Interconnects",
+      "job_id": "JR2020264",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Signal-Integrity-Engineer---Cryogenic-Interconnects_JR2020264"
+    },
+    "JR2021039": {
+      "first_seen": 1790649909.6083872,
+      "posted": "Posted 24 Days Ago",
+      "title": "Senior DevOps Engineer, Cloud Simulation Infrastructure",
+      "job_id": "JR2021039",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DevOps-Engineer--Cloud-Simulation-Infrastructure_JR2021039"
+    },
+    "JR2024554": {
+      "first_seen": 1790649909.6083882,
+      "posted": "Posted 24 Days Ago",
+      "title": "Senior Engineer - Enterprise Data Governance",
+      "job_id": "JR2024554",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Engineer---Enterprise-Data-Governance_JR2024554"
+    },
+    "JR2017389": {
+      "first_seen": 1790649909.608389,
+      "posted": "Posted 24 Days Ago",
+      "title": "Senior LLVM Compiler Engineer",
+      "job_id": "JR2017389",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-LLVM-Compiler-Engineer_JR2017389-1"
+    },
+    "JR2015731": {
+      "first_seen": 1790649909.6083896,
+      "posted": "Posted 24 Days Ago",
+      "title": "Senior Systems Performance Engineer",
+      "job_id": "JR2015731",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Performance-Engineer-_JR2015731"
+    },
+    "JR2011363": {
+      "first_seen": 1790649909.6083906,
+      "posted": "Posted 24 Days Ago",
+      "title": "Senior Physical Design and Timing Engineer",
+      "job_id": "JR2011363",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-ASIC-Timing-Engineer_JR2011363-1"
+    },
+    "JR2024895": {
+      "first_seen": 1790649909.6083915,
+      "posted": "Posted 24 Days Ago",
+      "title": "Senior Firmware Engineer, NIC Firmware",
+      "job_id": "JR2024895",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Firmware-Engineer--NIC-Firmware_JR2024895-1"
+    },
+    "JR2023005": {
+      "first_seen": 1790649909.6083927,
+      "posted": "Posted 24 Days Ago",
+      "title": "Senior System Software Engineer, Software Defined Networking",
+      "job_id": "JR2023005",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Engineer-System-Software--SDN-Operations_JR2023005"
+    },
+    "JR2022543": {
+      "first_seen": 1790649909.6083932,
+      "posted": "Posted 24 Days Ago",
+      "title": "Physical Design Engineer, Synthesis and Implementation",
+      "job_id": "JR2022543",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Physical-Design-Engineer--Synthesis-and-Implementation_JR2022543-1"
+    },
+    "JR2012396": {
+      "first_seen": 1790649909.6083941,
+      "posted": "Posted 24 Days Ago",
+      "title": "Senior Physical Design Engineer",
+      "job_id": "JR2012396",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-Physical-Design-Engineer_JR2012396"
+    },
+    "JR2013348": {
+      "first_seen": 1790649909.6083949,
+      "posted": "Posted 24 Days Ago",
+      "title": "Senior VLSI CAD Software Engineer",
+      "job_id": "JR2013348",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-VLSI-CAD-Software-Engineer_JR2013348"
+    },
+    "JR2025023": {
+      "first_seen": 1790649909.6083956,
+      "posted": "Posted 25 Days Ago",
+      "title": "Senior Software Development Engineer in Test - NPI Bring-up SDET",
+      "job_id": "JR2025023",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---NPI-Bring-up-SDET_JR2025023-1"
+    },
+    "JR2014995": {
+      "first_seen": 1790649909.6083963,
+      "posted": "Posted 25 Days Ago",
+      "title": "Senior Systems Software Engineer - Advanced Technology Group",
+      "job_id": "JR2014995",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-Systems-Software-Engineer---Advanced-Technology-Group_JR2014995"
+    },
+    "JR2021574": {
+      "first_seen": 1790649909.608397,
+      "posted": "Posted 25 Days Ago",
+      "title": "System Software Engineer - Performance Verification Infrastructure",
+      "job_id": "JR2021574",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Performance-Verification-Infrastructure_JR2021574"
+    },
+    "JR2021935": {
+      "first_seen": 1790649909.6083975,
+      "posted": "Posted 25 Days Ago",
+      "title": "NCX Senior Engineer",
+      "job_id": "JR2021935",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NCX-Senior-Engineer_JR2021935-1"
+    },
+    "JR2017843": {
+      "first_seen": 1790649909.6083984,
+      "posted": "Posted 26 Days Ago",
+      "title": "Senior Firmware Engineer - LPU",
+      "job_id": "JR2017843",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---LPU_JR2017843"
+    },
+    "JR2024616": {
+      "first_seen": 1790649909.608399,
+      "posted": "Posted 26 Days Ago",
+      "title": "Senior Systems Software Engineer, Containers and Kubernetes",
+      "job_id": "JR2024616",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Containers-and-Kubernetes_JR2024616-1"
+    },
+    "JR2011617": {
+      "first_seen": 1790649909.6083994,
+      "posted": "Posted 26 Days Ago",
+      "title": "Senior Physical Design Methodology Engineer, Innovus Flows",
+      "job_id": "JR2011617",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Design-Methodology-Engineer--Innovus-Flows_JR2011617-1"
+    },
+    "JR2017210": {
+      "first_seen": 1790649909.6084,
+      "posted": "Posted 26 Days Ago",
+      "title": "Senior Code Generator Compiler Engineer",
+      "job_id": "JR2017210",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Compiler-Engineer---Backend_JR2017210"
+    },
+    "JR2018237": {
+      "first_seen": 1790649909.6084006,
+      "posted": "Posted 26 Days Ago",
+      "title": "GPU Simulation System Software Engineer",
+      "job_id": "JR2018237",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Simulation-System-Software-Engineer_JR2018237"
+    },
+    "JR2009423": {
+      "first_seen": 1790649909.6084018,
+      "posted": "Posted 26 Days Ago",
+      "title": "Senior System Software Engineer, Performance - CUDA Driver",
+      "job_id": "JR2009423",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Performance---CUDA-Driver_JR2009423"
+    },
+    "JR2023315": {
+      "first_seen": 1790649909.608403,
+      "posted": "Posted 26 Days Ago",
+      "title": "Senior DL Compiler Engineer -CUDA Tile",
+      "job_id": "JR2023315",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DL-Compiler-Engineer--CUDA-Tile_JR2023315"
+    },
+    "JR2025008": {
+      "first_seen": 1790649909.6084037,
+      "posted": "Posted 26 Days Ago",
+      "title": "Senior Compiler Engineer",
+      "job_id": "JR2025008",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer_JR2025008-1"
+    },
+    "JR2020550": {
+      "first_seen": 1790649909.6084044,
+      "posted": "Posted 26 Days Ago",
+      "title": "Senior SOCD Applied AI Engineer",
+      "job_id": "JR2020550",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-SOCD-Applied-AI-Engineer_JR2020550"
+    },
+    "JR2024713": {
+      "first_seen": 1790649909.6084054,
+      "posted": "Posted 27 Days Ago",
+      "title": "Applied Systems Engineering Rotation Engineer - New College Graduate 2026",
+      "job_id": "JR2024713",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713"
+    },
+    "JR2021915": {
+      "first_seen": 1790649909.608406,
+      "posted": "Posted 27 Days Ago",
+      "title": "Intellectual Property Security Engineer",
+      "job_id": "JR2021915",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Intellectual-Property-Security-Engineer_JR2021915"
+    },
+    "JR2024693": {
+      "first_seen": 1790649909.608407,
+      "posted": "Posted 27 Days Ago",
+      "title": "Senior Cloud Software Engineer, Developer Tools",
+      "job_id": "JR2024693",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Cloud-Software-Engineer--Developer-Tools_JR2024693"
+    },
+    "JR2024920": {
+      "first_seen": 1790649909.608408,
+      "posted": "Posted 27 Days Ago",
+      "title": "Senior Software Engineer CUDA UMD - GPU Kernel Scheduling",
+      "job_id": "JR2024920",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer-CUDA-UMD---GPU-Kernel-Scheduling_JR2024920"
+    },
+    "JR2011273": {
+      "first_seen": 1790649909.608409,
+      "posted": "Posted 27 Days Ago",
+      "title": "Senior Physical Design Methodology Engineer, PPA Fusion Compiler",
+      "job_id": "JR2011273",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Design-Methodology-Engineer--PPA-Fusion-Compiler_JR2011273"
+    },
+    "JR2024491": {
+      "first_seen": 1790649909.6084096,
+      "posted": "Posted 27 Days Ago",
+      "title": "Senior Site Reliability Engineer - Storage",
+      "job_id": "JR2024491",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---Storage_JR2024491-1"
+    },
+    "JR2007175": {
+      "first_seen": 1790649909.6084104,
+      "posted": "Posted 27 Days Ago",
+      "title": "CAD Tools Developer",
+      "job_id": "JR2007175",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/CAD-Tools-Developer_JR2007175"
+    },
+    "JR2016959": {
+      "first_seen": 1790649909.608411,
+      "posted": "Posted 27 Days Ago",
+      "title": "Senior MEP Engineer \u2013 Datacenter Lab Infrastructure",
+      "job_id": "JR2016959",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-MEP-Engineer---Datacenter-Lab-Infrastructure_JR2016959"
+    },
+    "JR2024455": {
+      "first_seen": 1790649909.6084123,
+      "posted": "Posted 27 Days Ago",
+      "title": "Senior Machine Learning Engineer, Accelerated Apache Spark",
+      "job_id": "JR2024455",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--Accelerated-Apache-Spark_JR2024455"
+    },
+    "JR2024560": {
+      "first_seen": 1790649909.6084132,
+      "posted": "Posted 27 Days Ago",
+      "title": "Senior Salesforce CPQ Developer",
+      "job_id": "JR2024560",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Salesforce-CPQ-Developer_JR2024560-1"
+    },
+    "JR2024686": {
+      "first_seen": 1790649909.6084137,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior Graphics Shader Compiler Engineer",
+      "job_id": "JR2024686",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Graphics-Shader-Compiler-Engineer_JR2024686"
+    },
+    "JR2024715": {
+      "first_seen": 1790649909.6084318,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior Systems Software Engineer \u2013 GeForce NOW Cloud",
+      "job_id": "JR2024715",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---GeForce-NOW-Cloud_JR2024715"
+    },
+    "JR2024440": {
+      "first_seen": 1790649909.6084325,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior Software R&D Engineer, ECO Route - VLSI EDA",
+      "job_id": "JR2024440",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-R-D-Engineer--ECO-Route---VLSI-EDA_JR2024440"
+    },
+    "JR2017369": {
+      "first_seen": 1790649909.6084335,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior Deep Learning Frameworks CUDA Software Engineer",
+      "job_id": "JR2017369",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Frameworks-CUDA-Software-Engineer_JR2017369"
+    },
+    "JR2022830": {
+      "first_seen": 1790649909.608434,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior Software Engineer, CUDA Deep Learning Systems",
+      "job_id": "JR2022830",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-Deep-Learning-Systems_JR2022830"
+    },
+    "JR2021172": {
+      "first_seen": 1790649909.6084347,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior Software Engineer, CUDA Python Core Libraries",
+      "job_id": "JR2021172",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-Core-Libraries_JR2021172"
+    },
+    "JR2014177": {
+      "first_seen": 1790649909.6084354,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior Software Engineer - CUDA and Unified Memory",
+      "job_id": "JR2014177",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---CUDA-and-Unified-Memory_JR2014177"
+    },
+    "JR2014725": {
+      "first_seen": 1790649909.608436,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior Software Engineer - CUDA Driver",
+      "job_id": "JR2014725",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---CUDA-Driver_JR2014725"
+    },
+    "JR2009427": {
+      "first_seen": 1790649909.608437,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior Systems Software Engineer, CUDA Driver",
+      "job_id": "JR2009427",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--CUDA-Driver_JR2009427"
+    },
+    "JR2022474": {
+      "first_seen": 1790649909.6084378,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior System Software Engineer, CUDA Driver for Windows",
+      "job_id": "JR2022474",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--CUDA-Driver-for-Windows_JR2022474"
+    },
+    "JR2015038": {
+      "first_seen": 1790649909.6084383,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior SWQA Test Development Engineer",
+      "job_id": "JR2015038",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-SWQA-Test-Development-Engineer_JR2015038"
+    },
+    "JR2021170": {
+      "first_seen": 1790649909.6084392,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior Software Engineer, CUDA Rust Core Libraries",
+      "job_id": "JR2021170",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-Core-Libraries_JR2021170"
+    },
+    "JR2021114": {
+      "first_seen": 1790649909.6084402,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior Software Engineer, CUDA C++ Core Libraries",
+      "job_id": "JR2021114",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-C---Core-Libraries_JR2021114"
+    },
+    "JR2018424": {
+      "first_seen": 1790649909.6084406,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior Software Development Engineer in Test",
+      "job_id": "JR2018424",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test_JR2018424"
+    },
+    "JR2024094": {
+      "first_seen": 1790649909.6084414,
+      "posted": "Posted 28 Days Ago",
+      "title": "Senior Automation and Tools Development Engineer",
+      "job_id": "JR2024094",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Automation-and-Tools-Development-Engineer_JR2024094"
+    },
+    "JR2022858": {
+      "first_seen": 1790649909.608442,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Localization and Planning Engineer - Autonomous Vehicles",
+      "job_id": "JR2022858",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Localization-and-Planning-Engineer---Autonomous-Vehicles_JR2022858"
+    },
+    "JR2021766": {
+      "first_seen": 1790649909.608443,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Software Engineer, L4 - Autonomous Vehicles",
+      "job_id": "JR2021766",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--L4---Autonomous-Vehicles_JR2021766-1"
+    },
+    "JR2021287": {
+      "first_seen": 1790649909.608444,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior System Software Engineer - AV Platform",
+      "job_id": "JR2021287",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2021287"
+    },
+    "JR2021284": {
+      "first_seen": 1790649909.608445,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior System Software Engineer - AV Platform",
+      "job_id": "JR2021284",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2021284"
+    },
+    "JR2021254": {
+      "first_seen": 1790649909.6084454,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Security Software Engineer - AV Platform",
+      "job_id": "JR2021254",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Security-Software-Engineer---AV-Platform_JR2021254"
+    },
+    "JR2021078": {
+      "first_seen": 1790649909.6084464,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles",
+      "job_id": "JR2021078",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2021078"
+    },
+    "JR2021077": {
+      "first_seen": 1790649909.6084473,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Radar Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles",
+      "job_id": "JR2021077",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Radar-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2021077"
+    },
+    "JR2020021": {
+      "first_seen": 1790649909.6084483,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Software Engineer, World Model Systems Engineering - Autonomous Vehicles",
+      "job_id": "JR2020021",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--World-Model-Systems-Engineering---Autonomous-Vehicles_JR2020021"
+    },
+    "JR2019727": {
+      "first_seen": 1790649909.608449,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Software Engineer, Mapping - Autonomous Vehicles",
+      "job_id": "JR2019727",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Mapping---Autonomous-Vehicles_JR2019727"
+    },
+    "JR2019388": {
+      "first_seen": 1790649909.6084497,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Software Engineer - Autonomous Driving",
+      "job_id": "JR2019388",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Autonomous-Driving_JR2019388"
+    },
+    "JR2018915": {
+      "first_seen": 1790649909.608451,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Machine Learning Engineer, Perception - Autonomous Driving",
+      "job_id": "JR2018915",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--Perception---Autonomous-Driving_JR2018915"
+    },
+    "JR2018686": {
+      "first_seen": 1790649909.6084516,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Systems Software Engineer - Autonomous Vehicles Platform",
+      "job_id": "JR2018686",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles-Platform_JR2018686"
+    },
+    "JR2017457": {
+      "first_seen": 1790649909.6084526,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior System Software Engineer - AV Platform",
+      "job_id": "JR2017457",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2017457"
+    },
+    "JR2016777": {
+      "first_seen": 1790649909.6084533,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Software Performance Engineer - Autonomous Vehicles",
+      "job_id": "JR2016777",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Performance-Engineer---AV-Platform_JR2016777"
+    },
+    "JR2016469": {
+      "first_seen": 1790649909.6084542,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior System Software Engineer - Autonomous Vehicles",
+      "job_id": "JR2016469",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Autonomous-Vehicles_JR2016469"
+    },
+    "JR2016466": {
+      "first_seen": 1790649909.6084552,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Embedded Software Engineer - AV Platform",
+      "job_id": "JR2016466",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Embedded-Software-Engineer---AV-Platform_JR2016466-1"
+    },
+    "JR2015666": {
+      "first_seen": 1790649909.608456,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Systems Software Engineer - Autonomous Vehicles",
+      "job_id": "JR2015666",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles_JR2015666"
+    },
+    "JR2010863": {
+      "first_seen": 1790649909.6084566,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Machine Learning and Simulation Engineer - Autonomous Vehicles",
+      "job_id": "JR2010863",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-and-Simulation-Engineer---Autonomous-Vehicles_JR2010863"
+    },
+    "JR2013922": {
+      "first_seen": 1790649909.6084576,
+      "posted": "Posted 30 Days Ago",
+      "title": "Senior Software Systems Engineer, L3 and L4 - Autonomous Driving",
+      "job_id": "JR2013922",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Systems-Engineer--L3-and-L4---Autonomous-Driving_JR2013922"
+    },
+    "JR2021950": {
+      "first_seen": 1790649909.6084583,
+      "posted": "Posted 30+ Days Ago",
+      "title": "ATE Test Engineer",
+      "job_id": "JR2021950",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ATE-Test-Engineer_JR2021950"
+    },
+    "JR2022767": {
+      "first_seen": 1790649909.6084588,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Test Methodology Engineer",
+      "job_id": "JR2022767",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Test-Methodology-Engineer_JR2022767"
+    },
+    "JR2021837": {
+      "first_seen": 1790649909.6084595,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Test Engineer",
+      "job_id": "JR2021837",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Test-Engineer_JR2021837"
+    },
+    "JR2022574": {
+      "first_seen": 1790649909.6084604,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Compute System Software Engineer",
+      "job_id": "JR2022574",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compute-System-Software-Engineer_JR2022574"
+    },
+    "JR2023561": {
+      "first_seen": 1790649909.6084614,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, Attestation Services - DGX Cloud",
+      "job_id": "JR2023561",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Attestation-Services---DGX-Cloud_JR2023561"
+    },
+    "JR2024547": {
+      "first_seen": 1790649909.6084623,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Systems Software Engineer, Low Latency Streaming Technology - Automotive",
+      "job_id": "JR2024547",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Low-Latency-Streaming-Technology---Automotive_JR2024547"
+    },
+    "JR2003655": {
+      "first_seen": 1790649909.6084628,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Deep Learning Software Engineer, Inference",
+      "job_id": "JR2003655",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Software-Engineer--Inference_JR2003655"
+    },
+    "JR2022179": {
+      "first_seen": 1790649909.6084635,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Deep Reinforcement Learning Engineer - Autonomous Driving",
+      "job_id": "JR2022179",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Reinforcement-Learning-Engineer---Autonomous-Driving_JR2022179"
+    },
+    "JR2023428": {
+      "first_seen": 1790649909.6084647,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior HPC and Quantum Systems Engineer",
+      "job_id": "JR2023428",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-HPC-and-Quantum-Systems-Engineer_JR2023428"
+    },
+    "JR2021692": {
+      "first_seen": 1790649909.6084657,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer \u2013 Streaming",
+      "job_id": "JR2021692",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Streaming_JR2021692"
+    },
+    "JR2023423": {
+      "first_seen": 1790649909.6084666,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, NIM Model Customization",
+      "job_id": "JR2023423",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--NIM-Tools_JR2023423"
+    },
+    "JR2001675": {
+      "first_seen": 1790649909.6084673,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Circuit Design Engineer - Noise",
+      "job_id": "JR2001675",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Design-Engineer_JR2001675"
+    },
+    "JR2012070": {
+      "first_seen": 1790649909.6084688,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Circuit Design Engineer",
+      "job_id": "JR2012070",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Design-Engineer_JR2012070"
+    },
+    "JR2024197": {
+      "first_seen": 1790649909.6084697,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Technical Marketing Engineer - DSX AI Infrastructure Software",
+      "job_id": "JR2024197",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-AI-Infrastructure-Software_JR2024197"
+    },
+    "JR2011154": {
+      "first_seen": 1790649909.6084707,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, Developer Tools for Cloud",
+      "job_id": "JR2011154",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Software-Engineer--Developer-Tools-for-Cloud_JR2011154"
+    },
+    "JR2023469": {
+      "first_seen": 1790649909.6084719,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Application Engineer, HPC and AI for Physics",
+      "job_id": "JR2023469",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Application-Engineer--HPC-and-AI-for-Physics_JR2023469"
+    },
+    "JR2023594": {
+      "first_seen": 1790649909.6084726,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer - AV Platform",
+      "job_id": "JR2023594",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---AV-Platform_JR2023594"
+    },
+    "JR2024196": {
+      "first_seen": 1790649909.6084733,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Technical Marketing Engineer - DSX Content Strategy Lead",
+      "job_id": "JR2024196",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-Content-Strategy-Lead_JR2024196"
+    },
+    "JR2020745": {
+      "first_seen": 1790649909.6084743,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Technical Marketing Engineer, Enterprise AI Software",
+      "job_id": "JR2020745",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer--Enterprise-AI-Software_JR2020745"
+    },
+    "JR2012496": {
+      "first_seen": 1790649909.6084752,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Engineer - Quantum Error Correction Libraries",
+      "job_id": "JR2012496",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Quantum-Computing-Libraries-Engineer_JR2012496"
+    },
+    "JR2024154": {
+      "first_seen": 1790649909.6084764,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Deep Learning Software Engineer, DLSim",
+      "job_id": "JR2024154",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Software-Engineer--DLSim_JR2024154"
+    },
+    "JR2023623": {
+      "first_seen": 1790649909.608478,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior SRAM Engineer",
+      "job_id": "JR2023623",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-SRAM-Engineer_JR2023623"
+    },
+    "JR2020416": {
+      "first_seen": 1790649909.608479,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Deep Learning Compiler Engineer",
+      "job_id": "JR2020416",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Compiler-Engineer_JR2020416"
+    },
+    "JR2024060": {
+      "first_seen": 1790649909.6084797,
+      "posted": "Posted 30+ Days Ago",
+      "title": "NCX Senior Engineer",
+      "job_id": "JR2024060",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NCX-Senior-Engineer_JR2024060"
+    },
+    "JR2023398": {
+      "first_seen": 1790649909.6084807,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Architecture Energy Modeling Engineer - New College Grad 2026",
+      "job_id": "JR2023398",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398"
+    },
+    "JR2015863": {
+      "first_seen": 1790649909.6084821,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, RL Post-Training Frameworks",
+      "job_id": "JR2015863",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--RL-Post-Training-Frameworks_JR2015863"
+    },
+    "JR2022457": {
+      "first_seen": 1790649909.6084828,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Architecture Energy Modeling Engineer",
+      "job_id": "JR2022457",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Architecture-Energy-Modeling-Engineer_JR2022457"
+    },
+    "JR2021019": {
+      "first_seen": 1790649909.608484,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, Metropolis Vision AI",
+      "job_id": "JR2021019",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Metropolis-Vision-AI_JR2021019"
+    },
+    "JR2023669": {
+      "first_seen": 1790649909.6084852,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior STA Signoff Methodology Engineer",
+      "job_id": "JR2023669",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-STA-Signoff-Methodology-Engineer_JR2023669"
+    },
+    "JR2023577": {
+      "first_seen": 1790649909.608486,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior HPC AI Cluster Engineer",
+      "job_id": "JR2023577",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-AI-Cluster-Engineer_JR2023577"
+    },
+    "JR2023055": {
+      "first_seen": 1790649909.608487,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior MLOps Engineer - DSX Enablement",
+      "job_id": "JR2023055",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-MLOps-Engineer---DSX-Enablement_JR2023055"
+    },
+    "JR2023525": {
+      "first_seen": 1790649909.608488,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, Chips System Software",
+      "job_id": "JR2023525",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Chips-System-Software_JR2023525"
+    },
+    "JR2023443": {
+      "first_seen": 1790649909.6084893,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer - SoC Power",
+      "job_id": "JR2023443",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---SoC-Power_JR2023443"
+    },
+    "JR2023184": {
+      "first_seen": 1790649909.60849,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, Agent Simulation and Evaluation",
+      "job_id": "JR2023184",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Agentic-AI-Engineer--Simulation-and-Evaluation_JR2023184"
+    },
+    "JR1998042": {
+      "first_seen": 1790649909.6084907,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior ICV CAD Engineer",
+      "job_id": "JR1998042",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ICV-CAD-Engineer_JR1998042"
+    },
+    "JR2021237": {
+      "first_seen": 1790649909.6084917,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer -  Halos Core and Robotics Platform",
+      "job_id": "JR2021237",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer----Halos-Core-and-Robotics-Platform_JR2021237"
+    },
+    "JR2021341": {
+      "first_seen": 1790649909.6084924,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer -  Halos Core and Robotics Platform",
+      "job_id": "JR2021341",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer----Halos-Core-and-Robotics-Platform_JR2021341"
+    },
+    "JR2023495": {
+      "first_seen": 1790649909.6084933,
+      "posted": "Posted 30+ Days Ago",
+      "title": "NVIDIA 2027 Internships: Software Engineering",
+      "job_id": "JR2023495",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
+    },
+    "JR2023492": {
+      "first_seen": 1790649909.6084943,
+      "posted": "Posted 30+ Days Ago",
+      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+      "job_id": "JR2023492",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
+    },
+    "JR2023499": {
+      "first_seen": 1790649909.608495,
+      "posted": "Posted 30+ Days Ago",
+      "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
+      "job_id": "JR2023499",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
+    },
+    "JR2023397": {
+      "first_seen": 1790649909.6084962,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Robotics Research Engineer - Robot Simulation and Evaluation",
+      "job_id": "JR2023397",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Research-Engineer---Robot-Simulation-and-Evaluation_JR2023397"
+    },
+    "JR2023408": {
+      "first_seen": 1790649909.6084971,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Linux Software Engineer - Chip System Software",
+      "job_id": "JR2023408",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Linux-Software-Engineer---Chip-System-Software_JR2023408"
+    },
+    "JR2022972": {
+      "first_seen": 1790649909.6084979,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Tegra Software Engineer",
+      "job_id": "JR2022972",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Tegra-Software-Engineer_JR2022972-1"
+    },
+    "JR2017026": {
+      "first_seen": 1790649909.608499,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Test Engineer, Networking",
+      "job_id": "JR2017026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Test-Engineer--Networking_JR2017026"
+    },
+    "JR2023503": {
+      "first_seen": 1790649909.6085,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior DFX Software Engineer - Machine Learning",
+      "job_id": "JR2023503",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFX-Software-Engineer---Machine-Learning_JR2023503"
+    },
+    "JR2023439": {
+      "first_seen": 1790649909.6085005,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior DevTech Compute Engineer, Compression and Data Processing",
+      "job_id": "JR2023439",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DevTech-Compute-Engineer--Compression-and-Data-Processing_JR2023439"
+    },
+    "JR2019190": {
+      "first_seen": 1790649909.6085014,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Applied AI Engineer - VLSI Design",
+      "job_id": "JR2019190",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-AI-Engineer---VLSI-Design_JR2019190"
+    },
+    "JR2023468": {
+      "first_seen": 1790649909.6085026,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Relational Foundation Model Engineer, Modern Data Stack",
+      "job_id": "JR2023468",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2023468"
+    },
+    "JR2023124": {
+      "first_seen": 1790649909.6085036,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior ML Engineer, Metropolis",
+      "job_id": "JR2023124",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ML-Engineer--Metropolis_JR2023124"
+    },
+    "JR2018334": {
+      "first_seen": 1790649909.6085043,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer \u2014 cuEquivariance",
+      "job_id": "JR2018334",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---cuEquivariance_JR2018334"
+    },
+    "JR2022387": {
+      "first_seen": 1790649909.6085048,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Technical Marketing Engineer - CAE Performance",
+      "job_id": "JR2022387",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---CAE-Performance_JR2022387"
+    },
+    "JR2016782": {
+      "first_seen": 1790649909.608506,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Technical Marketing Engineer \u2013 Semiconductor Design",
+      "job_id": "JR2016782",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---EDA-and-Semiconductor_JR2016782-1"
+    },
+    "JR2023494": {
+      "first_seen": 1790649909.6085067,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Signal and Power Integrity Engineer",
+      "job_id": "JR2023494",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Signal-and-Power-Integrity-Engineer_JR2023494"
+    },
+    "JR2021269": {
+      "first_seen": 1790649909.6085072,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Solution Engineer, Compute Systems",
+      "job_id": "JR2021269",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer-for-NVIDIA-Experience--Compute-Software_JR2021269"
+    },
+    "JR2022872": {
+      "first_seen": 1790649909.6085079,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer, Platform and Performance - GeForce Now",
+      "job_id": "JR2022872",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Platform-and-Performance---GeForce-Now_JR2022872"
+    },
+    "JR2023072": {
+      "first_seen": 1790649909.6085093,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, C++ and CUDA - Analytics and Data Intelligence",
+      "job_id": "JR2023072",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--C---and-CUDA---Analytics-and-Data-Intelligence_JR2023072-1"
+    },
+    "JR2022727": {
+      "first_seen": 1790649909.6085103,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior AI Compiler Engineer, MLIR",
+      "job_id": "JR2022727",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Compiler-Engineer--MLIR_JR2022727"
+    },
+    "JR2014047": {
+      "first_seen": 1790649909.608511,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Performance Engineer - Deep Learning",
+      "job_id": "JR2014047",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Performance-Engineer---Deep-Learning_JR2014047"
+    },
+    "JR2013609": {
+      "first_seen": 1790649909.608512,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior GPU Supercomputer Scheduler Engineer",
+      "job_id": "JR2013609",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-GPU-Supercomputer-Scheduler-Engineer_JR2013609"
+    },
+    "JR2022492": {
+      "first_seen": 1790649909.6085129,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer - NVIDIA Warp",
+      "job_id": "JR2022492",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---NVIDIA-Warp_JR2022492"
+    },
+    "JR2022915": {
+      "first_seen": 1790649909.6085136,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, Networking",
+      "job_id": "JR2022915",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Networking_JR2022915"
+    },
+    "JR2014033": {
+      "first_seen": 1790649909.6085143,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Compiler Engineer - Backend GPU",
+      "job_id": "JR2014033",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---Backend-GPU_JR2014033-1"
+    },
+    "JR2022751": {
+      "first_seen": 1790649909.6085153,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, SONiC - Networking",
+      "job_id": "JR2022751",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Software-Engineer--SONiC---Networking_JR2022751"
+    },
+    "JR2022710": {
+      "first_seen": 1790649909.6085165,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer - Image and Data Processing Libraries",
+      "job_id": "JR2022710",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Image-and-Data-Processing-Libraries_JR2022710"
+    },
+    "JR2016493": {
+      "first_seen": 1790649909.6085176,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Cybersecurity Engineer \u2013 Identity Platform and Access Management",
+      "job_id": "JR2016493",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Cybersecurity-Engineer---Identity-Platform-and-Access-Management_JR2016493"
+    },
+    "JR2022903": {
+      "first_seen": 1790649909.6085184,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Enterprise AV Design and Collaboration Engineer",
+      "job_id": "JR2022903",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-AV-Design-and-Collaboration-Engineer_JR2022903"
+    },
+    "JR2022838": {
+      "first_seen": 1790649909.6085193,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Offensive Security Engineer, Automotive",
+      "job_id": "JR2022838",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Offensive-Security-Engineer--Automotive_JR2022838-1"
+    },
+    "JR2020330": {
+      "first_seen": 1790649909.6085203,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Structural Test Engineer",
+      "job_id": "JR2020330",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-Structural-Test-Engineer_JR2020330"
+    },
+    "JR2004355": {
+      "first_seen": 1790649909.6085215,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer, Enterprise MODS",
+      "job_id": "JR2004355",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Enterprise-MODS_JR2004355"
+    },
+    "JR2021886": {
+      "first_seen": 1790649909.6085224,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Harness and Platform Engineer, AI Safety and Security Engineering",
+      "job_id": "JR2021886",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Harness-and-Platform-Engineer--AI-Safety-and-Security-Engineering_JR2021886"
+    },
+    "JR2021595": {
+      "first_seen": 1790649909.6085238,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Compiler Engineer Infrastructure",
+      "job_id": "JR2021595",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer-Infrastructure_JR2021595"
+    },
+    "JR2022950": {
+      "first_seen": 1790649909.6085248,
+      "posted": "Posted 30+ Days Ago",
+      "title": "EMC Engineer",
+      "job_id": "JR2022950",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/EMC-Engineer_JR2022950"
+    },
+    "JR2022959": {
+      "first_seen": 1790649909.6085258,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer - Simulation Software",
+      "job_id": "JR2022959",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Simulation-Software_JR2022959"
+    },
+    "JR2022834": {
+      "first_seen": 1790649909.6085267,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Firmware Engineer - GPU",
+      "job_id": "JR2022834",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---GPU_JR2022834"
+    },
+    "JR2023056": {
+      "first_seen": 1790649909.608528,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer - CPU SoC Boot Firmware",
+      "job_id": "JR2023056",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---CPU-SoC-Boot-Firmware_JR2023056"
+    },
+    "JR2022184": {
+      "first_seen": 1790649909.6085289,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Customer Success Engineer - DGX Cloud",
+      "job_id": "JR2022184",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Customer-Success-Engineer---DGX-Cloud_JR2022184"
+    },
+    "JR2022324": {
+      "first_seen": 1790649909.6085296,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Site Reliability Engineer - Storage",
+      "job_id": "JR2022324",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---Storage_JR2022324"
+    },
+    "JR2020918": {
+      "first_seen": 1790649909.6085308,
+      "posted": "Posted 30+ Days Ago",
+      "title": "HPC Middleware Developer",
+      "job_id": "JR2020918",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/HPC-Middleware-Developer_JR2020918"
+    },
+    "JR2015068": {
+      "first_seen": 1790649909.6085317,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, Networking",
+      "job_id": "JR2015068",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Linux-Kernel-Software-Engineer_JR2015068"
+    },
+    "JR2022908": {
+      "first_seen": 1790649909.6085324,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Solution Engineer, Networking",
+      "job_id": "JR2022908",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--Networking_JR2022908"
+    },
+    "JR2022837": {
+      "first_seen": 1790649909.6085331,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior GPU System Software Engineer",
+      "job_id": "JR2022837",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-GPU-System-Software-Engineer_JR2022837"
+    },
+    "JR2022966": {
+      "first_seen": 1790649909.6085343,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, Unified Access Management Platform",
+      "job_id": "JR2022966",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Unified-Access-Management-Platform_JR2022966"
+    },
+    "JR2023036": {
+      "first_seen": 1790649909.608535,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer, Automotive Performance",
+      "job_id": "JR2023036",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Automotive-Performance_JR2023036"
+    },
+    "JR2001798": {
+      "first_seen": 1790649909.6085358,
+      "posted": "Posted 30+ Days Ago",
+      "title": "GPU Performance Profiling Engineer",
+      "job_id": "JR2001798",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/GPU-Performance-Profiling-Engineer_JR2001798-1"
+    },
+    "JR2022781": {
+      "first_seen": 1790649909.6085367,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Developer Technology Engineer, High-Performance Databases",
+      "job_id": "JR2022781",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer--High-Performance-Databases_JR2022781"
+    },
+    "JR1999298": {
+      "first_seen": 1790649909.608538,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior AI Workflow Engineer",
+      "job_id": "JR1999298",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Workflow-Engineer_JR1999298"
+    },
+    "JR1996103": {
+      "first_seen": 1790649909.6085386,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Developer Technology Engineer - AI",
+      "job_id": "JR1996103",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---AI_JR1996103"
+    },
+    "JR2016002": {
+      "first_seen": 1790649909.6085393,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior AI and Quant DevTech Engineer",
+      "job_id": "JR2016002",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-and-FSI-Developer-Technology-Engineer_JR2016002"
+    },
+    "JR2016115": {
+      "first_seen": 1790649909.60854,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Developer Technology Engineer, Public Sector",
+      "job_id": "JR2016115",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer--Public-Sector_JR2016115"
+    },
+    "JR2013483": {
+      "first_seen": 1790649909.6085415,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Developer Technology Engineer, CPU Performance",
+      "job_id": "JR2013483",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer--CPU-Performance_JR2013483"
+    },
+    "JR2005597": {
+      "first_seen": 1790649909.6085463,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Research Engineer - Autonomous Vehicles",
+      "job_id": "JR2005597",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer---Autonomous-Vehicles_JR2005597"
+    },
+    "JR2014768": {
+      "first_seen": 1790649909.608547,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Developer Technology Engineer",
+      "job_id": "JR2014768",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer_JR2014768"
+    },
+    "JR2012859": {
+      "first_seen": 1790649909.6085482,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Raytracing Compiler Engineer - Developer and Performance Technology",
+      "job_id": "JR2012859",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Raytracing-Compiler-Engineer---Developer-and-Performance-Technology_JR2012859"
+    },
+    "JR2021335": {
+      "first_seen": 1790649909.6085489,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Storage Production Engineer - DGX Cloud",
+      "job_id": "JR2021335",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Production-Engineer---DGX-Cloud_JR2021335"
+    },
+    "JR1993990": {
+      "first_seen": 1790649909.6085498,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Math Libraries Engineer - Dense Linear Algebra",
+      "job_id": "JR1993990",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Math-Libraries-Engineer---Dense-Linear-Algebra_JR1993990"
+    },
+    "JR2017826": {
+      "first_seen": 1790649909.608551,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Physical Design Engineer",
+      "job_id": "JR2017826",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Design-Engineer_JR2017826"
+    },
+    "JR2022490": {
+      "first_seen": 1790649909.6085517,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer, SoC Power and Performance - O-RAN Infrastructure",
+      "job_id": "JR2022490",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--SoC-Power-and-Performance---O-RAN-Infrastructure_JR2022490"
+    },
+    "JR2022617": {
+      "first_seen": 1790649909.6085527,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, Agentic Robotics Infrastructure",
+      "job_id": "JR2022617",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Agentic-Robotics-Infrastructure_JR2022617"
+    },
+    "JR2022103": {
+      "first_seen": 1790649909.6085536,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, Embedded Platform Middleware \u2014 Automotive and Robotics",
+      "job_id": "JR2022103",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Embedded-Platform-Middleware---Automotive-and-Robotics_JR2022103"
+    },
+    "JR2022104": {
+      "first_seen": 1790649909.608555,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, AIOps and Observability",
+      "job_id": "JR2022104",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AIOps-and-Observability_JR2022104"
+    },
+    "JR2017450": {
+      "first_seen": 1790649909.608556,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Research Engineer, Robotics Systems",
+      "job_id": "JR2017450",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer--Robotics-Systems_JR2017450"
+    },
+    "JR2019679": {
+      "first_seen": 1790649909.608557,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Circuit Design Engineer - Power Modeling and Simulation",
+      "job_id": "JR2019679",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Design-Engineer---Power-Modeling-and-Simulation_JR2019679"
+    },
+    "JR2015886": {
+      "first_seen": 1790649909.608558,
+      "posted": "Posted 30+ Days Ago",
+      "title": "System Software Engineer - GPU and SOC",
+      "job_id": "JR2015886",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU-and-SOC_JR2015886"
+    },
+    "JR2019466": {
+      "first_seen": 1790649909.608559,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Circuit Design Engineer - Standard Cell",
+      "job_id": "JR2019466",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer_JR2019466"
+    },
+    "JR2022612": {
+      "first_seen": 1790649909.6085596,
+      "posted": "Posted 30+ Days Ago",
+      "title": "System Software Engineer \u2013 Data Center Compute Diagnostics",
+      "job_id": "JR2022612",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/System-Software-Engineer---Data-Center-Compute-Diagnostics_JR2022612"
+    },
+    "JR2020825": {
+      "first_seen": 1790649909.6085606,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Software Engineer, OpenShell",
+      "job_id": "JR2020825",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825"
+    },
+    "JR2022325": {
+      "first_seen": 1790649909.6085618,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer - CPU SoC Boot Firmware",
+      "job_id": "JR2022325",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---CPU-SoC-Boot-Firmware_JR2022325-1"
+    },
+    "JR2022559": {
+      "first_seen": 1790649909.6085625,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Technical Marketing Engineer  - AI Platform Software",
+      "job_id": "JR2022559",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineer----AI-Platform-Software_JR2022559"
+    },
+    "JR2021797": {
+      "first_seen": 1790649909.608563,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer - CPU SoC Boot Firmware",
+      "job_id": "JR2021797",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Tegra-Boot-Stack-Firmware_JR2021797"
+    },
+    "JR2014596": {
+      "first_seen": 1790649909.6085641,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Board Design Engineer",
+      "job_id": "JR2014596",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-Design-Engineer_JR2014596-1"
+    },
+    "JR2016845": {
+      "first_seen": 1790649909.6085653,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Firmware Engineer, Networking",
+      "job_id": "JR2016845",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer--Networking_JR2016845"
+    },
+    "JR2022185": {
+      "first_seen": 1790649909.608566,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Performance Engineer - DGX Cloud",
+      "job_id": "JR2022185",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Performance-Engineer---DGX-Cloud_JR2022185"
+    },
+    "JR2021665": {
+      "first_seen": 1790649909.6085668,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer, Agentic Inference - Dynamo",
+      "job_id": "JR2021665",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Agentic-Inference---Dynamo_JR2021665-1"
+    },
+    "JR2012598": {
+      "first_seen": 1790649909.6085677,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer, Vulkan Performance",
+      "job_id": "JR2012598",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Vulkan-Performance_JR2012598-1"
+    },
+    "JR2014593": {
+      "first_seen": 1790649909.6085687,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Circuit Design Engineer",
+      "job_id": "JR2014593",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Design-Engineer_JR2014593"
+    },
+    "JR2021962": {
+      "first_seen": 1790649909.6085694,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Inference Engineer, GPU Kernel Optimization",
+      "job_id": "JR2021962",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Inference-Engineer--GPU-Kernel-Optimization_JR2021962"
+    },
+    "JR2021956": {
+      "first_seen": 1790649909.60857,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Systems Software Engineer, Developer Productivity and Cloud Automation - GeForce NOW",
+      "job_id": "JR2021956",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Developer-Productivity-and-Cloud-Automation---GeForce-NOW_JR2021956"
+    },
+    "JR2021953": {
+      "first_seen": 1790649909.6085708,
+      "posted": "Posted 30+ Days Ago",
+      "title": "System Software Engineering Lead",
+      "job_id": "JR2021953",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineering-Lead_JR2021953"
+    },
+    "JR2021986": {
+      "first_seen": 1790649909.608572,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Engineer, Local AI - Agents and Systems",
+      "job_id": "JR2021986",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Engineer--Local-AI---Agents-and-Systems_JR2021986"
+    },
+    "JR2021851": {
+      "first_seen": 1790649909.6085727,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer - GPU Local AI Platforms",
+      "job_id": "JR2021851",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---GPU-Local-AI-Platforms_JR2021851"
+    },
+    "JR2020567": {
+      "first_seen": 1790649909.608574,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior QA Software Engineer - Networking",
+      "job_id": "JR2020567",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-QA-Software-Engineer---Networking_JR2020567"
+    },
+    "JR2021914": {
+      "first_seen": 1790649909.6085749,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Developer Technology Engineer - Edge Agentic AI",
+      "job_id": "JR2021914",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---Edge-Agentic-AI_JR2021914"
+    },
+    "JR2021313": {
+      "first_seen": 1790649909.6085758,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer -  Halos Core and Robotics Platform",
+      "job_id": "JR2021313",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer----Halos-Core-and-Robotics-Platform_JR2021313"
+    },
+    "JR2021297": {
+      "first_seen": 1790649909.6085768,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer -  Halos",
+      "job_id": "JR2021297",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer----Halos_JR2021297"
+    },
+    "JR2015155": {
+      "first_seen": 1790649909.6085775,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software R&D Engineer, VLSI Physical Design",
+      "job_id": "JR2015155",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-R-D-Engineer--VLSI-Physical-Design_JR2015155"
+    },
+    "JR2021815": {
+      "first_seen": 1790649909.6085784,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Systems Software Engineer \u2013 QoS",
+      "job_id": "JR2021815",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---QoS_JR2021815"
+    },
+    "JR2019330": {
+      "first_seen": 1790649909.6085794,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
+      "job_id": "JR2019330",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330"
+    },
+    "JR2012685": {
+      "first_seen": 1790649909.6085806,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer - Autonomous Vehicles",
+      "job_id": "JR2012685",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Autonomous-Vehicles_JR2012685"
+    },
+    "JR2015857": {
+      "first_seen": 1790649909.6085813,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Design Engineer, Coherent High Speed Interconnect",
+      "job_id": "JR2015857",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Design-Engineer--Coherent-High-Speed-Interconnect_JR2015857"
+    },
+    "JR2021852": {
+      "first_seen": 1790649909.6085823,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Compiler Engineer \u2013 Rust GPU",
+      "job_id": "JR2021852",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---Rust-GPU_JR2021852"
+    },
+    "JR2021612": {
+      "first_seen": 1790649909.6085832,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer, Interactive World Models",
+      "job_id": "JR2021612",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Interactive-World-Models_JR2021612"
+    },
+    "JR2021603": {
+      "first_seen": 1790649909.608584,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer - GeForce NOW Video Streaming",
+      "job_id": "JR2021603",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---GeForce-NOW-Video-Streaming_JR2021603"
+    },
+    "JR2020717": {
+      "first_seen": 1790649909.608585,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Physical Design and Timing Engineer",
+      "job_id": "JR2020717",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Design-and-Timing-Engineer_JR2020717"
+    },
+    "JR2021671": {
+      "first_seen": 1790649909.6085858,
+      "posted": "Posted 30+ Days Ago",
+      "title": "HPC Performance Engineer",
+      "job_id": "JR2021671",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Remote/HPC-Performance-Engineer_JR2021671"
+    },
+    "JR2021258": {
+      "first_seen": 1790649909.6085865,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Supplier Base Engineer \u2013 Liquid Cooling Contamination Control",
+      "job_id": "JR2021258",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Supplier-Base-Engineer---Liquid-Cooling-Contamination-Control_JR2021258"
+    },
+    "JR2021190": {
+      "first_seen": 1790649909.6085873,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Debug System Engineer, Datacenter",
+      "job_id": "JR2021190",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Debug-System-Engineer--Datacenter_JR2021190"
+    },
+    "JR2021311": {
+      "first_seen": 1790649909.6085877,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, Spatial Intelligence and Foundation Models",
+      "job_id": "JR2021311",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Spatial-Intelligence-and-Foundation-Models_JR2021311-1"
+    },
+    "JR2005388": {
+      "first_seen": 1790649909.6085887,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Technical Marketing Engineer - GPU and System Architecture",
+      "job_id": "JR2005388",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---GPU-and-System-Architecture_JR2005388"
+    },
+    "JR2011616": {
+      "first_seen": 1790649909.60859,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer - Tegra",
+      "job_id": "JR2011616",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Tegra_JR2011616"
+    },
+    "JR2021350": {
+      "first_seen": 1790649909.6085908,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior AI Compiler Engineer, Algorithms and Code-Generation",
+      "job_id": "JR2021350",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Compiler-Engineer--Algorithms-and-Code-Generation_JR2021350"
+    },
+    "JR2012559": {
+      "first_seen": 1790649909.6085918,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Machine Learning Applications and Compiler Engineer, LPX",
+      "job_id": "JR2012559",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Applications-and-Compiler-Engineer_JR2012559"
+    },
+    "JR2020843": {
+      "first_seen": 1790649909.6085927,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior CPU Compiler Engineer - HPC",
+      "job_id": "JR2020843",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-CPU-Compiler-Engineer---HPC_JR2020843"
+    },
+    "JR2011624": {
+      "first_seen": 1790649909.6085937,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer",
+      "job_id": "JR2011624",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer_JR2011624"
+    },
+    "JR2020029": {
+      "first_seen": 1790649909.6085944,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Databricks Developer, SAP S/4 Data Products and Governance",
+      "job_id": "JR2020029",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Databricks-Developer--SAP-S-4-Data-Products-and-Governance_JR2020029"
+    },
+    "JR2020726": {
+      "first_seen": 1790649909.6085954,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Test Engineer",
+      "job_id": "JR2020726",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Test-Engineer_JR2020726"
+    },
+    "JR2013971": {
+      "first_seen": 1790649909.6085966,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Full-Stack Lead Engineer",
+      "job_id": "JR2013971",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Full-Stack-Software-Engineer_JR2013971"
+    },
+    "JR2021027": {
+      "first_seen": 1790649909.6085978,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, AI Networking",
+      "job_id": "JR2021027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Software-Engineer--AI-Networking_JR2021027-1"
+    },
+    "JR2013660": {
+      "first_seen": 1790649909.6085987,
+      "posted": "Posted 30+ Days Ago",
+      "title": "CAD Engineer",
+      "job_id": "JR2013660",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/CAD-Engineer_JR2013660"
+    },
+    "JR2009389": {
+      "first_seen": 1790649909.6086,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior C++ Software Engineer - Chip Design Tools",
+      "job_id": "JR2009389",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-C---Software-Engineer---Chip-Design-Tools_JR2009389"
+    },
+    "JR2018688": {
+      "first_seen": 1790649909.6086009,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer, NvSci",
+      "job_id": "JR2018688",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--NvSci_JR2018688"
+    },
+    "JR2013156": {
+      "first_seen": 1790649909.6086016,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Level Test Engineer - LPU",
+      "job_id": "JR2013156",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Level-Test-Engineer_JR2013156"
+    },
+    "JR2016197": {
+      "first_seen": 1790649909.6086025,
+      "posted": "Posted 30+ Days Ago",
+      "title": "System Software Engineer, GPU Development Tools",
+      "job_id": "JR2016197",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2016197"
+    },
+    "JR2013405": {
+      "first_seen": 1790649909.6086037,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer - Dynamo-Triton Inference Server",
+      "job_id": "JR2013405",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Dynamo-Triton-Inference-Server_JR2013405"
+    },
+    "JR2020731": {
+      "first_seen": 1790649909.6086044,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Technical Marketing Engineer \u2014 CUDA-Q Developer Enablement",
+      "job_id": "JR2020731",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineer---CUDA-Q-Developer-Enablement_JR2020731"
+    },
+    "JR2014684": {
+      "first_seen": 1790649909.608605,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Design Automation Engineer, Applied AI",
+      "job_id": "JR2014684",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Design-Automation-Engineer--Applied-AI_JR2014684"
+    },
+    "JR2001796": {
+      "first_seen": 1790649909.6086056,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer - Performance",
+      "job_id": "JR2001796",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Performance_JR2001796"
+    },
+    "JR2020019": {
+      "first_seen": 1790649909.6086068,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Systems Software Engineer, Accelerated Kubernetes Performance and Scale - DGX Cloud",
+      "job_id": "JR2020019",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---DGX-Cloud_JR2020019"
+    },
+    "JR2016865": {
+      "first_seen": 1790649909.6086075,
+      "posted": "Posted 30+ Days Ago",
+      "title": "DFT Engineer - New College Grad",
+      "job_id": "JR2016865",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Engineer---New-College-Grad_JR2016865"
+    },
+    "JR2020101": {
+      "first_seen": 1790649909.6086085,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Network Solution Engineer (Weekend Coverage)",
+      "job_id": "JR2020101",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Solution-Engineer--Weekend-Coverage-_JR2020101"
+    },
+    "JR2020173": {
+      "first_seen": 1790649909.6086092,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Robotics Systems Engineer - Neural Reconstruction and Real2Sim Applications",
+      "job_id": "JR2020173",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Systems-Engineer---Neural-Reconstruction-and-Real2Sim-Applications_JR2020173"
+    },
+    "JR2019809": {
+      "first_seen": 1790649909.6086102,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Debug System Engineer, Datacenter",
+      "job_id": "JR2019809",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Debug-System-Engineer--Datacenter_JR2019809"
+    },
+    "JR2019994": {
+      "first_seen": 1790649909.608611,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior AI Application Developer - GPU and SOC Architecture Modeling",
+      "job_id": "JR2019994",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Application-Developer---GPU-and-SOC-Architecture-Modeling_JR2019994"
+    },
+    "JR2018171": {
+      "first_seen": 1790649909.608612,
+      "posted": "Posted 30+ Days Ago",
+      "title": "ATE Test Development Engineer",
+      "job_id": "JR2018171",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ATE-Test-Development-Engineer_JR2018171"
+    },
+    "JR2019924": {
+      "first_seen": 1790649909.6086125,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Software Quality Assurance Engineer - 2026 New College Grad",
+      "job_id": "JR2019924",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1"
+    },
+    "JR2019643": {
+      "first_seen": 1790649909.6086135,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Storage Production Engineer - DGX Cloud",
+      "job_id": "JR2019643",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Production-Engineer---DGX-Cloud_JR2019643"
+    },
+    "JR2019722": {
+      "first_seen": 1790649909.6086144,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Implementation Methodology Engineer",
+      "job_id": "JR2019722",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Implementation-Methodology-Engineer_JR2019722"
+    },
+    "JR2019563": {
+      "first_seen": 1790649909.6086152,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer \u2013 Accelerated Quantum Chemistry and cuEST",
+      "job_id": "JR2019563",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Software-Engineer---Accelerated-Quantum-Chemistry-and-cuEST_JR2019563"
+    },
+    "JR2001319": {
+      "first_seen": 1790649909.608616,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Math Libraries Engineer - Sparsity in AI",
+      "job_id": "JR2001319",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Math-Libraries-Engineer---Sparsity-in-AI_JR2001319-1"
+    },
+    "JR2019332": {
+      "first_seen": 1790649909.608617,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Software R&D Engineer, RTL Optimization Tools",
+      "job_id": "JR2019332",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-R-D-Engineer--RTL-Optimization-Tools_JR2019332"
+    },
+    "JR2019685": {
+      "first_seen": 1790649909.6086185,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Embedded Software Engineer - RISCV",
+      "job_id": "JR2019685",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685"
+    },
+    "JR2010421": {
+      "first_seen": 1790649909.6086195,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Custom Circuits Timing Engineer",
+      "job_id": "JR2010421",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Custom-Circuits-Timing-Engineer_JR2010421"
+    },
+    "JR2019395": {
+      "first_seen": 1790649909.608621,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Systems Software Engineer, Kubernetes Node Lifecycle - DGX Cloud",
+      "job_id": "JR2019395",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Kubernetes-Node-Lifecycle---DGX-Cloud_JR2019395"
+    },
+    "JR2019324": {
+      "first_seen": 1790649909.6086218,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Math Libraries Engineer - Direct Sparse Solvers",
+      "job_id": "JR2019324",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Math-Libraries-Engineer---Direct-Sparse-Solvers_JR2019324"
+    },
+    "JR2007081": {
+      "first_seen": 1790649909.6086226,
+      "posted": "Posted 30+ Days Ago",
+      "title": "System Software Engineer - Tegra",
+      "job_id": "JR2007081",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Tegra_JR2007081"
+    },
+    "JR2018150": {
+      "first_seen": 1790649909.6086235,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Digital Design Engineer - High-Speed I/O and Photonics",
+      "job_id": "JR2018150",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Digital-Design-Engineer---High-Speed-I-O-and-Photonics_JR2018150"
+    },
+    "JR2019299": {
+      "first_seen": 1790649909.6086245,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Digital Design Engineer",
+      "job_id": "JR2019299",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Digital-Design-Engineer_JR2019299"
+    },
+    "JR2018659": {
+      "first_seen": 1790649909.6086252,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Software Engineer, Hardware Tools and Methodology - New College Grad 2026",
+      "job_id": "JR2018659",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
+    },
+    "JR2017479": {
+      "first_seen": 1790649909.6086261,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior FPGA Prototyping Platform Engineer",
+      "job_id": "JR2017479",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-FPGA-Prototyping-Platform-Engineer_JR2017479"
+    },
+    "JR2018605": {
+      "first_seen": 1790649909.608627,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Technical Marketing Engineer - Physical AI for Healthcare",
+      "job_id": "JR2018605",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineer---Physical-AI-for-Healthcare_JR2018605"
+    },
+    "JR2018987": {
+      "first_seen": 1790649909.608628,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, CUTLASS Performance",
+      "job_id": "JR2018987",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUTLASS-Performance_JR2018987"
+    },
+    "JR2018985": {
+      "first_seen": 1790649909.608629,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, CUTLASS Platform",
+      "job_id": "JR2018985",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUTLASS-Platform-_JR2018985"
+    },
+    "JR2013687": {
+      "first_seen": 1790649909.6086297,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software R&D Engineer, VLSI Physical Design",
+      "job_id": "JR2013687",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-R-D-Engineer--VLSI-Physical-Design_JR2013687"
+    },
+    "JR2015674": {
+      "first_seen": 1790649909.6086304,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Fortran Compiler Engineer",
+      "job_id": "JR2015674",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-Fortran-Compiler-Engineer_JR2015674"
+    },
+    "JR2017423": {
+      "first_seen": 1790649909.6086314,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior AI Frameworks Engineer",
+      "job_id": "JR2017423",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Frameworks-Engineer_JR2017423"
+    },
+    "JR2012049": {
+      "first_seen": 1790649909.6086318,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Implementation Methodology Engineer",
+      "job_id": "JR2012049",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Implementation-Methodology-Engineer_JR2012049-1"
+    },
+    "JR2018812": {
+      "first_seen": 1790649909.6086326,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, AI Networking",
+      "job_id": "JR2018812",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Software-Engineer--AI-Networking_JR2018812"
+    },
+    "JR2002026": {
+      "first_seen": 1790649909.6086333,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Firmware Engineer, PHY Devices - Networking",
+      "job_id": "JR2002026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-PHY-Verification-Engineer_JR2002026"
+    },
+    "JR2018046": {
+      "first_seen": 1790649909.608634,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Debug System Engineer, Datacenter",
+      "job_id": "JR2018046",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Debug-System-Engineer--Datacenter_JR2018046-1"
+    },
+    "JR2018333": {
+      "first_seen": 1790649909.608635,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer \u2014 MD Simulation Engineering",
+      "job_id": "JR2018333",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---MD-Simulation-Engineering_JR2018333"
+    },
+    "JR2011757": {
+      "first_seen": 1790649909.6086357,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Power Analysis and Optimization Engineer",
+      "job_id": "JR2011757",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Power-Analysis-and-Optimization-Engineer--AI-LLM-Systems_JR2011757"
+    },
+    "JR2016808": {
+      "first_seen": 1790649909.6086364,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior GPU Raytracing Engineer",
+      "job_id": "JR2016808",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-GPU-Propogation-Engine-Engineer_JR2016808"
+    },
+    "JR2011694": {
+      "first_seen": 1790649909.6086373,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Developer Technology Engineer - Windows AI Platform",
+      "job_id": "JR2011694",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---Windows-AI-Platform_JR2011694-1"
+    },
+    "JR2011805": {
+      "first_seen": 1790649909.6086383,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer - Tegra",
+      "job_id": "JR2011805",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Tegra-Diagnostic-Software-Engineer_JR2011805"
+    },
+    "JR2011872": {
+      "first_seen": 1790649909.608639,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Implementation Methodology Engineer - GPU",
+      "job_id": "JR2011872",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Implementation-Methodology-Engineer---GPU_JR2011872"
+    },
+    "JR2001533": {
+      "first_seen": 1790649909.6086397,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer - GPU Server",
+      "job_id": "JR2001533",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---GPU-Server_JR2001533"
+    },
+    "JR2018275": {
+      "first_seen": 1790649909.6086402,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Compiler Engineer - AI",
+      "job_id": "JR2018275",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Compiler-Engineer---AI_JR2018275"
+    },
+    "JR2010157": {
+      "first_seen": 1790649909.608641,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Physical Design Engineer",
+      "job_id": "JR2010157",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Design-Engineer_JR2010157"
+    },
+    "JR2012791": {
+      "first_seen": 1790649909.6086419,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Site Reliability Engineer, AIOPs",
+      "job_id": "JR2012791",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DevOps-Engineer--AIOPs_JR2012791"
+    },
+    "JR2018014": {
+      "first_seen": 1790649909.6086426,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Circuit Methodology Engineer",
+      "job_id": "JR2018014",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Methodology-Engineer_JR2018014"
+    },
+    "JR2015315": {
+      "first_seen": 1790649909.6086433,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Quality Assurance Engineer",
+      "job_id": "JR2015315",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Quality-Assurance-Engineer_JR2015315"
+    },
+    "JR2017806": {
+      "first_seen": 1790649909.6086442,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Performance Compiler Engineer - Triton",
+      "job_id": "JR2017806",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Performance-Compiler-Engineer---Triton_JR2017806-1"
+    },
+    "JR2017486": {
+      "first_seen": 1790649909.6086452,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Power Methodology and Modeling Engineer - New College Grad 2026",
+      "job_id": "JR2017486",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2017486-1"
+    },
+    "JR2017020": {
+      "first_seen": 1790649909.6086462,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Research Engineer - AI Coding Tools",
+      "job_id": "JR2017020",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer---AI-Coding-Tools_JR2017020"
+    },
+    "JR2016814": {
+      "first_seen": 1790649909.608647,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Deep Learning Compiler Engineer",
+      "job_id": "JR2016814",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Compiler-Engineer_JR2016814"
+    },
+    "JR2017242": {
+      "first_seen": 1790649909.6086478,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior GPU Compiler Development Engineer",
+      "job_id": "JR2017242",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-GPU-Compiler-Development-Engineer_JR2017242"
+    },
+    "JR2016648": {
+      "first_seen": 1790649909.608649,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior CAD Engineer",
+      "job_id": "JR2016648",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-CAD-Engineer_JR2016648"
+    },
+    "JR2017036": {
+      "first_seen": 1790649909.6086497,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer - Video",
+      "job_id": "JR2017036",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Video_JR2017036"
+    },
+    "JR2011517": {
+      "first_seen": 1790649909.6086504,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Applied Machine Learning Engineer, Circuit Design - New College Grad 2026",
+      "job_id": "JR2011517",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517"
+    },
+    "JR2016942": {
+      "first_seen": 1790649909.6086512,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Circuit Design Engineer - Power Delivery",
+      "job_id": "JR2016942",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Design-Engineer---Power-Delivery_JR2016942"
+    },
+    "JR2005384": {
+      "first_seen": 1790649909.608652,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Circuit Design Engineer - Power",
+      "job_id": "JR2005384",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Design-Engineer---Power_JR2005384"
+    },
+    "JR2016122": {
+      "first_seen": 1790649909.608653,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Architecture Energy Modeling Engineer",
+      "job_id": "JR2016122",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Architecture-Energy-Modeling-Engineer_JR2016122"
+    },
+    "JR2016068": {
+      "first_seen": 1790649909.608654,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Robotics Research Engineer, Robotics and AI for Drug Discovery",
+      "job_id": "JR2016068",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Research-Engineer--Robotics-and-AI-for-Drug-Discovery_JR2016068"
+    },
+    "JR1998721": {
+      "first_seen": 1790649909.6086545,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Math Libraries Engineer \u2013 AI and HPC",
+      "job_id": "JR1998721",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Math-Libraries-Engineer---AI-and-HPC_JR1998721"
+    },
+    "JR2015813": {
+      "first_seen": 1790649909.6086555,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior High-Performance LLM Training Engineer",
+      "job_id": "JR2015813",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-High-Performance-LLM-Training-Engineer_JR2015813"
+    },
+    "JR2015067": {
+      "first_seen": 1790649909.6086562,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Signal and Power Integrity Engineer - New College Grad 2026",
+      "job_id": "JR2015067",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2015067"
+    },
+    "JR2014878": {
+      "first_seen": 1790649909.608657,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, Networking Tools Team",
+      "job_id": "JR2014878",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Networking-Tools-Team_JR2014878"
+    },
+    "JR2013283": {
+      "first_seen": 1790649909.6086574,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior AI Performance and Efficiency Engineer",
+      "job_id": "JR2013283",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Performance-and-Efficiency-Engineer_JR2013283"
+    },
+    "JR2014881": {
+      "first_seen": 1790649909.608658,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Logic Design Engineer, Cache Coherent Interconnects",
+      "job_id": "JR2014881",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Logic-Design-Engineer--Cache-Coherent-Interconnects_JR2014881"
+    },
+    "JR2014808": {
+      "first_seen": 1790649909.608659,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Signal and Power Integrity Engineer",
+      "job_id": "JR2014808",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Signal-and-Power-Integrity-Engineer_JR2014808"
+    },
+    "JR2014626": {
+      "first_seen": 1790649909.6086597,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Signal Integrity Engineer",
+      "job_id": "JR2014626",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Signal-Integrity-Engineer_JR2014626-1"
+    },
+    "JR2000303": {
+      "first_seen": 1790649909.6086605,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior CPU Design Engineer",
+      "job_id": "JR2000303",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-CPU-Design-Engineer_JR2000303"
+    },
+    "JR2014515": {
+      "first_seen": 1790649909.6086614,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Systems Software Engineer - Deep Learning Solutions",
+      "job_id": "JR2014515",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Deep-Learning-Solutions_JR2014515"
+    },
+    "JR2013975": {
+      "first_seen": 1790649909.6086624,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Mixed-Signal Design Engineer",
+      "job_id": "JR2013975",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR2013975"
+    },
+    "JR2013994": {
+      "first_seen": 1790649909.608663,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior AI and HPC Observability Engineer",
+      "job_id": "JR2013994",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-and-HPC-Observability-Engineer_JR2013994"
+    },
+    "JR2013795": {
+      "first_seen": 1790649909.608664,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Systems Software Engineer - GPU Diagnostics",
+      "job_id": "JR2013795",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---GPU-Diagnostics_JR2013795-1"
+    },
+    "JR2013800": {
+      "first_seen": 1790649909.608665,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Compiler Engineer, AI Inference Platforms",
+      "job_id": "JR2013800",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer--AI-Inference-Platforms_JR2013800"
+    },
+    "JR2013428": {
+      "first_seen": 1790649909.6086664,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Neural Graphics Engineer",
+      "job_id": "JR2013428",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Neural-Graphics-Engineer_JR2013428"
+    },
+    "JR2013492": {
+      "first_seen": 1790649909.6086674,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior HPC Performance Engineer - AI for Science at Scale",
+      "job_id": "JR2013492",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-Performance-Engineer---AI-for-Science-at-Scale_JR2013492"
+    },
+    "JR2012523": {
+      "first_seen": 1790649909.6086683,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Software Engineer, Graphics Performance",
+      "job_id": "JR2012523",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Graphics-Performance_JR2012523"
+    },
+    "JR2010442": {
+      "first_seen": 1790649909.6086693,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Datacenter Power Systems Modeling Engineer",
+      "job_id": "JR2010442",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Datacenter-Power-Systems-Modeling-Engineer_JR2010442"
+    },
+    "JR2012435": {
+      "first_seen": 1790649909.60867,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Platform Architecture Engineer, GeForce NOW",
+      "job_id": "JR2012435",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Platform-Architecture-Engineer--GeForce-NOW_JR2012435"
+    },
+    "JR2012763": {
+      "first_seen": 1790649909.6086707,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Networking PCIe Application Engineer",
+      "job_id": "JR2012763",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Networking-PCIe-Application-Engineer_JR2012763"
+    },
+    "JR2011793": {
+      "first_seen": 1790649909.6086714,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Power Methodology and Modeling Engineer",
+      "job_id": "JR2011793",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Power-Methodology-and-Modeling-Engineer_JR2011793"
+    },
+    "JR2003636": {
+      "first_seen": 1790649909.6086721,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior System Software Engineer, Enterprise MODS",
+      "job_id": "JR2003636",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Enterprise-MODS_JR2003636"
+    },
+    "JR2002351": {
+      "first_seen": 1790649909.6086733,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Datacenter Partner Enablement Engineer",
+      "job_id": "JR2002351",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Datacenter-Partner-Enablement-Engineer_JR2002351"
+    },
+    "JR2011560": {
+      "first_seen": 1790649909.608674,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Mask Layout Design Engineer",
+      "job_id": "JR2011560",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mask-Layout-Design-Engineer_JR2011560"
+    },
+    "JR2010106": {
+      "first_seen": 1790649909.6086748,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Signal and Power Integrity Engineer",
+      "job_id": "JR2010106",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Signal-and-Power-Integrity-Engineer_JR2010106"
+    },
+    "JR2003518": {
+      "first_seen": 1790649909.6086755,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Math Libraries Engineer - Sparse Linear Algebra",
+      "job_id": "JR2003518",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Math-Libraries-Engineer---Sparse-Linear-Algebra_JR2003518"
+    },
+    "JR2003531": {
+      "first_seen": 1790649909.6086764,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Architecture Energy Modeling Engineer",
+      "job_id": "JR2003531",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Architecture-Energy-Modeling-Engineer_JR2003531"
+    },
+    "JR2003385": {
+      "first_seen": 1790649909.6086771,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Deep Learning Frameworks Sustaining Engineer",
+      "job_id": "JR2003385",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Frameworks-Sustaining-Engineer_JR2003385"
+    },
+    "JR1992361": {
+      "first_seen": 1790649909.6086779,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Research Engineer, Foundation Model Training Infrastructure",
+      "job_id": "JR1992361",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer--Foundation-Model-Training-Infrastructure_JR1992361"
+    },
+    "JR1992366": {
+      "first_seen": 1790649909.6086786,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Research Engineer, Simulation",
+      "job_id": "JR1992366",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer--Simulation_JR1992366"
+    }
+  }
+}
