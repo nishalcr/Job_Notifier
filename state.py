@@ -8,7 +8,7 @@ from datetime import date
 from typing import Any, Sequence
 
 import config
-from companies.filters import TARGET_LEVEL_KEYWORDS
+from companies.filters import HARDWARE_DOMAIN_PHRASES, SOFTWARE_TITLE_KEYWORDS, TARGET_LEVEL_KEYWORDS
 from config import CompanyRuntimeConfig
 
 STATE_VERSION = 3
@@ -22,6 +22,10 @@ _TITLE_NORMALIZATIONS = (
     ("senior principal", "principal"),
     ("sr. principal", "principal"),
     ("sr principal", "principal"),
+    # "Senior Lead" sits above "Lead" (e.g. JPMorgan Executive Director level).
+    ("senior lead", "principal"),
+    ("sr. lead", "principal"),
+    ("sr lead", "principal"),
     ("associate member of technical staff", "amts"),
     ("senior member of technical staff", "smts"),
     ("lead member of technical staff", "lmts"),
@@ -131,7 +135,12 @@ def passes_title_filters(title: str, runtime_config: CompanyRuntimeConfig) -> bo
     if included and not any(_contains_term(text, keyword) for keyword in included):
         return False
 
-    if any(_contains_term(text, phrase) for phrase in runtime_config.excluded_title_phrases):
+    is_software = any(_contains_term(text, keyword) for keyword in SOFTWARE_TITLE_KEYWORDS)
+    for phrase in runtime_config.excluded_title_phrases:
+        if not _contains_term(text, phrase):
+            continue
+        if is_software and phrase in HARDWARE_DOMAIN_PHRASES:
+            continue
         return False
 
     return not is_excluded_role(text, runtime_config.excluded_role_keywords)

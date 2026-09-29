@@ -7,7 +7,7 @@ A fully automated job-board monitor that scrapes career pages across 10 major te
 
 ## Features
 
-- **10 companies out of the box** — Amazon, Apple, CVS Health (two adapters), Goldman Sachs, Google, Lyft, Meta, Salesforce, and Uber
+- **18 companies out of the box** — Amazon, Apple, Cisco, CVS Health (two adapters), Dell, DoorDash, Goldman Sachs, Google, HP, IBM, JPMorgan Chase, Lyft, Meta, NVIDIA, Salesforce, Samsung, and Uber
 - **Headless browser scraping** — Playwright + Chromium handles JS-heavy career pages and interactive pagination without brittle DOM hacks
 - **Smart deduplication** — each company keeps its own `seen_jobs/<slug>.json` state file; jobs are tracked by stable ID so alerts never repeat
 - **Real-time Telegram alerts** — richly-formatted notifications include title, team, location, post date, role ID, and a direct link to apply
@@ -29,7 +29,11 @@ A fully automated job-board monitor that scrapes career pages across 10 major te
 | `lyft` | Lyft | CareerPuck public API |
 | `meta` | Meta | GraphQL (`job_search_with_featured_jobs`) |
 | `salesforce` | Salesforce | Workday adapter |
-| `uber` | Uber | REST API (`loadSearchJobsResults`) |
+| `uber` | Uber | jobs.uber.com search API (in-page fetch) |
+| `nvidia`, `hp`, `samsung`, `cisco` | NVIDIA, HP, Samsung, Cisco | Workday jobs API (`companies/workday.py`) |
+| `jpmc`, `dell` | JPMorgan Chase, Dell | Oracle Recruiting Cloud API (`companies/oracle_hcm.py`) |
+| `doordash` | DoorDash | Greenhouse boards API (`companies/greenhouse.py`) |
+| `ibm` | IBM | ibm.com careers search API |
 
 ## How It Works
 

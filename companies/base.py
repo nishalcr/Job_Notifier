@@ -29,3 +29,6 @@ class CompanyDefinition:
     # Other adapters that list the same jobs under the same IDs (alert only once).
     shares_jobs_with: tuple[str, ...] = ()
     allow_empty_results: bool = False
+    # Stop paginating at the first page with no jobs. Disable for adapters that
+    # filter client-side, where one page can be empty while later pages match.
+    stop_on_empty_page: bool = True

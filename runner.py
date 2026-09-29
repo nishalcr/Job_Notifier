@@ -89,7 +89,9 @@ async def collect_jobs(browser, runtime_config: config.CompanyRuntimeConfig, pag
 
                     print(f"[{runtime_config.slug}] Scraping up to {target_pages} page(s) this run")
 
-                if not jobs:
+                if not jobs and not runtime_config.definition.stop_on_empty_page:
+                    print(f"[{runtime_config.slug}] No matching jobs on page {page_num}; continuing.")
+                elif not jobs:
                     await _capture_diagnostics(
                         page,
                         runtime_config,

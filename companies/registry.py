@@ -1,6 +1,14 @@
 from companies.amazon import COMPANY as AMAZON
 from companies.apple import COMPANY as APPLE
 from companies.base import CompanyDefinition
+from companies.cisco import COMPANY as CISCO
+from companies.dell import COMPANY as DELL
+from companies.doordash import COMPANY as DOORDASH
+from companies.hp import COMPANY as HP
+from companies.ibm import COMPANY as IBM
+from companies.jpmc import COMPANY as JPMC
+from companies.nvidia import COMPANY as NVIDIA
+from companies.samsung import COMPANY as SAMSUNG
 from companies.cvs import COMPANY as CVS
 from companies.cvs_wd import COMPANY as CVS_WD
 from companies.goldman_sachs import COMPANY as GOLDMAN_SACHS
@@ -21,6 +29,14 @@ COMPANIES: dict[str, CompanyDefinition] = {
     META.slug: META,
     SALESFORCE.slug: SALESFORCE,
     UBER.slug: UBER,
+    CISCO.slug: CISCO,
+    DELL.slug: DELL,
+    DOORDASH.slug: DOORDASH,
+    HP.slug: HP,
+    IBM.slug: IBM,
+    JPMC.slug: JPMC,
+    NVIDIA.slug: NVIDIA,
+    SAMSUNG.slug: SAMSUNG,
 }
 
 
