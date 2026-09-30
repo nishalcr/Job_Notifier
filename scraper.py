@@ -22,10 +22,21 @@ from notifier import (
     verify_bot,
 )
 from runner import LAST_ERRORS, collect_jobs
-from state import filter_new_jobs, is_seen_elsewhere, load_seen_jobs, mark_jobs_seen, passes_title_filters
+from state import (
+    filter_new_jobs,
+    is_seen_elsewhere,
+    load_seen_jobs,
+    mark_jobs_seen,
+    passes_title_filters,
+    recent_title_keys,
+    title_key,
+)
 
 # More new jobs than this for one company in one run are sent as a digest.
 DIGEST_THRESHOLD = 5
+
+# A job whose title this company already posted within this many days is not re-alerted.
+REPEAT_TITLE_DAYS = 7
 
 # Whether this run already sent its separator message (sent only if the run has alerts).
 _run_header_sent = False
@@ -66,15 +77,22 @@ async def _run_company_scrape(browser, slug: str) -> tuple[bool, str]:
 
         to_alert = []
         skipped = []
+        # Some employers (e.g. Capital One) post many openings with the same generic
+        # title; alert on a title once per REPEAT_TITLE_DAYS per company.
+        recent_titles = recent_title_keys(runtime_config, REPEAT_TITLE_DAYS)
         for job in new_jobs:
+            key = title_key(job.get("title", ""))
             if not passes_title_filters(job.get("title", ""), runtime_config):
                 skipped.append(job)
             elif is_seen_elsewhere(job, runtime_config.definition.shares_jobs_with):
                 skipped.append(job)
+            elif key in recent_titles:
+                skipped.append(job)
             else:
+                recent_titles.add(key)
                 to_alert.append(job)
         if skipped:
-            print(f"[{runtime_config.slug}] Skipped {len(skipped)} job(s) (title filter or already alerted)")
+            print(f"[{runtime_config.slug}] Skipped {len(skipped)} job(s) (title filter, already alerted or repeated title)")
         mark_jobs_seen(runtime_config, skipped)
 
         if to_alert:
