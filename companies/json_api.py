@@ -15,15 +15,27 @@ US_STATE_CODES = frozenset(
     "NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY PR".split()
 )
 _US_NAME_RE = re.compile(r"\b(united states|usa|u\.s\.a?\.?|us)\b", re.I)
+US_STATE_NAMES = (
+    "Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|"
+    "Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|"
+    "Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|"
+    "New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|"
+    "South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|"
+    "Wisconsin|Wyoming|Washington, D\\.C\\.|District of Columbia"
+)
+_US_STATE_NAME_RE = re.compile(rf"\b({US_STATE_NAMES})\b")
 _STATE_CODE_RE = re.compile(r",\s*([A-Z]{2})\b")
 
 
 def is_us_location(location: str) -> bool:
-    """True if any part of a location string ("A, CA; Remote - US; Toronto, ON") is in the US."""
+    """True if any part of a location string ("A, CA; Remote - US; Austin, Texas") is in the US."""
     for part in re.split(r"[;|]", location or ""):
         if _US_NAME_RE.search(part):
             return True
         if any(code in US_STATE_CODES for code in _STATE_CODE_RE.findall(part)):
+            return True
+        # Full state names, e.g. "San Francisco, California" or "Remote - California".
+        if _US_STATE_NAME_RE.search(part) and not re.search(r"\b(canada|australia|mexico)\b", part, re.I):
             return True
     return False
 
