@@ -4,12 +4,33 @@
     "company": "goldman-sachs"
   },
   "jobs": {
-    "180700": {
-      "first_seen": 1790525811.6722243,
+    "169232": {
+      "first_seen": 1790525811.6722283,
       "posted": "",
-      "title": "Software Engineer, Global Banking & Markets, Electronic Trading",
-      "job_id": "180700",
-      "url": "https://higher.gs.com/roles/180700"
+      "title": "Security Engineer - Dallas - Vice President",
+      "job_id": "169232",
+      "url": "https://higher.gs.com/roles/169232"
+    },
+    "183356": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Software Engineer, Global Banking & Markets, Front Office Technology",
+      "job_id": "183356",
+      "url": "https://higher.gs.com/roles/183356"
+    },
+    "177422": {
+      "first_seen": 1790724190.121399,
+      "posted": "",
+      "title": "Senior Software Engineer, Global Banking & Markets, AI/ML Technology",
+      "job_id": "177422",
+      "url": "https://higher.gs.com/roles/177422"
+    },
+    "185319": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Quantitative Strategist, Global Banking & Markets, Client Analytics",
+      "job_id": "185319",
+      "url": "https://higher.gs.com/roles/185319"
     },
     "178378": {
       "first_seen": 1790525811.672226,
@@ -18,12 +39,12 @@
       "job_id": "178378",
       "url": "https://higher.gs.com/roles/178378"
     },
-    "177423": {
-      "first_seen": 1790525811.6722271,
+    "180700": {
+      "first_seen": 1790525811.6722243,
       "posted": "",
-      "title": "Software Engineer, Global Banking & Markets, AI/ML Technology",
-      "job_id": "177423",
-      "url": "https://higher.gs.com/roles/177423"
+      "title": "Software Engineer, Global Banking & Markets, Electronic Trading",
+      "job_id": "180700",
+      "url": "https://higher.gs.com/roles/180700"
     },
     "178036": {
       "first_seen": 1790525811.6722279,
@@ -32,12 +53,12 @@
       "job_id": "178036",
       "url": "https://higher.gs.com/roles/178036"
     },
-    "169232": {
-      "first_seen": 1790525811.6722283,
+    "153277": {
+      "first_seen": 0,
       "posted": "",
-      "title": "Security Engineer - Bengaluru- Vice President",
-      "job_id": "169232",
-      "url": "https://higher.gs.com/roles/169232"
+      "title": "Internal Audit,GBM Engineering, Blockchain, Digital Assets, Associate,Salt Lake City",
+      "job_id": "153277",
+      "url": "https://higher.gs.com/roles/153277"
     },
     "182893": {
       "first_seen": 1790525811.6722293,
@@ -46,12 +67,40 @@
       "job_id": "182893",
       "url": "https://higher.gs.com/roles/182893"
     },
+    "184169": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Global Banking & Markets - Transaction Banking - Channels Product Analyst - Dallas",
+      "job_id": "184169",
+      "url": "https://higher.gs.com/roles/184169"
+    },
     "179758": {
       "first_seen": 1790525811.6722305,
       "posted": "",
       "title": "Software Engineering - SRE Data - Software Engineer - Associate - Dallas",
       "job_id": "179758",
       "url": "https://higher.gs.com/roles/179758"
+    },
+    "184492": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "The Core Engineering, FTP Strats, Associate, Quantitative Engineering",
+      "job_id": "184492",
+      "url": "https://higher.gs.com/roles/184492"
+    },
+    "148033": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Executive Office, Marketing Analytics and Effectiveness, Associate, New York",
+      "job_id": "148033",
+      "url": "https://higher.gs.com/roles/148033"
+    },
+    "177645": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Software Engineer, Global Banking & Markets, Front Office Technology",
+      "job_id": "177645",
+      "url": "https://higher.gs.com/roles/177645"
     },
     "153024": {
       "first_seen": 1790525811.672231,
@@ -67,12 +116,47 @@
       "job_id": "164034",
       "url": "https://higher.gs.com/roles/164034"
     },
+    "180769": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Technology Risk - Dallas - Security Engineering",
+      "job_id": "180769",
+      "url": "https://higher.gs.com/roles/180769"
+    },
+    "142652": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "GBM, Public, ETF One Delta Strat - Quantitative Engineering (NYC)",
+      "job_id": "142652",
+      "url": "https://higher.gs.com/roles/142652"
+    },
+    "176868": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Global Banking & Markets, Loan Management, SF Trade Analytics, Analyst/Associate - Dallas",
+      "job_id": "176868",
+      "url": "https://higher.gs.com/roles/176868"
+    },
     "181810": {
       "first_seen": 1790525811.6722324,
       "posted": "",
       "title": "Engineering-L2-Dallas-Analyst-Software Engineering",
       "job_id": "181810",
       "url": "https://higher.gs.com/roles/181810"
+    },
+    "159789": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Internal Audit - Technology and Engineering | Analyst | Salt Lake City",
+      "job_id": "159789",
+      "url": "https://higher.gs.com/roles/159789"
+    },
+    "158356": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Asset & Wealth Management - QA Automation Engineer - Associate - Dallas",
+      "job_id": "158356",
+      "url": "https://higher.gs.com/roles/158356"
     },
     "119977": {
       "first_seen": 1790525811.6722329,
@@ -81,26 +165,12 @@
       "job_id": "119977",
       "url": "https://higher.gs.com/roles/119977"
     },
-    "152248": {
-      "first_seen": 1790526146.7247348,
-      "posted": "2026-09-27",
-      "title": "AWS Solutions Architect, Global Banking & Markets, Cloud Platform",
-      "job_id": "152248",
-      "url": "https://higher.gs.com/roles/152248"
-    },
-    "156978": {
-      "first_seen": 1790547273.892981,
-      "posted": "2026-09-27",
-      "title": "Software Engineer (SWIFT), Global Banking & Markets, Transaction Banking",
-      "job_id": "156978",
-      "url": "https://higher.gs.com/roles/156978"
-    },
-    "177422": {
-      "first_seen": 1790724190.121399,
-      "posted": "2026-09-29",
-      "title": "Senior Software Engineer, Global Banking & Markets, AI/ML Technology",
-      "job_id": "177422",
-      "url": "https://higher.gs.com/roles/177422"
+    "119161": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Internal Audit, Engineering Audit, Associate, Dallas",
+      "job_id": "119161",
+      "url": "https://higher.gs.com/roles/119161"
     }
   }
 }

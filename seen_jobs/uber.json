@@ -4,12 +4,89 @@
     "company": "uber"
   },
   "jobs": {
-    "302505": {
-      "first_seen": 1790525917.121107,
+    "302448": {
+      "first_seen": 1790818439.2446408,
+      "posted": "2026-09-30",
+      "title": "Sr Software Engineer - Android",
+      "job_id": "302448",
+      "url": "https://jobs.uber.com/en/jobs/302448/"
+    },
+    "157628": {
+      "first_seen": 1790806991.4348178,
+      "posted": "2026-09-30",
+      "title": "Enterprise Applications Developer",
+      "job_id": "157628",
+      "url": "https://jobs.uber.com/en/jobs/157628/"
+    },
+    "302988": {
+      "first_seen": 1790806991.434821,
+      "posted": "2026-09-30",
+      "title": "Software Engineer II - Capacity & Efficiency Engineering",
+      "job_id": "302988",
+      "url": "https://jobs.uber.com/en/jobs/302988/"
+    },
+    "302471": {
+      "first_seen": 1790525917.1211174,
+      "posted": "2026-09-30",
+      "title": "Application Developer II - Revenue Product",
+      "job_id": "302471",
+      "url": "https://jobs.uber.com/en/jobs/302471/"
+    },
+    "159127": {
+      "first_seen": 1790801037.8997142,
+      "posted": "2026-09-30",
+      "title": "Sr Software Engineer",
+      "job_id": "159127",
+      "url": "https://jobs.uber.com/en/jobs/159127/"
+    },
+    "158936": {
+      "first_seen": 1790526175.7937317,
+      "posted": "2026-09-30",
+      "title": "Staff Machine Learning Engineer - Semantics - AV Labs",
+      "job_id": "158936",
+      "url": "https://jobs.uber.com/en/jobs/158936/"
+    },
+    "301346": {
+      "first_seen": 1790526175.7937298,
+      "posted": "2026-09-30",
+      "title": "Staff Software Engineer - ML Infra",
+      "job_id": "301346",
+      "url": "https://jobs.uber.com/en/jobs/301346/"
+    },
+    "302743": {
+      "first_seen": 1790657633.8280747,
+      "posted": "2026-09-29",
+      "title": "Principal Engineer, UAIS",
+      "job_id": "302743",
+      "url": "https://jobs.uber.com/en/jobs/302743/"
+    },
+    "160454": {
+      "first_seen": 1790637271.1201732,
+      "posted": "2026-09-28",
+      "title": "Application Developer II, Finance Data Platform",
+      "job_id": "160454",
+      "url": "https://jobs.uber.com/en/jobs/160454/"
+    },
+    "301090": {
+      "first_seen": 1790526175.7936947,
       "posted": "2026-09-25",
-      "title": "Applications Developer II - IAM Operations",
-      "job_id": "302505",
-      "url": "https://jobs.uber.com/en/jobs/302505/"
+      "title": "Staff Software Engineer - ML AV Labs",
+      "job_id": "301090",
+      "url": "https://jobs.uber.com/en/jobs/301090/"
+    },
+    "302456": {
+      "first_seen": 1790526175.7936954,
+      "posted": "2026-09-25",
+      "title": "Sr Staff Engineer - Uber One",
+      "job_id": "302456",
+      "url": "https://jobs.uber.com/en/jobs/302456/"
+    },
+    "302457": {
+      "first_seen": 1790526175.7936964,
+      "posted": "2026-09-25",
+      "title": "Sr Staff Engineer - Uber One Membership",
+      "job_id": "302457",
+      "url": "https://jobs.uber.com/en/jobs/302457/"
     },
     "302709": {
       "first_seen": 1790525917.1211092,
@@ -25,61 +102,54 @@
       "job_id": "301355",
       "url": "https://jobs.uber.com/en/jobs/301355/"
     },
-    "302636": {
-      "first_seen": 1790525917.1211123,
-      "posted": "2026-09-24",
-      "title": "Sr Software Engineer - Android",
-      "job_id": "302636",
-      "url": "https://jobs.uber.com/en/jobs/302636/"
-    },
-    "300433": {
-      "first_seen": 1790525917.1211133,
+    "301948": {
+      "first_seen": 1790526175.793703,
       "posted": "2026-09-23",
-      "title": "Sr Software Engineer - Engineer",
-      "job_id": "300433",
-      "url": "https://jobs.uber.com/en/jobs/300433/"
-    },
-    "302747": {
-      "first_seen": 1790525917.121114,
-      "posted": "2026-09-23",
-      "title": "Sr Software Engineer - Engineer",
-      "job_id": "302747",
-      "url": "https://jobs.uber.com/en/jobs/302747/"
-    },
-    "301949": {
-      "first_seen": 1790525917.1211157,
-      "posted": "2026-09-23",
-      "title": "Senior Embedded Engineer",
-      "job_id": "301949",
-      "url": "https://jobs.uber.com/en/jobs/301949/"
-    },
-    "302502": {
-      "first_seen": 1790525917.1211164,
-      "posted": "2026-09-23",
-      "title": "Sr Security Engineer - DDOS and Bot Defense",
-      "job_id": "302502",
-      "url": "https://jobs.uber.com/en/jobs/302502/"
-    },
-    "302471": {
-      "first_seen": 1790525917.1211174,
-      "posted": "2026-09-23",
-      "title": "Financial Systems Engineer \u2014 Revenue Product",
-      "job_id": "302471",
-      "url": "https://jobs.uber.com/en/jobs/302471/"
-    },
-    "302639": {
-      "first_seen": 1790525917.1211185,
-      "posted": "2026-09-22",
-      "title": "Software Engineer II - Android",
-      "job_id": "302639",
-      "url": "https://jobs.uber.com/en/jobs/302639/"
+      "title": "Staff Embedded Engineer",
+      "job_id": "301948",
+      "url": "https://jobs.uber.com/en/jobs/301948/"
     },
     "301475": {
       "first_seen": 1790525917.12112,
       "posted": "2026-08-05",
-      "title": "Machine Learning Engineer II - AV Labs",
+      "title": "Machine Learning Engineer II - Semantics, AV Labs",
       "job_id": "301475",
       "url": "https://jobs.uber.com/en/jobs/301475/"
+    },
+    "159371": {
+      "first_seen": 1790526175.7937047,
+      "posted": "2026-09-23",
+      "title": "Staff Systems Engineer, AM&D Partner Integration",
+      "job_id": "159371",
+      "url": "https://jobs.uber.com/en/jobs/159371/"
+    },
+    "154538": {
+      "first_seen": 1790526175.7937098,
+      "posted": "2026-06-19",
+      "title": "Senior Staff Software Engineer - Financial Products (Backend)",
+      "job_id": "154538",
+      "url": "https://jobs.uber.com/en/jobs/154538/"
+    },
+    "301149": {
+      "first_seen": 0,
+      "posted": "2026-07-28",
+      "title": "Staff System Engineer - AV Labs",
+      "job_id": "301149",
+      "url": "https://jobs.uber.com/en/jobs/301149/"
+    },
+    "160305": {
+      "first_seen": 1790526175.7937102,
+      "posted": "2026-07-31",
+      "title": "Staff Machine Learning Engineer",
+      "job_id": "160305",
+      "url": "https://jobs.uber.com/en/jobs/160305/"
+    },
+    "301985": {
+      "first_seen": 1790526175.7937121,
+      "posted": "2026-09-01",
+      "title": "Staff Software Engineer - Engineer",
+      "job_id": "301985",
+      "url": "https://jobs.uber.com/en/jobs/301985/"
     },
     "154758": {
       "first_seen": 1790525917.1211245,
@@ -88,12 +158,19 @@
       "job_id": "154758",
       "url": "https://jobs.uber.com/en/jobs/154758/"
     },
-    "157796": {
-      "first_seen": 1790525917.1211264,
+    "146988": {
+      "first_seen": 1790526175.7937133,
       "posted": "2026-06-19",
-      "title": "Senior Machine Learning Engineer \u2013 AV Labs",
-      "job_id": "157796",
-      "url": "https://jobs.uber.com/en/jobs/157796/"
+      "title": "Sr Staff ML Engineer - Applied AI",
+      "job_id": "146988",
+      "url": "https://jobs.uber.com/en/jobs/146988/"
+    },
+    "157227": {
+      "first_seen": 1790526175.7937138,
+      "posted": "2026-07-27",
+      "title": "Staff Security Engineer - Vulnerability Management",
+      "job_id": "157227",
+      "url": "https://jobs.uber.com/en/jobs/157227/"
     },
     "302275": {
       "first_seen": 1790525917.1211278,
@@ -101,6 +178,20 @@
       "title": "Sr Software Engineer - Engineer",
       "job_id": "302275",
       "url": "https://jobs.uber.com/en/jobs/302275/"
+    },
+    "302250": {
+      "first_seen": 1790526175.7937067,
+      "posted": "2026-09-22",
+      "title": "Sr Staff Security Engineer - Engineer",
+      "job_id": "302250",
+      "url": "https://jobs.uber.com/en/jobs/302250/"
+    },
+    "157796": {
+      "first_seen": 1790525917.1211264,
+      "posted": "2026-06-19",
+      "title": "Senior Machine Learning Engineer \u2013 Semantics - AV Labs",
+      "job_id": "157796",
+      "url": "https://jobs.uber.com/en/jobs/157796/"
     },
     "155456": {
       "first_seen": 1790525917.1211293,
@@ -123,12 +214,47 @@
       "job_id": "300543",
       "url": "https://jobs.uber.com/en/jobs/300543/"
     },
+    "300578": {
+      "first_seen": 1790526175.793717,
+      "posted": "2026-08-12",
+      "title": "Staff Software Engineer - Marketplace Segmentation",
+      "job_id": "300578",
+      "url": "https://jobs.uber.com/en/jobs/300578/"
+    },
     "300522": {
       "first_seen": 1790525917.1211336,
       "posted": "2026-08-25",
       "title": "Software Engineer II - AV Labs Platform",
       "job_id": "300522",
       "url": "https://jobs.uber.com/en/jobs/300522/"
+    },
+    "302723": {
+      "first_seen": 1790526175.7937024,
+      "posted": "2026-09-23",
+      "title": "Staff Security Engineer - Engineer",
+      "job_id": "302723",
+      "url": "https://jobs.uber.com/en/jobs/302723/"
+    },
+    "301949": {
+      "first_seen": 1790525917.1211157,
+      "posted": "2026-09-23",
+      "title": "Senior Embedded Engineer",
+      "job_id": "301949",
+      "url": "https://jobs.uber.com/en/jobs/301949/"
+    },
+    "302747": {
+      "first_seen": 1790525917.121114,
+      "posted": "2026-09-23",
+      "title": "Sr Software Engineer - Engineer",
+      "job_id": "302747",
+      "url": "https://jobs.uber.com/en/jobs/302747/"
+    },
+    "157200": {
+      "first_seen": 1790526175.793719,
+      "posted": "2026-06-19",
+      "title": "Staff Engineer - Core Infrastructure",
+      "job_id": "157200",
+      "url": "https://jobs.uber.com/en/jobs/157200/"
     },
     "157162": {
       "first_seen": 1790525917.1211345,
@@ -137,12 +263,40 @@
       "job_id": "157162",
       "url": "https://jobs.uber.com/en/jobs/157162/"
     },
-    "159647": {
-      "first_seen": 1790525917.1211362,
+    "302495": {
+      "first_seen": 1790526175.7936993,
+      "posted": "2026-09-24",
+      "title": "Staff Security Engineer",
+      "job_id": "302495",
+      "url": "https://jobs.uber.com/en/jobs/302495/"
+    },
+    "302636": {
+      "first_seen": 1790525917.1211123,
+      "posted": "2026-09-24",
+      "title": "Sr Software Engineer - Android",
+      "job_id": "302636",
+      "url": "https://jobs.uber.com/en/jobs/302636/"
+    },
+    "154908": {
+      "first_seen": 1790526175.7937198,
       "posted": "2026-06-19",
-      "title": "Senior Reliability Engineer - AV Labs",
-      "job_id": "159647",
-      "url": "https://jobs.uber.com/en/jobs/159647/"
+      "title": "Senior Staff Security Engineer - (Agentic Systems)",
+      "job_id": "154908",
+      "url": "https://jobs.uber.com/en/jobs/154908/"
+    },
+    "149797": {
+      "first_seen": 1790526175.7937202,
+      "posted": "2026-08-03",
+      "title": "Senior Staff Machine Learning Engineer - Core Services Engineering",
+      "job_id": "149797",
+      "url": "https://jobs.uber.com/en/jobs/149797/"
+    },
+    "300938": {
+      "first_seen": 1790526175.7937212,
+      "posted": "2026-08-13",
+      "title": "Staff Software Engineer - Engineer",
+      "job_id": "300938",
+      "url": "https://jobs.uber.com/en/jobs/300938/"
     },
     "301347": {
       "first_seen": 1790525917.1211371,
@@ -151,6 +305,13 @@
       "job_id": "301347",
       "url": "https://jobs.uber.com/en/jobs/301347/"
     },
+    "301497": {
+      "first_seen": 1790526175.793702,
+      "posted": "2026-09-23",
+      "title": "Sr Staff Vehicle Engineer",
+      "job_id": "301497",
+      "url": "https://jobs.uber.com/en/jobs/301497/"
+    },
     "159370": {
       "first_seen": 1790525917.121138,
       "posted": "2026-06-19",
@@ -158,12 +319,40 @@
       "job_id": "159370",
       "url": "https://jobs.uber.com/en/jobs/159370/"
     },
+    "150193": {
+      "first_seen": 1790526175.7937233,
+      "posted": "2026-07-07",
+      "title": "Senior Staff Software Engineer - Financial Products (Backend)",
+      "job_id": "150193",
+      "url": "https://jobs.uber.com/en/jobs/150193/"
+    },
+    "155034": {
+      "first_seen": 1790526175.7937248,
+      "posted": "2026-08-11",
+      "title": "Senior Staff Engineer (Backend) - Autonomous Vehicles and Agentic AI",
+      "job_id": "155034",
+      "url": "https://jobs.uber.com/en/jobs/155034/"
+    },
+    "301498": {
+      "first_seen": 1790526175.7937255,
+      "posted": "2026-08-10",
+      "title": "Sr Staff Machine Learning Engineer - Uber AI Solutions",
+      "job_id": "301498",
+      "url": "https://jobs.uber.com/en/jobs/301498/"
+    },
     "300516": {
       "first_seen": 1790525917.1211398,
       "posted": "2026-08-19",
       "title": "Sr Software Engineer - AV Labs",
       "job_id": "300516",
       "url": "https://jobs.uber.com/en/jobs/300516/"
+    },
+    "300766": {
+      "first_seen": 1790526175.7937262,
+      "posted": "2026-08-11",
+      "title": "Staff Software Engineer - AV Labs",
+      "job_id": "300766",
+      "url": "https://jobs.uber.com/en/jobs/300766/"
     },
     "300777": {
       "first_seen": 1790525917.1211414,
@@ -179,12 +368,26 @@
       "job_id": "301364",
       "url": "https://jobs.uber.com/en/jobs/301364/"
     },
+    "149191": {
+      "first_seen": 1790526175.7937288,
+      "posted": "2026-09-11",
+      "title": "Sr. Staff Engineer (GenAI)",
+      "job_id": "149191",
+      "url": "https://jobs.uber.com/en/jobs/149191/"
+    },
     "302459": {
       "first_seen": 1790525917.1211433,
       "posted": "2026-09-15",
       "title": "Sr Software Engineer - Delivery Matching",
       "job_id": "302459",
       "url": "https://jobs.uber.com/en/jobs/302459/"
+    },
+    "300433": {
+      "first_seen": 1790525917.1211133,
+      "posted": "2026-09-23",
+      "title": "Sr Software Engineer - Engineer",
+      "job_id": "300433",
+      "url": "https://jobs.uber.com/en/jobs/300433/"
     },
     "159612": {
       "first_seen": 1790525917.1211443,
@@ -193,12 +396,54 @@
       "job_id": "159612",
       "url": "https://jobs.uber.com/en/jobs/159612/"
     },
+    "302259": {
+      "first_seen": 1790526175.7937322,
+      "posted": "2026-09-11",
+      "title": "Staff Security Engineer - Engineer",
+      "job_id": "302259",
+      "url": "https://jobs.uber.com/en/jobs/302259/"
+    },
+    "302502": {
+      "first_seen": 1790525917.1211164,
+      "posted": "2026-09-23",
+      "title": "Sr Security Engineer - DDOS and Bot Defense",
+      "job_id": "302502",
+      "url": "https://jobs.uber.com/en/jobs/302502/"
+    },
+    "300479": {
+      "first_seen": 1790526175.7937338,
+      "posted": "2026-08-19",
+      "title": "Staff Software Engineer - AV Labs",
+      "job_id": "300479",
+      "url": "https://jobs.uber.com/en/jobs/300479/"
+    },
     "301547": {
       "first_seen": 1790525917.121145,
       "posted": "2026-09-04",
       "title": "Sr Software Engineer, MLE - AV Labs",
       "job_id": "301547",
       "url": "https://jobs.uber.com/en/jobs/301547/"
+    },
+    "154276": {
+      "first_seen": 1790526175.7937362,
+      "posted": "2026-06-19",
+      "title": "Principal Machine Learning Engineer - AV Labs",
+      "job_id": "154276",
+      "url": "https://jobs.uber.com/en/jobs/154276/"
+    },
+    "302639": {
+      "first_seen": 1790525917.1211185,
+      "posted": "2026-09-22",
+      "title": "Software Engineer II - Android",
+      "job_id": "302639",
+      "url": "https://jobs.uber.com/en/jobs/302639/"
+    },
+    "152899": {
+      "first_seen": 1790526175.7937367,
+      "posted": "2026-06-19",
+      "title": "Staff ML Engineer, Generative AI",
+      "job_id": "152899",
+      "url": "https://jobs.uber.com/en/jobs/152899/"
     },
     "159585": {
       "first_seen": 1790525917.121146,
@@ -214,6 +459,13 @@
       "job_id": "300477",
       "url": "https://jobs.uber.com/en/jobs/300477/"
     },
+    "300982": {
+      "first_seen": 1790526175.7937376,
+      "posted": "2026-08-06",
+      "title": "Staff Machine Learning Engineer - Uber AI Solutions",
+      "job_id": "300982",
+      "url": "https://jobs.uber.com/en/jobs/300982/"
+    },
     "301156": {
       "first_seen": 1790525917.1211474,
       "posted": "2026-08-11",
@@ -221,467 +473,26 @@
       "job_id": "301156",
       "url": "https://jobs.uber.com/en/jobs/301156/"
     },
-    "303032": {
-      "first_seen": 1790526175.793691,
-      "posted": "2026-09-27",
-      "title": "Senior Thermal Engineer",
-      "job_id": "303032",
-      "url": "https://jobs.uber.com/en/jobs/303032/"
-    },
-    "303031": {
-      "first_seen": 1790526175.7936928,
-      "posted": "2026-09-27",
-      "title": "Staff Mechanical Design Engineer - Sensor Cleaning",
-      "job_id": "303031",
-      "url": "https://jobs.uber.com/en/jobs/303031/"
-    },
-    "303030": {
-      "first_seen": 1790526175.793694,
-      "posted": "2026-09-27",
-      "title": "Senior Manufacturing Design Engineer",
-      "job_id": "303030",
-      "url": "https://jobs.uber.com/en/jobs/303030/"
-    },
-    "301090": {
-      "first_seen": 1790526175.7936947,
-      "posted": "2026-09-27",
-      "title": "Staff Software Engineer - ML AV Labs",
-      "job_id": "301090",
-      "url": "https://jobs.uber.com/en/jobs/301090/"
-    },
-    "302456": {
-      "first_seen": 1790526175.7936954,
-      "posted": "2026-09-27",
-      "title": "Sr Staff Engineer - Uber One",
-      "job_id": "302456",
-      "url": "https://jobs.uber.com/en/jobs/302456/"
-    },
-    "302457": {
-      "first_seen": 1790526175.7936964,
-      "posted": "2026-09-27",
-      "title": "Sr Staff Engineer - Uber One Membership",
-      "job_id": "302457",
-      "url": "https://jobs.uber.com/en/jobs/302457/"
-    },
-    "302495": {
-      "first_seen": 1790526175.7936993,
-      "posted": "2026-09-27",
-      "title": "Staff Security Engineer",
-      "job_id": "302495",
-      "url": "https://jobs.uber.com/en/jobs/302495/"
-    },
-    "301083": {
-      "first_seen": 1790526175.7937,
-      "posted": "2026-09-27",
-      "title": "Fleet Engineering Lead",
-      "job_id": "301083",
-      "url": "https://jobs.uber.com/en/jobs/301083/"
-    },
-    "301497": {
-      "first_seen": 1790526175.793702,
-      "posted": "2026-09-27",
-      "title": "Sr Staff Vehicle Engineer",
-      "job_id": "301497",
-      "url": "https://jobs.uber.com/en/jobs/301497/"
-    },
-    "302723": {
-      "first_seen": 1790526175.7937024,
-      "posted": "2026-09-27",
-      "title": "Staff Security Engineer - Engineer",
-      "job_id": "302723",
-      "url": "https://jobs.uber.com/en/jobs/302723/"
-    },
-    "301948": {
-      "first_seen": 1790526175.793703,
-      "posted": "2026-09-27",
-      "title": "Staff Embedded Engineer",
-      "job_id": "301948",
-      "url": "https://jobs.uber.com/en/jobs/301948/"
-    },
-    "159371": {
-      "first_seen": 1790526175.7937047,
-      "posted": "2026-09-27",
-      "title": "Staff Systems Engineer, AM&D Partner Integration",
-      "job_id": "159371",
-      "url": "https://jobs.uber.com/en/jobs/159371/"
-    },
-    "160071": {
-      "first_seen": 1790526175.793706,
-      "posted": "2026-09-27",
-      "title": "Staff Security Strategist GRC",
-      "job_id": "160071",
-      "url": "https://jobs.uber.com/en/jobs/160071/"
-    },
-    "302250": {
-      "first_seen": 1790526175.7937067,
-      "posted": "2026-09-27",
-      "title": "Sr Staff Security Engineer - Engineer",
-      "job_id": "302250",
-      "url": "https://jobs.uber.com/en/jobs/302250/"
-    },
-    "301196": {
-      "first_seen": 1790526175.7937076,
-      "posted": "2026-09-27",
-      "title": "Oracle People System Release, Environment and Platform Governance Lead",
-      "job_id": "301196",
-      "url": "https://jobs.uber.com/en/jobs/301196/"
-    },
-    "159725": {
-      "first_seen": 1790526175.7937086,
-      "posted": "2026-09-27",
-      "title": "Senior Logistics Engineer - AV Labs",
-      "job_id": "159725",
-      "url": "https://jobs.uber.com/en/jobs/159725/"
-    },
-    "158830": {
-      "first_seen": 1790526175.793709,
-      "posted": "2026-09-27",
-      "title": "Oracle Cloud Payroll System Analyst",
-      "job_id": "158830",
-      "url": "https://jobs.uber.com/en/jobs/158830/"
-    },
-    "154538": {
-      "first_seen": 1790526175.7937098,
-      "posted": "2026-09-27",
-      "title": "Senior Staff Software Engineer - Financial Products (Backend)",
-      "job_id": "154538",
-      "url": "https://jobs.uber.com/en/jobs/154538/"
-    },
-    "160305": {
-      "first_seen": 1790526175.7937102,
-      "posted": "2026-09-27",
-      "title": "Staff Machine Learning Engineer",
-      "job_id": "160305",
-      "url": "https://jobs.uber.com/en/jobs/160305/"
-    },
-    "301705": {
-      "first_seen": 1790526175.7937112,
-      "posted": "2026-09-27",
-      "title": "Sr Scientist, Tech - Science",
-      "job_id": "301705",
-      "url": "https://jobs.uber.com/en/jobs/301705/"
-    },
-    "301985": {
-      "first_seen": 1790526175.7937121,
-      "posted": "2026-09-27",
-      "title": "Staff Software Engineer - Engineer",
-      "job_id": "301985",
-      "url": "https://jobs.uber.com/en/jobs/301985/"
-    },
-    "146988": {
-      "first_seen": 1790526175.7937133,
-      "posted": "2026-09-27",
-      "title": "Sr Staff ML Engineer - Applied AI",
-      "job_id": "146988",
-      "url": "https://jobs.uber.com/en/jobs/146988/"
-    },
-    "157227": {
-      "first_seen": 1790526175.7937138,
-      "posted": "2026-09-27",
-      "title": "Staff Security Engineer - Vulnerability Management",
-      "job_id": "157227",
-      "url": "https://jobs.uber.com/en/jobs/157227/"
-    },
-    "301906": {
-      "first_seen": 1790526175.7937148,
-      "posted": "2026-09-27",
-      "title": "Senior Electrical Engineer",
-      "job_id": "301906",
-      "url": "https://jobs.uber.com/en/jobs/301906/"
-    },
-    "300578": {
-      "first_seen": 1790526175.793717,
-      "posted": "2026-09-27",
-      "title": "Staff Software Engineer - Marketplace Segmentation",
-      "job_id": "300578",
-      "url": "https://jobs.uber.com/en/jobs/300578/"
-    },
-    "158833": {
-      "first_seen": 1790526175.7937176,
-      "posted": "2026-09-27",
-      "title": "Senior Hardware R&D Technician - AV Labs",
-      "job_id": "158833",
-      "url": "https://jobs.uber.com/en/jobs/158833/"
-    },
-    "302082": {
-      "first_seen": 1790526175.7937183,
-      "posted": "2026-09-27",
-      "title": "Sr Security Technologist - Incident Commander",
-      "job_id": "302082",
-      "url": "https://jobs.uber.com/en/jobs/302082/"
-    },
-    "157200": {
-      "first_seen": 1790526175.793719,
-      "posted": "2026-09-27",
-      "title": "Staff Engineer - Core Infrastructure",
-      "job_id": "157200",
-      "url": "https://jobs.uber.com/en/jobs/157200/"
-    },
-    "154908": {
-      "first_seen": 1790526175.7937198,
-      "posted": "2026-09-27",
-      "title": "Senior Staff Security Engineer - (Agentic Systems)",
-      "job_id": "154908",
-      "url": "https://jobs.uber.com/en/jobs/154908/"
-    },
-    "149797": {
-      "first_seen": 1790526175.7937202,
-      "posted": "2026-09-27",
-      "title": "Senior Staff Machine Learning Engineer - Core Services Engineering",
-      "job_id": "149797",
-      "url": "https://jobs.uber.com/en/jobs/149797/"
-    },
-    "300938": {
-      "first_seen": 1790526175.7937212,
-      "posted": "2026-09-27",
-      "title": "Staff Software Engineer - Engineer",
-      "job_id": "300938",
-      "url": "https://jobs.uber.com/en/jobs/300938/"
-    },
-    "159171": {
-      "first_seen": 1790526175.793722,
-      "posted": "2026-09-27",
-      "title": "Data Center Engineer, Structured Cabling & Physical Network",
-      "job_id": "159171",
-      "url": "https://jobs.uber.com/en/jobs/159171/"
-    },
-    "150193": {
-      "first_seen": 1790526175.7937233,
-      "posted": "2026-09-27",
-      "title": "Senior Staff Software Engineer - Financial Products (Backend)",
-      "job_id": "150193",
-      "url": "https://jobs.uber.com/en/jobs/150193/"
-    },
-    "159588": {
-      "first_seen": 1790526175.793724,
-      "posted": "2026-09-27",
-      "title": "Senior Manufacturing Engineer - NPI",
-      "job_id": "159588",
-      "url": "https://jobs.uber.com/en/jobs/159588/"
-    },
-    "155034": {
-      "first_seen": 1790526175.7937248,
-      "posted": "2026-09-27",
-      "title": "Senior Staff Engineer (Backend) - Autonomous Vehicles and Agentic AI",
-      "job_id": "155034",
-      "url": "https://jobs.uber.com/en/jobs/155034/"
-    },
-    "301498": {
-      "first_seen": 1790526175.7937255,
-      "posted": "2026-09-27",
-      "title": "Sr Staff Machine Learning Engineer - Uber AI Solutions",
-      "job_id": "301498",
-      "url": "https://jobs.uber.com/en/jobs/301498/"
-    },
-    "300766": {
-      "first_seen": 1790526175.7937262,
-      "posted": "2026-09-27",
-      "title": "Staff Software Engineer - AV Labs",
-      "job_id": "300766",
-      "url": "https://jobs.uber.com/en/jobs/300766/"
-    },
-    "302106": {
-      "first_seen": 1790526175.793727,
-      "posted": "2026-09-27",
-      "title": "Security Technologist II - Incident Command",
-      "job_id": "302106",
-      "url": "https://jobs.uber.com/en/jobs/302106/"
-    },
-    "300438": {
-      "first_seen": 1790526175.793728,
-      "posted": "2026-09-27",
-      "title": "Staff Software Engineer",
-      "job_id": "300438",
-      "url": "https://jobs.uber.com/en/jobs/300438/"
-    },
-    "149191": {
-      "first_seen": 1790526175.7937288,
-      "posted": "2026-09-27",
-      "title": "Sr. Staff Engineer (GenAI)",
-      "job_id": "149191",
-      "url": "https://jobs.uber.com/en/jobs/149191/"
-    },
-    "301346": {
-      "first_seen": 1790526175.7937298,
-      "posted": "2026-09-27",
-      "title": "Staff Software Engineer - ML Infra",
-      "job_id": "301346",
-      "url": "https://jobs.uber.com/en/jobs/301346/"
-    },
-    "302588": {
-      "first_seen": 1790526175.7937305,
-      "posted": "2026-09-27",
-      "title": "Sr Security Technologist - Risk & Compliance",
-      "job_id": "302588",
-      "url": "https://jobs.uber.com/en/jobs/302588/"
-    },
-    "158936": {
-      "first_seen": 1790526175.7937317,
-      "posted": "2026-09-27",
-      "title": "Staff Machine Learning Engineer - AV Labs",
-      "job_id": "158936",
-      "url": "https://jobs.uber.com/en/jobs/158936/"
-    },
-    "302259": {
-      "first_seen": 1790526175.7937322,
-      "posted": "2026-09-27",
-      "title": "Staff Security Engineer - Engineer",
-      "job_id": "302259",
-      "url": "https://jobs.uber.com/en/jobs/302259/"
-    },
-    "302340": {
-      "first_seen": 1790526175.793733,
-      "posted": "2026-09-27",
-      "title": "Sr Security Technologist - Technical Security",
-      "job_id": "302340",
-      "url": "https://jobs.uber.com/en/jobs/302340/"
-    },
-    "159160": {
-      "first_seen": 1790526175.7937336,
-      "posted": "2026-09-27",
-      "title": "Data Center Engineer, Electrical",
-      "job_id": "159160",
-      "url": "https://jobs.uber.com/en/jobs/159160/"
-    },
-    "300479": {
-      "first_seen": 1790526175.7937338,
-      "posted": "2026-09-27",
-      "title": "Staff Software Engineer - AV Labs",
-      "job_id": "300479",
-      "url": "https://jobs.uber.com/en/jobs/300479/"
-    },
-    "301909": {
-      "first_seen": 1790526175.793735,
-      "posted": "2026-09-27",
-      "title": "Senior Technical Program Manager - Hardware",
-      "job_id": "301909",
-      "url": "https://jobs.uber.com/en/jobs/301909/"
-    },
-    "301950": {
-      "first_seen": 1790526175.7937355,
-      "posted": "2026-09-27",
-      "title": "Staff Technical Program Manager - Hardware",
-      "job_id": "301950",
-      "url": "https://jobs.uber.com/en/jobs/301950/"
-    },
-    "154276": {
-      "first_seen": 1790526175.7937362,
-      "posted": "2026-09-27",
-      "title": "Principal Machine Learning Engineer - AV Labs",
-      "job_id": "154276",
-      "url": "https://jobs.uber.com/en/jobs/154276/"
-    },
-    "152899": {
-      "first_seen": 1790526175.7937367,
-      "posted": "2026-09-27",
-      "title": "Staff ML Engineer, Generative AI",
-      "job_id": "152899",
-      "url": "https://jobs.uber.com/en/jobs/152899/"
-    },
-    "300982": {
-      "first_seen": 1790526175.7937376,
-      "posted": "2026-09-27",
-      "title": "Staff Machine Learning Engineer - Uber AI Solutions",
-      "job_id": "300982",
-      "url": "https://jobs.uber.com/en/jobs/300982/"
-    },
     "301096": {
       "first_seen": 1790526175.7937386,
-      "posted": "2026-09-27",
+      "posted": "2026-07-31",
       "title": "Staff Quality Engineer",
       "job_id": "301096",
       "url": "https://jobs.uber.com/en/jobs/301096/"
     },
     "153215": {
       "first_seen": 1790526175.7937388,
-      "posted": "2026-09-27",
+      "posted": "2026-08-18",
       "title": "Senior Staff Engineer (Backend) Core Services Eng",
       "job_id": "153215",
       "url": "https://jobs.uber.com/en/jobs/153215/"
     },
     "145860": {
       "first_seen": 1790526175.793739,
-      "posted": "2026-09-27",
+      "posted": "2026-07-17",
       "title": "Staff Machine Learning Engineer - Applied AI",
       "job_id": "145860",
       "url": "https://jobs.uber.com/en/jobs/145860/"
-    },
-    "302429": {
-      "first_seen": 1790613258.3149736,
-      "posted": "2026-09-28",
-      "title": "Sr Technical Program Manager - Program Management (Tech)",
-      "job_id": "302429",
-      "url": "https://jobs.uber.com/en/jobs/302429/"
-    },
-    "302383": {
-      "first_seen": 1790627028.7328343,
-      "posted": "2026-09-28",
-      "title": "Software Engineer II - Engineer",
-      "job_id": "302383",
-      "url": "https://jobs.uber.com/en/jobs/302383/"
-    },
-    "160454": {
-      "first_seen": 1790637271.1201732,
-      "posted": "2026-09-28",
-      "title": "Application Developer II, Finance Data Platform",
-      "job_id": "160454",
-      "url": "https://jobs.uber.com/en/jobs/160454/"
-    },
-    "147707": {
-      "first_seen": 1790637271.1201751,
-      "posted": "2026-09-28",
-      "title": "Audio Video Infrastructure Engineer",
-      "job_id": "147707",
-      "url": "https://jobs.uber.com/en/jobs/147707/"
-    },
-    "302743": {
-      "first_seen": 1790657633.8280747,
-      "posted": "2026-09-29",
-      "title": "Principal Engineer, UAIS",
-      "job_id": "302743",
-      "url": "https://jobs.uber.com/en/jobs/302743/"
-    },
-    "157676": {
-      "first_seen": 1790711643.2521036,
-      "posted": "2026-09-29",
-      "title": "Senior Program Manager, Site Technology",
-      "job_id": "157676",
-      "url": "https://jobs.uber.com/en/jobs/157676/"
-    },
-    "157820": {
-      "first_seen": 1790793248.0060737,
-      "posted": "2026-09-30",
-      "title": "Audio/Visual Application Engineer",
-      "job_id": "157820",
-      "url": "https://jobs.uber.com/en/jobs/157820/"
-    },
-    "159127": {
-      "first_seen": 1790801037.8997142,
-      "posted": "2026-09-30",
-      "title": "Sr Software Engineer",
-      "job_id": "159127",
-      "url": "https://jobs.uber.com/en/jobs/159127/"
-    },
-    "157628": {
-      "first_seen": 1790806991.4348178,
-      "posted": "2026-09-30",
-      "title": "Enterprise Applications Developer",
-      "job_id": "157628",
-      "url": "https://jobs.uber.com/en/jobs/157628/"
-    },
-    "302988": {
-      "first_seen": 1790806991.434821,
-      "posted": "2026-09-30",
-      "title": "Software Engineer II - Capacity & Efficiency Engineering",
-      "job_id": "302988",
-      "url": "https://jobs.uber.com/en/jobs/302988/"
-    },
-    "302448": {
-      "first_seen": 1790818439.2446408,
-      "posted": "2026-10-01",
-      "title": "Sr Software Engineer - Android",
-      "job_id": "302448",
-      "url": "https://jobs.uber.com/en/jobs/302448/"
     }
   }
 }

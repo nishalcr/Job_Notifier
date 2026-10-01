@@ -4,75 +4,54 @@
     "company": "ibm"
   },
   "jobs": {
-    "109737": {
-      "first_seen": 1790650001.5531313,
+    "134963": {
+      "first_seen": 1790702651.785687,
       "posted": "",
-      "title": "Senior Software Developer",
-      "job_id": "109737",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=109737"
+      "title": "Quantum Algorithm Engineer \u2014 AMER",
+      "job_id": "134963",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134963"
     },
-    "133630": {
-      "first_seen": 1790650001.5531352,
+    "135173": {
+      "first_seen": 1790876650.7807398,
       "posted": "",
-      "title": "Entry Level Software Developer 2027 - Durham",
-      "job_id": "133630",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133630"
+      "title": "Senior Systems Engineer",
+      "job_id": "135173",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=135173"
     },
-    "133531": {
-      "first_seen": 1790650001.5531368,
+    "134118": {
+      "first_seen": 0,
       "posted": "",
-      "title": "Application Developer-Google Cloud FullStack",
-      "job_id": "133531",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133531"
+      "title": "SAP PP Architect \u2013 PPDS & Flowdown Integration",
+      "job_id": "134118",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134118"
     },
-    "133533": {
-      "first_seen": 1790650001.5531383,
+    "132703": {
+      "first_seen": 1790650464.8470104,
       "posted": "",
-      "title": "Application Developer-Google Cloud FullStack",
-      "job_id": "133533",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133533"
+      "title": "Data Scientist & AI ELH - RTP 2027",
+      "job_id": "132703",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132703"
     },
-    "134117": {
-      "first_seen": 1790650001.5531397,
+    "132731": {
+      "first_seen": 1790864640.8240163,
       "posted": "",
-      "title": "QA/Test Developer ELH",
-      "job_id": "134117",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134117"
+      "title": "Confluent -Senior Software Engineer - Stream Processing & Analytics",
+      "job_id": "132731",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132731"
     },
-    "133532": {
-      "first_seen": 1790650001.5531414,
+    "135007": {
+      "first_seen": 1790876649.7895098,
       "posted": "",
-      "title": "Application Developer-Google Cloud FullStack",
-      "job_id": "133532",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133532"
+      "title": "Business Analyst-ADM",
+      "job_id": "135007",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=135007"
     },
-    "131998": {
-      "first_seen": 1790650001.5531433,
+    "128773": {
+      "first_seen": 1790650001.553225,
       "posted": "",
-      "title": "Microservices Developer",
-      "job_id": "131998",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131998"
-    },
-    "133928": {
-      "first_seen": 1790650001.553145,
-      "posted": "",
-      "title": "Entry-Level Software Developer 2027 - Lowell",
-      "job_id": "133928",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133928"
-    },
-    "134599": {
-      "first_seen": 1790650001.5531464,
-      "posted": "",
-      "title": "Application Developer - IT Service Management",
-      "job_id": "134599",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134599"
-    },
-    "134607": {
-      "first_seen": 1790650001.5531483,
-      "posted": "",
-      "title": "Application Developer - IT Service Management",
-      "job_id": "134607",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134607"
+      "title": "Associate Application Developer Oracle - 2027",
+      "job_id": "128773",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128773"
     },
     "134605": {
       "first_seen": 1790650001.55315,
@@ -81,12 +60,124 @@
       "job_id": "134605",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134605"
     },
-    "134601": {
-      "first_seen": 1790650001.5531523,
+    "129240": {
+      "first_seen": 1790789070.6067708,
+      "posted": "",
+      "title": "Graph Workflow Engineer (TS/SCI)",
+      "job_id": "129240",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129240"
+    },
+    "131779": {
+      "first_seen": 1790810636.2909753,
+      "posted": "",
+      "title": "Application Architect - AI Integration",
+      "job_id": "131779",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131779"
+    },
+    "129647": {
+      "first_seen": 1790799882.5471096,
+      "posted": "",
+      "title": "QA Engineer Lead \u2013 Financial Systems (On-site TX)",
+      "job_id": "129647",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129647"
+    },
+    "132954": {
+      "first_seen": 1790650464.8470123,
+      "posted": "",
+      "title": "Integration Architect",
+      "job_id": "132954",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132954"
+    },
+    "133985": {
+      "first_seen": 1790799881.315483,
+      "posted": "",
+      "title": "Confluent - Principal Engineer - Cloud Infrastructure and Platform",
+      "job_id": "133985",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133985"
+    },
+    "129664": {
+      "first_seen": 1790821446.4409378,
+      "posted": "",
+      "title": "Senior AI Architect - Enterprise Integrations",
+      "job_id": "129664",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129664"
+    },
+    "134617": {
+      "first_seen": 1790789070.6067731,
+      "posted": "",
+      "title": "Back-End Developer",
+      "job_id": "134617",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134617"
+    },
+    "132722": {
+      "first_seen": 1790789068.9968197,
+      "posted": "",
+      "title": "Confluent - Staff Software Engineer - WarpStream",
+      "job_id": "132722",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132722"
+    },
+    "133630": {
+      "first_seen": 1790650001.5531352,
+      "posted": "",
+      "title": "Entry Level Software Developer 2027 - Durham",
+      "job_id": "133630",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133630"
+    },
+    "134624": {
+      "first_seen": 1790703855.3795605,
       "posted": "",
       "title": "Application Developer - IT Service Management",
-      "job_id": "134601",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134601"
+      "job_id": "134624",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134624"
+    },
+    "134626": {
+      "first_seen": 1790703855.379563,
+      "posted": "",
+      "title": "Application Developer - IT Service Management",
+      "job_id": "134626",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134626"
+    },
+    "134625": {
+      "first_seen": 1790713460.241273,
+      "posted": "",
+      "title": "Application Developer - IT Service Management",
+      "job_id": "134625",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134625"
+    },
+    "132730": {
+      "first_seen": 1790693047.7906759,
+      "posted": "",
+      "title": "Confluent - Senior Software Engineer - Stream Processing & Analytics",
+      "job_id": "132730",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132730"
+    },
+    "132727": {
+      "first_seen": 1790693047.2663503,
+      "posted": "",
+      "title": "Confluent - Staff Software Engineer - Stream Processing & Analytics",
+      "job_id": "132727",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132727"
+    },
+    "134117": {
+      "first_seen": 1790650001.5531397,
+      "posted": "",
+      "title": "QA/Test Developer ELH",
+      "job_id": "134117",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134117"
+    },
+    "133928": {
+      "first_seen": 1790650001.553145,
+      "posted": "",
+      "title": "Entry-Level Software Developer 2027 - Lowell",
+      "job_id": "133928",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133928"
+    },
+    "131998": {
+      "first_seen": 1790650001.5531433,
+      "posted": "",
+      "title": "Microservices Developer",
+      "job_id": "131998",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131998"
     },
     "128814": {
       "first_seen": 1790650001.5531533,
@@ -109,12 +200,40 @@
       "job_id": "133527",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133527"
     },
+    "131606": {
+      "first_seen": 1790650464.8469954,
+      "posted": "",
+      "title": "Senior Staff Software Engineer - Confluent Kafka Storage (Remote)",
+      "job_id": "131606",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131606"
+    },
     "129264": {
       "first_seen": 1790650001.553158,
       "posted": "",
       "title": "Front End Software Developer",
       "job_id": "129264",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129264"
+    },
+    "132728": {
+      "first_seen": 1790650464.8469975,
+      "posted": "",
+      "title": "Confluent - Staff Software Engineer - Stream Processing & Analytics",
+      "job_id": "132728",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132728"
+    },
+    "134465": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Application Developer",
+      "job_id": "134465",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134465"
+    },
+    "133649": {
+      "first_seen": 1790650464.8469982,
+      "posted": "",
+      "title": "Enterprise Architect Business Systems",
+      "job_id": "133649",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133649"
     },
     "133967": {
       "first_seen": 1790650001.5531595,
@@ -123,12 +242,33 @@
       "job_id": "133967",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133967"
     },
+    "134472": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Software Developer",
+      "job_id": "134472",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134472"
+    },
+    "133810": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Technical Architect - Identity & Access Management - IGA Savinyt",
+      "job_id": "133810",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133810"
+    },
     "131294": {
       "first_seen": 1790650001.5531611,
       "posted": "",
       "title": "Site Reliability Engineer ELH - OneIT - Durham, NC - 2027",
       "job_id": "131294",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131294"
+    },
+    "130914": {
+      "first_seen": 1790650464.8470037,
+      "posted": "",
+      "title": "Confluent - Staff Software Engineer - Infrastructure",
+      "job_id": "130914",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130914"
     },
     "132819": {
       "first_seen": 1790650001.5531626,
@@ -137,12 +277,40 @@
       "job_id": "132819",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132819"
     },
+    "129871": {
+      "first_seen": 1790650464.8470063,
+      "posted": "",
+      "title": "Application Architect Salesforce",
+      "job_id": "129871",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129871"
+    },
+    "132726": {
+      "first_seen": 1790650464.847007,
+      "posted": "",
+      "title": "Confluent - Principal Engineer I - Stream Governance",
+      "job_id": "132726",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132726"
+    },
     "131516": {
       "first_seen": 1790650001.553164,
       "posted": "",
       "title": "Confluent - Senior Software Engineer - Cloud Compute Platform",
       "job_id": "131516",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131516"
+    },
+    "131727": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Staff Customer Success Technical Architect- Confluent",
+      "job_id": "131727",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131727"
+    },
+    "132947": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Managing SAP Analytics Lead",
+      "job_id": "132947",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132947"
     },
     "132890": {
       "first_seen": 1790650001.5531657,
@@ -151,12 +319,33 @@
       "job_id": "132890",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132890"
     },
+    "128946": {
+      "first_seen": 1790650464.8470128,
+      "posted": "",
+      "title": "(Confluent) Senior Principal Engineer, Kafka",
+      "job_id": "128946",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128946"
+    },
     "130872": {
       "first_seen": 1790650001.553167,
       "posted": "",
       "title": "Entry Level Back End Developer - Poughkeepsie, NY - 2027",
       "job_id": "130872",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130872"
+    },
+    "130109": {
+      "first_seen": 1790650464.8470137,
+      "posted": "",
+      "title": "Cost & Asset Optimization - Data Science Analyst - Austin, TX - 2027",
+      "job_id": "130109",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130109"
+    },
+    "130062": {
+      "first_seen": 1790650464.8470142,
+      "posted": "",
+      "title": "Cost & Asset Optimization - Data Science Analyst - Poughkeepsie, NY - 2027",
+      "job_id": "130062",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130062"
     },
     "132701": {
       "first_seen": 1790650001.5531693,
@@ -185,6 +374,27 @@
       "title": "ELH Software Engineer / Agent Engineer - EDA - Poughkeepsie 2027",
       "job_id": "132570",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132570"
+    },
+    "128247": {
+      "first_seen": 1790702010.2254894,
+      "posted": "",
+      "title": "(Confluent) Staff Software Engineer II - Confluent Cloud Infrastructure & Platform",
+      "job_id": "128247",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128247"
+    },
+    "131935": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Confluent - Principal Engineer",
+      "job_id": "131935",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131935"
+    },
+    "132415": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Enterprise Architect",
+      "job_id": "132415",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132415"
     },
     "130384": {
       "first_seen": 1790650001.5531752,
@@ -277,12 +487,33 @@
       "job_id": "131607",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131607"
     },
+    "131904": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Data Scientist",
+      "job_id": "131904",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131904"
+    },
+    "131040": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Entry Level Product Experience Designer/Engineer - Austin, TX - 2027",
+      "job_id": "131040",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131040"
+    },
     "131027": {
       "first_seen": 1790650001.5531929,
       "posted": "",
       "title": "Entry Level Back-End Developer - Dallas, TX - 2027",
       "job_id": "131027",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131027"
+    },
+    "131039": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Entry level Portfolio Management - Data Science - RTP - 2027",
+      "job_id": "131039",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131039"
     },
     "129123": {
       "first_seen": 1790650001.5531945,
@@ -298,6 +529,13 @@
       "job_id": "131165",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131165"
     },
+    "130917": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Confluent - Staff Software Engineer II - Secure Compute",
+      "job_id": "130917",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130917"
+    },
     "130924": {
       "first_seen": 1790650001.5531971,
       "posted": "",
@@ -311,6 +549,13 @@
       "title": "Entry Level Site Reliability Engineer - Tucson-AZ",
       "job_id": "130921",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130921"
+    },
+    "127722": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Federal Associate Quality Engineer 2027",
+      "job_id": "127722",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=127722"
     },
     "131023": {
       "first_seen": 1790650001.5532005,
@@ -326,19 +571,19 @@
       "job_id": "131025",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131025"
     },
+    "123559": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Staff Software Engineer - Confluent Cloud Traffic Engineering",
+      "job_id": "123559",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=123559"
+    },
     "129901": {
       "first_seen": 1790650001.5532026,
       "posted": "",
       "title": "Entry Level Software Engineering \u2013 Agentic AI & Workflow Automation 2027",
       "job_id": "129901",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129901"
-    },
-    "118808": {
-      "first_seen": 1790650001.5532038,
-      "posted": "",
-      "title": "Forward Deploy Engineer",
-      "job_id": "118808",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=118808"
     },
     "90509": {
       "first_seen": 1790650001.5532048,
@@ -424,6 +669,13 @@
       "job_id": "114905",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=114905"
     },
+    "128216": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Confluent - Data Scientist - Product",
+      "job_id": "128216",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128216"
+    },
     "129235": {
       "first_seen": 1790650001.5532207,
       "posted": "",
@@ -438,6 +690,13 @@
       "job_id": "128352",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128352"
     },
+    "128542": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Confluent - Staff Security Engineer",
+      "job_id": "128542",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128542"
+    },
     "128891": {
       "first_seen": 1790650001.553223,
       "posted": "",
@@ -445,19 +704,19 @@
       "job_id": "128891",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128891"
     },
+    "128528": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Superconducting Device Theory - Staff Research Scientist",
+      "job_id": "128528",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128528"
+    },
     "128793": {
       "first_seen": 1790650001.5532236,
       "posted": "",
       "title": "Associate Application Developer - Oracle - 2027",
       "job_id": "128793",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128793"
-    },
-    "128773": {
-      "first_seen": 1790650001.553225,
-      "posted": "",
-      "title": "Associate Application Developer Oracle - 2027",
-      "job_id": "128773",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128773"
     },
     "129114": {
       "first_seen": 1790650001.5532262,
@@ -480,19 +739,19 @@
       "job_id": "128804",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128804"
     },
-    "128789": {
-      "first_seen": 1790650001.55323,
-      "posted": "",
-      "title": "Associate Full stack Developer 2027 - Digital Product",
-      "job_id": "128789",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128789"
-    },
     "129429": {
       "first_seen": 1790650001.553231,
       "posted": "",
       "title": "Associate Data Engineer \u2013 AI & Analytics - 2027",
       "job_id": "129429",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129429"
+    },
+    "128789": {
+      "first_seen": 1790650001.55323,
+      "posted": "",
+      "title": "Associate Full Stack Developer 2027 - Digital Product",
+      "job_id": "128789",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128789"
     },
     "128608": {
       "first_seen": 1790650001.5532322,
@@ -515,19 +774,19 @@
       "job_id": "128806",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128806"
     },
-    "128732": {
-      "first_seen": 1790650001.5532353,
-      "posted": "",
-      "title": "Associate Application Developer - Azure and Microsoft - 2027",
-      "job_id": "128732",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128732"
-    },
     "128753": {
       "first_seen": 1790650001.5532362,
       "posted": "",
       "title": "Associate Application Developer 2027- ServiceNow",
       "job_id": "128753",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128753"
+    },
+    "128732": {
+      "first_seen": 1790650001.5532353,
+      "posted": "",
+      "title": "Associate Application Developer - Azure and Microsoft - 2027",
+      "job_id": "128732",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128732"
     },
     "128796": {
       "first_seen": 1790650001.5532372,
@@ -557,6 +816,27 @@
       "job_id": "119566",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=119566"
     },
+    "120300": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Oracle Cloud Financials Architect (Public Sector)",
+      "job_id": "120300",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=120300"
+    },
+    "111944": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Research Scientist - Physicist - TS/SCI (FSP)",
+      "job_id": "111944",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=111944"
+    },
+    "120006": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Oracle Cloud Financials Architect (GL/AR/AP-K12)",
+      "job_id": "120006",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=120006"
+    },
     "115541": {
       "first_seen": 1790650001.5532408,
       "posted": "",
@@ -564,12 +844,33 @@
       "job_id": "115541",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=115541"
     },
+    "111951": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Research Scientist -Physicist - TS/SCI (FSP)",
+      "job_id": "111951",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=111951"
+    },
     "126913": {
       "first_seen": 1790650001.553242,
       "posted": "",
       "title": "Quantum Developer Relations Lead",
       "job_id": "126913",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=126913"
+    },
+    "122571": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Research Scientist",
+      "job_id": "122571",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=122571"
+    },
+    "110107": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Research Scientist",
+      "job_id": "110107",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=110107"
     },
     "121485": {
       "first_seen": 1790650001.5532427,
@@ -591,468 +892,6 @@
       "title": "Senior Software Developer for Quantum-Centric Supercomputing",
       "job_id": "106514",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=106514"
-    },
-    "132398": {
-      "first_seen": 1790650464.8469906,
-      "posted": "2026-09-29",
-      "title": "Consultant, Data & AI Engineer",
-      "job_id": "132398",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132398"
-    },
-    "134095": {
-      "first_seen": 1790650464.8469925,
-      "posted": "2026-09-29",
-      "title": "RRB Mainframe Operations Specialist",
-      "job_id": "134095",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134095"
-    },
-    "129127": {
-      "first_seen": 1790650464.846994,
-      "posted": "2026-09-29",
-      "title": "Associate Data Scientist 2027 - AI & Data Analytics",
-      "job_id": "129127",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129127"
-    },
-    "133136": {
-      "first_seen": 1790650464.8469949,
-      "posted": "2026-09-29",
-      "title": "Infrastructure Specialist-System Administration",
-      "job_id": "133136",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133136"
-    },
-    "131606": {
-      "first_seen": 1790650464.8469954,
-      "posted": "2026-09-29",
-      "title": "Senior Staff Software Engineer - Confluent Kafka Storage (Remote)",
-      "job_id": "131606",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131606"
-    },
-    "133954": {
-      "first_seen": 1790650464.8469963,
-      "posted": "2026-09-29",
-      "title": "Data Replication Specialist",
-      "job_id": "133954",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133954"
-    },
-    "133524": {
-      "first_seen": 1790650464.846997,
-      "posted": "2026-09-29",
-      "title": "Package Specialist-Salesforce Technical Operations",
-      "job_id": "133524",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133524"
-    },
-    "132728": {
-      "first_seen": 1790650464.8469975,
-      "posted": "2026-09-29",
-      "title": "Confluent - Staff Software Engineer - Stream Processing & Analytics",
-      "job_id": "132728",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132728"
-    },
-    "133649": {
-      "first_seen": 1790650464.8469982,
-      "posted": "2026-09-29",
-      "title": "Enterprise Architect Business Systems",
-      "job_id": "133649",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133649"
-    },
-    "133988": {
-      "first_seen": 1790650464.8469987,
-      "posted": "2026-09-29",
-      "title": "Oracle Cloud HCM Solution Architect",
-      "job_id": "133988",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133988"
-    },
-    "134090": {
-      "first_seen": 1790650464.8469996,
-      "posted": "2026-09-29",
-      "title": "GenAI Architect - Application Architect",
-      "job_id": "134090",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134090"
-    },
-    "103937": {
-      "first_seen": 1790650464.8470006,
-      "posted": "2026-09-29",
-      "title": "Cryogenic Assembly Engineer",
-      "job_id": "103937",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=103937"
-    },
-    "127189": {
-      "first_seen": 1790650464.8470013,
-      "posted": "2026-09-29",
-      "title": "Software Engineer Manager - Tooling Team",
-      "job_id": "127189",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=127189"
-    },
-    "133425": {
-      "first_seen": 1790650464.847002,
-      "posted": "2026-09-29",
-      "title": "System Service Representative - Knoxville, TN",
-      "job_id": "133425",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133425"
-    },
-    "129663": {
-      "first_seen": 1790650464.847003,
-      "posted": "2026-09-29",
-      "title": "Enterprise AI Solution Architecture",
-      "job_id": "129663",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129663"
-    },
-    "130914": {
-      "first_seen": 1790650464.8470037,
-      "posted": "2026-09-29",
-      "title": "Confluent - Staff Software Engineer - Infrastructure",
-      "job_id": "130914",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130914"
-    },
-    "133598": {
-      "first_seen": 1790650464.8470042,
-      "posted": "2026-09-29",
-      "title": "Quantum Processor Design and Characterization Scientist",
-      "job_id": "133598",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133598"
-    },
-    "132715": {
-      "first_seen": 1790650464.847005,
-      "posted": "2026-09-29",
-      "title": "IBM System Service Representative",
-      "job_id": "132715",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132715"
-    },
-    "133117": {
-      "first_seen": 1790650464.8470056,
-      "posted": "2026-09-29",
-      "title": "Quantum Error Correction Theorist",
-      "job_id": "133117",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133117"
-    },
-    "129871": {
-      "first_seen": 1790650464.8470063,
-      "posted": "2026-09-29",
-      "title": "Application Architect Salesforce",
-      "job_id": "129871",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129871"
-    },
-    "132726": {
-      "first_seen": 1790650464.847007,
-      "posted": "2026-09-29",
-      "title": "Confluent - Principal Engineer I - Stream Governance",
-      "job_id": "132726",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132726"
-    },
-    "130784": {
-      "first_seen": 1790650464.8470075,
-      "posted": "2026-09-29",
-      "title": "Entry Level Hardware Developer 2027 -Poughkeepsie, NY",
-      "job_id": "130784",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130784"
-    },
-    "132870": {
-      "first_seen": 1790650464.8470082,
-      "posted": "2026-09-29",
-      "title": "System Services Representative, Elk Grove Village (Chicago, Illinois Service Territory)",
-      "job_id": "132870",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132870"
-    },
-    "132413": {
-      "first_seen": 1790650464.847009,
-      "posted": "2026-09-29",
-      "title": "SFDC Technical Architect",
-      "job_id": "132413",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132413"
-    },
-    "132711": {
-      "first_seen": 1790650464.8470094,
-      "posted": "2026-09-29",
-      "title": "Austin Tx.- System Services Representative",
-      "job_id": "132711",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132711"
-    },
-    "132703": {
-      "first_seen": 1790650464.8470104,
-      "posted": "2026-09-29",
-      "title": "Data Scientist & AI ELH - RTP 2027",
-      "job_id": "132703",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132703"
-    },
-    "130105": {
-      "first_seen": 1790650464.8470109,
-      "posted": "2026-09-29",
-      "title": "Entry level Hardware Developer - Rochester, MN - 2027",
-      "job_id": "130105",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130105"
-    },
-    "130106": {
-      "first_seen": 1790650464.8470116,
-      "posted": "2026-09-29",
-      "title": "Entry level Hardware Developer - Austin, TX - 2027",
-      "job_id": "130106",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130106"
-    },
-    "132954": {
-      "first_seen": 1790650464.8470123,
-      "posted": "2026-09-29",
-      "title": "Integration Architect",
-      "job_id": "132954",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132954"
-    },
-    "128946": {
-      "first_seen": 1790650464.8470128,
-      "posted": "2026-09-29",
-      "title": "(Confluent) Senior Principal Engineer, Kafka",
-      "job_id": "128946",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128946"
-    },
-    "130109": {
-      "first_seen": 1790650464.8470137,
-      "posted": "2026-09-29",
-      "title": "Cost & Asset Optimization - Data Science Analyst - Austin, TX - 2027",
-      "job_id": "130109",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130109"
-    },
-    "130062": {
-      "first_seen": 1790650464.8470142,
-      "posted": "2026-09-29",
-      "title": "Cost & Asset Optimization - Data Science Analyst - Poughkeepsie, NY - 2027",
-      "job_id": "130062",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130062"
-    },
-    "131933": {
-      "first_seen": 1790650464.847015,
-      "posted": "2026-09-29",
-      "title": "Confluent - Cloud Subject Matter Expert",
-      "job_id": "131933",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131933"
-    },
-    "131912": {
-      "first_seen": 1790650464.8470156,
-      "posted": "2026-09-29",
-      "title": "Reporting Analyst Entry Level 2027",
-      "job_id": "131912",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131912"
-    },
-    "132727": {
-      "first_seen": 1790693047.2663503,
-      "posted": "2026-09-29",
-      "title": "Confluent - Staff Software Engineer - Stream Processing & Analytics",
-      "job_id": "132727",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132727"
-    },
-    "132730": {
-      "first_seen": 1790693047.7906759,
-      "posted": "2026-09-29",
-      "title": "Confluent - Senior Software Engineer - Stream Processing & Analytics",
-      "job_id": "132730",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132730"
-    },
-    "128247": {
-      "first_seen": 1790702010.2254894,
-      "posted": "2026-09-29",
-      "title": "(Confluent) Staff Software Engineer II - Confluent Cloud Infrastructure & Platform",
-      "job_id": "128247",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128247"
-    },
-    "134963": {
-      "first_seen": 1790702651.785687,
-      "posted": "2026-09-29",
-      "title": "Quantum Algorithm Engineer \u2014 AMER",
-      "job_id": "134963",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134963"
-    },
-    "134624": {
-      "first_seen": 1790703855.3795605,
-      "posted": "2026-09-29",
-      "title": "Application Developer - IT Service Management",
-      "job_id": "134624",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134624"
-    },
-    "134626": {
-      "first_seen": 1790703855.379563,
-      "posted": "2026-09-29",
-      "title": "Application Developer - IT Service Management",
-      "job_id": "134626",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134626"
-    },
-    "134461": {
-      "first_seen": 1790713459.0722501,
-      "posted": "2026-09-29",
-      "title": "System Service Representative-Memphis TN",
-      "job_id": "134461",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134461"
-    },
-    "134131": {
-      "first_seen": 1790713459.0722532,
-      "posted": "2026-09-29",
-      "title": "System Services Representative Palm Beach",
-      "job_id": "134131",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134131"
-    },
-    "134111": {
-      "first_seen": 1790713459.072254,
-      "posted": "2026-09-29",
-      "title": "System Service Representative-Winston-Salem, NC",
-      "job_id": "134111",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134111"
-    },
-    "134625": {
-      "first_seen": 1790713460.241273,
-      "posted": "2026-09-29",
-      "title": "Application Developer - IT Service Management",
-      "job_id": "134625",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134625"
-    },
-    "128498": {
-      "first_seen": 1790724245.2013636,
-      "posted": "2026-09-29",
-      "title": "Research Extern Intern conversion",
-      "job_id": "128498",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128498"
-    },
-    "134101": {
-      "first_seen": 1790745854.830767,
-      "posted": "2026-09-30",
-      "title": "System Services Representative  Detroit Michigan",
-      "job_id": "134101",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134101"
-    },
-    "127933": {
-      "first_seen": 1790778331.488896,
-      "posted": "2026-09-30",
-      "title": "Model Maker / Machinist",
-      "job_id": "127933",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=127933"
-    },
-    "134876": {
-      "first_seen": 1790778331.4888988,
-      "posted": "2026-09-30",
-      "title": "Quantum algorithm theorist",
-      "job_id": "134876",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134876"
-    },
-    "134990": {
-      "first_seen": 1790789068.9968174,
-      "posted": "2026-09-30",
-      "title": "Entry level Hardware Developer - Rochester, MN - 2027",
-      "job_id": "134990",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134990"
-    },
-    "132722": {
-      "first_seen": 1790789068.9968197,
-      "posted": "2026-09-30",
-      "title": "Confluent - Staff Software Engineer - WarpStream",
-      "job_id": "132722",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132722"
-    },
-    "129240": {
-      "first_seen": 1790789070.6067708,
-      "posted": "2026-09-30",
-      "title": "Graph Workflow Engineer (TS/SCI)",
-      "job_id": "129240",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129240"
-    },
-    "134617": {
-      "first_seen": 1790789070.6067731,
-      "posted": "2026-09-30",
-      "title": "Back-End Developer",
-      "job_id": "134617",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134617"
-    },
-    "134612": {
-      "first_seen": 1790799881.3154817,
-      "posted": "2026-09-30",
-      "title": "Service Support Rep - Dallas Texas",
-      "job_id": "134612",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134612"
-    },
-    "133985": {
-      "first_seen": 1790799881.315483,
-      "posted": "2026-09-30",
-      "title": "Confluent - Principal Engineer - Cloud Infrastructure and Platform",
-      "job_id": "133985",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133985"
-    },
-    "134616": {
-      "first_seen": 1790799881.315484,
-      "posted": "2026-09-30",
-      "title": "Service Support Rep - Dallas Texas MVS",
-      "job_id": "134616",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134616"
-    },
-    "130377": {
-      "first_seen": 1790799881.3154848,
-      "posted": "2026-09-30",
-      "title": "Associate Supply Chain Specialist - SAP Materials Management & Sales and Distribution \u2013 2027",
-      "job_id": "130377",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130377"
-    },
-    "129647": {
-      "first_seen": 1790799882.5471096,
-      "posted": "2026-09-30",
-      "title": "QA Engineer Lead \u2013 Financial Systems (On-site TX)",
-      "job_id": "129647",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129647"
-    },
-    "131779": {
-      "first_seen": 1790810636.2909753,
-      "posted": "2026-09-30",
-      "title": "Application Architect - AI Integration",
-      "job_id": "131779",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131779"
-    },
-    "131401": {
-      "first_seen": 1790810636.290977,
-      "posted": "2026-09-30",
-      "title": "ML/AI Engineer \u2013 Senior Managing Consultant",
-      "job_id": "131401",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131401"
-    },
-    "131406": {
-      "first_seen": 1790810636.2909777,
-      "posted": "2026-09-30",
-      "title": "Machine Learning & AI Engineer \u2013 Managing Consultant",
-      "job_id": "131406",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131406"
-    },
-    "131405": {
-      "first_seen": 1790810636.2909787,
-      "posted": "2026-09-30",
-      "title": "Machine Learning & AI Engineer \u2013 Managing Consultant",
-      "job_id": "131405",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131405"
-    },
-    "129664": {
-      "first_seen": 1790821446.4409378,
-      "posted": "2026-10-01",
-      "title": "Senior AI Architect - Enterprise Integrations",
-      "job_id": "129664",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129664"
-    },
-    "132731": {
-      "first_seen": 1790864640.8240163,
-      "posted": "2026-10-01",
-      "title": "Confluent -Senior Software Engineer - Stream Processing & Analytics",
-      "job_id": "132731",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132731"
-    },
-    "134630": {
-      "first_seen": 1790865270.5103953,
-      "posted": "2026-10-01",
-      "title": "Quantum System Performance Scientist",
-      "job_id": "134630",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134630"
-    },
-    "135007": {
-      "first_seen": 1790876649.7895098,
-      "posted": "2026-10-01",
-      "title": "Business Analyst-ADM",
-      "job_id": "135007",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=135007"
-    },
-    "135173": {
-      "first_seen": 1790876650.7807398,
-      "posted": "2026-10-01",
-      "title": "Senior Systems Engineer",
-      "job_id": "135173",
-      "url": "https://careers.ibm.com/careers/JobDetail?jobId=135173"
     }
   }
 }

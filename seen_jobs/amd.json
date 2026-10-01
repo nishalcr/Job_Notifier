@@ -4,6 +4,41 @@
     "company": "amd"
   },
   "jobs": {
+    "86901": {
+      "first_seen": 1790869476.6312962,
+      "posted": "2026-10-01",
+      "title": "Staff DFx Methodology Architect",
+      "job_id": "86901",
+      "url": "https://careers.amd.com/careers-home/jobs/86901"
+    },
+    "92921": {
+      "first_seen": 1790803467.288116,
+      "posted": "2026-09-30",
+      "title": "AI Research Scientist",
+      "job_id": "92921",
+      "url": "https://careers.amd.com/careers-home/jobs/92921"
+    },
+    "92488": {
+      "first_seen": 1790802295.0179477,
+      "posted": "2026-09-30",
+      "title": "Quality Systems Engineer \u2013 AI Transformation",
+      "job_id": "92488",
+      "url": "https://careers.amd.com/careers-home/jobs/92488"
+    },
+    "92487": {
+      "first_seen": 1790802293.7999692,
+      "posted": "2026-09-30",
+      "title": "Quality Systems Engineer \u2013 AI Transformation",
+      "job_id": "92487",
+      "url": "https://careers.amd.com/careers-home/jobs/92487"
+    },
+    "92777": {
+      "first_seen": 1790785850.134024,
+      "posted": "2026-09-30",
+      "title": "Firmware Architect - Confidential Compute",
+      "job_id": "92777",
+      "url": "https://careers.amd.com/careers-home/jobs/92777"
+    },
     "92626": {
       "first_seen": 1790709696.6628225,
       "posted": "2026-09-29",
@@ -18,12 +53,61 @@
       "job_id": "92635",
       "url": "https://careers.amd.com/careers-home/jobs/92635"
     },
+    "92811": {
+      "first_seen": 1790710507.583836,
+      "posted": "2026-09-28",
+      "title": "Platform System Architect",
+      "job_id": "92811",
+      "url": "https://careers.amd.com/careers-home/jobs/92811"
+    },
+    "93063": {
+      "first_seen": 1790710507.583839,
+      "posted": "2026-09-28",
+      "title": "Power Modeling Architect (CPU/GPU Accelerators)",
+      "job_id": "93063",
+      "url": "https://careers.amd.com/careers-home/jobs/93063"
+    },
+    "92760": {
+      "first_seen": 0,
+      "posted": "2026-09-25",
+      "title": "Sr. Corporate Counsel  Legal- Graphics & Engineering",
+      "job_id": "92760",
+      "url": "https://careers.amd.com/careers-home/jobs/92760"
+    },
+    "92186": {
+      "first_seen": 1790710507.583843,
+      "posted": "2026-09-25",
+      "title": "Principal Engineer, Efficient GenAI",
+      "job_id": "92186",
+      "url": "https://careers.amd.com/careers-home/jobs/92186"
+    },
+    "90060": {
+      "first_seen": 1790710507.5838442,
+      "posted": "2026-09-25",
+      "title": "Physical Design Methodology Staff Engineer",
+      "job_id": "90060",
+      "url": "https://careers.amd.com/careers-home/jobs/90060"
+    },
     "92639": {
       "first_seen": 1790709696.6628268,
       "posted": "2026-09-25",
       "title": "GPU Stack Unified Build & release platform Engineer",
       "job_id": "92639",
       "url": "https://careers.amd.com/careers-home/jobs/92639"
+    },
+    "92633": {
+      "first_seen": 0,
+      "posted": "2026-09-24",
+      "title": "Engineering Lab Operator",
+      "job_id": "92633",
+      "url": "https://careers.amd.com/careers-home/jobs/92633"
+    },
+    "92754": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Staff Software Development Engineer: GPU, AI/ML Ops & Quality Engineering",
+      "job_id": "92754",
+      "url": "https://careers.amd.com/careers-home/jobs/92754"
     },
     "92091": {
       "first_seen": 1790709696.6628282,
@@ -39,6 +123,13 @@
       "job_id": "92662",
       "url": "https://careers.amd.com/careers-home/jobs/92662"
     },
+    "92424": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "Sr Salesforce Service Cloud Developer",
+      "job_id": "92424",
+      "url": "https://careers.amd.com/careers-home/jobs/92424"
+    },
     "92556": {
       "first_seen": 1790709696.662831,
       "posted": "2026-09-22",
@@ -46,12 +137,40 @@
       "job_id": "92556",
       "url": "https://careers.amd.com/careers-home/jobs/92556"
     },
+    "92588": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "Staff Foundry Technology & Product Optimization Engineer",
+      "job_id": "92588",
+      "url": "https://careers.amd.com/careers-home/jobs/92588"
+    },
     "92355": {
       "first_seen": 1790709696.6628325,
       "posted": "2026-09-21",
       "title": "Senior Software Engineer, FPGA Device Modeling",
       "job_id": "92355",
       "url": "https://careers.amd.com/careers-home/jobs/92355"
+    },
+    "91716": {
+      "first_seen": 0,
+      "posted": "2026-09-18",
+      "title": "Principal Competitive CPU Microarchitecture & Platform Performance Engineer",
+      "job_id": "91716",
+      "url": "https://careers.amd.com/careers-home/jobs/91716"
+    },
+    "91722": {
+      "first_seen": 0,
+      "posted": "2026-09-18",
+      "title": "Principal Competitive CPU Performance Forecaster & Data Scientist",
+      "job_id": "91722",
+      "url": "https://careers.amd.com/careers-home/jobs/91722"
+    },
+    "91721": {
+      "first_seen": 0,
+      "posted": "2026-09-18",
+      "title": "Principal Enterprise & Database Competitive Performance Engineer",
+      "job_id": "91721",
+      "url": "https://careers.amd.com/careers-home/jobs/91721"
     },
     "92403": {
       "first_seen": 1790709696.6628342,
@@ -95,6 +214,13 @@
       "job_id": "78472",
       "url": "https://careers.amd.com/careers-home/jobs/78472"
     },
+    "92211": {
+      "first_seen": 0,
+      "posted": "2026-09-14",
+      "title": "Principal Security Lead Engineer",
+      "job_id": "92211",
+      "url": "https://careers.amd.com/careers-home/jobs/92211"
+    },
     "92060": {
       "first_seen": 1790709696.6628416,
       "posted": "2026-09-14",
@@ -123,12 +249,12 @@
       "job_id": "88740",
       "url": "https://careers.amd.com/careers-home/jobs/88740"
     },
-    "90974": {
-      "first_seen": 1790709696.6628463,
+    "91443": {
+      "first_seen": 0,
       "posted": "2026-09-11",
-      "title": "Compute and Enterprise AI Engineering Operations Leader",
-      "job_id": "90974",
-      "url": "https://careers.amd.com/careers-home/jobs/90974"
+      "title": "Principal Cloud & AI Workload Performance Analysis Engineer",
+      "job_id": "91443",
+      "url": "https://careers.amd.com/careers-home/jobs/91443"
     },
     "91966": {
       "first_seen": 1790709696.6628473,
@@ -186,6 +312,13 @@
       "job_id": "92045",
       "url": "https://careers.amd.com/careers-home/jobs/92045"
     },
+    "91959": {
+      "first_seen": 0,
+      "posted": "2026-09-09",
+      "title": "Principal System Debug Engineer",
+      "job_id": "91959",
+      "url": "https://careers.amd.com/careers-home/jobs/91959"
+    },
     "86691": {
       "first_seen": 1790709696.6628573,
       "posted": "2026-09-09",
@@ -221,12 +354,19 @@
       "job_id": "92217",
       "url": "https://careers.amd.com/careers-home/jobs/92217"
     },
-    "90946": {
-      "first_seen": 1790709696.6628623,
+    "91873": {
+      "first_seen": 0,
       "posted": "2026-09-09",
-      "title": "Power Feature Enablement Systems Engineer",
-      "job_id": "90946",
-      "url": "https://careers.amd.com/careers-home/jobs/90946"
+      "title": "GPU Performance Architect",
+      "job_id": "91873",
+      "url": "https://careers.amd.com/careers-home/jobs/91873"
+    },
+    "91338": {
+      "first_seen": 0,
+      "posted": "2026-09-09",
+      "title": "Staff ATE Test Engineer",
+      "job_id": "91338",
+      "url": "https://careers.amd.com/careers-home/jobs/91338"
     },
     "91909": {
       "first_seen": 1790709696.6628633,
@@ -252,9 +392,30 @@
     "91803": {
       "first_seen": 1790709696.6628659,
       "posted": "2026-09-08",
-      "title": "Sr. Software Development Engineer",
+      "title": "Software Development Engineer",
       "job_id": "91803",
       "url": "https://careers.amd.com/careers-home/jobs/91803"
+    },
+    "91897": {
+      "first_seen": 0,
+      "posted": "2026-09-08",
+      "title": "Principal Software Development Engineer",
+      "job_id": "91897",
+      "url": "https://careers.amd.com/careers-home/jobs/91897"
+    },
+    "91206": {
+      "first_seen": 0,
+      "posted": "2026-09-08",
+      "title": "Memory PHY Firmware Architect",
+      "job_id": "91206",
+      "url": "https://careers.amd.com/careers-home/jobs/91206"
+    },
+    "92069": {
+      "first_seen": 0,
+      "posted": "2026-09-04",
+      "title": "Principal Solutions Engineering \u2013 AI server/rack Infrastructure",
+      "job_id": "92069",
+      "url": "https://careers.amd.com/careers-home/jobs/92069"
     },
     "87209": {
       "first_seen": 1790709696.6628666,
@@ -277,6 +438,13 @@
       "job_id": "89764",
       "url": "https://careers.amd.com/careers-home/jobs/89764"
     },
+    "89207": {
+      "first_seen": 0,
+      "posted": "2026-09-04",
+      "title": "GPU Performance Architect",
+      "job_id": "89207",
+      "url": "https://careers.amd.com/careers-home/jobs/89207"
+    },
     "91898": {
       "first_seen": 1790709696.662871,
       "posted": "2026-09-04",
@@ -291,12 +459,33 @@
       "job_id": "91933",
       "url": "https://careers.amd.com/careers-home/jobs/91933"
     },
+    "91934": {
+      "first_seen": 0,
+      "posted": "2026-09-04",
+      "title": "AI Systems Security Architect",
+      "job_id": "91934",
+      "url": "https://careers.amd.com/careers-home/jobs/91934"
+    },
     "90091": {
       "first_seen": 1790709696.6628728,
       "posted": "2026-09-03",
       "title": "Senior Product Application Engineer",
       "job_id": "90091",
       "url": "https://careers.amd.com/careers-home/jobs/90091"
+    },
+    "91618": {
+      "first_seen": 0,
+      "posted": "2026-09-03",
+      "title": "GPU Kernel Development Engineer - Fellow",
+      "job_id": "91618",
+      "url": "https://careers.amd.com/careers-home/jobs/91618"
+    },
+    "91631": {
+      "first_seen": 0,
+      "posted": "2026-09-03",
+      "title": "Audio-Visual Operations Engineer",
+      "job_id": "91631",
+      "url": "https://careers.amd.com/careers-home/jobs/91631"
     },
     "91464": {
       "first_seen": 1790709696.6628737,
@@ -319,12 +508,47 @@
       "job_id": "91413",
       "url": "https://careers.amd.com/careers-home/jobs/91413"
     },
-    "91612": {
-      "first_seen": 1790709696.6628778,
-      "posted": "2026-08-28",
-      "title": "GenAI Software Development Engineer",
-      "job_id": "91612",
-      "url": "https://careers.amd.com/careers-home/jobs/91612"
+    "91414": {
+      "first_seen": 0,
+      "posted": "2026-09-02",
+      "title": "Data Scientist - Pricing & Profitability",
+      "job_id": "91414",
+      "url": "https://careers.amd.com/careers-home/jobs/91414"
+    },
+    "91572": {
+      "first_seen": 0,
+      "posted": "2026-09-02",
+      "title": "GPU Runtime and System Software Engineer - Fellow",
+      "job_id": "91572",
+      "url": "https://careers.amd.com/careers-home/jobs/91572"
+    },
+    "91509": {
+      "first_seen": 0,
+      "posted": "2026-09-02",
+      "title": "Fellow Software Development Engineer, GEMM Optimization",
+      "job_id": "91509",
+      "url": "https://careers.amd.com/careers-home/jobs/91509"
+    },
+    "91613": {
+      "first_seen": 0,
+      "posted": "2026-09-01",
+      "title": "AI Research Scientist, Reinforcement Learning (LLM) and Post-Training",
+      "job_id": "91613",
+      "url": "https://careers.amd.com/careers-home/jobs/91613"
+    },
+    "89297": {
+      "first_seen": 0,
+      "posted": "2026-09-01",
+      "title": "Senior Failure Engineer",
+      "job_id": "89297",
+      "url": "https://careers.amd.com/careers-home/jobs/89297"
+    },
+    "91724": {
+      "first_seen": 0,
+      "posted": "2026-09-01",
+      "title": "Staff Software Development Engineer - Rust, Compilers, and GPU Systems (3)",
+      "job_id": "91724",
+      "url": "https://careers.amd.com/careers-home/jobs/91724"
     },
     "91515": {
       "first_seen": 1790709696.662879,
@@ -354,13 +578,6 @@
       "job_id": "87571",
       "url": "https://careers.amd.com/careers-home/jobs/87571"
     },
-    "91125": {
-      "first_seen": 1790709696.6628828,
-      "posted": "2026-08-26",
-      "title": "Senior Network Engineer \u2013 GPU Cluster Networking",
-      "job_id": "91125",
-      "url": "https://careers.amd.com/careers-home/jobs/91125"
-    },
     "90071": {
       "first_seen": 1790709696.6628835,
       "posted": "2026-08-25",
@@ -381,6 +598,13 @@
       "title": "Senior Software Development Engineer",
       "job_id": "91109",
       "url": "https://careers.amd.com/careers-home/jobs/91109"
+    },
+    "90954": {
+      "first_seen": 0,
+      "posted": "2026-08-24",
+      "title": "Storage and Memory Systems Architect",
+      "job_id": "90954",
+      "url": "https://careers.amd.com/careers-home/jobs/90954"
     },
     "91076": {
       "first_seen": 1790709696.6628866,
@@ -410,6 +634,20 @@
       "job_id": "91025",
       "url": "https://careers.amd.com/careers-home/jobs/91025"
     },
+    "90873": {
+      "first_seen": 0,
+      "posted": "2026-08-20",
+      "title": "Power Management Systems Engineer",
+      "job_id": "90873",
+      "url": "https://careers.amd.com/careers-home/jobs/90873"
+    },
+    "90123": {
+      "first_seen": 0,
+      "posted": "2026-08-20",
+      "title": "Lead Systems Management Architect",
+      "job_id": "90123",
+      "url": "https://careers.amd.com/careers-home/jobs/90123"
+    },
     "89356": {
       "first_seen": 1790709696.662891,
       "posted": "2026-08-20",
@@ -424,6 +662,20 @@
       "job_id": "89971",
       "url": "https://careers.amd.com/careers-home/jobs/89971"
     },
+    "90902": {
+      "first_seen": 0,
+      "posted": "2026-08-19",
+      "title": "AI Instinct System Management Architect",
+      "job_id": "90902",
+      "url": "https://careers.amd.com/careers-home/jobs/90902"
+    },
+    "84758": {
+      "first_seen": 0,
+      "posted": "2026-08-19",
+      "title": "Principal Platform System Engineering Lead",
+      "job_id": "84758",
+      "url": "https://careers.amd.com/careers-home/jobs/84758"
+    },
     "89700": {
       "first_seen": 1790709696.6628928,
       "posted": "2026-08-17",
@@ -431,12 +683,12 @@
       "job_id": "89700",
       "url": "https://careers.amd.com/careers-home/jobs/89700"
     },
-    "89860": {
-      "first_seen": 1790709696.6628938,
-      "posted": "2026-08-11",
-      "title": "SOC Performance Engineer",
-      "job_id": "89860",
-      "url": "https://careers.amd.com/careers-home/jobs/89860"
+    "89873": {
+      "first_seen": 0,
+      "posted": "2026-08-13",
+      "title": "Staff Software Development Engineer - Rust, Compilers, and GPU Systems (1)",
+      "job_id": "89873",
+      "url": "https://careers.amd.com/careers-home/jobs/89873"
     },
     "89589": {
       "first_seen": 1790709696.662895,
@@ -473,6 +725,20 @@
       "job_id": "88685",
       "url": "https://careers.amd.com/careers-home/jobs/88685"
     },
+    "89369": {
+      "first_seen": 0,
+      "posted": "2026-07-31",
+      "title": "Senior Data Scientist \u2013 Business Analytics - AI",
+      "job_id": "89369",
+      "url": "https://careers.amd.com/careers-home/jobs/89369"
+    },
+    "88610": {
+      "first_seen": 0,
+      "posted": "2026-07-30",
+      "title": "Fellow Software Engineer \u2014 AI Performance & Reliability",
+      "job_id": "88610",
+      "url": "https://careers.amd.com/careers-home/jobs/88610"
+    },
     "88945": {
       "first_seen": 1790709696.6628997,
       "posted": "2026-07-29",
@@ -487,12 +753,33 @@
       "job_id": "88746",
       "url": "https://careers.amd.com/careers-home/jobs/88746"
     },
+    "88622": {
+      "first_seen": 0,
+      "posted": "2026-07-28",
+      "title": "PLL Design/ Integration Staff Engineer  - Adaptive Computing Group",
+      "job_id": "88622",
+      "url": "https://careers.amd.com/careers-home/jobs/88622"
+    },
+    "86400": {
+      "first_seen": 0,
+      "posted": "2026-07-28",
+      "title": "Embedded Systems Architect \u2013 Aerospace & Defense",
+      "job_id": "86400",
+      "url": "https://careers.amd.com/careers-home/jobs/86400"
+    },
     "87873": {
       "first_seen": 1790709696.6629019,
       "posted": "2026-07-28",
       "title": "AI Engineer, Recursive Self-Improvement for Compute",
       "job_id": "87873",
       "url": "https://careers.amd.com/careers-home/jobs/87873"
+    },
+    "88704": {
+      "first_seen": 0,
+      "posted": "2026-07-27",
+      "title": "Principal Debug Engineer",
+      "job_id": "88704",
+      "url": "https://careers.amd.com/careers-home/jobs/88704"
     },
     "88672": {
       "first_seen": 1790709696.6629028,
@@ -529,19 +816,19 @@
       "job_id": "87746",
       "url": "https://careers.amd.com/careers-home/jobs/87746"
     },
-    "86378": {
-      "first_seen": 1790709696.6629078,
-      "posted": "2026-07-17",
-      "title": "Sr.  Engineering Leader: Developer SDKs for Embedded Markets",
-      "job_id": "86378",
-      "url": "https://careers.amd.com/careers-home/jobs/86378"
-    },
     "87500": {
       "first_seen": 1790709696.662909,
       "posted": "2026-07-16",
       "title": "Firmware Engineer - Boot & SoC Initialization",
       "job_id": "87500",
       "url": "https://careers.amd.com/careers-home/jobs/87500"
+    },
+    "88607": {
+      "first_seen": 0,
+      "posted": "2026-07-15",
+      "title": "Senior Staff Compiler Software Engineer",
+      "job_id": "88607",
+      "url": "https://careers.amd.com/careers-home/jobs/88607"
     },
     "87715": {
       "first_seen": 1790709696.66291,
@@ -571,6 +858,13 @@
       "job_id": "87742",
       "url": "https://careers.amd.com/careers-home/jobs/87742"
     },
+    "87883": {
+      "first_seen": 0,
+      "posted": "2026-07-09",
+      "title": "Senior MDC Architect",
+      "job_id": "87883",
+      "url": "https://careers.amd.com/careers-home/jobs/87883"
+    },
     "87853": {
       "first_seen": 1790709696.66314,
       "posted": "2026-07-09",
@@ -588,9 +882,30 @@
     "88027": {
       "first_seen": 1790709696.663142,
       "posted": "2026-07-09",
-      "title": "Sr. Chromium Developer",
+      "title": "Principal Chromium Developer",
       "job_id": "88027",
       "url": "https://careers.amd.com/careers-home/jobs/88027"
+    },
+    "87741": {
+      "first_seen": 0,
+      "posted": "2026-07-08",
+      "title": "Principal Server and AI Product Architect",
+      "job_id": "87741",
+      "url": "https://careers.amd.com/careers-home/jobs/87741"
+    },
+    "87747": {
+      "first_seen": 0,
+      "posted": "2026-07-07",
+      "title": "Principal Enterprise AI/HPC GPU Systems Architect",
+      "job_id": "87747",
+      "url": "https://careers.amd.com/careers-home/jobs/87747"
+    },
+    "87608": {
+      "first_seen": 0,
+      "posted": "2026-07-07",
+      "title": "Failure Analysis Engineer",
+      "job_id": "87608",
+      "url": "https://careers.amd.com/careers-home/jobs/87608"
     },
     "86993": {
       "first_seen": 1790709696.6631427,
@@ -598,6 +913,27 @@
       "title": "Physical AI, Computer Vision Engineer",
       "job_id": "86993",
       "url": "https://careers.amd.com/careers-home/jobs/86993"
+    },
+    "87866": {
+      "first_seen": 0,
+      "posted": "2026-07-06",
+      "title": "GPU Performance Architect",
+      "job_id": "87866",
+      "url": "https://careers.amd.com/careers-home/jobs/87866"
+    },
+    "87704": {
+      "first_seen": 0,
+      "posted": "2026-07-02",
+      "title": "AI Research Scientist, Recursive Self Improvement, AI Safety and Reinforcement Learning",
+      "job_id": "87704",
+      "url": "https://careers.amd.com/careers-home/jobs/87704"
+    },
+    "87563": {
+      "first_seen": 0,
+      "posted": "2026-06-30",
+      "title": "Principal Performance Modeling Engineer",
+      "job_id": "87563",
+      "url": "https://careers.amd.com/careers-home/jobs/87563"
     },
     "87598": {
       "first_seen": 1790709696.6631434,
@@ -613,6 +949,13 @@
       "job_id": "87218",
       "url": "https://careers.amd.com/careers-home/jobs/87218"
     },
+    "87487": {
+      "first_seen": 0,
+      "posted": "2026-06-25",
+      "title": "Sr. Staff Software Development Engineer - Collectives and Network optimization",
+      "job_id": "87487",
+      "url": "https://careers.amd.com/careers-home/jobs/87487"
+    },
     "87343": {
       "first_seen": 1790709696.6631613,
       "posted": "2026-06-25",
@@ -627,19 +970,12 @@
       "job_id": "87389",
       "url": "https://careers.amd.com/careers-home/jobs/87389"
     },
-    "87084": {
-      "first_seen": 1790709696.6631632,
+    "87311": {
+      "first_seen": 0,
       "posted": "2026-06-23",
-      "title": "SoC Physical Integration Engineer",
-      "job_id": "87084",
-      "url": "https://careers.amd.com/careers-home/jobs/87084"
-    },
-    "84933": {
-      "first_seen": 1790709696.663164,
-      "posted": "2026-06-23",
-      "title": "Senior SoC Power Modeling Engineer",
-      "job_id": "84933",
-      "url": "https://careers.amd.com/careers-home/jobs/84933"
+      "title": "CPU Core Performance Staff Engineer",
+      "job_id": "87311",
+      "url": "https://careers.amd.com/careers-home/jobs/87311"
     },
     "87156": {
       "first_seen": 1790709696.6631646,
@@ -655,6 +991,27 @@
       "job_id": "86806",
       "url": "https://careers.amd.com/careers-home/jobs/86806"
     },
+    "85985": {
+      "first_seen": 0,
+      "posted": "2026-06-10",
+      "title": "Fellow, AI Performance Software Architect",
+      "job_id": "85985",
+      "url": "https://careers.amd.com/careers-home/jobs/85985"
+    },
+    "81089": {
+      "first_seen": 0,
+      "posted": "2026-06-09",
+      "title": "Principal System Software Architect, AI/GPU Platforms",
+      "job_id": "81089",
+      "url": "https://careers.amd.com/careers-home/jobs/81089"
+    },
+    "86514": {
+      "first_seen": 0,
+      "posted": "2026-06-08",
+      "title": "Staff Research Engineer",
+      "job_id": "86514",
+      "url": "https://careers.amd.com/careers-home/jobs/86514"
+    },
     "86642": {
       "first_seen": 1790709696.6631668,
       "posted": "2026-06-02",
@@ -669,6 +1026,13 @@
       "job_id": "86772",
       "url": "https://careers.amd.com/careers-home/jobs/86772"
     },
+    "86485": {
+      "first_seen": 0,
+      "posted": "2026-06-01",
+      "title": "Principal Robotics Simulation Architect",
+      "job_id": "86485",
+      "url": "https://careers.amd.com/careers-home/jobs/86485"
+    },
     "86562": {
       "first_seen": 1790709696.6631684,
       "posted": "2026-05-27",
@@ -676,404 +1040,19 @@
       "job_id": "86562",
       "url": "https://careers.amd.com/careers-home/jobs/86562"
     },
-    "85747": {
-      "first_seen": 1790709696.6631694,
-      "posted": "2026-05-12",
-      "title": "Technical Marketing Engineer \u2013 Datacenter GPU Clusters & Networking",
-      "job_id": "85747",
-      "url": "https://careers.amd.com/careers-home/jobs/85747"
+    "86384": {
+      "first_seen": 0,
+      "posted": "2026-05-26",
+      "title": "Principal AI Software & Systems Architect",
+      "job_id": "86384",
+      "url": "https://careers.amd.com/careers-home/jobs/86384"
     },
-    "84572": {
-      "first_seen": 1790709696.66317,
-      "posted": "2026-05-01",
-      "title": "Principal / Senior GPU SW Performance Engineer \u2014 Post\u2011Training",
-      "job_id": "84572",
-      "url": "https://careers.amd.com/careers-home/jobs/84572"
-    },
-    "80742": {
-      "first_seen": 1790709696.6631706,
-      "posted": "2026-03-25",
-      "title": "Principal / Senior GPU SW Performance Engineer \u2014 Post\u2011Training",
-      "job_id": "80742",
-      "url": "https://careers.amd.com/careers-home/jobs/80742"
-    },
-    "80318": {
-      "first_seen": 1790709696.6631713,
-      "posted": "2026-03-17",
-      "title": "Systems Software Development Engineer - CPU / APU",
-      "job_id": "80318",
-      "url": "https://careers.amd.com/careers-home/jobs/80318"
-    },
-    "80051": {
-      "first_seen": 1790709696.6631718,
-      "posted": "2026-03-11",
-      "title": "Advanced AI Workloads - Performance and Scalability Engineer",
-      "job_id": "80051",
-      "url": "https://careers.amd.com/careers-home/jobs/80051"
-    },
-    "79275": {
-      "first_seen": 1790709696.6631722,
-      "posted": "2026-02-26",
-      "title": "Advanced AI Workloads - Performance and Scalability Engineer",
-      "job_id": "79275",
-      "url": "https://careers.amd.com/careers-home/jobs/79275"
-    },
-    "77966": {
-      "first_seen": 1790709696.6631732,
-      "posted": "2026-02-03",
-      "title": "Linux Kernel SW Engineer",
-      "job_id": "77966",
-      "url": "https://careers.amd.com/careers-home/jobs/77966"
-    },
-    "92673": {
-      "first_seen": 1790710507.583827,
-      "posted": "2026-09-29",
-      "title": "Analog/Mixed-Signal SerDes Design Engineer",
-      "job_id": "92673",
-      "url": "https://careers.amd.com/careers-home/jobs/92673"
-    },
-    "92778": {
-      "first_seen": 1790710507.5838284,
-      "posted": "2026-09-29",
-      "title": "TMS Solution Architect",
-      "job_id": "92778",
-      "url": "https://careers.amd.com/careers-home/jobs/92778"
-    },
-    "92491": {
-      "first_seen": 1790710507.5838292,
-      "posted": "2026-09-29",
-      "title": "Sr. Product Development Engineer",
-      "job_id": "92491",
-      "url": "https://careers.amd.com/careers-home/jobs/92491"
-    },
-    "92697": {
-      "first_seen": 1790710507.5838296,
-      "posted": "2026-09-29",
-      "title": "Systems Applications Engineer",
-      "job_id": "92697",
-      "url": "https://careers.amd.com/careers-home/jobs/92697"
-    },
-    "92164": {
-      "first_seen": 1790710507.5838304,
-      "posted": "2026-09-29",
-      "title": "Rack Cost Manager",
-      "job_id": "92164",
-      "url": "https://careers.amd.com/careers-home/jobs/92164"
-    },
-    "92306": {
-      "first_seen": 1790710507.583831,
-      "posted": "2026-09-29",
-      "title": "Post-Silicon Memory Subsystem Validation Engineer",
-      "job_id": "92306",
-      "url": "https://careers.amd.com/careers-home/jobs/92306"
-    },
-    "92717": {
-      "first_seen": 1790710507.5838318,
-      "posted": "2026-09-29",
-      "title": "IC CAD Engineer",
-      "job_id": "92717",
-      "url": "https://careers.amd.com/careers-home/jobs/92717"
-    },
-    "92861": {
-      "first_seen": 1790710507.5838323,
-      "posted": "2026-09-29",
-      "title": "Principal AI Performance and Tools",
-      "job_id": "92861",
-      "url": "https://careers.amd.com/careers-home/jobs/92861"
-    },
-    "92641": {
-      "first_seen": 1790710507.5838335,
-      "posted": "2026-09-29",
-      "title": "GFXIP Architecture Engineer",
-      "job_id": "92641",
-      "url": "https://careers.amd.com/careers-home/jobs/92641"
-    },
-    "92083": {
-      "first_seen": 1790710507.5838342,
-      "posted": "2026-09-29",
-      "title": "Prinicipal Signal Integrity Engineer",
-      "job_id": "92083",
-      "url": "https://careers.amd.com/careers-home/jobs/92083"
-    },
-    "92893": {
-      "first_seen": 1790710507.5838346,
-      "posted": "2026-09-29",
-      "title": "System Modeling Design Engineer",
-      "job_id": "92893",
-      "url": "https://careers.amd.com/careers-home/jobs/92893"
-    },
-    "92552": {
-      "first_seen": 1790710507.5838356,
-      "posted": "2026-09-29",
-      "title": "Senior Data Center Technician Lead",
-      "job_id": "92552",
-      "url": "https://careers.amd.com/careers-home/jobs/92552"
-    },
-    "92811": {
-      "first_seen": 1790710507.583836,
-      "posted": "2026-09-29",
-      "title": "Platform System Architect",
-      "job_id": "92811",
-      "url": "https://careers.amd.com/careers-home/jobs/92811"
-    },
-    "91556": {
-      "first_seen": 1790710507.583837,
-      "posted": "2026-09-29",
-      "title": "DFT / ATPG Test Development Engineer",
-      "job_id": "91556",
-      "url": "https://careers.amd.com/careers-home/jobs/91556"
-    },
-    "92825": {
-      "first_seen": 1790710507.5838377,
-      "posted": "2026-09-29",
-      "title": "Product Development Engineer, Product Operations",
-      "job_id": "92825",
-      "url": "https://careers.amd.com/careers-home/jobs/92825"
-    },
-    "92813": {
-      "first_seen": 1790710507.5838382,
-      "posted": "2026-09-29",
-      "title": "Senior Customer Quality Engineer - Data Center Networking Products",
-      "job_id": "92813",
-      "url": "https://careers.amd.com/careers-home/jobs/92813"
-    },
-    "93063": {
-      "first_seen": 1790710507.583839,
-      "posted": "2026-09-29",
-      "title": "Power Modeling Architect (CPU/GPU Accelerators)",
-      "job_id": "93063",
-      "url": "https://careers.amd.com/careers-home/jobs/93063"
-    },
-    "92538": {
-      "first_seen": 1790710507.5838394,
-      "posted": "2026-09-29",
-      "title": "Sr. Manager, Memory Partnership Product Management \u2013 Data Center Solutions",
-      "job_id": "92538",
-      "url": "https://careers.amd.com/careers-home/jobs/92538"
-    },
-    "92773": {
-      "first_seen": 1790710507.5838404,
-      "posted": "2026-09-29",
-      "title": "Business Operations Budget Manager",
-      "job_id": "92773",
-      "url": "https://careers.amd.com/careers-home/jobs/92773"
-    },
-    "92404": {
-      "first_seen": 1790710507.5838408,
-      "posted": "2026-09-29",
-      "title": "Sr. Manager, Networking Partner Management, Product Management \u2013 Data Center Solutions",
-      "job_id": "92404",
-      "url": "https://careers.amd.com/careers-home/jobs/92404"
-    },
-    "92554": {
-      "first_seen": 1790710507.5838413,
-      "posted": "2026-09-29",
-      "title": "Sr. Manager, Storage Partner Management, Data Center Solutions Product Management",
-      "job_id": "92554",
-      "url": "https://careers.amd.com/careers-home/jobs/92554"
-    },
-    "80721": {
-      "first_seen": 1790710507.5838418,
-      "posted": "2026-09-29",
-      "title": "Director, CPU Design Engineering",
-      "job_id": "80721",
-      "url": "https://careers.amd.com/careers-home/jobs/80721"
-    },
-    "92891": {
-      "first_seen": 1790710507.5838425,
-      "posted": "2026-09-29",
-      "title": "Sr. Agentic AI Solutions Engineer",
-      "job_id": "92891",
-      "url": "https://careers.amd.com/careers-home/jobs/92891"
-    },
-    "92186": {
-      "first_seen": 1790710507.583843,
-      "posted": "2026-09-29",
-      "title": "Principal Engineer, Efficient GenAI",
-      "job_id": "92186",
-      "url": "https://careers.amd.com/careers-home/jobs/92186"
-    },
-    "92767": {
-      "first_seen": 1790710507.5838435,
-      "posted": "2026-09-29",
-      "title": "Server Platform Debug Program Lead",
-      "job_id": "92767",
-      "url": "https://careers.amd.com/careers-home/jobs/92767"
-    },
-    "90060": {
-      "first_seen": 1790710507.5838442,
-      "posted": "2026-09-29",
-      "title": "Physical Design Methodology Staff Engineer",
-      "job_id": "90060",
-      "url": "https://careers.amd.com/careers-home/jobs/90060"
-    },
-    "92762": {
-      "first_seen": 1790710507.583845,
-      "posted": "2026-09-29",
-      "title": "Principal Signal Integrity Engineer (SI/PI)",
-      "job_id": "92762",
-      "url": "https://careers.amd.com/careers-home/jobs/92762"
-    },
-    "92601": {
-      "first_seen": 1790710507.5838451,
-      "posted": "2026-09-29",
-      "title": "Sr. Platform Hardware Design Engineer",
-      "job_id": "92601",
-      "url": "https://careers.amd.com/careers-home/jobs/92601"
-    },
-    "91437": {
-      "first_seen": 1790710507.5838456,
-      "posted": "2026-09-29",
-      "title": "Sr. RTL Design Engineer",
-      "job_id": "91437",
-      "url": "https://careers.amd.com/careers-home/jobs/91437"
-    },
-    "92228": {
-      "first_seen": 1790710507.583846,
-      "posted": "2026-09-29",
-      "title": "Lead IP Verification Engineer",
-      "job_id": "92228",
-      "url": "https://careers.amd.com/careers-home/jobs/92228"
-    },
-    "92656": {
-      "first_seen": 1790710507.5838466,
-      "posted": "2026-09-29",
-      "title": "RTL Design Manager",
-      "job_id": "92656",
-      "url": "https://careers.amd.com/careers-home/jobs/92656"
-    },
-    "91930": {
-      "first_seen": 1790710507.5838468,
-      "posted": "2026-09-29",
-      "title": "FPGA Design and Prototyping Engineer",
-      "job_id": "91930",
-      "url": "https://careers.amd.com/careers-home/jobs/91930"
-    },
-    "87985": {
-      "first_seen": 1790710507.5838473,
-      "posted": "2026-09-29",
-      "title": "Mechanical Engineer - Dynamics and Vibration",
-      "job_id": "87985",
-      "url": "https://careers.amd.com/careers-home/jobs/87985"
-    },
-    "92425": {
-      "first_seen": 1790710507.5838478,
-      "posted": "2026-09-29",
-      "title": "Principal SoC Architect",
-      "job_id": "92425",
-      "url": "https://careers.amd.com/careers-home/jobs/92425"
-    },
-    "86655": {
-      "first_seen": 1790710507.5838482,
-      "posted": "2026-09-29",
-      "title": "RTL/Logic Design Engineer",
-      "job_id": "86655",
-      "url": "https://careers.amd.com/careers-home/jobs/86655"
-    },
-    "92535": {
-      "first_seen": 1790710507.5838487,
-      "posted": "2026-09-29",
-      "title": "Power Analysis and Optimization Engineer",
-      "job_id": "92535",
-      "url": "https://careers.amd.com/careers-home/jobs/92535"
-    },
-    "92472": {
-      "first_seen": 1790710507.5838492,
-      "posted": "2026-09-29",
-      "title": "Sr Silicon Design Verification Engineer",
-      "job_id": "92472",
-      "url": "https://careers.amd.com/careers-home/jobs/92472"
-    },
-    "92170": {
-      "first_seen": 1790714057.8173358,
-      "posted": "2026-09-29",
-      "title": "Technical Program Manager, AI Research",
-      "job_id": "92170",
-      "url": "https://careers.amd.com/careers-home/jobs/92170"
-    },
-    "85665": {
-      "first_seen": 1790718271.7500544,
-      "posted": "2026-09-29",
-      "title": "Technical Fellow - High-Speed Interconnect & Optics",
-      "job_id": "85665",
-      "url": "https://careers.amd.com/careers-home/jobs/85665"
-    },
-    "92777": {
-      "first_seen": 1790785850.134024,
-      "posted": "2026-09-30",
-      "title": "Firmware Architect - Confidential Compute",
-      "job_id": "92777",
-      "url": "https://careers.amd.com/careers-home/jobs/92777"
-    },
-    "93159": {
-      "first_seen": 1790790496.4554348,
-      "posted": "2026-09-30",
-      "title": "Sr. Program Manager - AI Enablement & Insights",
-      "job_id": "93159",
-      "url": "https://careers.amd.com/careers-home/jobs/93159"
-    },
-    "92822": {
-      "first_seen": 1790793290.438401,
-      "posted": "2026-09-30",
-      "title": "3D IC and SoC CAD ENGINEER",
-      "job_id": "92822",
-      "url": "https://careers.amd.com/careers-home/jobs/92822"
-    },
-    "93079": {
-      "first_seen": 1790801666.8607628,
-      "posted": "2026-09-30",
-      "title": "Staff Technical Writer",
-      "job_id": "93079",
-      "url": "https://careers.amd.com/careers-home/jobs/93079"
-    },
-    "92487": {
-      "first_seen": 1790802293.7999692,
-      "posted": "2026-09-30",
-      "title": "Quality Systems Engineer \u2013 AI Transformation",
-      "job_id": "92487",
-      "url": "https://careers.amd.com/careers-home/jobs/92487"
-    },
-    "92488": {
-      "first_seen": 1790802295.0179477,
-      "posted": "2026-09-30",
-      "title": "Quality Systems Engineer \u2013 AI Transformation",
-      "job_id": "92488",
-      "url": "https://careers.amd.com/careers-home/jobs/92488"
-    },
-    "92921": {
-      "first_seen": 1790803467.288116,
-      "posted": "2026-09-30",
-      "title": "AI Research Scientist",
-      "job_id": "92921",
-      "url": "https://careers.amd.com/careers-home/jobs/92921"
-    },
-    "85806": {
-      "first_seen": 1790865287.5787153,
-      "posted": "2026-10-01",
-      "title": "RTL Tools & Methodology Engineer",
-      "job_id": "85806",
-      "url": "https://careers.amd.com/careers-home/jobs/85806"
-    },
-    "86901": {
-      "first_seen": 1790869476.6312962,
-      "posted": "2026-10-01",
-      "title": "Staff DFx Methodology Architect",
-      "job_id": "86901",
-      "url": "https://careers.amd.com/careers-home/jobs/86901"
-    },
-    "87522": {
-      "first_seen": 1790871823.6303117,
-      "posted": "2026-10-01",
-      "title": "Principal, Platform Thermal Engineer Lead",
-      "job_id": "87522",
-      "url": "https://careers.amd.com/careers-home/jobs/87522"
-    },
-    "93054": {
-      "first_seen": 1790879971.4669423,
-      "posted": "2026-10-01",
-      "title": "Manager, SOC Product & Test Engineering",
-      "job_id": "93054",
-      "url": "https://careers.amd.com/careers-home/jobs/93054"
+    "86437": {
+      "first_seen": 0,
+      "posted": "2026-05-21",
+      "title": "Firmware Architect \u2013 High-Speed Interconnect (PCIe / OCI)",
+      "job_id": "86437",
+      "url": "https://careers.amd.com/careers-home/jobs/86437"
     }
   }
 }

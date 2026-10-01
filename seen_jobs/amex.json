@@ -4,12 +4,61 @@
     "company": "amex"
   },
   "jobs": {
+    "26011440": {
+      "first_seen": 1790865299.574572,
+      "posted": "2026-10-01",
+      "title": "Sr Software Engineer II - Global Commercial Services Technology",
+      "job_id": "26011440",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011440"
+    },
+    "26014521": {
+      "first_seen": 1790874015.535375,
+      "posted": "2026-10-01",
+      "title": "Sr AI Engineer II",
+      "job_id": "26014521",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014521"
+    },
+    "26014523": {
+      "first_seen": 1790871835.1732605,
+      "posted": "2026-10-01",
+      "title": "AI Engineer III",
+      "job_id": "26014523",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014523"
+    },
+    "26009321": {
+      "first_seen": 1790795661.3710647,
+      "posted": "2026-09-30",
+      "title": "Senior Frontend Software Engineer  - Global Commercial Services Technology",
+      "job_id": "26009321",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009321"
+    },
+    "26013557": {
+      "first_seen": 1790782500.7783062,
+      "posted": "2026-09-30",
+      "title": "Sr Software Engineer I",
+      "job_id": "26013557",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013557"
+    },
     "26011817": {
       "first_seen": 1790709727.7409048,
       "posted": "2026-09-29",
       "title": "Sr Cybersecurity Engineer- Data Security/ Data Protection",
       "job_id": "26011817",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011817"
+    },
+    "26013790": {
+      "first_seen": 1790710517.6892428,
+      "posted": "2026-09-29",
+      "title": "Senior Analyst, Data Analytics - Rewards Integrity",
+      "job_id": "26013790",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013790"
+    },
+    "26014518": {
+      "first_seen": 1790724272.1149728,
+      "posted": "2026-09-29",
+      "title": "Sr Software Engineer I - Backend developer, Java 8+ - Digital Pyts",
+      "job_id": "26014518",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014518"
     },
     "26013110": {
       "first_seen": 1790709727.7409067,
@@ -38,6 +87,27 @@
       "title": "Senior Software Engineer II",
       "job_id": "26014292",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014292"
+    },
+    "26014393": {
+      "first_seen": 1790710517.6892495,
+      "posted": "2026-09-28",
+      "title": "Staff AI Engineering - Enterprise Architecture",
+      "job_id": "26014393",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014393"
+    },
+    "26014509": {
+      "first_seen": 1790710517.6892502,
+      "posted": "2026-09-28",
+      "title": "Staff AI Engineer - Global Infrastructure",
+      "job_id": "26014509",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014509"
+    },
+    "26005073": {
+      "first_seen": 0,
+      "posted": "2026-09-25",
+      "title": "Sr Software Engineer I - Global Servicing Technology",
+      "job_id": "26005073",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26005073"
     },
     "26010695": {
       "first_seen": 1790709727.7409105,
@@ -74,20 +144,6 @@
       "job_id": "26009667",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009667"
     },
-    "26009007": {
-      "first_seen": 1790709727.740915,
-      "posted": "2026-09-23",
-      "title": "Software Engineer II",
-      "job_id": "26009007",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009007"
-    },
-    "26012702": {
-      "first_seen": 1790709727.7409163,
-      "posted": "2026-09-23",
-      "title": "Senior AI Engineer I - Global Dining",
-      "job_id": "26012702",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012702"
-    },
     "26013451": {
       "first_seen": 1790709727.740917,
       "posted": "2026-09-23",
@@ -95,33 +151,26 @@
       "job_id": "26013451",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013451"
     },
-    "26010696": {
-      "first_seen": 1790709727.7409177,
-      "posted": "2026-09-22",
-      "title": "Software Engineer III - Global Servicing Technology",
-      "job_id": "26010696",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010696"
+    "26013679": {
+      "first_seen": 1790710517.689253,
+      "posted": "2026-09-23",
+      "title": "Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics , Enterprise Technology Services- Charlotte, NC",
+      "job_id": "26013679",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013679"
     },
-    "26010697": {
-      "first_seen": 1790709727.7409186,
-      "posted": "2026-09-22",
-      "title": "Software Engineer II - Global Servicing Technology",
-      "job_id": "26010697",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010697"
+    "26013683": {
+      "first_seen": 1790710517.6892538,
+      "posted": "2026-09-23",
+      "title": "Campus Graduate Masters Full-Time Senior Analyst - 2027 Data & Analytics, Enterprise Technology Services- Charlotte, NC",
+      "job_id": "26013683",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013683"
     },
-    "26010699": {
-      "first_seen": 1790709727.7409194,
+    "26013157": {
+      "first_seen": 1790710517.689255,
       "posted": "2026-09-22",
-      "title": "Sr. Software Engineer I - Global Servicing Technology",
-      "job_id": "26010699",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010699"
-    },
-    "26011766": {
-      "first_seen": 1790709727.7409198,
-      "posted": "2026-09-22",
-      "title": "AI Engineer - Enterprise Architecture",
-      "job_id": "26011766",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011766"
+      "title": "Staff AI Engineer - Personalization, Brand, Communications Tech",
+      "job_id": "26013157",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013157"
     },
     "26013159": {
       "first_seen": 1790709727.7409205,
@@ -130,19 +179,12 @@
       "job_id": "26013159",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013159"
     },
-    "26013824": {
-      "first_seen": 1790709727.7409213,
+    "26014295": {
+      "first_seen": 0,
       "posted": "2026-09-22",
-      "title": "Software Engineer I - Vertx, Spring, Spring Boot, RESTful micro services - GNST",
-      "job_id": "26013824",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013824"
-    },
-    "26014265": {
-      "first_seen": 1790709727.7409222,
-      "posted": "2026-09-22",
-      "title": "Sr AI Engineer I",
-      "job_id": "26014265",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014265"
+      "title": "Senior Engineer I",
+      "job_id": "26014295",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014295"
     },
     "26014328": {
       "first_seen": 1790709727.740923,
@@ -172,6 +214,13 @@
       "job_id": "26013923",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013923"
     },
+    "26014163": {
+      "first_seen": 1790710517.6892602,
+      "posted": "2026-09-21",
+      "title": "Staff AI Engineer - Enterprise Architecture",
+      "job_id": "26014163",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014163"
+    },
     "26013774": {
       "first_seen": 1790709727.740926,
       "posted": "2026-09-17",
@@ -185,20 +234,6 @@
       "title": "Senior Agentic AI Engineer II - Global Infrastructure",
       "job_id": "26013784",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013784"
-    },
-    "26007181": {
-      "first_seen": 1790709727.7409272,
-      "posted": "2026-09-16",
-      "title": "Sr AI Engineer I",
-      "job_id": "26007181",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007181"
-    },
-    "26013608": {
-      "first_seen": 1790709727.740928,
-      "posted": "2026-09-15",
-      "title": "Senior Software Engineer I",
-      "job_id": "26013608",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013608"
     },
     "26012796": {
       "first_seen": 1790709727.7409291,
@@ -242,6 +277,13 @@
       "job_id": "26012945",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012945"
     },
+    "26013102": {
+      "first_seen": 1790745312.5847812,
+      "posted": "2026-09-02",
+      "title": "Campus Graduate Masters Full-Time Senior Analyst - 2027 Data & Analytics, Enterprise Technology Services- New York, NY",
+      "job_id": "26013102",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013102"
+    },
     "26013399": {
       "first_seen": 1790709727.740933,
       "posted": "2026-09-02",
@@ -276,6 +318,13 @@
       "title": "Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Sunrise, FL",
       "job_id": "26012988",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012988"
+    },
+    "26013097": {
+      "first_seen": 0,
+      "posted": "2026-09-01",
+      "title": "Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics, Enterprise Technology Services- New York, NY",
+      "job_id": "26013097",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013097"
     },
     "26013252": {
       "first_seen": 1790709727.7409372,
@@ -333,6 +382,20 @@
       "job_id": "26013264",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013264"
     },
+    "26013281": {
+      "first_seen": 0,
+      "posted": "2026-09-01",
+      "title": "Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics, Enterprise Technology Services- Phoenix, AZ",
+      "job_id": "26013281",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013281"
+    },
+    "26013283": {
+      "first_seen": 0,
+      "posted": "2026-09-01",
+      "title": "Campus Graduate Masters Full-Time Senior Analyst - 2027 Data & Analytics, Enterprise Technology Services- Phoenix, AZ",
+      "job_id": "26013283",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013283"
+    },
     "26013286": {
       "first_seen": 1790709727.7409437,
       "posted": "2026-09-01",
@@ -389,13 +452,6 @@
       "job_id": "26011304",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011304"
     },
-    "26010244": {
-      "first_seen": 1790709727.7409484,
-      "posted": "2026-07-28",
-      "title": "Senior Frontend Software Engineer  - Global Commercial Services Technology",
-      "job_id": "26010244",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010244"
-    },
     "26008840": {
       "first_seen": 1790709727.740949,
       "posted": "2026-07-20",
@@ -424,264 +480,19 @@
       "job_id": "26007444",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007444"
     },
-    "26013790": {
-      "first_seen": 1790710517.6892428,
-      "posted": "2026-09-29",
-      "title": "Senior Analyst, Data Analytics - Rewards Integrity",
-      "job_id": "26013790",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013790"
+    "26005973": {
+      "first_seen": 0,
+      "posted": "2026-05-29",
+      "title": "Sr Software Engineer II - Global Commercial Services",
+      "job_id": "26005973",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26005973"
     },
-    "26014580": {
-      "first_seen": 1790710517.6892447,
-      "posted": "2026-09-29",
-      "title": "Senior Manager - Data Analytics",
-      "job_id": "26014580",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014580"
-    },
-    "26013914": {
-      "first_seen": 1790710517.6892455,
-      "posted": "2026-09-29",
-      "title": "Director of Technology Vendor Management - Business Process Services",
-      "job_id": "26013914",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013914"
-    },
-    "26014400": {
-      "first_seen": 1790710517.6892464,
-      "posted": "2026-09-29",
-      "title": "Analyst Data Governance & Management",
-      "job_id": "26014400",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014400"
-    },
-    "26012455": {
-      "first_seen": 1790710517.6892471,
-      "posted": "2026-09-29",
-      "title": "Director - AI Engineering",
-      "job_id": "26012455",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012455"
-    },
-    "26013686": {
-      "first_seen": 1790710517.689248,
-      "posted": "2026-09-29",
-      "title": "Director of Cyber Security / Agentic AI - Privileged Access Management (PAM)",
-      "job_id": "26013686",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013686"
-    },
-    "26013692": {
-      "first_seen": 1790710517.6892488,
-      "posted": "2026-09-29",
-      "title": "Director - Cyber Security / Agentic AI - IAM Engineering",
-      "job_id": "26013692",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013692"
-    },
-    "26014393": {
-      "first_seen": 1790710517.6892495,
-      "posted": "2026-09-29",
-      "title": "Staff AI Engineering - Enterprise Architecture",
-      "job_id": "26014393",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014393"
-    },
-    "26014509": {
-      "first_seen": 1790710517.6892502,
-      "posted": "2026-09-29",
-      "title": "Staff AI Engineer - Global Infrastructure",
-      "job_id": "26014509",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014509"
-    },
-    "26012898": {
-      "first_seen": 1790710517.6892507,
-      "posted": "2026-09-29",
-      "title": "Senior Manager, Cybersecurity Risk Management",
-      "job_id": "26012898",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012898"
-    },
-    "26014513": {
-      "first_seen": 1790710517.6892514,
-      "posted": "2026-09-29",
-      "title": "Director - AI Engineering - Enterprise AI Platforms",
-      "job_id": "26014513",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014513"
-    },
-    "26011980": {
-      "first_seen": 1790710517.6892524,
-      "posted": "2026-09-29",
-      "title": "Manager - Data Analytics",
-      "job_id": "26011980",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011980"
-    },
-    "26013679": {
-      "first_seen": 1790710517.689253,
-      "posted": "2026-09-29",
-      "title": "Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics , Enterprise Technology Services- Charlotte, NC",
-      "job_id": "26013679",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013679"
-    },
-    "26013683": {
-      "first_seen": 1790710517.6892538,
-      "posted": "2026-09-29",
-      "title": "Campus Graduate Masters Full-Time Senior Analyst - 2027 Data & Analytics, Enterprise Technology Services- Charlotte, NC",
-      "job_id": "26013683",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013683"
-    },
-    "26013157": {
-      "first_seen": 1790710517.689255,
-      "posted": "2026-09-29",
-      "title": "Staff AI Engineer - Personalization, Brand, Communications Tech",
-      "job_id": "26013157",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013157"
-    },
-    "26013276": {
-      "first_seen": 1790710517.6892557,
-      "posted": "2026-09-29",
-      "title": "Director - Technologies",
-      "job_id": "26013276",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013276"
-    },
-    "26013600": {
-      "first_seen": 1790710517.6892564,
-      "posted": "2026-09-29",
-      "title": "Senior Solutions Architect I",
-      "job_id": "26013600",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013600"
-    },
-    "26013775": {
-      "first_seen": 1790710517.6892571,
-      "posted": "2026-09-29",
-      "title": "Director-Software Engineering",
-      "job_id": "26013775",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013775"
-    },
-    "26014224": {
-      "first_seen": 1790710517.689258,
-      "posted": "2026-09-29",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Salt Lake City, UT",
-      "job_id": "26014224",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224"
-    },
-    "26014317": {
-      "first_seen": 1790710517.6892588,
-      "posted": "2026-09-29",
-      "title": "Mgr-Tech Project Mgmt",
-      "job_id": "26014317",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014317"
-    },
-    "26014148": {
-      "first_seen": 1790710517.6892598,
-      "posted": "2026-09-29",
-      "title": "Mgr-Tech Project Mgmt",
-      "job_id": "26014148",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014148"
-    },
-    "26014163": {
-      "first_seen": 1790710517.6892602,
-      "posted": "2026-09-29",
-      "title": "Staff AI Engineer - Enterprise Architecture",
-      "job_id": "26014163",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014163"
-    },
-    "26012983": {
-      "first_seen": 1790710517.689261,
-      "posted": "2026-09-29",
-      "title": "Associate - Technology Vendor Management",
-      "job_id": "26012983",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012983"
-    },
-    "26014518": {
-      "first_seen": 1790724272.1149728,
-      "posted": "2026-09-29",
-      "title": "Sr Software Engineer I",
-      "job_id": "26014518",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014518"
-    },
-    "26014605": {
-      "first_seen": 1790742262.527228,
-      "posted": "2026-09-30",
-      "title": "Managers, Delivery Management",
-      "job_id": "26014605",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014605"
-    },
-    "26014634": {
-      "first_seen": 1790742262.5272315,
-      "posted": "2026-09-30",
-      "title": "Senior Cybersecurity Engineers",
-      "job_id": "26014634",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014634"
-    },
-    "26012899": {
-      "first_seen": 1790742262.5272343,
-      "posted": "2026-09-30",
-      "title": "Manager, Data Science",
-      "job_id": "26012899",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012899"
-    },
-    "26013915": {
-      "first_seen": 1790745312.5847764,
-      "posted": "2026-09-30",
-      "title": "Associate, Technology Vendor Management - Cloud",
-      "job_id": "26013915",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013915"
-    },
-    "26013690": {
-      "first_seen": 1790745312.5847797,
-      "posted": "2026-09-30",
-      "title": "Senior Software Engineers",
-      "job_id": "26013690",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013690"
-    },
-    "26013102": {
-      "first_seen": 1790745312.5847812,
-      "posted": "2026-09-30",
-      "title": "Campus Graduate Masters Full-Time Senior Analyst - 2027 Data & Analytics, Enterprise Technology Services- New York, NY",
-      "job_id": "26013102",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013102"
-    },
-    "26014632": {
-      "first_seen": 1790767484.8710768,
-      "posted": "2026-09-30",
-      "title": "Software Engineers",
-      "job_id": "26014632",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014632"
-    },
-    "26013557": {
-      "first_seen": 1790782500.7783062,
-      "posted": "2026-09-30",
-      "title": "Sr Software Engineer I",
-      "job_id": "26013557",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013557"
-    },
-    "26009321": {
-      "first_seen": 1790795661.3710647,
-      "posted": "2026-09-30",
-      "title": "Senior Frontend Software Engineer  - Global Commercial Services Technology",
-      "job_id": "26009321",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009321"
-    },
-    "26014716": {
-      "first_seen": 1790802893.7682078,
-      "posted": "2026-09-30",
-      "title": "Senior Analyst - Data Governance & Management",
-      "job_id": "26014716",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014716"
-    },
-    "26011440": {
-      "first_seen": 1790865299.574572,
-      "posted": "2026-10-01",
-      "title": "Sr Software Engineer II - Global Commercial Services Technology",
-      "job_id": "26011440",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011440"
-    },
-    "26014523": {
-      "first_seen": 1790871835.1732605,
-      "posted": "2026-10-01",
-      "title": "AI Engineer III",
-      "job_id": "26014523",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014523"
-    },
-    "26014521": {
-      "first_seen": 1790874015.535375,
-      "posted": "2026-10-01",
-      "title": "Sr AI Engineer II",
-      "job_id": "26014521",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014521"
+    "26001316": {
+      "first_seen": 0,
+      "posted": "2026-05-01",
+      "title": "Senior Staff Architect - Digital Workplace",
+      "job_id": "26001316",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26001316"
     }
   }
 }

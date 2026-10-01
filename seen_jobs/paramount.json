@@ -4,12 +4,33 @@
     "company": "paramount"
   },
   "jobs": {
-    "1389235900": {
-      "first_seen": 1790709643.1318717,
-      "posted": "Sep 29, 2026",
-      "title": "Senior Software Engineer",
-      "job_id": "1389235900",
-      "url": "https://careers.paramount.com/job/New-York-Senior-Software-Engineer-NY-10036/1389235900/"
+    "1349796700": {
+      "first_seen": 0,
+      "posted": "Oct 1, 2026",
+      "title": "Lead Engineer, Production Platforms",
+      "job_id": "1349796700",
+      "url": "https://careers.paramount.com/job/New-York-Lead-Engineer%2C-Production-Platforms-NY-10019/1349796700/"
+    },
+    "1415983100": {
+      "first_seen": 1790838803.88464,
+      "posted": "Oct 1, 2026",
+      "title": "Sr Engineer Networking",
+      "job_id": "1415983100",
+      "url": "https://careers.paramount.com/job/Hauppauge-Sr-Engineer-Networking-NY-11788/1415983100/"
+    },
+    "1381101500": {
+      "first_seen": 1790751872.1644971,
+      "posted": "Sep 30, 2026",
+      "title": "Principal Machine Learning Engineer, Content Engineering",
+      "job_id": "1381101500",
+      "url": "https://careers.paramount.com/job/New-York-Principal-Machine-Learning-Engineer%2C-Content-Engineering-NY-10036/1381101500/"
+    },
+    "1425452300": {
+      "first_seen": 0,
+      "posted": "Sep 30, 2026",
+      "title": "Lead Data Scientist",
+      "job_id": "1425452300",
+      "url": "https://careers.paramount.com/job/New-York-Lead-Data-Scientist-NY-10036/1425452300/"
     },
     "1343190300": {
       "first_seen": 1790709643.131874,
@@ -17,6 +38,13 @@
       "title": "Senior Data Engineer",
       "job_id": "1343190300",
       "url": "https://careers.paramount.com/job/Burbank-Senior-Data-Engineer-CA-91505/1343190300/"
+    },
+    "1389235900": {
+      "first_seen": 1790709643.1318717,
+      "posted": "Sep 29, 2026",
+      "title": "Senior Software Engineer",
+      "job_id": "1389235900",
+      "url": "https://careers.paramount.com/job/New-York-Senior-Software-Engineer-NY-10036/1389235900/"
     },
     "1388774900": {
       "first_seen": 1790709643.1318748,
@@ -32,12 +60,12 @@
       "job_id": "1388434000",
       "url": "https://careers.paramount.com/job/Burbank-Lead-Software-Engineer%2C-AI-CA-91505/1388434000/"
     },
-    "1380025000": {
-      "first_seen": 1790709643.1318767,
+    "1380138700": {
+      "first_seen": 1790710493.8902836,
       "posted": "Sep 28, 2026",
-      "title": "Senior Full-Stack Software Engineer",
-      "job_id": "1380025000",
-      "url": "https://careers.paramount.com/job/Burbank-Senior-Full-Stack-Software-Engineer-CA-91505/1380025000/"
+      "title": "Senior Cloud Architect",
+      "job_id": "1380138700",
+      "url": "https://careers.paramount.com/job/New-York-Senior-Cloud-Architect-NY-10036/1380138700/"
     },
     "1397036200": {
       "first_seen": 1790709643.1318777,
@@ -45,6 +73,20 @@
       "title": "Lead Machine Learning Operations Engineer",
       "job_id": "1397036200",
       "url": "https://careers.paramount.com/job/Burbank-Lead-Machine-Learning-Operations-Engineer-CA-91505/1397036200/"
+    },
+    "1380025000": {
+      "first_seen": 1790709643.1318767,
+      "posted": "Sep 28, 2026",
+      "title": "Senior Full-Stack Software Engineer",
+      "job_id": "1380025000",
+      "url": "https://careers.paramount.com/job/Burbank-Senior-Full-Stack-Software-Engineer-CA-91505/1380025000/"
+    },
+    "1379815000": {
+      "first_seen": 0,
+      "posted": "Sep 27, 2026",
+      "title": "Senior Internal Auditor, Risk and Analytics",
+      "job_id": "1379815000",
+      "url": "https://careers.paramount.com/job/Nashville-Senior-Internal-Auditor%2C-Risk-and-Analytics-TN-37201/1379815000/"
     },
     "1396654900": {
       "first_seen": 1790709643.1318786,
@@ -60,6 +102,13 @@
       "job_id": "1387818000",
       "url": "https://careers.paramount.com/job/Burbank-Senior-Machine-Learning-Operations-Engineer%2C-Agentic-Systems-Platform-Engineering-CA-91505/1387818000/"
     },
+    "1405002800": {
+      "first_seen": 0,
+      "posted": "Sep 26, 2026",
+      "title": "Business Analyst",
+      "job_id": "1405002800",
+      "url": "https://careers.paramount.com/job/Los-Angeles-Business-Analyst-CA-90038/1405002800/"
+    },
     "1395783700": {
       "first_seen": 1790709643.1318805,
       "posted": "Sep 26, 2026",
@@ -73,6 +122,13 @@
       "title": "Software Engineer (Java) in Test",
       "job_id": "1387748400",
       "url": "https://careers.paramount.com/job/New-York-Software-Engineer-%28Java%29-in-Test-NY-10036/1387748400/"
+    },
+    "1395753500": {
+      "first_seen": 0,
+      "posted": "Sep 25, 2026",
+      "title": "Senior Internal Auditor, Risk and Analytics",
+      "job_id": "1395753500",
+      "url": "https://careers.paramount.com/job/New-York-Senior-Internal-Auditor%2C-Risk-and-Analytics-NY-10036/1395753500/"
     },
     "1379400900": {
       "first_seen": 1790709643.1318817,
@@ -88,6 +144,13 @@
       "job_id": "1433499400",
       "url": "https://careers.paramount.com/job/New-York-Software-Engineer-NY-10036/1433499400/"
     },
+    "1387506100": {
+      "first_seen": 1790709643.1318846,
+      "posted": "Sep 23, 2026",
+      "title": "Lead Software Engineer (Java) in Test",
+      "job_id": "1387506100",
+      "url": "https://careers.paramount.com/job/New-York-Lead-Software-Engineer-%28Java%29-in-Test-NY-10036/1387506100/"
+    },
     "1387540400": {
       "first_seen": 1790709643.1318839,
       "posted": "Sep 23, 2026",
@@ -95,12 +158,12 @@
       "job_id": "1387540400",
       "url": "https://careers.paramount.com/job/New-York-Senior-Machine-Learning-Operations-Engineer-NY-10036/1387540400/"
     },
-    "1387506100": {
-      "first_seen": 1790709643.1318846,
-      "posted": "Sep 23, 2026",
-      "title": "Lead Software Engineer (Java) in Test",
-      "job_id": "1387506100",
-      "url": "https://careers.paramount.com/job/New-York-Lead-Software-Engineer-%28Java%29-in-Test-NY-10036/1387506100/"
+    "1432784600": {
+      "first_seen": 1790710493.8902905,
+      "posted": "Sep 22, 2026",
+      "title": "Principal Engineer, Production Systems",
+      "job_id": "1432784600",
+      "url": "https://careers.paramount.com/job/New-York-Principal-Engineer%2C-Production-Systems-NY-10019/1432784600/"
     },
     "1386816600": {
       "first_seen": 1790709643.1318853,
@@ -115,6 +178,13 @@
       "title": "Lead Network Engineer, Network",
       "job_id": "1403444400",
       "url": "https://careers.paramount.com/job/Hollywood-Lead-Network-Engineer%2C-Network-CA-90028/1403444400/"
+    },
+    "1394334600": {
+      "first_seen": 0,
+      "posted": "Sep 20, 2026",
+      "title": "Senior Data Scientist",
+      "job_id": "1394334600",
+      "url": "https://careers.paramount.com/job/New-York-Senior-Data-Scientist-NY-10036/1394334600/"
     },
     "1385937500": {
       "first_seen": 1790709643.1318872,
@@ -137,6 +207,13 @@
       "job_id": "1385550900",
       "url": "https://careers.paramount.com/job/San-Francisco-Sr-Software-Engineer-Core-Web-CA-94107/1385550900/"
     },
+    "1402140700": {
+      "first_seen": 0,
+      "posted": "Sep 17, 2026",
+      "title": "Data Engineer Self Service Analytics and Real Time Data Platforms",
+      "job_id": "1402140700",
+      "url": "https://careers.paramount.com/job/Burbank-Data-Engineer-Self-Service-Analytics-and-Real-Time-Data-Platforms-CA-91505/1402140700/"
+    },
     "1385498200": {
       "first_seen": 1790709643.1318893,
       "posted": "Sep 16, 2026",
@@ -144,19 +221,19 @@
       "job_id": "1385498200",
       "url": "https://careers.paramount.com/job/New-York-Senior-Software-Engineer-NY-10036/1385498200/"
     },
-    "1420810900": {
-      "first_seen": 1790709643.13189,
-      "posted": "Sep 16, 2026",
-      "title": "Senior Agentic AI Software Engineer",
-      "job_id": "1420810900",
-      "url": "https://careers.paramount.com/job/New-York-Senior-Agentic-AI-Software-Engineer-NY-10036/1420810900/"
-    },
     "1385510900": {
       "first_seen": 1790709643.131891,
       "posted": "Sep 16, 2026",
       "title": "Senior Software Engineer (Java) in Test",
       "job_id": "1385510900",
       "url": "https://careers.paramount.com/job/Burbank-Senior-Software-Engineer-%28Java%29-in-Test-CA-91505/1385510900/"
+    },
+    "1420810900": {
+      "first_seen": 1790709643.13189,
+      "posted": "Sep 16, 2026",
+      "title": "Senior Agentic AI Software Engineer",
+      "job_id": "1420810900",
+      "url": "https://careers.paramount.com/job/New-York-Senior-Agentic-AI-Software-Engineer-NY-10036/1420810900/"
     },
     "1385069700": {
       "first_seen": 1790709643.1318922,
@@ -171,6 +248,13 @@
       "title": "Software Engineer, Content Engineering",
       "job_id": "1385076300",
       "url": "https://careers.paramount.com/job/New-York-Software-Engineer%2C-Content-Engineering-NY-10036/1385076300/"
+    },
+    "1401817400": {
+      "first_seen": 0,
+      "posted": "Sep 15, 2026",
+      "title": "Data Engineer Data Pipelines and ETL",
+      "job_id": "1401817400",
+      "url": "https://careers.paramount.com/job/Burbank-Data-Engineer-Data-Pipelines-and-ETL-CA-91505/1401817400/"
     },
     "1384914800": {
       "first_seen": 1790709643.1318939,
@@ -193,12 +277,12 @@
       "job_id": "1384676800",
       "url": "https://careers.paramount.com/job/Burbank-Lead-Software-Engineer-Roku-CA-91505/1384676800/"
     },
-    "1384671000": {
-      "first_seen": 1790709643.1318958,
+    "1393214800": {
+      "first_seen": 1790709643.131897,
       "posted": "Sep 14, 2026",
       "title": "Lead Software Engineer - Web",
-      "job_id": "1384671000",
-      "url": "https://careers.paramount.com/job/Burbank-Lead-Software-Engineer-Web-CA-91505/1384671000/"
+      "job_id": "1393214800",
+      "url": "https://careers.paramount.com/job/Burbank-Lead-Software-Engineer-Web-CA-91505/1393214800/"
     },
     "1393214400": {
       "first_seen": 1790709643.1318963,
@@ -207,26 +291,12 @@
       "job_id": "1393214400",
       "url": "https://careers.paramount.com/job/Burbank-Lead-Software-Engineer-Roku-CA-91505/1393214400/"
     },
-    "1393214800": {
-      "first_seen": 1790709643.131897,
+    "1384671000": {
+      "first_seen": 1790709643.1318958,
       "posted": "Sep 14, 2026",
       "title": "Lead Software Engineer - Web",
-      "job_id": "1393214800",
-      "url": "https://careers.paramount.com/job/Burbank-Lead-Software-Engineer-Web-CA-91505/1393214800/"
-    },
-    "1384341800": {
-      "first_seen": 1790709643.1318977,
-      "posted": "Sep 13, 2026",
-      "title": "Lead Software Engineer",
-      "job_id": "1384341800",
-      "url": "https://careers.paramount.com/job/San-Francisco-Lead-Software-Engineer-CA-94107/1384341800/"
-    },
-    "1410201700": {
-      "first_seen": 1790709643.1318984,
-      "posted": "Sep 13, 2026",
-      "title": "AI Engineering Technical Lead",
-      "job_id": "1410201700",
-      "url": "https://careers.paramount.com/job/Burbank-AI-Engineering-Technical-Lead-CA-91505/1410201700/"
+      "job_id": "1384671000",
+      "url": "https://careers.paramount.com/job/Burbank-Lead-Software-Engineer-Web-CA-91505/1384671000/"
     },
     "1384193800": {
       "first_seen": 1790709643.131899,
@@ -235,6 +305,20 @@
       "job_id": "1384193800",
       "url": "https://careers.paramount.com/job/New-York-Sr-Machine-Learning-Engineer-NY-10036/1384193800/"
     },
+    "1410201700": {
+      "first_seen": 1790709643.1318984,
+      "posted": "Sep 13, 2026",
+      "title": "AI Engineering Technical Lead",
+      "job_id": "1410201700",
+      "url": "https://careers.paramount.com/job/Burbank-AI-Engineering-Technical-Lead-CA-91505/1410201700/"
+    },
+    "1384341800": {
+      "first_seen": 1790709643.1318977,
+      "posted": "Sep 13, 2026",
+      "title": "Lead Software Engineer",
+      "job_id": "1384341800",
+      "url": "https://careers.paramount.com/job/San-Francisco-Lead-Software-Engineer-CA-94107/1384341800/"
+    },
     "1384191800": {
       "first_seen": 1790709643.1318998,
       "posted": "Sep 13, 2026",
@@ -242,124 +326,33 @@
       "job_id": "1384191800",
       "url": "https://careers.paramount.com/job/New-York-Machine-Learning-Engineer-NY-10036/1384191800/"
     },
-    "1380138700": {
-      "first_seen": 1790710493.8902836,
-      "posted": "2026-09-29",
-      "title": "Senior Cloud Architect",
-      "job_id": "1380138700",
-      "url": "https://careers.paramount.com/job/New-York-Senior-Cloud-Architect-NY-10036/1380138700/"
+    "1383757900": {
+      "first_seen": 0,
+      "posted": "Sep 12, 2026",
+      "title": "Senior ML Platform Engineer",
+      "job_id": "1383757900",
+      "url": "https://careers.paramount.com/job/Burbank-Senior-ML-Platform-Engineer-CA-91505/1383757900/"
     },
-    "1396171900": {
-      "first_seen": 1790710493.8902855,
-      "posted": "2026-09-29",
-      "title": "Director, Oracle Fusion Project and Portfolio Management",
-      "job_id": "1396171900",
-      "url": "https://careers.paramount.com/job/New-York-Director%2C-Oracle-Fusion-Project-and-Portfolio-Management-NY-10036/1396171900/"
+    "1418967100": {
+      "first_seen": 0,
+      "posted": "Sep 11, 2026",
+      "title": "Senior Software Engineer, AI Products & Agents",
+      "job_id": "1418967100",
+      "url": "https://careers.paramount.com/job/New-York-Senior-Software-Engineer%2C-AI-Products-&-Agents-NY-10036/1418967100/"
     },
-    "1423990900": {
-      "first_seen": 1790710493.890287,
-      "posted": "2026-09-29",
-      "title": "403(g) Technician",
-      "job_id": "1423990900",
-      "url": "https://careers.paramount.com/job/New-York-403%28g%29-Technician-NY-10019/1423990900/"
+    "1399774900": {
+      "first_seen": 0,
+      "posted": "Sep 10, 2026",
+      "title": "Lead Software Engineer, CMS",
+      "job_id": "1399774900",
+      "url": "https://careers.paramount.com/job/Nashville-Lead-Software-Engineer%2C-CMS-TN-37201/1399774900/"
     },
-    "1433673300": {
-      "first_seen": 1790710493.8902879,
-      "posted": "2026-09-29",
-      "title": "Director Oracle Analytics",
-      "job_id": "1433673300",
-      "url": "https://careers.paramount.com/job/New-York-Director-Oracle-Analytics-NY-10036/1433673300/"
-    },
-    "1412871500": {
-      "first_seen": 1790710493.8902888,
-      "posted": "2026-09-29",
-      "title": "403(g) Maintenance Technician",
-      "job_id": "1412871500",
-      "url": "https://careers.paramount.com/job/New-York-403%28g%29-Maintenance-Technician-NY-10019/1412871500/"
-    },
-    "1412870300": {
-      "first_seen": 1790710493.8902895,
-      "posted": "2026-09-29",
-      "title": "403(g) Maintenance Technician",
-      "job_id": "1412870300",
-      "url": "https://careers.paramount.com/job/New-York-403%28g%29-Maintenance-Technician-NY-10019/1412870300/"
-    },
-    "1432784600": {
-      "first_seen": 1790710493.8902905,
-      "posted": "2026-09-29",
-      "title": "Principal Engineer, Production Systems",
-      "job_id": "1432784600",
-      "url": "https://careers.paramount.com/job/New-York-Principal-Engineer%2C-Production-Systems-NY-10019/1432784600/"
-    },
-    "1347887700": {
-      "first_seen": 1790710493.8902917,
-      "posted": "2026-09-29",
-      "title": "Manager, News Technology Services",
-      "job_id": "1347887700",
-      "url": "https://careers.paramount.com/job/New-York-Manager%2C-News-Technology-Services-NY-10019/1347887700/"
-    },
-    "1421962900": {
-      "first_seen": 1790710493.8902926,
-      "posted": "2026-09-29",
-      "title": "Technical Product Manager, Content Systems Automation",
-      "job_id": "1421962900",
-      "url": "https://careers.paramount.com/job/Burbank-Technical-Product-Manager%2C-Content-Systems-Automation-CA-91505/1421962900/"
-    },
-    "1393351000": {
-      "first_seen": 1790710493.8902943,
-      "posted": "2026-09-29",
-      "title": "Cloud Production Engineer, Sports (Contractor)",
-      "job_id": "1393351000",
-      "url": "https://careers.paramount.com/job/Stamford-Cloud-Production-Engineer%2C-Sports-%28Contractor%29-CT-06902/1393351000/"
-    },
-    "1392430400": {
-      "first_seen": 1790710493.8902953,
-      "posted": "2026-09-29",
-      "title": "Experimentation Lead, Sign-Up and Cancellation Optimization",
-      "job_id": "1392430400",
-      "url": "https://careers.paramount.com/job/Burbank-Experimentation-Lead%2C-Sign-Up-and-Cancellation-Optimization-CA-91505/1392430400/"
-    },
-    "1401008500": {
-      "first_seen": 1790710493.8902957,
-      "posted": "2026-09-29",
-      "title": "Sr. Director, Technical Program Management AI/ML",
-      "job_id": "1401008500",
-      "url": "https://careers.paramount.com/job/New-York-Sr_-Director%2C-Technical-Program-Management-AIML-NY-10036/1401008500/"
-    },
-    "1381101500": {
-      "first_seen": 1790751872.1644971,
-      "posted": "2026-09-30",
-      "title": "Principal Machine Learning Engineer, Content Engineering",
-      "job_id": "1381101500",
-      "url": "https://careers.paramount.com/job/New-York-Principal-Machine-Learning-Engineer%2C-Content-Engineering-NY-10036/1381101500/"
-    },
-    "1435605800": {
-      "first_seen": 1790811259.945222,
-      "posted": "2026-09-30",
-      "title": "Manager, Application Security & SOX IT",
-      "job_id": "1435605800",
-      "url": "https://careers.paramount.com/job/New-York-Manager%2C-Application-Security-&-SOX-IT-NY-10036/1435605800/"
-    },
-    "1363949300": {
-      "first_seen": 1790838802.9379268,
-      "posted": "2026-10-01",
-      "title": "Lead Enterprise Solution Analyst",
-      "job_id": "1363949300",
-      "url": "https://careers.paramount.com/job/Los-Angeles-Lead-Enterprise-Solution-Analyst-CA-90038/1363949300/"
-    },
-    "1425728100": {
-      "first_seen": 1790838802.937928,
-      "posted": "2026-10-01",
-      "title": "Manager, Technical Program Management",
-      "job_id": "1425728100",
-      "url": "https://careers.paramount.com/job/New-York-Manager%2C-Technical-Program-Management-NY-10036/1425728100/"
-    },
-    "1415983100": {
-      "first_seen": 1790838803.88464,
-      "posted": "2026-10-01",
-      "title": "Sr Engineer Networking",
-      "job_id": "1415983100",
-      "url": "https://careers.paramount.com/job/Hauppauge-Sr-Engineer-Networking-NY-11788/1415983100/"
+    "1418248600": {
+      "first_seen": 0,
+      "posted": "Sep 9, 2026",
+      "title": "Lead Machine Learning Engineer",
+      "job_id": "1418248600",
+      "url": "https://careers.paramount.com/job/Burbank-Lead-Machine-Learning-Engineer-CA-91505/1418248600/"
     }
   }
 }

@@ -4,12 +4,264 @@
     "company": "ford"
   },
   "jobs": {
-    "68687": {
-      "first_seen": 1790709650.8200698,
+    "69584": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "Design and Release Engineer-Driveshafts",
+      "job_id": "69584",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69584"
+    },
+    "70811": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "Systems and Software Quality Engineer",
+      "job_id": "70811",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70811"
+    },
+    "71436": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "ADAS Surround View Camera Feature Engineer",
+      "job_id": "71436",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71436"
+    },
+    "71437": {
+      "first_seen": 1790830451.2149181,
+      "posted": "2026-10-01",
+      "title": "Data Science Supervisor",
+      "job_id": "71437",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71437"
+    },
+    "71609": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "Manufacturing Software Engineer",
+      "job_id": "71609",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71609"
+    },
+    "71685": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "STA Launch Engineer",
+      "job_id": "71685",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71685"
+    },
+    "71815": {
+      "first_seen": 1790873990.5267682,
+      "posted": "2026-10-01",
+      "title": "Principal Architect - Data, AI, and Analytics",
+      "job_id": "71815",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71815"
+    },
+    "71875": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "Senior Staff Software Engineer OTA",
+      "job_id": "71875",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71875"
+    },
+    "66201": {
+      "first_seen": 0,
+      "posted": "2026-09-30",
+      "title": "In Vehicle Network Architect",
+      "job_id": "66201",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66201"
+    },
+    "68387": {
+      "first_seen": 0,
+      "posted": "2026-09-30",
+      "title": "Process FMA Engineer",
+      "job_id": "68387",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68387"
+    },
+    "69070": {
+      "first_seen": 1790772218.069879,
+      "posted": "2026-09-30",
+      "title": "Software and AI Engineer",
+      "job_id": "69070",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69070"
+    },
+    "69344": {
+      "first_seen": 1790781288.8071005,
+      "posted": "2026-09-30",
+      "title": "Senior Data Engineer - Cybersecurity",
+      "job_id": "69344",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69344"
+    },
+    "70049": {
+      "first_seen": 1790797207.9166641,
+      "posted": "2026-09-30",
+      "title": "Full Stack Software Engineer",
+      "job_id": "70049",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70049"
+    },
+    "71084": {
+      "first_seen": 1790786676.4071527,
+      "posted": "2026-09-30",
+      "title": "Front-End Lead Software Engineer",
+      "job_id": "71084",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71084"
+    },
+    "71293": {
+      "first_seen": 1790798685.145564,
+      "posted": "2026-09-30",
+      "title": "Cloud Systems Developer",
+      "job_id": "71293",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71293"
+    },
+    "71572": {
+      "first_seen": 0,
+      "posted": "2026-09-30",
+      "title": "Ford Racing Body Casting Engineer",
+      "job_id": "71572",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71572"
+    },
+    "71573": {
+      "first_seen": 0,
+      "posted": "2026-09-30",
+      "title": "Ford Racing Body Structure Engineer",
+      "job_id": "71573",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71573"
+    },
+    "71594": {
+      "first_seen": 0,
+      "posted": "2026-09-30",
+      "title": "Ford Racing Interior Engineer",
+      "job_id": "71594",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71594"
+    },
+    "71625": {
+      "first_seen": 0,
+      "posted": "2026-09-30",
+      "title": "Senior Safety Engineer, Ford Energy",
+      "job_id": "71625",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71625"
+    },
+    "71700": {
+      "first_seen": 0,
+      "posted": "2026-09-30",
+      "title": "Ford Racing Assistant Chief Program Engineer",
+      "job_id": "71700",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71700"
+    },
+    "71784": {
+      "first_seen": 0,
+      "posted": "2026-09-30",
+      "title": "Vehicle Systems Development Engineer",
+      "job_id": "71784",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71784"
+    },
+    "71808": {
+      "first_seen": 1790784297.7434983,
+      "posted": "2026-09-30",
+      "title": "Embedded Software Engineer",
+      "job_id": "71808",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71808"
+    },
+    "71882": {
+      "first_seen": 0,
+      "posted": "2026-09-30",
+      "title": "Staff Audio Test Automation Engineer",
+      "job_id": "71882",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71882"
+    },
+    "67187": {
+      "first_seen": 0,
+      "posted": "2026-09-29",
+      "title": "STA Launch Engineer",
+      "job_id": "67187",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67187"
+    },
+    "67535": {
+      "first_seen": 0,
+      "posted": "2026-09-29",
+      "title": "Feature System Engineer",
+      "job_id": "67535",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67535"
+    },
+    "70127": {
+      "first_seen": 1790710497.5873723,
+      "posted": "2026-09-29",
+      "title": "Data Scientist",
+      "job_id": "70127",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70127"
+    },
+    "70683": {
+      "first_seen": 0,
+      "posted": "2026-09-29",
+      "title": "Structural Systems Engineer",
+      "job_id": "70683",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70683"
+    },
+    "71233": {
+      "first_seen": 1790716471.711927,
+      "posted": "2026-09-29",
+      "title": "Charging and Energy Infrastructure Cybersecurity Engineer",
+      "job_id": "71233",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71233"
+    },
+    "71406": {
+      "first_seen": 0,
+      "posted": "2026-09-29",
+      "title": "Exterior Lighting Engineer",
+      "job_id": "71406",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71406"
+    },
+    "71574": {
+      "first_seen": 0,
+      "posted": "2026-09-29",
+      "title": "Ford Racing Body Exterior Engineer",
+      "job_id": "71574",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71574"
+    },
+    "71632": {
+      "first_seen": 0,
+      "posted": "2026-09-29",
+      "title": "Technical Systems Integration Engineer",
+      "job_id": "71632",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71632"
+    },
+    "71640": {
+      "first_seen": 0,
+      "posted": "2026-09-29",
+      "title": "Ford Racing Features & HMI Engineer",
+      "job_id": "71640",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71640"
+    },
+    "69907": {
+      "first_seen": 0,
       "posted": "2026-09-28",
-      "title": "Quality Analytics Engineer",
-      "job_id": "68687",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68687"
+      "title": "Systems Engineering Team (SET) Lead",
+      "job_id": "69907",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69907"
+    },
+    "70018": {
+      "first_seen": 0,
+      "posted": "2026-09-28",
+      "title": "Category Implementation Buyer-Engineering/Professional Services",
+      "job_id": "70018",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70018"
+    },
+    "70401": {
+      "first_seen": 1790710497.5873759,
+      "posted": "2026-09-28",
+      "title": "Consulting Architect, AI-Enabled Supply Chain",
+      "job_id": "70401",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70401"
+    },
+    "70926": {
+      "first_seen": 1790710497.5873764,
+      "posted": "2026-09-28",
+      "title": "Business Architect",
+      "job_id": "70926",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70926"
+    },
+    "70998": {
+      "first_seen": 0,
+      "posted": "2026-09-28",
+      "title": "Architecture Supervisor-Systems Engineering Teams (SET)",
+      "job_id": "70998",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70998"
     },
     "71235": {
       "first_seen": 1790709650.8200722,
@@ -18,12 +270,19 @@
       "job_id": "71235",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71235"
     },
-    "71416": {
-      "first_seen": 1790709650.820073,
+    "71279": {
+      "first_seen": 0,
       "posted": "2026-09-28",
-      "title": "Senior Software Engineer",
-      "job_id": "71416",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71416"
+      "title": "Ford Racing Vehicle Dynamics Engineer",
+      "job_id": "71279",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71279"
+    },
+    "71604": {
+      "first_seen": 0,
+      "posted": "2026-09-28",
+      "title": "Quality Engineer, Ford Energy",
+      "job_id": "71604",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71604"
     },
     "71724": {
       "first_seen": 1790709650.8200738,
@@ -32,12 +291,236 @@
       "job_id": "71724",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71724"
     },
+    "67026": {
+      "first_seen": 0,
+      "posted": "2026-09-25",
+      "title": "Engine Controls Software Engineer",
+      "job_id": "67026",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67026"
+    },
+    "68426": {
+      "first_seen": 0,
+      "posted": "2026-09-25",
+      "title": "Field Quality Engineer",
+      "job_id": "68426",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68426"
+    },
+    "68992": {
+      "first_seen": 0,
+      "posted": "2026-09-25",
+      "title": "Prognostics Engineer",
+      "job_id": "68992",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68992"
+    },
+    "69195": {
+      "first_seen": 0,
+      "posted": "2026-09-25",
+      "title": "Technical Writer/Documentation Engineer, Ford Energy",
+      "job_id": "69195",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69195"
+    },
+    "69205": {
+      "first_seen": 0,
+      "posted": "2026-09-25",
+      "title": "Customer Accreditation, Bankability and Audits Engineer, Ford Energy",
+      "job_id": "69205",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69205"
+    },
+    "69650": {
+      "first_seen": 0,
+      "posted": "2026-09-25",
+      "title": "Regulatory Requirements Engineer, Ford Energy",
+      "job_id": "69650",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69650"
+    },
+    "70218": {
+      "first_seen": 0,
+      "posted": "2026-09-25",
+      "title": "Paint Quality Engineer",
+      "job_id": "70218",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70218"
+    },
+    "70996": {
+      "first_seen": 0,
+      "posted": "2026-09-25",
+      "title": "Safety Investigative Engineer",
+      "job_id": "70996",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70996"
+    },
+    "59182": {
+      "first_seen": 0,
+      "posted": "2026-09-24",
+      "title": "Staff Software Developer \u2013 IVI Test Infrastructure",
+      "job_id": "59182",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/59182"
+    },
     "68128": {
       "first_seen": 1790709650.8200748,
       "posted": "2026-09-24",
       "title": "Senior Software Engineer",
       "job_id": "68128",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68128"
+    },
+    "70511": {
+      "first_seen": 0,
+      "posted": "2026-09-24",
+      "title": "Sr Safety Investigations Engineer",
+      "job_id": "70511",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70511"
+    },
+    "70521": {
+      "first_seen": 0,
+      "posted": "2026-09-24",
+      "title": "Staff Data Platform & Products Architect",
+      "job_id": "70521",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70521"
+    },
+    "71160": {
+      "first_seen": 0,
+      "posted": "2026-09-24",
+      "title": "Software PVT Engineer",
+      "job_id": "71160",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71160"
+    },
+    "71161": {
+      "first_seen": 0,
+      "posted": "2026-09-24",
+      "title": "PVT Product Engineer",
+      "job_id": "71161",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71161"
+    },
+    "71365": {
+      "first_seen": 0,
+      "posted": "2026-09-24",
+      "title": "Staff Design Industrialization Engineer - Thermals",
+      "job_id": "71365",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71365"
+    },
+    "71347": {
+      "first_seen": 0,
+      "posted": "2026-09-24",
+      "title": "Staff Digital Key Software Engineer",
+      "job_id": "71347",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71347"
+    },
+    "71552": {
+      "first_seen": 0,
+      "posted": "2026-09-24",
+      "title": "Staff Systems Integration Engineer - IVI Software",
+      "job_id": "71552",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71552"
+    },
+    "66647": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Fuel - D&R Engineer",
+      "job_id": "66647",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66647"
+    },
+    "70814": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Product Environmental Engineer",
+      "job_id": "70814",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70814"
+    },
+    "70873": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Safety Investigations Engineer",
+      "job_id": "70873",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70873"
+    },
+    "70902": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Advanced Conveyors Engineer",
+      "job_id": "70902",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70902"
+    },
+    "71366": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Senior Interior Systems Engineer - Hard Trim",
+      "job_id": "71366",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71366"
+    },
+    "71356": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Lighting Engineer - Exterior Lighting",
+      "job_id": "71356",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71356"
+    },
+    "69336": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "STA Site Engineer",
+      "job_id": "69336",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69336"
+    },
+    "70760": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "In-Vehicle Network Software Developer",
+      "job_id": "70760",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70760"
+    },
+    "70834": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "Lighting Engineer",
+      "job_id": "70834",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70834"
+    },
+    "70961": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "Sr. Infotainment Component Engineer - Compute and Connectivity",
+      "job_id": "70961",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70961"
+    },
+    "71397": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "Senior Vehicle Integration Engineer",
+      "job_id": "71397",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71397"
+    },
+    "71413": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "ADAS Engineer",
+      "job_id": "71413",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71413"
+    },
+    "71402": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "CFD Engineer",
+      "job_id": "71402",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71402"
+    },
+    "71426": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "Core MBSE Engineer",
+      "job_id": "71426",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71426"
+    },
+    "71408": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "Senior Software Engineer",
+      "job_id": "71408",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71408"
+    },
+    "71420": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "ADAS MBD Software & Autocode Engineer",
+      "job_id": "71420",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71420"
     },
     "69435": {
       "first_seen": 1790709650.8200755,
@@ -46,19 +529,40 @@
       "job_id": "69435",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69435"
     },
-    "70565": {
-      "first_seen": 1790709650.8200767,
+    "69822": {
+      "first_seen": 0,
       "posted": "2026-09-21",
-      "title": "Senior Wireless Networking Engineer",
-      "job_id": "70565",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70565"
+      "title": "Engine - D&R Engineer",
+      "job_id": "69822",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69822"
     },
-    "71009": {
-      "first_seen": 1790709650.8200777,
+    "70439": {
+      "first_seen": 0,
       "posted": "2026-09-21",
-      "title": "Software Engineer",
-      "job_id": "71009",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71009"
+      "title": "Senior Data Scientist / ML Engineer",
+      "job_id": "70439",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70439"
+    },
+    "71038": {
+      "first_seen": 0,
+      "posted": "2026-09-21",
+      "title": "Thermal Systems Firmware Integration Engineer",
+      "job_id": "71038",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71038"
+    },
+    "71254": {
+      "first_seen": 0,
+      "posted": "2026-09-21",
+      "title": "Senior Geartrain Design and Analysis Engineer",
+      "job_id": "71254",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71254"
+    },
+    "70846": {
+      "first_seen": 0,
+      "posted": "2026-09-20",
+      "title": "Ford Racing Vehicle Engineering Lead \u2013 Feature & Software Delivery",
+      "job_id": "70846",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70846"
     },
     "67165": {
       "first_seen": 1790709650.8200786,
@@ -67,12 +571,82 @@
       "job_id": "67165",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67165"
     },
+    "70585": {
+      "first_seen": 0,
+      "posted": "2026-09-18",
+      "title": "Ford Racing - Vehicle NVH Simulation Engineer",
+      "job_id": "70585",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70585"
+    },
     "70773": {
       "first_seen": 1790709650.8200793,
       "posted": "2026-09-18",
       "title": "Software Engineer",
       "job_id": "70773",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70773"
+    },
+    "71127": {
+      "first_seen": 0,
+      "posted": "2026-09-18",
+      "title": "Stationary Steam Engineer - Sharonville Transmission Plant (STP)",
+      "job_id": "71127",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71127"
+    },
+    "71128": {
+      "first_seen": 0,
+      "posted": "2026-09-18",
+      "title": "Software Engineer, Distributed Systems & Networking",
+      "job_id": "71128",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71128"
+    },
+    "70817": {
+      "first_seen": 0,
+      "posted": "2026-09-17",
+      "title": "Ford Racing Chassis and Advanced Systems Analytical Engineer",
+      "job_id": "70817",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70817"
+    },
+    "70750": {
+      "first_seen": 0,
+      "posted": "2026-09-16",
+      "title": "HIL Engineer",
+      "job_id": "70750",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70750"
+    },
+    "70555": {
+      "first_seen": 0,
+      "posted": "2026-09-15",
+      "title": "Engineer III, Occupational Safety",
+      "job_id": "70555",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70555"
+    },
+    "70663": {
+      "first_seen": 0,
+      "posted": "2026-09-15",
+      "title": "Safety Engineer, Ford Energy",
+      "job_id": "70663",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70663"
+    },
+    "70830": {
+      "first_seen": 0,
+      "posted": "2026-09-15",
+      "title": "ADAS Functional Safety Systems Engineer",
+      "job_id": "70830",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70830"
+    },
+    "70656": {
+      "first_seen": 0,
+      "posted": "2026-09-14",
+      "title": "Staff Diagnostics and Embedded Cyber Security Engineer",
+      "job_id": "70656",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70656"
+    },
+    "66473": {
+      "first_seen": 0,
+      "posted": "2026-09-11",
+      "title": "Senior Software Tools Developer",
+      "job_id": "66473",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66473"
     },
     "70285": {
       "first_seen": 1790709650.8200803,
@@ -81,12 +655,124 @@
       "job_id": "70285",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70285"
     },
-    "67004": {
-      "first_seen": 1790709650.820082,
+    "70292": {
+      "first_seen": 0,
+      "posted": "2026-09-11",
+      "title": "Software Warranty Analyst/Engineer, V19",
+      "job_id": "70292",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70292"
+    },
+    "70731": {
+      "first_seen": 0,
+      "posted": "2026-09-11",
+      "title": "ADAS MBD Software & RTE Engineer",
+      "job_id": "70731",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70731"
+    },
+    "70766": {
+      "first_seen": 1790710497.587391,
+      "posted": "2026-09-11",
+      "title": "Principal Data Scientist",
+      "job_id": "70766",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70766"
+    },
+    "70467": {
+      "first_seen": 0,
+      "posted": "2026-09-10",
+      "title": "Senior Yocto Build Engineer",
+      "job_id": "70467",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70467"
+    },
+    "69856": {
+      "first_seen": 0,
+      "posted": "2026-09-09",
+      "title": "Forward Model Quality Infotainment Engineer",
+      "job_id": "69856",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69856"
+    },
+    "70281": {
+      "first_seen": 0,
+      "posted": "2026-09-08",
+      "title": "Staff Embedded Platform Engineer",
+      "job_id": "70281",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70281"
+    },
+    "70289": {
+      "first_seen": 0,
+      "posted": "2026-09-08",
+      "title": "PS&L Automation Engineer",
+      "job_id": "70289",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70289"
+    },
+    "70317": {
+      "first_seen": 0,
+      "posted": "2026-09-08",
+      "title": "Staff Range and Performance Engineer",
+      "job_id": "70317",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70317"
+    },
+    "69772": {
+      "first_seen": 0,
+      "posted": "2026-09-07",
+      "title": "Electrical & Software PVT Engineer",
+      "job_id": "69772",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69772"
+    },
+    "69885": {
+      "first_seen": 0,
       "posted": "2026-09-04",
-      "title": "SAP Security Engineer, Ford Energy",
-      "job_id": "67004",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67004"
+      "title": "ADAS Design & Release Engineer",
+      "job_id": "69885",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69885"
+    },
+    "69288": {
+      "first_seen": 0,
+      "posted": "2026-09-03",
+      "title": "BMS Software Development Engineer",
+      "job_id": "69288",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69288"
+    },
+    "69611": {
+      "first_seen": 0,
+      "posted": "2026-09-03",
+      "title": "Ford Racing Engine Performance Development Engineer",
+      "job_id": "69611",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69611"
+    },
+    "69644": {
+      "first_seen": 0,
+      "posted": "2026-09-03",
+      "title": "BMS Design & Release Engineer",
+      "job_id": "69644",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69644"
+    },
+    "69802": {
+      "first_seen": 0,
+      "posted": "2026-09-03",
+      "title": "ADAS Diagnostic Systems Engineer",
+      "job_id": "69802",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69802"
+    },
+    "65268": {
+      "first_seen": 0,
+      "posted": "2026-09-02",
+      "title": "Chief Engineer, AI Product Creation",
+      "job_id": "65268",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/65268"
+    },
+    "68206": {
+      "first_seen": 0,
+      "posted": "2026-09-02",
+      "title": "Senior Hybrid Cloud & Mainframe Architect",
+      "job_id": "68206",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68206"
+    },
+    "69805": {
+      "first_seen": 0,
+      "posted": "2026-09-02",
+      "title": "Calibration Engineer",
+      "job_id": "69805",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69805"
     },
     "69550": {
       "first_seen": 1790709650.8200827,
@@ -94,6 +780,76 @@
       "title": "SAP ABAP Developer",
       "job_id": "69550",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69550"
+    },
+    "69598": {
+      "first_seen": 0,
+      "posted": "2026-09-01",
+      "title": "Engineering Learning and Development Supervisor",
+      "job_id": "69598",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69598"
+    },
+    "62509": {
+      "first_seen": 0,
+      "posted": "2026-08-31",
+      "title": "Platform Execution Engineer",
+      "job_id": "62509",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/62509"
+    },
+    "65071": {
+      "first_seen": 0,
+      "posted": "2026-08-29",
+      "title": "Jira Administration Engineer",
+      "job_id": "65071",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/65071"
+    },
+    "62576": {
+      "first_seen": 0,
+      "posted": "2026-08-28",
+      "title": "Senior Software Engineer -Ford Pro Intelligence",
+      "job_id": "62576",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/62576"
+    },
+    "68798": {
+      "first_seen": 0,
+      "posted": "2026-08-28",
+      "title": "Functional Safety Engineer",
+      "job_id": "68798",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68798"
+    },
+    "69192": {
+      "first_seen": 0,
+      "posted": "2026-08-28",
+      "title": "Cell DV/PV Testing Engineer, Ford Energy",
+      "job_id": "69192",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69192"
+    },
+    "69238": {
+      "first_seen": 0,
+      "posted": "2026-08-28",
+      "title": "Product Engineer",
+      "job_id": "69238",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69238"
+    },
+    "69449": {
+      "first_seen": 0,
+      "posted": "2026-08-28",
+      "title": "Chassis Controls Software Engineer",
+      "job_id": "69449",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69449"
+    },
+    "69689": {
+      "first_seen": 0,
+      "posted": "2026-08-28",
+      "title": "Data Engineer, Automation & Controls, BlueOval Battery Park Michigan",
+      "job_id": "69689",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69689"
+    },
+    "66511": {
+      "first_seen": 0,
+      "posted": "2026-08-27",
+      "title": "Low Voltage Power Supply FMA Engineer",
+      "job_id": "66511",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66511"
     },
     "69503": {
       "first_seen": 1790709650.8200834,
@@ -109,12 +865,54 @@
       "job_id": "69527",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69527"
     },
+    "69723": {
+      "first_seen": 0,
+      "posted": "2026-08-26",
+      "title": "Staff Functional Safety Engineer",
+      "job_id": "69723",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69723"
+    },
     "63126": {
       "first_seen": 1790709650.8200848,
       "posted": "2026-08-25",
       "title": "Cloud Platform Software Engineer \u2014 Global Connected Vehicle Platform",
       "job_id": "63126",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/63126"
+    },
+    "66393": {
+      "first_seen": 0,
+      "posted": "2026-08-25",
+      "title": "Ford Racing Design and Release Engineer",
+      "job_id": "66393",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66393"
+    },
+    "69638": {
+      "first_seen": 0,
+      "posted": "2026-08-25",
+      "title": "Staff Android Framework Developer",
+      "job_id": "69638",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69638"
+    },
+    "67941": {
+      "first_seen": 0,
+      "posted": "2026-08-24",
+      "title": "Launch Engineer",
+      "job_id": "67941",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67941"
+    },
+    "69560": {
+      "first_seen": 0,
+      "posted": "2026-08-24",
+      "title": "DAT Feature and Software Engineer",
+      "job_id": "69560",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69560"
+    },
+    "69569": {
+      "first_seen": 0,
+      "posted": "2026-08-24",
+      "title": "Passive Safety Systems Integration Engineer",
+      "job_id": "69569",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69569"
     },
     "69566": {
       "first_seen": 1790709650.8200855,
@@ -123,12 +921,40 @@
       "job_id": "69566",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69566"
     },
+    "62290": {
+      "first_seen": 0,
+      "posted": "2026-08-23",
+      "title": "Powertrain Control Software Validation Engineer",
+      "job_id": "62290",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/62290"
+    },
+    "68595": {
+      "first_seen": 0,
+      "posted": "2026-08-21",
+      "title": "Principal Engineer, Ford Pro Intelligence",
+      "job_id": "68595",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68595"
+    },
     "68599": {
       "first_seen": 1790709650.8200862,
       "posted": "2026-08-21",
       "title": "Feature Systems Engineer \u2013 Customer Connectivity Settings and FordPass Activation",
       "job_id": "68599",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68599"
+    },
+    "69199": {
+      "first_seen": 0,
+      "posted": "2026-08-21",
+      "title": "Requirements and Test Methods Authoring Engineer, Ford Energy",
+      "job_id": "69199",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69199"
+    },
+    "69201": {
+      "first_seen": 0,
+      "posted": "2026-08-21",
+      "title": "Failure Mode Avoidance Engineer, Ford Energy",
+      "job_id": "69201",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69201"
     },
     "69460": {
       "first_seen": 1790709650.820087,
@@ -137,12 +963,110 @@
       "job_id": "69460",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69460"
     },
+    "66732": {
+      "first_seen": 0,
+      "posted": "2026-08-19",
+      "title": "Range and Performance Test Engineer",
+      "job_id": "66732",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66732"
+    },
+    "67088": {
+      "first_seen": 0,
+      "posted": "2026-08-18",
+      "title": "Maintenance Engineer, Ford Energy",
+      "job_id": "67088",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67088"
+    },
+    "67763": {
+      "first_seen": 0,
+      "posted": "2026-08-17",
+      "title": "ADAS Systems Engineer for Perception",
+      "job_id": "67763",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67763"
+    },
+    "68951": {
+      "first_seen": 0,
+      "posted": "2026-08-17",
+      "title": "Staff Embedded Software Engineer",
+      "job_id": "68951",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68951"
+    },
+    "65188": {
+      "first_seen": 0,
+      "posted": "2026-08-15",
+      "title": "Core Functional Safety Engineer",
+      "job_id": "65188",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/65188"
+    },
+    "67432": {
+      "first_seen": 0,
+      "posted": "2026-08-14",
+      "title": "Lead Dyno Engineer",
+      "job_id": "67432",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67432"
+    },
+    "68115": {
+      "first_seen": 0,
+      "posted": "2026-08-14",
+      "title": "Software Engineer",
+      "job_id": "68115",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68115"
+    },
+    "68307": {
+      "first_seen": 0,
+      "posted": "2026-08-13",
+      "title": "Feature System Engineer",
+      "job_id": "68307",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68307"
+    },
+    "68504": {
+      "first_seen": 0,
+      "posted": "2026-08-11",
+      "title": "Software Engineer, Platform Systems (SDV/FNV)",
+      "job_id": "68504",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68504"
+    },
+    "68511": {
+      "first_seen": 0,
+      "posted": "2026-08-11",
+      "title": "Diagnostics & Data Systems Engineer",
+      "job_id": "68511",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68511"
+    },
+    "68613": {
+      "first_seen": 0,
+      "posted": "2026-08-11",
+      "title": "Senior DVA Dimensional Engineer",
+      "job_id": "68613",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68613"
+    },
+    "63538": {
+      "first_seen": 0,
+      "posted": "2026-08-07",
+      "title": "Software Engineer - Vehicle Connectivity & mobility (VC&M)",
+      "job_id": "63538",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/63538"
+    },
+    "67396": {
+      "first_seen": 0,
+      "posted": "2026-08-07",
+      "title": "Connected Data Engineer",
+      "job_id": "67396",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67396"
+    },
     "67325": {
       "first_seen": 1790709650.8200881,
       "posted": "2026-08-05",
       "title": "RAE Software Engineer",
       "job_id": "67325",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67325"
+    },
+    "68305": {
+      "first_seen": 0,
+      "posted": "2026-08-05",
+      "title": "Senior Staff Business Architect",
+      "job_id": "68305",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68305"
     },
     "66769": {
       "first_seen": 1790709650.8200889,
@@ -151,12 +1075,47 @@
       "job_id": "66769",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66769"
     },
+    "67703": {
+      "first_seen": 0,
+      "posted": "2026-07-30",
+      "title": "Lead Platform Software V&V Engineer",
+      "job_id": "67703",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67703"
+    },
+    "66764": {
+      "first_seen": 0,
+      "posted": "2026-07-29",
+      "title": "Feature Systems Engineer",
+      "job_id": "66764",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66764"
+    },
     "65620": {
       "first_seen": 1790709650.8200896,
       "posted": "2026-07-27",
       "title": "Customer Identity Platform Engineer",
       "job_id": "65620",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/65620"
+    },
+    "65845": {
+      "first_seen": 0,
+      "posted": "2026-07-22",
+      "title": "Data Scientist - Conversational AI",
+      "job_id": "65845",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/65845"
+    },
+    "66938": {
+      "first_seen": 0,
+      "posted": "2026-07-22",
+      "title": "Joining Engineer",
+      "job_id": "66938",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66938"
+    },
+    "66636": {
+      "first_seen": 0,
+      "posted": "2026-07-19",
+      "title": "Network Engineer",
+      "job_id": "66636",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66636"
     },
     "67240": {
       "first_seen": 1790709650.8200908,
@@ -165,12 +1124,54 @@
       "job_id": "67240",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67240"
     },
+    "64395": {
+      "first_seen": 0,
+      "posted": "2026-07-16",
+      "title": "RTOS Embedded Software Engineer",
+      "job_id": "64395",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64395"
+    },
+    "62514": {
+      "first_seen": 0,
+      "posted": "2026-07-15",
+      "title": "Data / Information Architect",
+      "job_id": "62514",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/62514"
+    },
+    "64402": {
+      "first_seen": 0,
+      "posted": "2026-07-15",
+      "title": "In-Vehicle Network Systems Engineer",
+      "job_id": "64402",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64402"
+    },
+    "65436": {
+      "first_seen": 0,
+      "posted": "2026-07-13",
+      "title": "Product Development Engineer - IVI Camera Software",
+      "job_id": "65436",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/65436"
+    },
+    "64642": {
+      "first_seen": 0,
+      "posted": "2026-07-07",
+      "title": "Senior Software Developer in Test - HIL Engineer",
+      "job_id": "64642",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64642"
+    },
     "66574": {
       "first_seen": 1790709650.8200915,
       "posted": "2026-07-06",
       "title": "Senior Software Engineer \u2014 DevOps & Platform, AI Systems",
       "job_id": "66574",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66574"
+    },
+    "66328": {
+      "first_seen": 0,
+      "posted": "2026-07-01",
+      "title": "Staff Supplier Software Integration Engineer",
+      "job_id": "66328",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66328"
     },
     "66418": {
       "first_seen": 1790709650.8200922,
@@ -179,439 +1180,68 @@
       "job_id": "66418",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66418"
     },
-    "64969": {
-      "first_seen": 1790710497.587371,
-      "posted": "2026-09-29",
-      "title": "Global Customer Relationship Center, Digital Experience Manager",
-      "job_id": "64969",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64969"
+    "65527": {
+      "first_seen": 0,
+      "posted": "2026-06-28",
+      "title": "Battery Control Software Application Engineer",
+      "job_id": "65527",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/65527"
     },
-    "70127": {
-      "first_seen": 1790710497.5873723,
-      "posted": "2026-09-29",
-      "title": "Data Scientist",
-      "job_id": "70127",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70127"
+    "65133": {
+      "first_seen": 0,
+      "posted": "2026-06-25",
+      "title": "Systems and Software Quality Engineer",
+      "job_id": "65133",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/65133"
     },
-    "71717": {
-      "first_seen": 1790710497.5873728,
-      "posted": "2026-09-29",
-      "title": "AI/ML Battery Manufacturing Technologist",
-      "job_id": "71717",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71717"
+    "66040": {
+      "first_seen": 0,
+      "posted": "2026-06-25",
+      "title": "Staff System Software Integration and Validation Engineer",
+      "job_id": "66040",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66040"
     },
-    "71122": {
-      "first_seen": 1790710497.5873733,
-      "posted": "2026-09-29",
-      "title": "Direct of Product Management, Electrification",
-      "job_id": "71122",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71122"
+    "65771": {
+      "first_seen": 0,
+      "posted": "2026-06-22",
+      "title": "Staff Design Industrialization Engineer - Display and Camera",
+      "job_id": "65771",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/65771"
     },
-    "66773": {
-      "first_seen": 1790710497.5873735,
-      "posted": "2026-09-29",
-      "title": "Security Administrator & Systems Analyst- Bank Platforms- Ford Credit Bank",
-      "job_id": "66773",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66773"
+    "64124": {
+      "first_seen": 0,
+      "posted": "2026-06-11",
+      "title": "Software Engineer",
+      "job_id": "64124",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64124"
     },
-    "71846": {
-      "first_seen": 1790710497.587374,
-      "posted": "2026-09-29",
-      "title": "Forward Deployed Engineer \u2013 Advanced Manufacturing",
-      "job_id": "71846",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71846"
+    "65361": {
+      "first_seen": 0,
+      "posted": "2026-06-11",
+      "title": "Senior Drive Unit Lubrication and Thermals Engineer",
+      "job_id": "65361",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/65361"
     },
-    "71715": {
-      "first_seen": 1790710497.5873744,
-      "posted": "2026-09-29",
-      "title": "AI/ML Battery Manufacturing Technologist",
-      "job_id": "71715",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71715"
+    "62066": {
+      "first_seen": 0,
+      "posted": "2026-04-23",
+      "title": "Studio Engineer",
+      "job_id": "62066",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/62066"
     },
-    "71804": {
-      "first_seen": 1790710497.587375,
-      "posted": "2026-09-29",
-      "title": "Embedded Controls Engineer, Body Controls",
-      "job_id": "71804",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71804"
+    "61919": {
+      "first_seen": 0,
+      "posted": "2026-04-07",
+      "title": "Skilled Trade \u2013 Stationary Steam Engineer \u2013 Buffalo Stamping Plant (BSP)",
+      "job_id": "61919",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/61919"
     },
-    "68377": {
-      "first_seen": 1790710497.5873754,
-      "posted": "2026-09-29",
-      "title": "Software Engineering Manager",
-      "job_id": "68377",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68377"
-    },
-    "70401": {
-      "first_seen": 1790710497.5873759,
-      "posted": "2026-09-29",
-      "title": "Consulting Architect, AI-Enabled Supply Chain",
-      "job_id": "70401",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70401"
-    },
-    "70926": {
-      "first_seen": 1790710497.5873764,
-      "posted": "2026-09-29",
-      "title": "Business Architect",
-      "job_id": "70926",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70926"
-    },
-    "71042": {
-      "first_seen": 1790710497.5873768,
-      "posted": "2026-09-29",
-      "title": "SAP Source to Pay (S2P) - Integration & Dependency Management Manager",
-      "job_id": "71042",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71042"
-    },
-    "70245": {
-      "first_seen": 1790710497.5873775,
-      "posted": "2026-09-29",
-      "title": "SAP Cloud Integration Lead",
-      "job_id": "70245",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70245"
-    },
-    "71680": {
-      "first_seen": 1790710497.5873783,
-      "posted": "2026-09-29",
-      "title": "Body Exteriors and Closures CAE Engineer",
-      "job_id": "71680",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71680"
-    },
-    "70819": {
-      "first_seen": 1790710497.5873787,
-      "posted": "2026-09-29",
-      "title": "AI Product Designer",
-      "job_id": "70819",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70819"
-    },
-    "71175": {
-      "first_seen": 1790710497.5873792,
-      "posted": "2026-09-29",
-      "title": "Data Product Manager",
-      "job_id": "71175",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71175"
-    },
-    "70273": {
-      "first_seen": 1790710497.5873797,
-      "posted": "2026-09-29",
-      "title": "Senior Data Scientist \u2013 Go-to-Market Advanced Analytics (Yield Management)",
-      "job_id": "70273",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70273"
-    },
-    "70906": {
-      "first_seen": 1790710497.5873802,
-      "posted": "2026-09-29",
-      "title": "Product Manager, Inbound",
-      "job_id": "70906",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70906"
-    },
-    "71098": {
-      "first_seen": 1790710497.5873818,
-      "posted": "2026-09-29",
-      "title": "Mechatronics Driveline & Transmission Subsystem Engineer",
-      "job_id": "71098",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71098"
-    },
-    "67170": {
-      "first_seen": 1790710497.5873823,
-      "posted": "2026-09-29",
-      "title": "Research and Advanced Electrified Propulsion Systems Engineer",
-      "job_id": "67170",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67170"
-    },
-    "67650": {
-      "first_seen": 1790710497.587383,
-      "posted": "2026-09-29",
-      "title": "Thermal Systems Engineer",
-      "job_id": "67650",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67650"
-    },
-    "71138": {
-      "first_seen": 1790710497.5873837,
-      "posted": "2026-09-29",
-      "title": "Mechatronics Fuel Subsystem Engineer - Propulsion",
-      "job_id": "71138",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71138"
-    },
-    "70735": {
-      "first_seen": 1790710497.5873842,
-      "posted": "2026-09-29",
-      "title": "ServiceNow Platform Manager - Strategy & Governance",
-      "job_id": "70735",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70735"
-    },
-    "70710": {
-      "first_seen": 1790710497.587385,
-      "posted": "2026-09-29",
-      "title": "Applications Engineer, Low Voltage Power Supply Electronics Applications & Engineering Project Management",
-      "job_id": "70710",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70710"
-    },
-    "70523": {
-      "first_seen": 1790710497.5873854,
-      "posted": "2026-09-29",
-      "title": "Technology Specialist",
-      "job_id": "70523",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70523"
-    },
-    "70576": {
-      "first_seen": 1790710497.587386,
-      "posted": "2026-09-29",
-      "title": "AI Engineer, Industrial Systems Data Platform (ISDP)",
-      "job_id": "70576",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70576"
-    },
-    "70651": {
-      "first_seen": 1790710497.5873864,
-      "posted": "2026-09-29",
-      "title": "Subsystem Engineer \u2013 Powertrain Sensors",
-      "job_id": "70651",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70651"
-    },
-    "71013": {
-      "first_seen": 1790710497.5873868,
-      "posted": "2026-09-29",
-      "title": "Mechatronics Subsystems Application Engineer",
-      "job_id": "71013",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71013"
-    },
-    "70290": {
-      "first_seen": 1790710497.5873876,
-      "posted": "2026-09-29",
-      "title": "Data Governance Analyst",
-      "job_id": "70290",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70290"
-    },
-    "66937": {
-      "first_seen": 1790710497.5873883,
-      "posted": "2026-09-29",
-      "title": "ADAS Help Me Drive Verification & Validation Engineer",
-      "job_id": "66937",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66937"
-    },
-    "70354": {
-      "first_seen": 1790710497.587389,
-      "posted": "2026-09-29",
-      "title": "Manufacturing LAN Planning and Delivery Manager",
-      "job_id": "70354",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70354"
-    },
-    "70776": {
-      "first_seen": 1790710497.5873892,
-      "posted": "2026-09-29",
-      "title": "Occupant Safety CAE Engineer",
-      "job_id": "70776",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70776"
-    },
-    "70635": {
-      "first_seen": 1790710497.58739,
-      "posted": "2026-09-29",
-      "title": "Cybersecurity Operations Manager, Ford Energy",
-      "job_id": "70635",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70635"
-    },
-    "70715": {
-      "first_seen": 1790710497.5873904,
-      "posted": "2026-09-29",
-      "title": "Senior SAP Fiori/U15 Consultant",
-      "job_id": "70715",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70715"
-    },
-    "70766": {
-      "first_seen": 1790710497.587391,
-      "posted": "2026-09-29",
-      "title": "Principal Data Scientist",
-      "job_id": "70766",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70766"
-    },
-    "66341": {
-      "first_seen": 1790710497.5873914,
-      "posted": "2026-09-29",
-      "title": "Hardware Engineer",
-      "job_id": "66341",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66341"
-    },
-    "70388": {
-      "first_seen": 1790710497.587392,
-      "posted": "2026-09-29",
-      "title": "Advanced Gasoline Emissions Research Engineer",
-      "job_id": "70388",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70388"
-    },
-    "70137": {
-      "first_seen": 1790710497.5873926,
-      "posted": "2026-09-29",
-      "title": "Research Engineer: Next-Gen Emissions and Aftertreatment Simulation",
-      "job_id": "70137",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70137"
-    },
-    "69692": {
-      "first_seen": 1790710497.5873933,
-      "posted": "2026-09-29",
-      "title": "SAP S/4 MM Functional Consultant",
-      "job_id": "69692",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69692"
-    },
-    "71627": {
-      "first_seen": 1790715846.817638,
-      "posted": "2026-09-29",
-      "title": "Director, Cloud & AI Infrastructure Operations",
-      "job_id": "71627",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71627"
-    },
-    "71233": {
-      "first_seen": 1790716471.711927,
-      "posted": "2026-09-29",
-      "title": "Charging and Energy Infrastructure Cybersecurity Engineer",
-      "job_id": "71233",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71233"
-    },
-    "69191": {
-      "first_seen": 1790729047.8483865,
-      "posted": "2026-09-30",
-      "title": "Cyber Red Team Researcher",
-      "job_id": "69191",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69191"
-    },
-    "70142": {
-      "first_seen": 1790748865.5128624,
-      "posted": "2026-09-30",
-      "title": "HIL Electrical Systems Engineer",
-      "job_id": "70142",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70142"
-    },
-    "69070": {
-      "first_seen": 1790772218.069879,
-      "posted": "2026-09-30",
-      "title": "Software and AI Engineer",
-      "job_id": "69070",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69070"
-    },
-    "71250": {
-      "first_seen": 1790777087.8003485,
-      "posted": "2026-09-30",
-      "title": "Data Python Scientist",
-      "job_id": "71250",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71250"
-    },
-    "69344": {
-      "first_seen": 1790781288.8071005,
-      "posted": "2026-09-30",
-      "title": "Senior Data Engineer - Cybersecurity",
-      "job_id": "69344",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69344"
-    },
-    "71808": {
-      "first_seen": 1790784297.7434983,
-      "posted": "2026-09-30",
-      "title": "Embedded Software Engineer",
-      "job_id": "71808",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71808"
-    },
-    "71799": {
-      "first_seen": 1790785839.4721599,
-      "posted": "2026-09-30",
-      "title": "Senior Manager Master Data Management, Ford Energy",
-      "job_id": "71799",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71799"
-    },
-    "71298": {
-      "first_seen": 1790785839.4721613,
-      "posted": "2026-09-30",
-      "title": "SAP Integration Manager - IERP",
-      "job_id": "71298",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71298"
-    },
-    "71084": {
-      "first_seen": 1790786676.4071527,
-      "posted": "2026-09-30",
-      "title": "Front-End Lead Software Engineer",
-      "job_id": "71084",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71084"
-    },
-    "71540": {
-      "first_seen": 1790788463.154191,
-      "posted": "2026-09-30",
-      "title": "Data Product Manager",
-      "job_id": "71540",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71540"
-    },
-    "71986": {
-      "first_seen": 1790790814.1921067,
-      "posted": "2026-09-30",
-      "title": "Senior Embedded Controls Engineer, Body Controls",
-      "job_id": "71986",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71986"
-    },
-    "71990": {
-      "first_seen": 1790792691.66644,
-      "posted": "2026-09-30",
-      "title": "Senior Embedded Controls Engineer, Vehicle Motion",
-      "job_id": "71990",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71990"
-    },
-    "70992": {
-      "first_seen": 1790794274.8384643,
-      "posted": "2026-09-30",
-      "title": "Engine Performance Development (EPD) Technologist",
-      "job_id": "70992",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70992"
-    },
-    "70049": {
-      "first_seen": 1790797207.9166641,
-      "posted": "2026-09-30",
-      "title": "Full Stack Software Engineer",
-      "job_id": "70049",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70049"
-    },
-    "71293": {
-      "first_seen": 1790798685.145564,
-      "posted": "2026-09-30",
-      "title": "Cloud Systems Developer",
-      "job_id": "71293",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71293"
-    },
-    "71119": {
-      "first_seen": 1790805489.546525,
-      "posted": "2026-09-30",
-      "title": "Staff Product Manager - 3D Print & Additive Mfg",
-      "job_id": "71119",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71119"
-    },
-    "71437": {
-      "first_seen": 1790830451.2149181,
-      "posted": "2026-10-01",
-      "title": "Data Science Supervisor",
-      "job_id": "71437",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71437"
-    },
-    "71858": {
-      "first_seen": 1790867677.7386847,
-      "posted": "2026-10-01",
-      "title": "Salesforce Development and Security Lead, Ford Energy",
-      "job_id": "71858",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71858"
-    },
-    "71815": {
-      "first_seen": 1790873990.5267682,
-      "posted": "2026-10-01",
-      "title": "Principal Architect - Data, AI, and Analytics",
-      "job_id": "71815",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71815"
-    },
-    "71642": {
-      "first_seen": 1790875478.5486917,
-      "posted": "2026-10-01",
-      "title": "Identity Governance Service Transformation & Automation Lead",
-      "job_id": "71642",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71642"
-    },
-    "71637": {
-      "first_seen": 1790879963.1250584,
-      "posted": "2026-10-01",
-      "title": "Enterprise AI Administrator - GenAI, Copilot, & SaaS Platforms",
-      "job_id": "71637",
-      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71637"
+    "59090": {
+      "first_seen": 0,
+      "posted": "2026-02-11",
+      "title": "Staff Closures Systems Engineer",
+      "job_id": "59090",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/59090"
     }
   }
 }

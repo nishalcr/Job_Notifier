@@ -4,68 +4,264 @@
     "company": "samsung"
   },
   "jobs": {
+    "R121076": {
+      "first_seen": 0,
+      "posted": "Posted Today",
+      "title": "Experienced HVAC Engineer",
+      "job_id": "R121076",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-HVAC-Engineer_R121076"
+    },
+    "R120369": {
+      "first_seen": 1790649927.0882251,
+      "posted": "Posted Yesterday",
+      "title": "Engineer, Systems Structure Design",
+      "job_id": "R120369",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Sr-Systems-Engineer---5G-Air-Interface-Call-Processing_R120369"
+    },
+    "R121063": {
+      "first_seen": 1790780151.3729796,
+      "posted": "Posted Yesterday",
+      "title": "Staff Engineer I (M), System Structure Design",
+      "job_id": "R121063",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Staff-Engineer-I--M---System-Structure-Design_R121063"
+    },
+    "R121061": {
+      "first_seen": 1790779055.1059763,
+      "posted": "Posted Yesterday",
+      "title": "Engineer I, Data Engineering",
+      "job_id": "R121061",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Engineer-I--Data-Engineering_R121061"
+    },
+    "R120831": {
+      "first_seen": 1790726060.0649927,
+      "posted": "Posted 2 Days Ago",
+      "title": "Experienced DC Test Engineer",
+      "job_id": "R120831",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Experienced-DC-Test-Engineer_R120831"
+    },
+    "R114182": {
+      "first_seen": 0,
+      "posted": "Posted 3 Days Ago",
+      "title": "Commissioning Engineer",
+      "job_id": "R114182",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Commissioning-Engineer_R114182"
+    },
+    "R118413": {
+      "first_seen": 0,
+      "posted": "Posted 3 Days Ago",
+      "title": "GCS Bulk Gas Engineer",
+      "job_id": "R118413",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/GCS-Bulk-Gas-Engineer_R118413-1"
+    },
+    "R120871": {
+      "first_seen": 1790650451.2531087,
+      "posted": "Posted 3 Days Ago",
+      "title": "Infra Innovation Staff Engineer",
+      "job_id": "R120871",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Infra-Innovation-Staff-Engineer_R120871"
+    },
     "R120623": {
       "first_seen": 1790649927.0882123,
-      "posted": "Posted 4 Days Ago",
+      "posted": "Posted 7 Days Ago",
       "title": "Senior Data Engineer, Defect Quality & Systems",
       "job_id": "R120623",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Senior-Data-Engineer--Defect-Quality---Systems_R120623"
     },
+    "R120900": {
+      "first_seen": 1790650451.2531166,
+      "posted": "Posted 7 Days Ago",
+      "title": "Staff Engineer, Timing",
+      "job_id": "R120900",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Staff-Engineer--Timing_R120900"
+    },
+    "R120896": {
+      "first_seen": 0,
+      "posted": "Posted 7 Days Ago",
+      "title": "Experienced Vacuum Pump Engineer",
+      "job_id": "R120896",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Experienced-Vacuum-Pump-Engineer_R120896"
+    },
     "R114462": {
       "first_seen": 1790649927.0882154,
-      "posted": "Posted 4 Days Ago",
+      "posted": "Posted 7 Days Ago",
       "title": "Senior Network Engineer",
       "job_id": "R114462",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-Network-Engineer_R114462"
     },
-    "R114014": {
-      "first_seen": 1790649927.088217,
-      "posted": "Posted 4 Days Ago",
-      "title": "Senior Network Engineer (Section Leader)",
-      "job_id": "R114014",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-Network-Engineer--Section-Leader-_R114014"
+    "R120865": {
+      "first_seen": 0,
+      "posted": "Posted 8 Days Ago",
+      "title": "Senior PCS Scrubber Engineer",
+      "job_id": "R120865",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Senior-PCS-Scrubber-Engineer_R120865"
+    },
+    "R118362": {
+      "first_seen": 0,
+      "posted": "Posted 8 Days Ago",
+      "title": "Cyber Security Engineer",
+      "job_id": "R118362",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Cyber-Security-Engineer_R118362"
+    },
+    "R120863": {
+      "first_seen": 1790650451.2531219,
+      "posted": "Posted 9 Days Ago",
+      "title": "Staff Engineer, Physical Design",
+      "job_id": "R120863",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Staff-Engineer--Physical-Design_R120863"
+    },
+    "R120860": {
+      "first_seen": 1790650451.2531226,
+      "posted": "Posted 9 Days Ago",
+      "title": "Senior Staff Engineer, Physical Design",
+      "job_id": "R120860",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Senior-Staff-Engineer--Physical-Design_R120860"
     },
     "R120755": {
       "first_seen": 1790649927.0882192,
-      "posted": "Posted 7 Days Ago",
+      "posted": "Posted 10 Days Ago",
       "title": "Application System Engineer",
       "job_id": "R120755",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Experienced-eSPEC-System-Engineer_R120755"
     },
     "R119421": {
       "first_seen": 1790649927.0882206,
-      "posted": "Posted 7 Days Ago",
+      "posted": "Posted 10 Days Ago",
       "title": "Fault Detection & Classification (FDC) Data Science Engineer",
       "job_id": "R119421",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Fault-Detection---Classification--FDC--Data-Science-Engineer_R119421"
     },
+    "R120746": {
+      "first_seen": 0,
+      "posted": "Posted 10 Days Ago",
+      "title": "Senior UPW-IWT Project Engineer",
+      "job_id": "R120746",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-UPW-IWT-Project-Engineer_R120746"
+    },
+    "R120748": {
+      "first_seen": 0,
+      "posted": "Posted 10 Days Ago",
+      "title": "Ultra Pure Water (UPW) Engineering Technical Lead",
+      "job_id": "R120748",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Ultra-Pure-Water--UPW--Engineering-Technical-Lead_R120748"
+    },
+    "R120730": {
+      "first_seen": 0,
+      "posted": "Posted 10 Days Ago",
+      "title": "Senior Project Engineer, T1 WTR",
+      "job_id": "R120730",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-Project-Engineer--T1-WTR_R120730"
+    },
+    "R120442": {
+      "first_seen": 1790650451.2531343,
+      "posted": "Posted 13 Days Ago",
+      "title": "Staff Engineer, GPU Memory Architect",
+      "job_id": "R120442",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/9808-Scranton-Rd-San-Diego-CA-USA/Staff-Engineer--GPU-Memory-Architect_R120442"
+    },
+    "R120415": {
+      "first_seen": 1790650451.2531352,
+      "posted": "Posted 13 Days Ago",
+      "title": "Staff Engineer, GPU System Engineer",
+      "job_id": "R120415",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/9808-Scranton-Rd-San-Diego-CA-USA/Staff-Engineer--GPU-System-Engineer_R120415"
+    },
+    "R120541": {
+      "first_seen": 0,
+      "posted": "Posted 16 Days Ago",
+      "title": "Senior Infrastructure Integration Engineer",
+      "job_id": "R120541",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-Infrastructure-Integration-Engineer_R120541"
+    },
+    "R120553": {
+      "first_seen": 0,
+      "posted": "Posted 16 Days Ago",
+      "title": "Utilities / Infrastructure Designer Engineer",
+      "job_id": "R120553",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-Engineer--T1-Fab-Planning_R120553"
+    },
     "R120617": {
       "first_seen": 1790649927.088222,
-      "posted": "Posted 13 Days Ago",
+      "posted": "Posted 16 Days Ago",
       "title": "Senior Docker Kubernetes Platform Engineer",
       "job_id": "R120617",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-Docker-Kubernetes-Platform-Engineer_R120617-1"
     },
+    "R120545": {
+      "first_seen": 0,
+      "posted": "Posted 17 Days Ago",
+      "title": "Experienced Finance Cost Engineer",
+      "job_id": "R120545",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Finance-Cost-Engineer_R120545-1"
+    },
     "R120631": {
       "first_seen": 1790649927.0882235,
-      "posted": "Posted 14 Days Ago",
+      "posted": "Posted 17 Days Ago",
       "title": "Engineer II, Machine Learning Software",
       "job_id": "R120631",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Engineer-II--Machine-Learning-Software_R120631"
     },
-    "R120369": {
-      "first_seen": 1790649927.0882251,
-      "posted": "Posted 19 Days Ago",
-      "title": "Sr. Systems Engineer \u2013 5G Air Interface Call Processing",
-      "job_id": "R120369",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Sr-Systems-Engineer---5G-Air-Interface-Call-Processing_R120369"
+    "R120562": {
+      "first_seen": 0,
+      "posted": "Posted 17 Days Ago",
+      "title": "Metals DX Engineer",
+      "job_id": "R120562",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Experienced-Metals-DX-Engineer_R120562"
     },
-    "R120259": {
-      "first_seen": 1790649927.0882266,
-      "posted": "Posted 24 Days Ago",
-      "title": "Experienced Engineer, Innovation System",
-      "job_id": "R120259",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Experienced-Engineer--Innovation-System_R120259"
+    "R120585": {
+      "first_seen": 0,
+      "posted": "Posted 20 Days Ago",
+      "title": "Python Software Developer",
+      "job_id": "R120585",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Python-Software-Developer_R120585"
+    },
+    "R120248": {
+      "first_seen": 0,
+      "posted": "Posted 27 Days Ago",
+      "title": "Experienced Compliance Engineer",
+      "job_id": "R120248",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Experienced-Compliance-Engineer_R120248"
+    },
+    "R120239": {
+      "first_seen": 0,
+      "posted": "Posted 27 Days Ago",
+      "title": "Senior Engineer, Life Safety System (LSS)",
+      "job_id": "R120239",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-Engineer--Life-Safety-System--LSS-_R120239"
+    },
+    "R120237": {
+      "first_seen": 0,
+      "posted": "Posted 27 Days Ago",
+      "title": "Senior Engineer, Life Safety System (LSS)",
+      "job_id": "R120237",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-Engineer--Life-Safety-System--LSS-_R120237"
+    },
+    "R120363": {
+      "first_seen": 1790650451.2531567,
+      "posted": "Posted 28 Days Ago",
+      "title": "Staff Customer Quality Engineer",
+      "job_id": "R120363",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Staff-Customer-Quality-Engineer_R120363"
+    },
+    "R116331": {
+      "first_seen": 0,
+      "posted": "Posted 29 Days Ago",
+      "title": "Capacity Planning Engineer",
+      "job_id": "R116331",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Capacity-Planning-Engineer_R116331"
+    },
+    "R118559": {
+      "first_seen": 0,
+      "posted": "Posted 29 Days Ago",
+      "title": "HVAC Engineer",
+      "job_id": "R118559",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/HVAC-Engineer_R118559"
+    },
+    "R120175": {
+      "first_seen": 1790650451.2531583,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Staff, IT Storage Engineer",
+      "job_id": "R120175",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Senior-Staff--IT-Storage-Engineer_R120175"
     },
     "R120048": {
       "first_seen": 1790649927.0882277,
@@ -95,6 +291,13 @@
       "job_id": "R118889",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Photo-Reticle-Engineer---All-Shifts_R118889"
     },
+    "R118895": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Photo Quality Engineer",
+      "job_id": "R118895",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Photo-Quality-Engineer_R118895"
+    },
     "R119838": {
       "first_seen": 1790649927.0882332,
       "posted": "Posted 30+ Days Ago",
@@ -109,12 +312,19 @@
       "job_id": "R119835",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Photo-Reticle-Engineer---All-Shifts_R119835"
     },
-    "R119471": {
-      "first_seen": 1790649927.0882359,
+    "R117841": {
+      "first_seen": 0,
       "posted": "Posted 30+ Days Ago",
-      "title": "Business Continuity Engineer",
-      "job_id": "R119471",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Business-Continuity-Engineer_R119471"
+      "title": "Micro-architect/Logic Designer, Coherent Interconnect",
+      "job_id": "R117841",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Micro-architect-Logic-Designer--Coherent-Interconnect_R117841"
+    },
+    "R117743": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "CPU Micro-architect",
+      "job_id": "R117743",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/CPU-Micro-architect_R117743"
     },
     "R119311": {
       "first_seen": 1790649927.0882366,
@@ -137,12 +347,47 @@
       "job_id": "R119506",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Engineer-III--System-Structure-Design_R119506"
     },
+    "R119501": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Staff Engineer I, System Structure Design",
+      "job_id": "R119501",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Staff-Engineer-I--System-Structure-Design_R119501"
+    },
     "R119500": {
       "first_seen": 1790649927.0882401,
       "posted": "Posted 30+ Days Ago",
       "title": "Engineer, Software Analysis Engineering",
       "job_id": "R119500",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Engineer--Software-Analysis-Engineering_R119500"
+    },
+    "R119109": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "WTR Maintenance Engineer",
+      "job_id": "R119109",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/WTR-Maintenance-Engineer_R119109"
+    },
+    "R119156": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "2027 New Grad: Samsung Emerging Engineer Development Program",
+      "job_id": "R119156",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-New-Grad--SEED--Program_R119156-1"
+    },
+    "R117204": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Staff Engineer, GPU Front-End Infrastructure/ Methodology",
+      "job_id": "R117204",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Staff-Engineer--GPU-Front-End-Infrastructure--Methodology_R117204"
+    },
+    "R113532": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Engineer, GPU Performance Architect (PPA)",
+      "job_id": "R113532",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Senior-Engineer--GPU-Performance-Architect--PPA-_R113532"
     },
     "R108031": {
       "first_seen": 1790649927.088241,
@@ -151,12 +396,47 @@
       "job_id": "R108031",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Design-Technology-Co-Optimization--DTCO--Engineer--Design-flow-and-Methodology_R108031"
     },
+    "R118981": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Sustainability Engineer",
+      "job_id": "R118981",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Sustainability-Engineer_R118981"
+    },
+    "R118966": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "GCS Gas Engineer",
+      "job_id": "R118966",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/GCS-Gas-Engineer_R118966"
+    },
+    "R113765": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Staff Engineer, GPU Architect",
+      "job_id": "R113765",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Staff-Engineer--GPU-Architect_R113765"
+    },
     "R117880": {
       "first_seen": 1790649927.0882428,
       "posted": "Posted 30+ Days Ago",
       "title": "Senior Engineer, Machine Learning Application Developer",
       "job_id": "R117880",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Senior-Engineer--Machine-Learning-Application-Developer_R117880"
+    },
+    "R118452": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Staff Engineer, GPU Architect, Machine Learning",
+      "job_id": "R118452",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Senior-Staff-Engineer--GPU-Architect--Machine-Learning_R118452"
+    },
+    "R113531": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Engineer, GPU Modeling Architect",
+      "job_id": "R113531",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Senior-Engineer--GPU-Modeling-Architect_R113531-1"
     },
     "R114130": {
       "first_seen": 1790649927.0882444,
@@ -165,12 +445,40 @@
       "job_id": "R114130",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/DFx-Engineer_R114130"
     },
-    "R116863": {
-      "first_seen": 1790649927.0882454,
+    "R118776": {
+      "first_seen": 0,
       "posted": "Posted 30+ Days Ago",
-      "title": "Automation DX Engineer",
-      "job_id": "R116863",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Full-Stack-DX-Engineer_R116863"
+      "title": "Senior Staff Engineer, Physical Design (Floorplanning)",
+      "job_id": "R118776",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Senior-Staff-Engineer--Physical-Design--Floorplanning-_R118776"
+    },
+    "R112894": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Senior Staff Physical Design Feasibility Engineer",
+      "job_id": "R112894",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Senior-Staff-Physical-Design-Feasibility-Engineer_R112894"
+    },
+    "R112889": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Sr. Staff Physical Design PPA Engineer",
+      "job_id": "R112889",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Sr-Staff-Physical-Design-PPA-Engineer_R112889"
+    },
+    "R118434": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Field Safety Engineer",
+      "job_id": "R118434",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Field-Safety-Engineer_R118434"
+    },
+    "R109713": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "HVAC Engineer",
+      "job_id": "R109713",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/HVAC-Engineer_R109713"
     },
     "R113818": {
       "first_seen": 1790649927.0882468,
@@ -179,404 +487,19 @@
       "job_id": "R113818",
       "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/TEM-Automation-Engineer_R113818-1"
     },
-    "R116122": {
-      "first_seen": 1790649927.0882475,
+    "R117187": {
+      "first_seen": 0,
       "posted": "Posted 30+ Days Ago",
-      "title": "Wet Clean Process Development Engineer",
-      "job_id": "R116122",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Wet-Clean-Process-Development-Engineer_R116122"
+      "title": "Photo Quality Engineer",
+      "job_id": "R117187",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Photo-Quality-Engineer_R117187"
     },
-    "R120871": {
-      "first_seen": 1790650451.2531087,
-      "posted": "2026-09-29",
-      "title": "Infra Innovation Staff Engineer",
-      "job_id": "R120871",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Infra-Innovation-Staff-Engineer_R120871"
-    },
-    "R120952": {
-      "first_seen": 1790650451.2531111,
-      "posted": "2026-09-29",
-      "title": "Experienced Process Integration Engineer",
-      "job_id": "R120952",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Process-Integration-Engineer_R120952"
-    },
-    "R120209": {
-      "first_seen": 1790650451.2531126,
-      "posted": "2026-09-29",
-      "title": "Senior Reliability Engineer",
-      "job_id": "R120209",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-Reliability-Engineer_R120209"
-    },
-    "R120973": {
-      "first_seen": 1790650451.2531142,
-      "posted": "2026-09-29",
-      "title": "Senior CVD Process Engineer",
-      "job_id": "R120973",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Senior-CVD-Process-Engineer_R120973"
-    },
-    "R120972": {
-      "first_seen": 1790650451.253115,
-      "posted": "2026-09-29",
-      "title": "Experienced CVD Process Engineer",
-      "job_id": "R120972",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-CVD-Process-Engineer_R120972"
-    },
-    "R120215": {
-      "first_seen": 1790650451.2531157,
-      "posted": "2026-09-29",
-      "title": "Experienced Engineer, Manufacturing Quality & Reliability",
-      "job_id": "R120215",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Experienced-Engineer--Manufacturing-Quality---Reliability_R120215"
-    },
-    "R120900": {
-      "first_seen": 1790650451.2531166,
-      "posted": "2026-09-29",
-      "title": "Staff Engineer, Timing",
-      "job_id": "R120900",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Staff-Engineer--Timing_R120900"
-    },
-    "R119430": {
-      "first_seen": 1790650451.253118,
-      "posted": "2026-09-29",
-      "title": "Material Technology Engineer",
-      "job_id": "R119430",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Material-Technology-Engineer_R119430-1"
-    },
-    "R113911": {
-      "first_seen": 1790650451.2531188,
-      "posted": "2026-09-29",
-      "title": "Metals Process Engineer",
-      "job_id": "R113911",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Metals-Process-Engineer_R113911"
-    },
-    "R120621": {
-      "first_seen": 1790650451.2531192,
-      "posted": "2026-09-29",
-      "title": "Experienced Engineer, Quality & Reliability",
-      "job_id": "R120621",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Engineer--Quality---Reliability_R120621"
-    },
-    "R120589": {
-      "first_seen": 1790650451.2531202,
-      "posted": "2026-09-29",
-      "title": "Senior DFM Engineer, Signal One",
-      "job_id": "R120589",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Senior-DFM-Engineer--Signal-One_R120589"
-    },
-    "R119962": {
-      "first_seen": 1790650451.2531211,
-      "posted": "2026-09-29",
-      "title": "Staff Engineer, GPU Design Verification (Subsystems)",
-      "job_id": "R119962",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Staff-Engineer--GPU-Design-Verification--Subsystems-_R119962"
-    },
-    "R120863": {
-      "first_seen": 1790650451.2531219,
-      "posted": "2026-09-29",
-      "title": "Staff Engineer, Physical Design",
-      "job_id": "R120863",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Staff-Engineer--Physical-Design_R120863"
-    },
-    "R120860": {
-      "first_seen": 1790650451.2531226,
-      "posted": "2026-09-29",
-      "title": "Senior Staff Engineer, Physical Design",
-      "job_id": "R120860",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Senior-Staff-Engineer--Physical-Design_R120860"
-    },
-    "R120830": {
-      "first_seen": 1790650451.2531235,
-      "posted": "2026-09-29",
-      "title": "CVD Process Engineering Manager",
-      "job_id": "R120830",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/CVD-Process-Engineering-Manager_R120830-1"
-    },
-    "R120816": {
-      "first_seen": 1790650451.2531247,
-      "posted": "2026-09-29",
-      "title": "Experienced Diffusion/Implant RTP and DPN Equipment Engineer",
-      "job_id": "R120816",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Diffusion-Implant-RTP-and-DPN-Equipment-Engineer_R120816"
-    },
-    "R120815": {
-      "first_seen": 1790650451.2531257,
-      "posted": "2026-09-29",
-      "title": "Experienced Diffusion/Implant Flash and Laser Equipment Engineer",
-      "job_id": "R120815",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Diffusion-Implant-Flash-and-Laser-Equipment-Engineer_R120815"
-    },
-    "R120814": {
-      "first_seen": 1790650451.2531276,
-      "posted": "2026-09-29",
-      "title": "Experienced Implant Equipment Engineer",
-      "job_id": "R120814",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Implant-Equipment-Engineer_R120814"
-    },
-    "R120832": {
-      "first_seen": 1790650451.253129,
-      "posted": "2026-09-29",
-      "title": "Experienced Implant Process Engineer",
-      "job_id": "R120832",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Implant-Process-Engineer_R120832-1"
-    },
-    "R120685": {
-      "first_seen": 1790650451.2531297,
-      "posted": "2026-09-29",
-      "title": "Yield and Process Control Innovation Engineer",
-      "job_id": "R120685",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Yield-and-Process-Control-Innovation-Engineer_R120685"
-    },
-    "R119475": {
-      "first_seen": 1790650451.2531304,
-      "posted": "2026-09-29",
-      "title": "Cleans Leviathan Equipment - Team Representative",
-      "job_id": "R119475",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Cleans-Leviathan-Equipment---Team-Representative_R119475-1"
-    },
-    "R120625": {
-      "first_seen": 1790650451.253131,
-      "posted": "2026-09-29",
-      "title": "Senior CMP Equipment Engineer",
-      "job_id": "R120625",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-CMP-Equipment-Engineer_R120625"
-    },
-    "R117210": {
-      "first_seen": 1790650451.253132,
-      "posted": "2026-09-29",
-      "title": "Senior Engineer, GPU RTL Design - Pixel Pipe",
-      "job_id": "R117210",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Engineer--GPU-RTL-Design---Pixel-Pipe_R117210-1"
-    },
-    "R120417": {
-      "first_seen": 1790650451.2531333,
-      "posted": "2026-09-29",
-      "title": "Staff Engineer, Post-Silicon Debug & Validation Engineer",
-      "job_id": "R120417",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Staff-Engineer--Post-Silicon-Debug---Validation-Engineer_R120417"
-    },
-    "R120442": {
-      "first_seen": 1790650451.2531343,
-      "posted": "2026-09-29",
-      "title": "Staff Engineer, GPU Memory Architect",
-      "job_id": "R120442",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/9808-Scranton-Rd-San-Diego-CA-USA/Staff-Engineer--GPU-Memory-Architect_R120442"
-    },
-    "R120415": {
-      "first_seen": 1790650451.2531352,
-      "posted": "2026-09-29",
-      "title": "Staff Engineer, GPU System Engineer",
-      "job_id": "R120415",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/9808-Scranton-Rd-San-Diego-CA-USA/Staff-Engineer--GPU-System-Engineer_R120415"
-    },
-    "R120379": {
-      "first_seen": 1790650451.2531364,
-      "posted": "2026-09-29",
-      "title": "AMHS Engineer",
-      "job_id": "R120379",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/AMHS-Entry-level-Engineer_R120379"
-    },
-    "R120510": {
-      "first_seen": 1790650451.2531376,
-      "posted": "2026-09-29",
-      "title": "Senior Module Integration Engineer",
-      "job_id": "R120510",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-Module-Integration-Engineer_R120510"
-    },
-    "R120470": {
-      "first_seen": 1790650451.2531385,
-      "posted": "2026-09-29",
-      "title": "Experienced Module Integration Engineer",
-      "job_id": "R120470",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Module-Integration-Engineer_R120470"
-    },
-    "R120559": {
-      "first_seen": 1790650451.2531393,
-      "posted": "2026-09-29",
-      "title": "Experienced Engineer, Defect Control Engineering",
-      "job_id": "R120559",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Engineer--Defect-Control-Engineering_R120559-1"
-    },
-    "R116987": {
-      "first_seen": 1790650451.25314,
-      "posted": "2026-09-29",
-      "title": "Module Integration Engineer",
-      "job_id": "R116987",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Module-Integration-Engineer_R116987"
-    },
-    "R120560": {
-      "first_seen": 1790650451.2531412,
-      "posted": "2026-09-29",
-      "title": "Experienced Device Integration Engineer",
-      "job_id": "R120560",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Device-Integration-Engineer_R120560"
-    },
-    "R120546": {
-      "first_seen": 1790650451.253142,
-      "posted": "2026-09-29",
-      "title": "Experienced Metrology Equipment Engineer",
-      "job_id": "R120546",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Metrology-Equipment-Engineer_R120546"
-    },
-    "R120561": {
-      "first_seen": 1790650451.2531428,
-      "posted": "2026-09-29",
-      "title": "Senior CMP Equipment Engineer",
-      "job_id": "R120561",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Senior-CMP-Equipment-Engineer_R120561-1"
-    },
-    "R120361": {
-      "first_seen": 1790650451.2531435,
-      "posted": "2026-09-29",
-      "title": "Anneal Engineer - Equipment or Process",
-      "job_id": "R120361",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Anneal-Engineer---Equipment-or-Process_R120361"
-    },
-    "R120249": {
-      "first_seen": 1790650451.2531445,
-      "posted": "2026-09-29",
-      "title": "Planar Nodes, Experienced Process Integration Engineer",
-      "job_id": "R120249",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Planar-Nodes--Experienced-Process-Integration-Engineer_R120249"
-    },
-    "R120465": {
-      "first_seen": 1790650451.2531455,
-      "posted": "2026-09-29",
-      "title": "Senior Process Integration Engineering (PIE) Engineer",
-      "job_id": "R120465",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Senior-Process-Integration-Engineering--PIE--Engineer_R120465"
-    },
-    "R120060": {
-      "first_seen": 1790650451.2531464,
-      "posted": "2026-09-29",
-      "title": "Staff Equipment Engineer - Scanner",
-      "job_id": "R120060",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Staff-Equipment-Engineer---Scanner_R120060"
-    },
-    "R120308": {
-      "first_seen": 1790650451.2531474,
-      "posted": "2026-09-29",
-      "title": "Senior Data Scientist, Defect Quality & Systems",
-      "job_id": "R120308",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Senior-Data-Scientist--Defect-Quality---Systems_R120308"
-    },
-    "R120134": {
-      "first_seen": 1790650451.2531486,
-      "posted": "2026-09-29",
-      "title": "Yield and Process Control Innovation Engineer",
-      "job_id": "R120134",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Yield-and-Process-Control-Innovation-Engineer_R120134"
-    },
-    "R120313": {
-      "first_seen": 1790650451.2531495,
-      "posted": "2026-09-29",
-      "title": "Etch Senior Process Engineer",
-      "job_id": "R120313",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Etch-Senior-Process-Engineer_R120313"
-    },
-    "R119361": {
-      "first_seen": 1790650451.2531505,
-      "posted": "2026-09-29",
-      "title": "Innovation Equipment Engineer",
-      "job_id": "R119361",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Innovation-Equipment-Engineer_R119361"
-    },
-    "R120177": {
-      "first_seen": 1790650451.2531512,
-      "posted": "2026-09-29",
-      "title": "Experienced Yield Analysis Engineer",
-      "job_id": "R120177",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Experienced-Yield-Analysis-Engineer_R120177"
-    },
-    "R118745": {
-      "first_seen": 1790650451.253152,
-      "posted": "2026-09-29",
-      "title": "Implant Equipment Engineer - Anneal/Surface Treatment",
-      "job_id": "R118745",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Implant-Equipment-Engineer---Anneal-Surface-Treatment_R118745"
-    },
-    "R113914": {
-      "first_seen": 1790650451.2531528,
-      "posted": "2026-09-29",
-      "title": "Implant Equipment Engineer",
-      "job_id": "R113914",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Implant-Equipment-Engineer---Days-or-Nights_R113914"
-    },
-    "R120211": {
-      "first_seen": 1790650451.2531538,
-      "posted": "2026-09-29",
-      "title": "Staff Reliability Engineer",
-      "job_id": "R120211",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Staff-Reliability-Engineer_R120211"
-    },
-    "R120204": {
-      "first_seen": 1790650451.2531548,
-      "posted": "2026-09-29",
-      "title": "Entry Level Engineer, Quality & Reliability",
-      "job_id": "R120204",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Entry-Level-Engineer--Quality---Reliability_R120204"
-    },
-    "R120206": {
-      "first_seen": 1790650451.2531555,
-      "posted": "2026-09-29",
-      "title": "Experienced Manufacturing Quality & Reliability Engineer",
-      "job_id": "R120206",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Experienced-Manufacturing-Quality---Reliability-Engineer_R120206"
-    },
-    "R120363": {
-      "first_seen": 1790650451.2531567,
-      "posted": "2026-09-29",
-      "title": "Staff Customer Quality Engineer",
-      "job_id": "R120363",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Staff-Customer-Quality-Engineer_R120363"
-    },
-    "R120179": {
-      "first_seen": 1790650451.2531574,
-      "posted": "2026-09-29",
-      "title": "Experienced Module Integration Engineer",
-      "job_id": "R120179",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Experienced-Module-Integration-Engineer_R120179"
-    },
-    "R120175": {
-      "first_seen": 1790650451.2531583,
-      "posted": "2026-09-29",
-      "title": "Senior Staff, IT Storage Engineer",
-      "job_id": "R120175",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Senior-Staff--IT-Storage-Engineer_R120175"
-    },
-    "R120723": {
-      "first_seen": 1790703839.4945805,
-      "posted": "2026-09-29",
-      "title": "Experienced Defect Product Module Engineer",
-      "job_id": "R120723",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Experienced-Defect-Product-Module-Engineer_R120723"
-    },
-    "R120831": {
-      "first_seen": 1790726060.0649927,
-      "posted": "2026-09-29",
-      "title": "Experienced DC Test Engineer",
-      "job_id": "R120831",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Experienced-DC-Test-Engineer_R120831"
-    },
-    "R121061": {
-      "first_seen": 1790779055.1059763,
-      "posted": "2026-09-30",
-      "title": "Engineer I, Data Engineering",
-      "job_id": "R121061",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Engineer-I--Data-Engineering_R121061"
-    },
-    "R121063": {
-      "first_seen": 1790780151.3729796,
-      "posted": "2026-09-30",
-      "title": "Staff Engineer I (M), System Structure Design",
-      "job_id": "R121063",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Staff-Engineer-I--M---System-Structure-Design_R121063"
-    },
-    "R119383": {
-      "first_seen": 1790867660.652672,
-      "posted": "2026-10-01",
-      "title": "Hybrid C2C  - BEOL Module Integration Engineer",
-      "job_id": "R119383",
-      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/C2C-Bonding-Engineer_R119383-1"
+    "R115156": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "CRC Operation Engineer",
+      "job_id": "R115156",
+      "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/CRC-Operation-Engineer_R115156-1"
     }
   }
 }

@@ -4,12 +4,103 @@
     "company": "dell"
   },
   "jobs": {
-    "299116": {
-      "first_seen": 1790649996.967601,
+    "R289794": {
+      "first_seen": 1790864062.6375618,
+      "posted": "2026-10-01",
+      "title": "AI Architect (Technical Staff)",
+      "job_id": "R289794",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/R289794"
+    },
+    "294986": {
+      "first_seen": 1790650458.3760707,
+      "posted": "2026-10-01",
+      "title": "Senior Principal Systems Development Engineer",
+      "job_id": "294986",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/294986"
+    },
+    "295843": {
+      "first_seen": 1790650458.376068,
+      "posted": "2026-09-30",
+      "title": "Senior Principal Systems Development Engineer",
+      "job_id": "295843",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295843"
+    },
+    "297589": {
+      "first_seen": 0,
+      "posted": "2026-09-29",
+      "title": "Senior Principal Engineer, Solutions Architecture",
+      "job_id": "297589",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/297589"
+    },
+    "297957": {
+      "first_seen": 0,
+      "posted": "2026-09-29",
+      "title": "Technical Staff, Platform Architect",
+      "job_id": "297957",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/297957"
+    },
+    "R278941": {
+      "first_seen": 1790650458.3760574,
       "posted": "2026-09-28",
-      "title": "Senior Systems Development Engineer",
-      "job_id": "299116",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/299116"
+      "title": "Principal Systems Development Engineer",
+      "job_id": "R278941",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/R278941"
+    },
+    "295519": {
+      "first_seen": 0,
+      "posted": "2026-09-28",
+      "title": "Senior Principal Software Engineer (ServiceNow Process Architect)",
+      "job_id": "295519",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295519"
+    },
+    "295521": {
+      "first_seen": 0,
+      "posted": "2026-09-28",
+      "title": "Senior Principal Software Engineer - (ServiceNow Technical Architect)",
+      "job_id": "295521",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295521"
+    },
+    "295958": {
+      "first_seen": 1790650458.376059,
+      "posted": "2026-09-28",
+      "title": "Software Principal Engineer",
+      "job_id": "295958",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295958"
+    },
+    "297513": {
+      "first_seen": 0,
+      "posted": "2026-09-28",
+      "title": "Postgres Database Engineer",
+      "job_id": "297513",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/297513"
+    },
+    "298444": {
+      "first_seen": 0,
+      "posted": "2026-09-28",
+      "title": "Systems Engineer \u2013 Research Infrastructure & Lab Platforms - Government Customer",
+      "job_id": "298444",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/298444"
+    },
+    "296687": {
+      "first_seen": 1790650458.37606,
+      "posted": "2026-09-25",
+      "title": "Principal Engineer - Enterprise DevOps & ALM Platforms",
+      "job_id": "296687",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/296687"
+    },
+    "295590": {
+      "first_seen": 1790650458.3760614,
+      "posted": "2026-09-24",
+      "title": "AI Development & Agent Ops \u2014  \u00a0Senior Principal Software Security Engineer",
+      "job_id": "295590",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295590"
+    },
+    "298630": {
+      "first_seen": 1790650458.376061,
+      "posted": "2026-09-24",
+      "title": "Principal Systems Development Engineer",
+      "job_id": "298630",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/298630"
     },
     "294076": {
       "first_seen": 1790649996.9676032,
@@ -18,6 +109,104 @@
       "job_id": "294076",
       "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/294076"
     },
+    "297379": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Oracle Database Automation Engineer",
+      "job_id": "297379",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/297379"
+    },
+    "297384": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Messaging and Streaming Platform Engineer",
+      "job_id": "297384",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/297384"
+    },
+    "292008": {
+      "first_seen": 1790650458.3760624,
+      "posted": "2026-09-22",
+      "title": "Firmware Senior Principal Engineer \u2013 System Development",
+      "job_id": "292008",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/292008"
+    },
+    "293524": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "Systems Engineer \u2013 Research Infrastructure & Lab Platforms - Federal Customer",
+      "job_id": "293524",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/293524"
+    },
+    "299107": {
+      "first_seen": 0,
+      "posted": "2026-09-21",
+      "title": "Systems Engineer \u2013 Research Infrastructure & Lab Platforms - Government Customer",
+      "job_id": "299107",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/299107"
+    },
+    "299014": {
+      "first_seen": 1790650458.3760638,
+      "posted": "2026-09-18",
+      "title": "Agentic Context Engineering Architect & AI Practitioner",
+      "job_id": "299014",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/299014"
+    },
+    "297392": {
+      "first_seen": 0,
+      "posted": "2026-09-15",
+      "title": "Federal Enterprise Architect - Cyber",
+      "job_id": "297392",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/297392"
+    },
+    "298661": {
+      "first_seen": 0,
+      "posted": "2026-09-15",
+      "title": "Sr. Network WAN Engineer - Federal Customer",
+      "job_id": "298661",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/298661"
+    },
+    "298659": {
+      "first_seen": 0,
+      "posted": "2026-09-15",
+      "title": "Sr. DevOps Engineer - Federal Customer",
+      "job_id": "298659",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/298659"
+    },
+    "298656": {
+      "first_seen": 0,
+      "posted": "2026-09-15",
+      "title": "Sr. Security Engineer - Federal Customer",
+      "job_id": "298656",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/298656"
+    },
+    "298660": {
+      "first_seen": 0,
+      "posted": "2026-09-15",
+      "title": "Sr. Unified Comms Engineer - Federal Customer",
+      "job_id": "298660",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/298660"
+    },
+    "298701": {
+      "first_seen": 0,
+      "posted": "2026-09-15",
+      "title": "Unified Comms Engineer - Federal Customer (Active TS -SCI Security Clearance required)",
+      "job_id": "298701",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/298701"
+    },
+    "298700": {
+      "first_seen": 0,
+      "posted": "2026-09-15",
+      "title": "Network Automation Engineer - Federal Customer",
+      "job_id": "298700",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/298700"
+    },
+    "292815": {
+      "first_seen": 1790650458.3760657,
+      "posted": "2026-09-11",
+      "title": "Principal Systems Development Engineer",
+      "job_id": "292815",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/292815"
+    },
     "294077": {
       "first_seen": 1790649996.9676042,
       "posted": "2026-09-11",
@@ -25,124 +214,75 @@
       "job_id": "294077",
       "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/294077"
     },
-    "R278941": {
-      "first_seen": 1790650458.3760574,
-      "posted": "2026-09-29",
-      "title": "Principal Systems Development Engineer",
-      "job_id": "R278941",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/R278941"
-    },
-    "295958": {
-      "first_seen": 1790650458.376059,
-      "posted": "2026-09-29",
-      "title": "Software Principal Engineer",
-      "job_id": "295958",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295958"
-    },
-    "296687": {
-      "first_seen": 1790650458.37606,
-      "posted": "2026-09-29",
-      "title": "Principal Engineer - Enterprise DevOps & ALM Platforms",
-      "job_id": "296687",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/296687"
-    },
-    "298630": {
-      "first_seen": 1790650458.376061,
-      "posted": "2026-09-29",
-      "title": "Principal Systems Development Engineer",
-      "job_id": "298630",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/298630"
-    },
-    "295590": {
-      "first_seen": 1790650458.3760614,
-      "posted": "2026-09-29",
-      "title": "AI Development & Agent Ops \u2014  \u00a0Senior Principal Software Security Engineer",
-      "job_id": "295590",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295590"
-    },
-    "292008": {
-      "first_seen": 1790650458.3760624,
-      "posted": "2026-09-29",
-      "title": "Firmware Senior Principal Engineer \u2013 System Development",
-      "job_id": "292008",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/292008"
-    },
-    "295832": {
-      "first_seen": 1790650458.3760633,
-      "posted": "2026-09-29",
-      "title": "Hardware Senior Principal Engineer \u2013 System Integration",
-      "job_id": "295832",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295832"
-    },
-    "299014": {
-      "first_seen": 1790650458.3760638,
-      "posted": "2026-09-29",
-      "title": "Agentic Context Engineering Architect & AI Practitioner",
-      "job_id": "299014",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/299014"
-    },
-    "298512": {
-      "first_seen": 1790650458.376065,
-      "posted": "2026-09-29",
-      "title": "Principal Systems Development Engineer",
-      "job_id": "298512",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/298512"
-    },
-    "292815": {
-      "first_seen": 1790650458.3760657,
-      "posted": "2026-09-29",
-      "title": "Principal Systems Development Engineer",
-      "job_id": "292815",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/292815"
-    },
-    "292706": {
-      "first_seen": 1790650458.3760664,
-      "posted": "2026-09-29",
-      "title": "Principal Systems Development Engineer",
-      "job_id": "292706",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/292706"
-    },
-    "292707": {
-      "first_seen": 1790650458.3760674,
-      "posted": "2026-09-29",
-      "title": "Senior Principal Systems Development Engineer",
-      "job_id": "292707",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/292707"
-    },
-    "295843": {
-      "first_seen": 1790650458.376068,
-      "posted": "2026-09-29",
-      "title": "Senior Principal Systems Development Engineer",
-      "job_id": "295843",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295843"
+    "297264": {
+      "first_seen": 0,
+      "posted": "2026-09-08",
+      "title": "Federal Senior Principal Engineer, Solutions Architecture - SOCOM",
+      "job_id": "297264",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/297264"
     },
     "297595": {
       "first_seen": 1790650458.3760688,
-      "posted": "2026-09-29",
-      "title": "Principal Systems Development Engineer",
+      "posted": "2026-09-08",
+      "title": "Principal Systems Development Engineer - Enterprise Architecture for AI-enabled engineering applications and platforms",
       "job_id": "297595",
       "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/297595"
     },
-    "294988": {
-      "first_seen": 1790650458.3760695,
-      "posted": "2026-09-29",
-      "title": "Principal Systems Development Engineer",
-      "job_id": "294988",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/294988"
+    "297673": {
+      "first_seen": 0,
+      "posted": "2026-09-02",
+      "title": "Senior Analyst, Agentic AI Engineer",
+      "job_id": "297673",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/297673"
     },
-    "294986": {
-      "first_seen": 1790650458.3760707,
-      "posted": "2026-09-29",
-      "title": "Senior Principal Systems Development Engineer",
-      "job_id": "294986",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/294986"
+    "296673": {
+      "first_seen": 0,
+      "posted": "2026-08-19",
+      "title": "Automation Engineer, Infrastructure - Federal Customer",
+      "job_id": "296673",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/296673"
     },
-    "R289794": {
-      "first_seen": 1790864062.6375618,
-      "posted": "2026-10-01",
-      "title": "AI Architect (Technical Staff)",
-      "job_id": "R289794",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/R289794"
+    "296677": {
+      "first_seen": 0,
+      "posted": "2026-08-19",
+      "title": "Network Automation Engineer - Federal Customer",
+      "job_id": "296677",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/296677"
+    },
+    "296672": {
+      "first_seen": 0,
+      "posted": "2026-08-19",
+      "title": "DevOps Engineer - Federal Customer",
+      "job_id": "296672",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/296672"
+    },
+    "296606": {
+      "first_seen": 0,
+      "posted": "2026-08-17",
+      "title": "Network Automation Engineer - Federal Customer",
+      "job_id": "296606",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/296606"
+    },
+    "296613": {
+      "first_seen": 0,
+      "posted": "2026-08-17",
+      "title": "Automation Engineer, Infrastructure - Federal Customer",
+      "job_id": "296613",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/296613"
+    },
+    "296702": {
+      "first_seen": 0,
+      "posted": "2026-08-17",
+      "title": "DevOps Storage Engineer - Federal Customer",
+      "job_id": "296702",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/296702"
+    },
+    "R287595": {
+      "first_seen": 0,
+      "posted": "2026-08-03",
+      "title": "Advisory AI Architect (FDE Unit)",
+      "job_id": "R287595",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/R287595"
     }
   }
 }

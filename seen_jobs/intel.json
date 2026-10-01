@@ -6,66 +6,353 @@
   "jobs": {
     "Spotlight Job": {
       "first_seen": 1790709661.6235476,
-      "posted": "Posted 26 Days Ago",
-      "title": "Database Administrator PL/SQL Developer",
-      "job_id": "Spotlight Job",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Database-Administrator-PL-SQL-Developer_JR0286800"
-    },
-    "JR0287359": {
-      "first_seen": 1790709661.6235504,
-      "posted": "Posted 5 Days Ago",
+      "posted": "Posted Today",
       "title": "Senior Systems Engineer \u2013 Windows Active Directory",
-      "job_id": "JR0287359",
+      "job_id": "Spotlight Job",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Senior-Systems-Engineer---Windows-Active-Directory_JR0287359"
+    },
+    "JR0285722": {
+      "first_seen": 0,
+      "posted": "Posted Today",
+      "title": "EHS Engineer",
+      "job_id": "JR0285722",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/EHS-Engineer_JR0285722"
+    },
+    "JR0287686": {
+      "first_seen": 1790857476.5652618,
+      "posted": "Posted Today",
+      "title": "Software Engineer \u2013 Datacenter",
+      "job_id": "JR0287686",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0287686"
+    },
+    "JR0287571": {
+      "first_seen": 0,
+      "posted": "Posted Yesterday",
+      "title": "Senior Thin Films Metals Deposition Engineer",
+      "job_id": "JR0287571",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-Thin-Films-Metals-Deposition-Engineer_JR0287571"
+    },
+    "JR0282062": {
+      "first_seen": 1790792699.540808,
+      "posted": "Posted Yesterday",
+      "title": "Software Application Development Engineer",
+      "job_id": "JR0282062",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0282062-1"
+    },
+    "JR0287615": {
+      "first_seen": 1790790829.0068624,
+      "posted": "Posted Yesterday",
+      "title": "Sr AI Runtime Architect - Neuromorphic Computing",
+      "job_id": "JR0287615",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Sr-AI-Runtime-Architect---Neuromorphic-Computing_JR0287615"
+    },
+    "JR0287390": {
+      "first_seen": 1790732029.1131349,
+      "posted": "Posted 2 Days Ago",
+      "title": "Intel Foundry Advanced Device Development Engineer",
+      "job_id": "JR0287390",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Advanced-Device-Development-Engineer_JR0287390"
+    },
+    "JR0287391": {
+      "first_seen": 1790731453.0582192,
+      "posted": "Posted 2 Days Ago",
+      "title": "Intel Foundry Advanced  Device Development Engineer",
+      "job_id": "JR0287391",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Advanced--Device-Development-Engineer_JR0287391"
+    },
+    "JR0287579": {
+      "first_seen": 1790717657.2207046,
+      "posted": "Posted 2 Days Ago",
+      "title": "Sr. Principal Engineer",
+      "job_id": "JR0287579",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Sr-Principal-Engineer_JR0287579"
+    },
+    "JR0287570": {
+      "first_seen": 0,
+      "posted": "Posted 2 Days Ago",
+      "title": "FFEO FORGE Technical Leads Exhaust Engineer",
+      "job_id": "JR0287570",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/FFEO-FORGE-Technical-Leads-Exhaust-Engineer_JR0287570"
+    },
+    "JR0287210": {
+      "first_seen": 0,
+      "posted": "Posted 2 Days Ago",
+      "title": "Manufacturing Systems Software Development Engineer",
+      "job_id": "JR0287210",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Manufacturing-Systems-Software-Development-Engineer_JR0287210"
+    },
+    "JR0287191": {
+      "first_seen": 0,
+      "posted": "Posted 2 Days Ago",
+      "title": "Manufacturing Systems Software Development Engineer",
+      "job_id": "JR0287191",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Manufacturing-Systems-Software-Development-Engineer_JR0287191"
+    },
+    "JR0287493": {
+      "first_seen": 0,
+      "posted": "Posted 2 Days Ago",
+      "title": "Tool Install Structural Engineer",
+      "job_id": "JR0287493",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Tool-Install-Structural-Engineer_JR0287493"
+    },
+    "JR0284479": {
+      "first_seen": 0,
+      "posted": "Posted 2 Days Ago",
+      "title": "Business Analyst",
+      "job_id": "JR0284479",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Business-Analyst_JR0284479"
+    },
+    "JR0287395": {
+      "first_seen": 0,
+      "posted": "Posted 3 Days Ago",
+      "title": "\u2022\tAI/ML CAD Engineer, RTL & Design Verification",
+      "job_id": "JR0287395",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/XMLNAME---AI-ML-CAD-Engineer--RTL---Design-Verification_JR0287395"
+    },
+    "JR0287475": {
+      "first_seen": 0,
+      "posted": "Posted 6 Days Ago",
+      "title": "Sort Interface Pathfinding and Development Engineer",
+      "job_id": "JR0287475",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Sort-Interface-Pathfinding-and-Development-Engineer_JR0287475"
+    },
+    "JR0287212": {
+      "first_seen": 0,
+      "posted": "Posted 6 Days Ago",
+      "title": "Lithography Tool Install Engineer",
+      "job_id": "JR0287212",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Lithography-Tool-Install-Engineer_JR0287212"
+    },
+    "JR0285691": {
+      "first_seen": 0,
+      "posted": "Posted 6 Days Ago",
+      "title": "Payroll Business Analyst - Intel Contract Employee",
+      "job_id": "JR0285691",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Payroll-Business-Analyst---Intel-Contract-Employee_JR0285691"
+    },
+    "JR0287421": {
+      "first_seen": 0,
+      "posted": "Posted 7 Days Ago",
+      "title": "TD Media and Collaterals Development Engineer",
+      "job_id": "JR0287421",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/TD-Media-and-Collaterals-Development-Engineer_JR0287421"
     },
     "JR0287203": {
       "first_seen": 1790709661.6235516,
-      "posted": "Posted 5 Days Ago",
+      "posted": "Posted 7 Days Ago",
       "title": "Foundry Cloud Services Developer",
       "job_id": "JR0287203",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203"
     },
+    "JR0287378": {
+      "first_seen": 0,
+      "posted": "Posted 7 Days Ago",
+      "title": "Intel Mask Operations Module Development Engineer",
+      "job_id": "JR0287378",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Mask-Operations-Module-Development-Engineer_JR0287378"
+    },
+    "JR0286340": {
+      "first_seen": 0,
+      "posted": "Posted 7 Days Ago",
+      "title": "Ocotillo Failure Analysis Engineer \u2013 TEM/Probing Engineer",
+      "job_id": "JR0286340",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Ocotillo-Failure-Analysis-Engineer---TEM-Probing-Engineer_JR0286340-1"
+    },
     "JR0286035": {
       "first_seen": 1790709661.6235528,
-      "posted": "Posted 5 Days Ago",
+      "posted": "Posted 7 Days Ago",
       "title": "Senior Network Operations Engineer",
       "job_id": "JR0286035",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Senior-Network-Operations-Engineer_JR0286035"
     },
-    "JR0286998": {
-      "first_seen": 1790709661.6235538,
+    "JR0287322": {
+      "first_seen": 0,
+      "posted": "Posted 8 Days Ago",
+      "title": "NMSI F11x Thin Films Senior Module Engineer",
+      "job_id": "JR0287322",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/NMSI-F11x-Thin-Films-Senior-Module-Engineer_JR0287322"
+    },
+    "JR0287298": {
+      "first_seen": 1790710504.0938063,
+      "posted": "Posted 9 Days Ago",
+      "title": "Business Intelligence Analyst",
+      "job_id": "JR0287298",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Business-Intelligence-Analyst_JR0287298"
+    },
+    "JR0287345": {
+      "first_seen": 0,
+      "posted": "Posted 9 Days Ago",
+      "title": "Supply Chain Engineer",
+      "job_id": "JR0287345",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Supply-Chain-Engineer_JR0287345"
+    },
+    "JR0287089": {
+      "first_seen": 0,
+      "posted": "Posted 9 Days Ago",
+      "title": "NMSi F11X Litho Scanner Senior Engineer",
+      "job_id": "JR0287089",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/NMSi-F11X-Litho-Scanner-Senior-Engineer_JR0287089"
+    },
+    "JR0287320": {
+      "first_seen": 0,
+      "posted": "Posted 9 Days Ago",
+      "title": "NMSI F11x Planar Module Engineer",
+      "job_id": "JR0287320",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/NMSI-F11x-Planar-Module-Engineer_JR0287320"
+    },
+    "JR0285289": {
+      "first_seen": 0,
+      "posted": "Posted 9 Days Ago",
+      "title": "Package Failure Analysis Engineer",
+      "job_id": "JR0285289",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Package-Failure-Analysis-Engineer_JR0285289"
+    },
+    "JR0286991": {
+      "first_seen": 0,
+      "posted": "Posted 14 Days Ago",
+      "title": "Module Development Engineer",
+      "job_id": "JR0286991",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Development-Engineer_JR0286991"
+    },
+    "JR0286844": {
+      "first_seen": 0,
+      "posted": "Posted 14 Days Ago",
+      "title": "Module Development Engineer",
+      "job_id": "JR0286844",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Development-Engineer_JR0286844-1"
+    },
+    "JR0286232": {
+      "first_seen": 0,
+      "posted": "Posted 14 Days Ago",
+      "title": "Intel Foundry Overlay Development Engineer",
+      "job_id": "JR0286232",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Overlay-Development-Engineer_JR0286232"
+    },
+    "JR0281978": {
+      "first_seen": 1790710504.0938087,
+      "posted": "Posted 14 Days Ago",
+      "title": "AI Performance Library Architect",
+      "job_id": "JR0281978",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Performance-Library-Architect_JR0281978-1"
+    },
+    "JR0284193": {
+      "first_seen": 1790710504.0938091,
       "posted": "Posted 15 Days Ago",
-      "title": "Software Engineer \u2013 Datacenter",
-      "job_id": "JR0286998",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0286998"
+      "title": "Neuromorphic/AI Research Scientist",
+      "job_id": "JR0284193",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284193"
+    },
+    "JR0287195": {
+      "first_seen": 0,
+      "posted": "Posted 15 Days Ago",
+      "title": "Mfg Systems Software Development Engineer",
+      "job_id": "JR0287195",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Mfg-Systems-Software-Development-Engineer_JR0287195-1"
+    },
+    "JR0287196": {
+      "first_seen": 0,
+      "posted": "Posted 15 Days Ago",
+      "title": "Mfg Systems Software Development Engineer",
+      "job_id": "JR0287196",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Mfg-Systems-Software-Development-Engineer_JR0287196-1"
     },
     "JR0286999": {
       "first_seen": 1790709661.6235552,
-      "posted": "Posted 15 Days Ago",
+      "posted": "Posted 17 Days Ago",
       "title": "Software QA Engineer",
       "job_id": "JR0286999",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-QA-Engineer_JR0286999"
     },
+    "JR0286649": {
+      "first_seen": 0,
+      "posted": "Posted 20 Days Ago",
+      "title": "Module Engineer",
+      "job_id": "JR0286649",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Module-Engineer_JR0286649"
+    },
     "JR0282484": {
       "first_seen": 1790709661.6235561,
-      "posted": "Posted 18 Days Ago",
+      "posted": "Posted 20 Days Ago",
       "title": "Software Development Engineer",
       "job_id": "JR0282484",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Engineer_JR0282484"
     },
+    "JR0286852": {
+      "first_seen": 0,
+      "posted": "Posted 22 Days Ago",
+      "title": "Quantum Cryoprober Engineer",
+      "job_id": "JR0286852",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Quantum-Cryoprober-Engineer_JR0286852"
+    },
+    "JR0286873": {
+      "first_seen": 0,
+      "posted": "Posted 23 Days Ago",
+      "title": "Semiconductor Research Integration Engineer",
+      "job_id": "JR0286873",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Semiconductor-Research-Integration-Engineer_JR0286873"
+    },
     "JR0283073": {
       "first_seen": 1790709661.623557,
-      "posted": "Posted 26 Days Ago",
+      "posted": "Posted 28 Days Ago",
       "title": "GPU Software Development Engineer",
       "job_id": "JR0283073",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0283073"
     },
+    "JR0286675": {
+      "first_seen": 0,
+      "posted": "Posted 29 Days Ago",
+      "title": "Senior Module Development Engineer",
+      "job_id": "JR0286675",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-Module-Development-Engineer_JR0286675"
+    },
+    "JR0286772": {
+      "first_seen": 0,
+      "posted": "Posted 30 Days Ago",
+      "title": "Design Automation Engineer - Neuromorphic Computing",
+      "job_id": "JR0286772",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Design-Automation-Engineer---Neuromorphic-Computing_JR0286772"
+    },
+    "JR0286745": {
+      "first_seen": 1790710504.093815,
+      "posted": "Posted 30 Days Ago",
+      "title": "Principal Engineer, AI Applied Research",
+      "job_id": "JR0286745",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Principal-Engineer--AI-Applied-Research_JR0286745"
+    },
     "JR0283580": {
       "first_seen": 1790709661.6235583,
-      "posted": "Posted 29 Days Ago",
+      "posted": "Posted 30+ Days Ago",
       "title": "Middleware Development Engineer",
       "job_id": "JR0283580",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Middleware-Development-Engineer_JR0283580-1"
+    },
+    "JR0286633": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Lead Humanoid Robotics System Architect",
+      "job_id": "JR0286633",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Lead-Humanoid-Robotics-System-Architect_JR0286633"
+    },
+    "JR0286671": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "NMSi Module Engineer",
+      "job_id": "JR0286671",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/NMSi-Module-Engineer_JR0286671-1"
+    },
+    "JR0286668": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "NMSI Senior Module Engineer",
+      "job_id": "JR0286668",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/NMSI-Senior-Module-Engineer_JR0286668"
+    },
+    "JR0284449": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Software Development Engineer - Intel Contract Employee",
+      "job_id": "JR0284449",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Development-Engineer---Intel-Contract-Employee_JR0284449"
     },
     "JR0286687": {
       "first_seen": 1790709661.6235595,
@@ -73,6 +360,13 @@
       "title": "Identity Security - PKI Engineer",
       "job_id": "JR0286687",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Identity-Security---PKI-Engineer_JR0286687"
+    },
+    "JR0286598": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Transistor Reliability and Quality Engineer",
+      "job_id": "JR0286598",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Transistor-Reliability-and-Quality-Engineer_JR0286598"
     },
     "JR0286599": {
       "first_seen": 1790709661.6235604,
@@ -88,6 +382,34 @@
       "job_id": "JR0284429",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research-Engineer_JR0284429"
     },
+    "JR0286648": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Module Engineer",
+      "job_id": "JR0286648",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Module-Engineer_JR0286648-1"
+    },
+    "JR0286288": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Thin Films Module Development Engineer",
+      "job_id": "JR0286288",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Thin-Films-Module-Development-Engineer_JR0286288"
+    },
+    "JR0286350": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Foundry Device Engineer",
+      "job_id": "JR0286350",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Foundry-Device-Engineer_JR0286350"
+    },
+    "JR0286318": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Ocotillo Technology Fabrication Litho Module Engineer",
+      "job_id": "JR0286318",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Ocotillo-Technology-Fabrication-Litho-Module-Engineer_JR0286318"
+    },
     "JR0286351": {
       "first_seen": 1790709661.623563,
       "posted": "Posted 30+ Days Ago",
@@ -95,12 +417,12 @@
       "job_id": "JR0286351",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research-Engineer_JR0286351"
     },
-    "JR0286396": {
-      "first_seen": 1790709661.623564,
+    "JR0285980": {
+      "first_seen": 0,
       "posted": "Posted 30+ Days Ago",
-      "title": "Senior EDA Tools Software Engineer",
-      "job_id": "JR0286396",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Senior-EDA-Tools-Software-Engineer_JR0286396"
+      "title": "CPU Performance Architect",
+      "job_id": "JR0285980",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/CPU-Performance-Architect_JR0285980"
     },
     "JR0286250": {
       "first_seen": 1790709661.623565,
@@ -109,12 +431,54 @@
       "job_id": "JR0286250",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Semiconductor-Device-Modeling-Engineer_JR0286250"
     },
+    "JR0285922": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Staff Semiconductor Device Modeling Engineer",
+      "job_id": "JR0285922",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Staff-Semiconductor-Device-Modeling-Engineer_JR0285922"
+    },
+    "JR0284814": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Intel Foundry Module Development Engineer",
+      "job_id": "JR0284814",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Module-Development-Engineer_JR0284814"
+    },
+    "JR0285360": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Principal Engineer - Standard Cell Design",
+      "job_id": "JR0285360",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Principal-Engineer---Standard-Cell-Design_JR0285360-1"
+    },
+    "JR0285235": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Principal Collateral Device Engineer",
+      "job_id": "JR0285235",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Principal-Collateral-Device-Engineer_JR0285235"
+    },
     "JR0285229": {
       "first_seen": 1790709661.6235662,
       "posted": "Posted 30+ Days Ago",
       "title": "Sr.  EDA Tools Engineer - PERC ESD",
       "job_id": "JR0285229",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Sr--EDA-Tools-Engineer---PERC-ESD_JR0285229"
+    },
+    "JR0284192": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Quantum Computing Measurement Engineer",
+      "job_id": "JR0284192",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Quantum-Computing-Measurement-Engineer_JR0284192"
+    },
+    "JR0284466": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Principal Engineer, Hybrid Bonding Module",
+      "job_id": "JR0284466",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Principal-Engineer--Hybrid-Bonding-Module_JR0284466"
     },
     "JR0284296": {
       "first_seen": 1790709661.6235669,
@@ -123,180 +487,19 @@
       "job_id": "JR0284296",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Load-Balancer-Network-Engineer_JR0284296"
     },
-    "JR0284697": {
-      "first_seen": 1790710504.0938041,
-      "posted": "2026-09-29",
-      "title": "Data Center Manager",
-      "job_id": "JR0284697",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Data-Center-Manager_JR0284697-1"
+    "JR0282220": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "Sr. Security Architect",
+      "job_id": "JR0282220",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Sr-Security-Architect_JR0282220"
     },
-    "JR0286337": {
-      "first_seen": 1790710504.0938056,
-      "posted": "2026-09-29",
-      "title": "Senior Development Engineer - Density Fill",
-      "job_id": "JR0286337",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-Density-Fill-Development-Engineer_JR0286337-1"
-    },
-    "JR0287298": {
-      "first_seen": 1790710504.0938063,
-      "posted": "2026-09-29",
-      "title": "Business Intelligence Analyst",
-      "job_id": "JR0287298",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Business-Intelligence-Analyst_JR0287298"
-    },
-    "JR0287181": {
-      "first_seen": 1790710504.0938067,
-      "posted": "2026-09-29",
-      "title": "Senior PDK Reliability Engineer",
-      "job_id": "JR0287181",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-PDK-Reliability-Engineer_JR0287181"
-    },
-    "JR0287380": {
-      "first_seen": 1790710504.0938077,
-      "posted": "2026-09-29",
-      "title": "Intel Foundry Advanced Device Development Engineering Manager",
-      "job_id": "JR0287380",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Advanced-Device-Development-Engineering-Manager_JR0287380-1"
-    },
-    "JR0281978": {
-      "first_seen": 1790710504.0938087,
-      "posted": "2026-09-29",
-      "title": "AI Performance Library Architect",
-      "job_id": "JR0281978",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Performance-Library-Architect_JR0281978-1"
-    },
-    "JR0284193": {
-      "first_seen": 1790710504.0938091,
-      "posted": "2026-09-29",
-      "title": "Neuromorphic/AI Research Scientist",
-      "job_id": "JR0284193",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284193"
-    },
-    "JR0287129": {
-      "first_seen": 1790710504.0938096,
-      "posted": "2026-09-29",
-      "title": "Product Manager - Data Center System and Manageability Software",
-      "job_id": "JR0287129",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Product-Manager---Data-Center-System-and-Manageability-Software_JR0287129"
-    },
-    "JR0287128": {
-      "first_seen": 1790710504.09381,
-      "posted": "2026-09-29",
-      "title": "Product Manager \u2013 AI Software and Solution",
-      "job_id": "JR0287128",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Product-Manager---AI-Software-and-Solution_JR0287128"
-    },
-    "JR0286972": {
-      "first_seen": 1790710504.0938108,
-      "posted": "2026-09-29",
-      "title": "Senior PDK Support Engineer (Physical Verification)",
-      "job_id": "JR0286972",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Senior-PDK-Support-Engineer--Physical-Verification-_JR0286972"
-    },
-    "JR0286961": {
-      "first_seen": 1790710504.0938115,
-      "posted": "2026-09-29",
-      "title": "New Mexico Site Automation Integrator",
-      "job_id": "JR0286961",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/New-Mexico-Site-Automation-Integrator_JR0286961"
-    },
-    "JR0286986": {
-      "first_seen": 1790710504.093812,
-      "posted": "2026-09-29",
-      "title": "Senior Reliability PDK and TFM engineer",
-      "job_id": "JR0286986",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-Reliability-PDK-and-TFM-engineer_JR0286986"
-    },
-    "JR0286757": {
-      "first_seen": 1790710504.0938127,
-      "posted": "2026-09-29",
-      "title": "CAD/EDA Tools Automation Engineer",
-      "job_id": "JR0286757",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286757"
-    },
-    "JR0286595": {
-      "first_seen": 1790710504.0938132,
-      "posted": "2026-09-29",
-      "title": "CAD/EDA Tools Automation Engineer",
-      "job_id": "JR0286595",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286595"
-    },
-    "JR0286891": {
-      "first_seen": 1790710504.0938137,
-      "posted": "2026-09-29",
-      "title": "Sr. Yield and Process Control Automation Engineer",
-      "job_id": "JR0286891",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Sr-Yield-and-Process-Control-Automation-Engineer_JR0286891"
-    },
-    "JR0286748": {
-      "first_seen": 1790710504.0938146,
-      "posted": "2026-09-29",
-      "title": "Design Automation Engineer (TFM/EDA)",
-      "job_id": "JR0286748",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Design-Automation-Engineer--TFM-EDA-_JR0286748"
-    },
-    "JR0286745": {
-      "first_seen": 1790710504.093815,
-      "posted": "2026-09-29",
-      "title": "Principal Engineer, AI Applied Research",
-      "job_id": "JR0286745",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Principal-Engineer--AI-Applied-Research_JR0286745"
-    },
-    "JR0287579": {
-      "first_seen": 1790717657.2207046,
-      "posted": "2026-09-29",
-      "title": "Sr. Principal Engineer",
-      "job_id": "JR0287579",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Sr-Principal-Engineer_JR0287579"
-    },
-    "JR0287391": {
-      "first_seen": 1790731453.0582192,
-      "posted": "2026-09-30",
-      "title": "Intel Foundry Advanced  Device Development Engineer",
-      "job_id": "JR0287391",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Advanced--Device-Development-Engineer_JR0287391"
-    },
-    "JR0287390": {
-      "first_seen": 1790732029.1131349,
-      "posted": "2026-09-30",
-      "title": "Intel Foundry Advanced Device Development Engineer",
-      "job_id": "JR0287390",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Advanced-Device-Development-Engineer_JR0287390"
-    },
-    "JR0287625": {
-      "first_seen": 1790782486.0268414,
-      "posted": "2026-09-30",
-      "title": "Finance Data Scientist",
-      "job_id": "JR0287625",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Finance-Data-Scientist_JR0287625"
-    },
-    "JR0287615": {
-      "first_seen": 1790790829.0068624,
-      "posted": "2026-09-30",
-      "title": "Sr AI Runtime Architect - Neuromorphic Computing",
-      "job_id": "JR0287615",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Sr-AI-Runtime-Architect---Neuromorphic-Computing_JR0287615"
-    },
-    "JR0282062": {
-      "first_seen": 1790792699.540808,
-      "posted": "2026-09-30",
-      "title": "Software Application Development Engineer",
-      "job_id": "JR0282062",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0282062-1"
-    },
-    "JR0287565": {
-      "first_seen": 1790804666.8980923,
-      "posted": "2026-09-30",
-      "title": "AMHS Equipment Engineer",
-      "job_id": "JR0287565",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AMHS-Equipment-Engineer_JR0287565"
-    },
-    "JR0287686": {
-      "first_seen": 1790857476.5652618,
-      "posted": "2026-10-01",
-      "title": "Software Engineer \u2013 Datacenter",
-      "job_id": "JR0287686",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0287686"
+    "JR0281596": {
+      "first_seen": 0,
+      "posted": "Posted 30+ Days Ago",
+      "title": "CPU Performance Architect",
+      "job_id": "JR0281596",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/CPU-Performance-Architect_JR0281596"
     }
   }
 }
