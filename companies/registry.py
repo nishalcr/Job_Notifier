@@ -1,6 +1,7 @@
 from companies.amazon import COMPANY as AMAZON
 from companies.apple import COMPANY as APPLE
 from companies.base import CompanyDefinition
+from companies.spotify import COMPANY as SPOTIFY
 from companies.godaddy import COMPANY as GODADDY
 from companies.databricks import COMPANY as DATABRICKS
 from companies.snowflake import COMPANY as SNOWFLAKE
@@ -71,6 +72,7 @@ COMPANIES: dict[str, CompanyDefinition] = {
     DATABRICKS.slug: DATABRICKS,
     SNOWFLAKE.slug: SNOWFLAKE,
     GODADDY.slug: GODADDY,
+    SPOTIFY.slug: SPOTIFY,
     ZSCALER.slug: ZSCALER,
     STRIPE.slug: STRIPE,
 }
