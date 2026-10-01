@@ -5,67 +5,480 @@
   },
   "jobs": {
     "5208829007": {
-      "first_seen": 1790877608.3811164,
+      "first_seen": 1790878713.1750407,
       "posted": "2026-08-20",
       "title": "AI DevOps Engineer",
       "job_id": "5208829007",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5208829007"
     },
+    "5239093007": {
+      "first_seen": 1790878713.1750426,
+      "posted": "2026-09-24",
+      "title": "Architect, Software Development (Layer 7 Security & Proxy)",
+      "job_id": "5239093007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239093007"
+    },
+    "5206113007": {
+      "first_seen": 1790878713.1750436,
+      "posted": "2026-08-07",
+      "title": "Commercial Sales Engineer - OH/MI",
+      "job_id": "5206113007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5206113007"
+    },
     "5208421007": {
-      "first_seen": 1790877608.3811193,
+      "first_seen": 1790878713.1750443,
       "posted": "2026-09-21",
       "title": "Insider Risk Security Engineer",
       "job_id": "5208421007",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5208421007"
     },
+    "5195927007": {
+      "first_seen": 1790878713.1750448,
+      "posted": "2026-08-25",
+      "title": "Practice Architect - Data Security",
+      "job_id": "5195927007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5195927007"
+    },
+    "5149607007": {
+      "first_seen": 1790878713.1750455,
+      "posted": "2026-06-16",
+      "title": "Principal Production Engineer",
+      "job_id": "5149607007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5149607007"
+    },
+    "5226899007": {
+      "first_seen": 1790878713.1750462,
+      "posted": "2026-09-08",
+      "title": "Principal Sales Engineer - Federal",
+      "job_id": "5226899007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5226899007"
+    },
+    "5100430007": {
+      "first_seen": 1790878713.175047,
+      "posted": "2026-04-28",
+      "title": "Principal Sales Engineer - Healthcare",
+      "job_id": "5100430007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5100430007"
+    },
+    "5217849007": {
+      "first_seen": 1790878713.1750474,
+      "posted": "2026-08-24",
+      "title": "Principal Sales Engineer, SLED - East",
+      "job_id": "5217849007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5217849007"
+    },
+    "5208419007": {
+      "first_seen": 1790878713.175048,
+      "posted": "2026-08-25",
+      "title": "Principal Software Development Engineer",
+      "job_id": "5208419007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5208419007"
+    },
+    "5238481007": {
+      "first_seen": 1790878713.175049,
+      "posted": "2026-09-22",
+      "title": "Principal Software Development Engineer (Control-Plane)",
+      "job_id": "5238481007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5238481007"
+    },
+    "5216930007": {
+      "first_seen": 1790878713.1750498,
+      "posted": "2026-09-02",
+      "title": "Principal Software Engineer (C / Networking / Dataplane)",
+      "job_id": "5216930007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216930007"
+    },
+    "5240511007": {
+      "first_seen": 1790878713.1750503,
+      "posted": "2026-09-22",
+      "title": "Principal Specialist Sales Engineer, Data Security - Majors",
+      "job_id": "5240511007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5240511007"
+    },
+    "5196229007": {
+      "first_seen": 1790878713.1750512,
+      "posted": "2026-08-12",
+      "title": "Principal Specialist Sales Engineer, Data Security - Majors, East",
+      "job_id": "5196229007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5196229007"
+    },
+    "5196231007": {
+      "first_seen": 1790878713.1750517,
+      "posted": "2026-08-12",
+      "title": "Principal Specialist Sales Engineer, Data Security - SLED",
+      "job_id": "5196231007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5196231007"
+    },
+    "5196217007": {
+      "first_seen": 1790878713.1750524,
+      "posted": "2026-08-04",
+      "title": "Principal Specialist Sales Engineer, Zero Trust Branch - Enterprise, East",
+      "job_id": "5196217007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5196217007"
+    },
+    "5199283007": {
+      "first_seen": 1790878713.1750531,
+      "posted": "2026-08-04",
+      "title": "Principal Specialist Sales Engineer, Zero Trust Branch - Healthcare/SLED",
+      "job_id": "5199283007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5199283007"
+    },
+    "5196219007": {
+      "first_seen": 1790878713.1750536,
+      "posted": "2026-08-04",
+      "title": "Principal Specialist Sales Engineer, Zero Trust Branch - Majors, West",
+      "job_id": "5196219007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5196219007"
+    },
+    "5239542007": {
+      "first_seen": 1790878713.1750543,
+      "posted": "2026-09-28",
+      "title": "Principal System and Solution Test Engineer",
+      "job_id": "5239542007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239542007"
+    },
+    "5234216007": {
+      "first_seen": 1790878713.1750548,
+      "posted": "2026-09-28",
+      "title": "Principal Technical Marketing Engineer",
+      "job_id": "5234216007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5234216007"
+    },
+    "5239534007": {
+      "first_seen": 1790878713.1750553,
+      "posted": "2026-09-22",
+      "title": "Principal Technical Marketing Engineer",
+      "job_id": "5239534007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239534007"
+    },
     "5158936007": {
-      "first_seen": 1790877608.3811202,
+      "first_seen": 1790878713.1750562,
       "posted": "2026-06-30",
       "title": "Production Engineer",
       "job_id": "5158936007",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5158936007"
     },
+    "5239102007": {
+      "first_seen": 1790878713.1750572,
+      "posted": "2026-09-25",
+      "title": "Product Support Engineer",
+      "job_id": "5239102007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239102007"
+    },
+    "5202099007": {
+      "first_seen": 1790878713.1750576,
+      "posted": "2026-08-10",
+      "title": "Sales Engineer, Enterprise - AZ/CO",
+      "job_id": "5202099007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5202099007"
+    },
     "5239096007": {
-      "first_seen": 1790877608.3811216,
+      "first_seen": 1790878713.1750581,
       "posted": "2026-09-16",
       "title": "Salesforce Developer",
       "job_id": "5239096007",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239096007"
     },
+    "5140589007": {
+      "first_seen": 1790878713.1750586,
+      "posted": "2026-05-22",
+      "title": "Security Compliance Architect",
+      "job_id": "5140589007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5140589007"
+    },
     "5167475007": {
-      "first_seen": 1790877608.3811228,
+      "first_seen": 1790878713.1750596,
       "posted": "2026-07-13",
       "title": "Senior Enterprise Platforms & AI Systems Engineer",
       "job_id": "5167475007",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5167475007"
     },
     "5235296007": {
-      "first_seen": 1790877608.3811238,
+      "first_seen": 1790878713.17506,
       "posted": "2026-09-15",
       "title": "Senior Information Security Engineer",
       "job_id": "5235296007",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5235296007"
     },
     "5246776007": {
-      "first_seen": 1790877608.3811252,
+      "first_seen": 1790878713.1750605,
       "posted": "2026-09-29",
       "title": "Senior Machine Learning Engineer",
       "job_id": "5246776007",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5246776007"
     },
+    "5235465007": {
+      "first_seen": 1790878713.1750612,
+      "posted": "2026-09-11",
+      "title": "Senior Sales Engineer - Army",
+      "job_id": "5235465007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5235465007"
+    },
+    "5082269007": {
+      "first_seen": 1790878713.1750617,
+      "posted": "2026-04-08",
+      "title": "Senior Sales Engineer - Enterprise, Carolinas",
+      "job_id": "5082269007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5082269007"
+    },
+    "5217797007": {
+      "first_seen": 1790878713.1750622,
+      "posted": "2026-08-21",
+      "title": "Senior Sales Engineer - Enterprise, Georgia",
+      "job_id": "5217797007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5217797007"
+    },
+    "5244299007": {
+      "first_seen": 1790878713.1750634,
+      "posted": "2026-09-25",
+      "title": "Senior Sales Engineer, Enterprise - Minnesota",
+      "job_id": "5244299007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5244299007"
+    },
+    "5211688007": {
+      "first_seen": 1790878713.1750638,
+      "posted": "2026-08-19",
+      "title": "Senior Sales Engineer - Federal",
+      "job_id": "5211688007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5211688007"
+    },
+    "5198876007": {
+      "first_seen": 1790878713.1750646,
+      "posted": "2026-09-21",
+      "title": "Senior Sales Engineer, Majors - Central (Chicago)",
+      "job_id": "5198876007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5198876007"
+    },
+    "5198882007": {
+      "first_seen": 1790878713.1750648,
+      "posted": "2026-08-12",
+      "title": "Senior Sales Engineer - Majors, East Central",
+      "job_id": "5198882007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5198882007"
+    },
+    "5198892007": {
+      "first_seen": 1790878713.1750655,
+      "posted": "2026-08-07",
+      "title": "Senior Sales Engineer - Majors, Florida",
+      "job_id": "5198892007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5198892007"
+    },
+    "5198888007": {
+      "first_seen": 1790878713.175066,
+      "posted": "2026-08-07",
+      "title": "Senior Sales Engineer - Majors, Georgia",
+      "job_id": "5198888007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5198888007"
+    },
+    "5198886007": {
+      "first_seen": 1790878713.1750667,
+      "posted": "2026-08-10",
+      "title": "Senior Sales Engineer - Majors, New England",
+      "job_id": "5198886007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5198886007"
+    },
+    "5198880007": {
+      "first_seen": 1790878713.1750674,
+      "posted": "2026-08-10",
+      "title": "Senior Sales Engineer - Majors, NYC",
+      "job_id": "5198880007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5198880007"
+    },
+    "5167453007": {
+      "first_seen": 1790878713.175068,
+      "posted": "2026-06-18",
+      "title": "Senior Sales Engineer - Majors, Texas",
+      "job_id": "5167453007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5167453007"
+    },
+    "5198894007": {
+      "first_seen": 1790878713.1750686,
+      "posted": "2026-08-07",
+      "title": "Senior Sales Engineer - Majors, TOLA",
+      "job_id": "5198894007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5198894007"
+    },
+    "5082275007": {
+      "first_seen": 1790878713.1750693,
+      "posted": "2026-04-02",
+      "title": "Senior Software Architect, Platform Engineering",
+      "job_id": "5082275007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5082275007"
+    },
+    "5246774007": {
+      "first_seen": 1790878713.1750708,
+      "posted": "2026-09-29",
+      "title": "Senior Staff Machine Learning Engineer",
+      "job_id": "5246774007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5246774007"
+    },
+    "5043554007": {
+      "first_seen": 1790878713.1750717,
+      "posted": "2026-08-05",
+      "title": "Senior Staff Rust Developer",
+      "job_id": "5043554007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5043554007"
+    },
+    "5212224007": {
+      "first_seen": 1790878713.1750724,
+      "posted": "2026-09-01",
+      "title": "Senior Staff Software Development Engineer, ZIA Core Datapath",
+      "job_id": "5212224007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5212224007"
+    },
+    "5156428007": {
+      "first_seen": 1790878713.1750734,
+      "posted": "2026-06-22",
+      "title": "Senior Staff Software Engineer (C / Networking / Dataplane)",
+      "job_id": "5156428007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5156428007"
+    },
+    "5216928007": {
+      "first_seen": 1790878713.1750739,
+      "posted": "2026-09-02",
+      "title": "Senior Staff Software Engineer (C / Networking / Dataplane)",
+      "job_id": "5216928007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216928007"
+    },
+    "5227024007": {
+      "first_seen": 1790878713.1750743,
+      "posted": "2026-09-01",
+      "title": "Senior Staff Software Engineer \u2013 Test Automation Infrastructure (ZIA Core)",
+      "job_id": "5227024007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5227024007"
+    },
+    "5247845007": {
+      "first_seen": 1790878713.1750748,
+      "posted": "2026-09-30",
+      "title": "Sr. Data Center Operations Engineer",
+      "job_id": "5247845007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5247845007"
+    },
     "5216926007": {
-      "first_seen": 1790877608.3811262,
+      "first_seen": 1790878713.1750755,
       "posted": "2026-08-26",
       "title": "Sr. Software Development Engineer (Controlplane)",
       "job_id": "5216926007",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216926007"
     },
+    "5128580007": {
+      "first_seen": 1790878713.175076,
+      "posted": "2026-05-07",
+      "title": "Sr. Staff Site Reliability Engineer-Federal, Security Clearance",
+      "job_id": "5128580007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5128580007"
+    },
+    "5226901007": {
+      "first_seen": 1790878713.175077,
+      "posted": "2026-09-17",
+      "title": "Sr. Staff Software Development Engineer",
+      "job_id": "5226901007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5226901007"
+    },
+    "5212682007": {
+      "first_seen": 1790878713.1750777,
+      "posted": "2026-08-31",
+      "title": "Sr. Staff Software Development Engineer",
+      "job_id": "5212682007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5212682007"
+    },
+    "5146138007": {
+      "first_seen": 1790878713.1750782,
+      "posted": "2026-05-28",
+      "title": "Sr. Staff Software Development Engineer-AI Security (Network, Security, LLM)",
+      "job_id": "5146138007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5146138007"
+    },
+    "5181723007": {
+      "first_seen": 1790878713.1750786,
+      "posted": "2026-07-22",
+      "title": "Sr. Staff Software Engineer (Full-Stack)",
+      "job_id": "5181723007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5181723007"
+    },
+    "5058382007": {
+      "first_seen": 1790878713.1750793,
+      "posted": "2026-03-11",
+      "title": "Sr. Staff SWE, Provisioning Platform",
+      "job_id": "5058382007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5058382007"
+    },
+    "5114450007": {
+      "first_seen": 1790878713.1750798,
+      "posted": "2026-04-20",
+      "title": "Staff Machine Learning Engineer - Data Lake, Anomaly Detection",
+      "job_id": "5114450007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5114450007"
+    },
+    "5149609007": {
+      "first_seen": 1790878713.1750805,
+      "posted": "2026-06-16",
+      "title": "Staff Production Engineer",
+      "job_id": "5149609007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5149609007"
+    },
+    "5130009007": {
+      "first_seen": 1790878713.1750813,
+      "posted": "2026-05-07",
+      "title": "Staff Site Reliability Engineer",
+      "job_id": "5130009007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5130009007"
+    },
+    "5029669007": {
+      "first_seen": 1790878713.1750817,
+      "posted": "2026-02-10",
+      "title": "Staff Site Reliability Engineer (Production Engineer)- Federal",
+      "job_id": "5029669007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5029669007"
+    },
+    "5216932007": {
+      "first_seen": 1790878713.1750822,
+      "posted": "2026-09-25",
+      "title": "Staff Software Development Engineer",
+      "job_id": "5216932007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216932007"
+    },
+    "5105258007": {
+      "first_seen": 1790878713.175083,
+      "posted": "2026-05-13",
+      "title": "Staff Software Development Engineer (Microservices)",
+      "job_id": "5105258007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5105258007"
+    },
+    "5202464007": {
+      "first_seen": 1790878713.1750836,
+      "posted": "2026-08-17",
+      "title": "Staff Software Engineer - AI Security (Go/Rust/Python)",
+      "job_id": "5202464007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5202464007"
+    },
+    "5113112007": {
+      "first_seen": 1790878713.175084,
+      "posted": "2026-06-18",
+      "title": "Staff Software Engineer, Go (Service Platform & Orchestration)",
+      "job_id": "5113112007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5113112007"
+    },
+    "5042239007": {
+      "first_seen": 1790878713.1750848,
+      "posted": "2026-02-12",
+      "title": "Staff Software Engineer - React.js",
+      "job_id": "5042239007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5042239007"
+    },
     "5239091007": {
-      "first_seen": 1790877608.3811274,
+      "first_seen": 1790878713.1750853,
       "posted": "2026-09-16",
       "title": "Threat Response Engineer (TRE) - Day Shift (10am-6pm MT)",
       "job_id": "5239091007",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239091007"
+    },
+    "5234928007": {
+      "first_seen": 1790878713.1750858,
+      "posted": "2026-09-25",
+      "title": "Transformation Architect - Enterprise, Central",
+      "job_id": "5234928007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5234928007"
     }
   }
 }

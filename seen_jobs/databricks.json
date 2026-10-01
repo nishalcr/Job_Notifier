@@ -5,651 +5,1841 @@
   },
   "jobs": {
     "8546367002": {
-      "first_seen": 1790877608.2543185,
+      "first_seen": 1790878713.074568,
       "posted": "2026-05-13",
       "title": "AI Engineer \u2013 Forward Deployed Engineering (AI FDE)",
       "job_id": "8546367002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002"
     },
     "8760167002": {
-      "first_seen": 1790877608.254324,
+      "first_seen": 1790878713.0745718,
       "posted": "2026-08-28",
       "title": "AI Engineer \u2013 Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)",
       "job_id": "8760167002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002"
     },
+    "8593373002": {
+      "first_seen": 1790878713.0745733,
+      "posted": "2026-09-28",
+      "title": "Customer Enablement Architect",
+      "job_id": "8593373002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593373002"
+    },
+    "8735569002": {
+      "first_seen": 1790878713.0745747,
+      "posted": "2026-08-20",
+      "title": "Delivery Solutions Architect - Communications, Media, Entertainment & Games",
+      "job_id": "8735569002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735569002"
+    },
+    "8548986002": {
+      "first_seen": 1790878713.0745757,
+      "posted": "2026-05-18",
+      "title": "Delivery Solutions Architect - Digital Native Business",
+      "job_id": "8548986002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548986002"
+    },
+    "8736473002": {
+      "first_seen": 1790878713.0745766,
+      "posted": "2026-09-28",
+      "title": "Delivery Solutions Architect - Digital Native Business",
+      "job_id": "8736473002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8736473002"
+    },
+    "8735549002": {
+      "first_seen": 1790878713.0745776,
+      "posted": "2026-09-29",
+      "title": "Delivery Solutions Architect - Financial Services",
+      "job_id": "8735549002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735549002"
+    },
+    "8735551002": {
+      "first_seen": 1790878713.0745788,
+      "posted": "2026-09-14",
+      "title": "Delivery Solutions Architect - Healthcare & Life Sciences",
+      "job_id": "8735551002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735551002"
+    },
+    "8549046002": {
+      "first_seen": 1790878713.0745795,
+      "posted": "2026-05-15",
+      "title": "Delivery Solutions Architect - High-Tech & Manufacturing",
+      "job_id": "8549046002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549046002"
+    },
+    "8687483002": {
+      "first_seen": 1790878713.0745802,
+      "posted": "2026-08-06",
+      "title": "Delivery Solutions Architect - Oil & Gas",
+      "job_id": "8687483002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8687483002"
+    },
+    "8559315002": {
+      "first_seen": 1790878713.0745811,
+      "posted": "2026-05-21",
+      "title": "Delivery Solutions Architect - Public Sector",
+      "job_id": "8559315002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8559315002"
+    },
+    "8790289002": {
+      "first_seen": 1790878713.0745823,
+      "posted": "2026-09-30",
+      "title": "Delivery Solutions Architect - Public Sector (Defense Industrial Base)",
+      "job_id": "8790289002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8790289002"
+    },
+    "8790621002": {
+      "first_seen": 1790878713.074583,
+      "posted": "2026-09-23",
+      "title": "Delivery Solutions Architect - Public Sector (DOJ)",
+      "job_id": "8790621002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8790621002"
+    },
+    "8739515002": {
+      "first_seen": 1790878713.0745838,
+      "posted": "2026-09-30",
+      "title": "Delivery Solutions Architect - Public Sector (DOW, DHS, Intelligence Community)",
+      "job_id": "8739515002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739515002"
+    },
+    "8790301002": {
+      "first_seen": 1790878713.0745845,
+      "posted": "2026-09-30",
+      "title": "Delivery Solutions Architect - Public Sector (Federal)",
+      "job_id": "8790301002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8790301002"
+    },
+    "8511491002": {
+      "first_seen": 1790878713.0745852,
+      "posted": "2026-08-13",
+      "title": "Delivery Solutions Architect - Retail",
+      "job_id": "8511491002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8511491002"
+    },
+    "8549248002": {
+      "first_seen": 1790878713.074586,
+      "posted": "2026-07-15",
+      "title": "Delivery Solutions Architect - Startups & Emerging Enterprise",
+      "job_id": "8549248002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549248002"
+    },
     "8611108002": {
-      "first_seen": 1790877608.2543263,
+      "first_seen": 1790878713.0745866,
       "posted": "2026-07-23",
       "title": "Forward Deployed Engineer (FDE) - Public Sector",
       "job_id": "8611108002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611108002"
     },
+    "8643542002": {
+      "first_seen": 1790878713.0745873,
+      "posted": "2026-07-22",
+      "title": "Partner Engineer: Partner Intelligence, AI & Apps",
+      "job_id": "8643542002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643542002"
+    },
+    "8400563002": {
+      "first_seen": 1790878713.074588,
+      "posted": "2026-02-02",
+      "title": "Principal Engineer, Authentication",
+      "job_id": "8400563002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8400563002"
+    },
+    "8400559002": {
+      "first_seen": 1790878713.074589,
+      "posted": "2026-02-02",
+      "title": "Principal Engineer, Authentication",
+      "job_id": "8400559002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8400559002"
+    },
+    "8334738002": {
+      "first_seen": 1790878713.0745895,
+      "posted": "2025-12-11",
+      "title": "Principal Engineer, Compute Fleet Management",
+      "job_id": "8334738002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8334738002"
+    },
+    "8224828002": {
+      "first_seen": 1790878713.0745904,
+      "posted": "2025-10-23",
+      "title": "Principal Engineer - Privacy",
+      "job_id": "8224828002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8224828002"
+    },
+    "7274619002": {
+      "first_seen": 1790878713.0745912,
+      "posted": "2024-03-06",
+      "title": "Principal Engineer - Privacy",
+      "job_id": "7274619002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002"
+    },
+    "7274488002": {
+      "first_seen": 1790878713.0745924,
+      "posted": "2024-03-06",
+      "title": "Principal Engineer - Privacy",
+      "job_id": "7274488002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002"
+    },
+    "8612863002": {
+      "first_seen": 1790878713.074593,
+      "posted": "2026-07-06",
+      "title": "Principal Security Field Engineer",
+      "job_id": "8612863002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8612863002"
+    },
     "8656900002": {
-      "first_seen": 1790877608.2543275,
+      "first_seen": 1790878713.0745938,
       "posted": "2026-08-03",
       "title": "Senior Applied ML Engineer - ML4Sys",
       "job_id": "8656900002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002"
     },
     "8635216002": {
-      "first_seen": 1790877608.2543294,
+      "first_seen": 1790878713.0745945,
       "posted": "2026-07-15",
       "title": "Senior Software Engineer, AI Native Web Platform",
       "job_id": "8635216002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635216002"
     },
     "8582276002": {
-      "first_seen": 1790877608.2543309,
+      "first_seen": 1790878713.0745957,
       "posted": "2026-06-08",
       "title": "Senior Software Engineer, AI Runtime",
       "job_id": "8582276002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582276002"
     },
     "8183195002": {
-      "first_seen": 1790877608.2543328,
+      "first_seen": 1790878713.0745964,
       "posted": "2025-09-23",
       "title": "Senior Software Engineer  - Application Traffic team",
       "job_id": "8183195002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002"
     },
     "4799387002": {
-      "first_seen": 1790877608.254334,
+      "first_seen": 1790878713.0745974,
       "posted": "2021-10-21",
       "title": "Senior Software Engineer - Backend",
       "job_id": "4799387002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002"
     },
     "6544435002": {
-      "first_seen": 1790877608.2543352,
+      "first_seen": 1790878713.0745983,
       "posted": "2022-12-20",
       "title": "Senior Software Engineer - Backend",
       "job_id": "6544435002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002"
     },
     "6779084002": {
-      "first_seen": 1790877608.254337,
+      "first_seen": 1790878713.0745993,
       "posted": "2023-06-01",
       "title": "Senior Software Engineer - Backend",
       "job_id": "6779084002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002"
     },
     "8233899002": {
-      "first_seen": 1790877608.254338,
+      "first_seen": 1790878713.0746002,
       "posted": "2025-10-29",
       "title": "Senior Software Engineer (Backend) - AI/ML Environments",
       "job_id": "8233899002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8233899002"
     },
     "8806934002": {
-      "first_seen": 1790877608.2543402,
+      "first_seen": 1790878713.0746007,
       "posted": "2026-09-14",
       "title": "Senior Software Engineer, Compute Infrastructure",
       "job_id": "8806934002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8806934002"
     },
     "5048461002": {
-      "first_seen": 1790877608.2543411,
+      "first_seen": 1790878713.0746014,
       "posted": "2021-01-26",
       "title": "Senior Software Engineer - Database Engine Internals",
       "job_id": "5048461002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002"
     },
     "6544383002": {
-      "first_seen": 1790877608.2543426,
+      "first_seen": 1790878713.0746021,
       "posted": "2023-06-23",
       "title": "Senior Software Engineer - Database Engine Internals",
       "job_id": "6544383002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002"
     },
     "4513122002": {
-      "first_seen": 1790877608.254344,
+      "first_seen": 1790878713.074603,
       "posted": "2019-11-14",
       "title": "Senior Software Engineer - Distributed Data Systems",
       "job_id": "4513122002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002"
     },
     "6544325002": {
-      "first_seen": 1790877608.2543457,
+      "first_seen": 1790878713.0746038,
       "posted": "2023-06-23",
       "title": "Senior Software Engineer - Distributed Data Systems",
       "job_id": "6544325002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002"
     },
     "6936994002": {
-      "first_seen": 1790877608.254347,
+      "first_seen": 1790878713.0746043,
       "posted": "2023-12-11",
       "title": "Senior Software Engineer - Distributed Data Systems",
       "job_id": "6936994002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6936994002"
     },
     "7898766002": {
-      "first_seen": 1790877608.2543483,
+      "first_seen": 1790878713.0746052,
       "posted": "2025-03-06",
       "title": "Senior Software Engineer - Fullstack",
       "job_id": "7898766002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002"
     },
     "5445641002": {
-      "first_seen": 1790877608.2543497,
+      "first_seen": 1790878713.0746062,
       "posted": "2022-02-28",
       "title": "Senior Software Engineer - Fullstack",
       "job_id": "5445641002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002"
     },
     "6544403002": {
-      "first_seen": 1790877608.2543511,
+      "first_seen": 1790878713.074607,
       "posted": "2022-12-20",
       "title": "Senior Software Engineer - Fullstack",
       "job_id": "6544403002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002"
     },
     "6318503002": {
-      "first_seen": 1790877608.2543519,
+      "first_seen": 1790878713.074608,
       "posted": "2022-08-09",
       "title": "Senior Software Engineer - Infrastructure and Tools",
       "job_id": "6318503002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002"
     },
     "8211648002": {
-      "first_seen": 1790877608.2543526,
+      "first_seen": 1790878713.0746088,
       "posted": "2025-10-14",
       "title": "Senior Software Engineer, Model Serving",
       "job_id": "8211648002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211648002"
     },
     "8027404002": {
-      "first_seen": 1790877608.2543547,
+      "first_seen": 1790878713.07461,
       "posted": "2025-06-06",
       "title": "Senior Software Engineer  - Money Team",
       "job_id": "8027404002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8027404002"
     },
     "7274459002": {
-      "first_seen": 1790877608.2543561,
+      "first_seen": 1790878713.074611,
       "posted": "2024-03-06",
       "title": "Senior Software Engineer - Security",
       "job_id": "7274459002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274459002"
     },
+    "8567957002": {
+      "first_seen": 1790878713.074612,
+      "posted": "2026-07-28",
+      "title": "Senior Solutions Architect",
+      "job_id": "8567957002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567957002"
+    },
+    "8407186002": {
+      "first_seen": 1790878713.0746126,
+      "posted": "2026-02-18",
+      "title": "Senior Solutions Architect - Consumer Product Goods",
+      "job_id": "8407186002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407186002"
+    },
+    "8540267002": {
+      "first_seen": 1790878713.0746138,
+      "posted": "2026-05-07",
+      "title": "Senior Staff Applied AI Engineer - Context Retrieval",
+      "job_id": "8540267002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002"
+    },
+    "7807722002": {
+      "first_seen": 1790878713.0746143,
+      "posted": "2025-03-19",
+      "title": "Senior Staff Software Engineer - App and Partner Ecosystem",
+      "job_id": "7807722002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002"
+    },
+    "7934466002": {
+      "first_seen": 1790878713.0746152,
+      "posted": "2025-03-28",
+      "title": "Senior Staff Software Engineer - Enzyme",
+      "job_id": "7934466002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002"
+    },
+    "7274557002": {
+      "first_seen": 1790878713.0746157,
+      "posted": "2024-03-06",
+      "title": "Senior Staff Software Engineer - IAM",
+      "job_id": "7274557002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002"
+    },
+    "7274563002": {
+      "first_seen": 1790878713.0746167,
+      "posted": "2024-03-06",
+      "title": "Senior Staff Software Engineer - IAM",
+      "job_id": "7274563002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002"
+    },
+    "8493002002": {
+      "first_seen": 1790878713.0746171,
+      "posted": "2026-04-02",
+      "title": "Senior Staff Software Engineer - Lakeflow Pipelines Datasets",
+      "job_id": "8493002002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493002002"
+    },
+    "7274908002": {
+      "first_seen": 1790878713.0746176,
+      "posted": "2024-03-06",
+      "title": "Senior Staff Software Engineer - Security Infrastructure",
+      "job_id": "7274908002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002"
+    },
+    "7274902002": {
+      "first_seen": 1790878713.074618,
+      "posted": "2024-03-06",
+      "title": "Senior Staff Software Engineer - Security Infrastructure",
+      "job_id": "7274902002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002"
+    },
+    "8798215002": {
+      "first_seen": 1790878713.074619,
+      "posted": "2026-09-10",
+      "title": "Senior Support Engineer (GovOps)",
+      "job_id": "8798215002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8798215002"
+    },
     "8635225002": {
-      "first_seen": 1790877608.2543578,
+      "first_seen": 1790878713.0746202,
       "posted": "2026-07-15",
       "title": "Software Engineer, Web Products",
       "job_id": "8635225002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002"
     },
     "8560779002": {
-      "first_seen": 1790877608.2543597,
+      "first_seen": 1790878713.074621,
       "posted": "2026-06-23",
       "title": "Software Engineer, Web Products",
       "job_id": "8560779002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002"
     },
+    "8605160002": {
+      "first_seen": 1790878713.0746217,
+      "posted": "2026-06-29",
+      "title": "Solutions Architect",
+      "job_id": "8605160002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8605160002"
+    },
+    "8568031002": {
+      "first_seen": 1790878713.0746222,
+      "posted": "2026-08-26",
+      "title": "Solutions Architect",
+      "job_id": "8568031002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568031002"
+    },
+    "8633227002": {
+      "first_seen": 1790878713.0746229,
+      "posted": "2026-07-20",
+      "title": "Solutions Architect",
+      "job_id": "8633227002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8633227002"
+    },
+    "8697987002": {
+      "first_seen": 1790878713.0746238,
+      "posted": "2026-08-18",
+      "title": "Solutions Architect",
+      "job_id": "8697987002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8697987002"
+    },
+    "8697993002": {
+      "first_seen": 1790878713.0746245,
+      "posted": "2026-09-03",
+      "title": "Solutions Architect",
+      "job_id": "8697993002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8697993002"
+    },
+    "8755492002": {
+      "first_seen": 1790878713.0746253,
+      "posted": "2026-08-27",
+      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+      "job_id": "8755492002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755492002"
+    },
+    "8569633002": {
+      "first_seen": 1790878713.0746257,
+      "posted": "2026-07-27",
+      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+      "job_id": "8569633002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569633002"
+    },
+    "8755474002": {
+      "first_seen": 1790878713.0746262,
+      "posted": "2026-08-27",
+      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+      "job_id": "8755474002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755474002"
+    },
+    "8755476002": {
+      "first_seen": 1790878713.0746272,
+      "posted": "2026-08-27",
+      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+      "job_id": "8755476002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755476002"
+    },
+    "8487768002": {
+      "first_seen": 1790878713.0746279,
+      "posted": "2026-05-11",
+      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+      "job_id": "8487768002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8487768002"
+    },
+    "8755482002": {
+      "first_seen": 1790878713.0746286,
+      "posted": "2026-08-27",
+      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+      "job_id": "8755482002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755482002"
+    },
+    "6117756002": {
+      "first_seen": 1790878713.0746293,
+      "posted": "2022-07-18",
+      "title": "Solutions Architect - Communications, Media, Entertainment & Gaming",
+      "job_id": "6117756002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6117756002"
+    },
+    "6117719002": {
+      "first_seen": 1790878713.0746298,
+      "posted": "2022-05-17",
+      "title": "Solutions Architect - Digital Native Business",
+      "job_id": "6117719002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6117719002"
+    },
+    "8782711002": {
+      "first_seen": 1790878713.0746307,
+      "posted": "2026-09-08",
+      "title": "Solutions Architect - Digital Native Business (Healthtech)",
+      "job_id": "8782711002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8782711002"
+    },
+    "8569640002": {
+      "first_seen": 1790878713.0746315,
+      "posted": "2026-08-03",
+      "title": "Solutions Architect - Digital Native Business, Named Accounts",
+      "job_id": "8569640002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569640002"
+    },
+    "6328361002": {
+      "first_seen": 1790878713.0746322,
+      "posted": "2022-08-19",
+      "title": "Solutions Architect - Emerging Enterprise",
+      "job_id": "6328361002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6328361002"
+    },
+    "6328388002": {
+      "first_seen": 1790878713.0746326,
+      "posted": "2022-08-19",
+      "title": "Solutions Architect - Emerging Enterprise (Startups)",
+      "job_id": "6328388002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6328388002"
+    },
+    "8637768002": {
+      "first_seen": 1790878713.0746334,
+      "posted": "2026-07-27",
+      "title": "Solutions Architect - Financial Services (Banking and Payments)",
+      "job_id": "8637768002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637768002"
+    },
+    "8502991002": {
+      "first_seen": 1790878713.0746343,
+      "posted": "2026-05-07",
+      "title": "Solutions Architect - Financial Services (Professional Services)",
+      "job_id": "8502991002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8502991002"
+    },
+    "8231231002": {
+      "first_seen": 1790878713.0746348,
+      "posted": "2025-10-28",
+      "title": "Solutions Architect - Healthcare/Life Sciences Team (HLS)",
+      "job_id": "8231231002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8231231002"
+    },
+    "8085877002": {
+      "first_seen": 1790878713.0746353,
+      "posted": "2025-07-21",
+      "title": "Solutions Architect - Healthcare/Life Sciences Team (HLS)",
+      "job_id": "8085877002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8085877002"
+    },
+    "8788266002": {
+      "first_seen": 1790878713.074636,
+      "posted": "2026-09-11",
+      "title": "Solutions Architect - Hunter (Communications, Media, Entertainment and Games)",
+      "job_id": "8788266002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8788266002"
+    },
+    "8661758002": {
+      "first_seen": 1790878713.0746367,
+      "posted": "2026-08-13",
+      "title": "Solutions Architect - Manufacturing",
+      "job_id": "8661758002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661758002"
+    },
+    "6545547002": {
+      "first_seen": 1790878713.0746374,
+      "posted": "2022-12-21",
+      "title": "Solutions Architect - Manufacturing",
+      "job_id": "6545547002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6545547002"
+    },
+    "8407197002": {
+      "first_seen": 1790878713.074638,
+      "posted": "2026-02-18",
+      "title": "Solutions Architect Opportunities - Lakebase (Solutions Architect, Sr. Solutions Architect)",
+      "job_id": "8407197002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407197002"
+    },
+    "8637758002": {
+      "first_seen": 1790878713.0746386,
+      "posted": "2026-08-11",
+      "title": "Solutions Architect - Public Sector",
+      "job_id": "8637758002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637758002"
+    },
+    "8633741002": {
+      "first_seen": 1790878713.0746398,
+      "posted": "2026-07-21",
+      "title": "Solutions Architect - Public Sector (SLED)",
+      "job_id": "8633741002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8633741002"
+    },
+    "6049142002": {
+      "first_seen": 1790878713.0746408,
+      "posted": "2022-07-14",
+      "title": "Solutions Architect - Retail, Travel & Hospitality",
+      "job_id": "6049142002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6049142002"
+    },
+    "8563159002": {
+      "first_seen": 1790878713.0746415,
+      "posted": "2026-08-19",
+      "title": "Solutions Architect - Strategic High Tech",
+      "job_id": "8563159002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8563159002"
+    },
+    "8697991002": {
+      "first_seen": 1790878713.074642,
+      "posted": "2026-08-14",
+      "title": "Specialist Solutions Architect - AI/ML",
+      "job_id": "8697991002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8697991002"
+    },
+    "8739506002": {
+      "first_seen": 1790878713.0746427,
+      "posted": "2026-08-21",
+      "title": "Specialist Solutions Architect - AWS Infrastructure & Platform",
+      "job_id": "8739506002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739506002"
+    },
+    "8739507002": {
+      "first_seen": 1790878713.0746434,
+      "posted": "2026-08-21",
+      "title": "Specialist Solutions Architect - Azure Infrastructure & Platform",
+      "job_id": "8739507002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739507002"
+    },
+    "8692962002": {
+      "first_seen": 1790878713.0746439,
+      "posted": "2026-08-10",
+      "title": "Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services)",
+      "job_id": "8692962002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002"
+    },
+    "8716720002": {
+      "first_seen": 1790878713.0746446,
+      "posted": "2026-08-14",
+      "title": "Sr. Developer Advocate, AI and Machine Learning",
+      "job_id": "8716720002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8716720002"
+    },
+    "8716192002": {
+      "first_seen": 1790878713.0746453,
+      "posted": "2026-08-14",
+      "title": "Sr. Developer Advocate, AI and Machine Learning",
+      "job_id": "8716192002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8716192002"
+    },
+    "8428818002": {
+      "first_seen": 1790878713.074646,
+      "posted": "2026-02-19",
+      "title": "Sr. Developer Advocate - Neon",
+      "job_id": "8428818002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8428818002"
+    },
+    "8716730002": {
+      "first_seen": 1790878713.074647,
+      "posted": "2026-08-14",
+      "title": "Sr. Developer Advocate, Open Source \u2014 Omnigent",
+      "job_id": "8716730002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8716730002"
+    },
+    "8716187002": {
+      "first_seen": 1790878713.074648,
+      "posted": "2026-08-14",
+      "title": "Sr. Developer Advocate, Open Source \u2014 Omnigent",
+      "job_id": "8716187002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8716187002"
+    },
     "8739484002": {
-      "first_seen": 1790877608.2543612,
+      "first_seen": 1790878713.0746484,
       "posted": "2026-08-21",
       "title": "Sr. Forward Deployed Engineer",
       "job_id": "8739484002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002"
     },
     "8739474002": {
-      "first_seen": 1790877608.2543623,
+      "first_seen": 1790878713.074649,
       "posted": "2026-08-21",
       "title": "Sr. Forward Deployed Engineer",
       "job_id": "8739474002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739474002"
     },
     "8739465002": {
-      "first_seen": 1790877608.2543633,
+      "first_seen": 1790878713.0746498,
       "posted": "2026-08-21",
       "title": "Sr. Forward Deployed Engineer",
       "job_id": "8739465002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002"
     },
     "8739462002": {
-      "first_seen": 1790877608.2543645,
+      "first_seen": 1790878713.0746508,
       "posted": "2026-08-21",
       "title": "Sr. Forward Deployed Engineer",
       "job_id": "8739462002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739462002"
     },
     "8739458002": {
-      "first_seen": 1790877608.254366,
+      "first_seen": 1790878713.0746515,
       "posted": "2026-08-21",
       "title": "Sr. Forward Deployed Engineer",
       "job_id": "8739458002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739458002"
     },
     "8657065002": {
-      "first_seen": 1790877608.2543669,
+      "first_seen": 1790878713.074652,
       "posted": "2026-08-21",
       "title": "Sr. Forward Deployed Engineer",
       "job_id": "8657065002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657065002"
     },
     "8461239002": {
-      "first_seen": 1790877608.254368,
+      "first_seen": 1790878713.0746527,
       "posted": "2026-03-12",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8461239002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002"
     },
     "8461163002": {
-      "first_seen": 1790877608.2543688,
+      "first_seen": 1790878713.0746531,
       "posted": "2026-03-12",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8461163002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002"
     },
     "8494153002": {
-      "first_seen": 1790877608.2543693,
+      "first_seen": 1790878713.0746539,
       "posted": "2026-04-03",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8494153002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494153002"
     },
     "8461168002": {
-      "first_seen": 1790877608.2543697,
+      "first_seen": 1790878713.0746546,
       "posted": "2026-03-12",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8461168002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002"
     },
     "8461193002": {
-      "first_seen": 1790877608.2543705,
+      "first_seen": 1790878713.0746555,
       "posted": "2026-03-12",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8461193002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002"
     },
     "8461218002": {
-      "first_seen": 1790877608.2543714,
+      "first_seen": 1790878713.074656,
       "posted": "2026-03-12",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8461218002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002"
     },
     "8461219002": {
-      "first_seen": 1790877608.2543724,
+      "first_seen": 1790878713.0746565,
       "posted": "2026-03-12",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8461219002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002"
     },
     "8461258002": {
-      "first_seen": 1790877608.2543733,
+      "first_seen": 1790878713.0746572,
       "posted": "2026-03-12",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8461258002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002"
     },
     "8461251002": {
-      "first_seen": 1790877608.254374,
+      "first_seen": 1790878713.0746577,
       "posted": "2026-03-12",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8461251002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002"
     },
     "8461220002": {
-      "first_seen": 1790877608.2543752,
+      "first_seen": 1790878713.0746584,
       "posted": "2026-03-12",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8461220002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002"
     },
     "8461222002": {
-      "first_seen": 1790877608.254376,
+      "first_seen": 1790878713.074659,
       "posted": "2026-03-12",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8461222002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002"
     },
     "8461243002": {
-      "first_seen": 1790877608.2543778,
+      "first_seen": 1790878713.0746596,
       "posted": "2026-03-12",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8461243002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461243002"
     },
     "8461226002": {
-      "first_seen": 1790877608.2543788,
+      "first_seen": 1790878713.07466,
       "posted": "2026-03-12",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8461226002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002"
     },
     "8461241002": {
-      "first_seen": 1790877608.2543795,
+      "first_seen": 1790878713.0746608,
       "posted": "2026-03-12",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "job_id": "8461241002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002"
     },
     "8807063002": {
-      "first_seen": 1790877608.2543805,
+      "first_seen": 1790878713.0746615,
       "posted": "2026-09-14",
       "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
       "job_id": "8807063002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807063002"
     },
     "8807081002": {
-      "first_seen": 1790877608.2543817,
+      "first_seen": 1790878713.0746622,
       "posted": "2026-09-14",
       "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
       "job_id": "8807081002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807081002"
     },
     "8807049002": {
-      "first_seen": 1790877608.2543828,
+      "first_seen": 1790878713.0746627,
       "posted": "2026-09-14",
       "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
       "job_id": "8807049002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807049002"
     },
     "8807033002": {
-      "first_seen": 1790877608.254384,
+      "first_seen": 1790878713.0746634,
       "posted": "2026-09-14",
       "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
       "job_id": "8807033002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807033002"
     },
     "8647743002": {
-      "first_seen": 1790877608.2543852,
+      "first_seen": 1790878713.0746639,
       "posted": "2026-07-23",
       "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
       "job_id": "8647743002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647743002"
     },
     "8488399002": {
-      "first_seen": 1790877608.254386,
+      "first_seen": 1790878713.0746644,
       "posted": "2026-04-07",
       "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
       "job_id": "8488399002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002"
     },
     "8592952002": {
-      "first_seen": 1790877608.254387,
+      "first_seen": 1790878713.074665,
       "posted": "2026-06-22",
       "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
       "job_id": "8592952002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592952002"
     },
     "8592939002": {
-      "first_seen": 1790877608.2543886,
+      "first_seen": 1790878713.0746655,
       "posted": "2026-06-22",
       "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
       "job_id": "8592939002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002"
     },
     "8592942002": {
-      "first_seen": 1790877608.2543898,
+      "first_seen": 1790878713.0746663,
       "posted": "2026-06-22",
       "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
       "job_id": "8592942002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592942002"
     },
     "8592938002": {
-      "first_seen": 1790877608.2543905,
+      "first_seen": 1790878713.0746667,
       "posted": "2026-06-22",
       "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
       "job_id": "8592938002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592938002"
     },
     "8592951002": {
-      "first_seen": 1790877608.2543912,
+      "first_seen": 1790878713.0746675,
       "posted": "2026-06-22",
       "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
       "job_id": "8592951002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592951002"
     },
     "8592908002": {
-      "first_seen": 1790877608.2543924,
+      "first_seen": 1790878713.074668,
       "posted": "2026-06-22",
       "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
       "job_id": "8592908002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592908002"
     },
     "8438791002": {
-      "first_seen": 1790877608.254393,
+      "first_seen": 1790878713.074669,
       "posted": "2026-06-22",
       "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
       "job_id": "8438791002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438791002"
     },
     "8592928002": {
-      "first_seen": 1790877608.2543938,
+      "first_seen": 1790878713.0746694,
       "posted": "2026-06-22",
       "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
       "job_id": "8592928002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592928002"
     },
     "8592937002": {
-      "first_seen": 1790877608.2543948,
+      "first_seen": 1790878713.07467,
       "posted": "2026-06-22",
       "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
       "job_id": "8592937002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592937002"
     },
     "8494142002": {
-      "first_seen": 1790877608.254396,
+      "first_seen": 1790878713.0746706,
       "posted": "2026-04-03",
       "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
       "job_id": "8494142002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494142002"
     },
     "8494144002": {
-      "first_seen": 1790877608.254397,
+      "first_seen": 1790878713.074671,
       "posted": "2026-04-03",
       "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
       "job_id": "8494144002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002"
     },
     "8371312002": {
-      "first_seen": 1790877608.254398,
+      "first_seen": 1790878713.074672,
       "posted": "2026-03-06",
       "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
       "job_id": "8371312002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8371312002"
     },
     "8494148002": {
-      "first_seen": 1790877608.254399,
+      "first_seen": 1790878713.0746725,
       "posted": "2026-04-03",
       "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
       "job_id": "8494148002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494148002"
     },
     "8494143002": {
-      "first_seen": 1790877608.2543998,
+      "first_seen": 1790878713.074673,
       "posted": "2026-04-03",
       "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
       "job_id": "8494143002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494143002"
     },
     "8494146002": {
-      "first_seen": 1790877608.2544005,
+      "first_seen": 1790878713.0746734,
       "posted": "2026-04-03",
       "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
       "job_id": "8494146002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002"
     },
     "8494145002": {
-      "first_seen": 1790877608.254401,
+      "first_seen": 1790878713.074674,
       "posted": "2026-04-03",
       "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
       "job_id": "8494145002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494145002"
     },
+    "8494155002": {
+      "first_seen": 1790878713.0746746,
+      "posted": "2026-04-03",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+      "job_id": "8494155002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494155002"
+    },
+    "8494154002": {
+      "first_seen": 1790878713.0746756,
+      "posted": "2026-04-03",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+      "job_id": "8494154002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494154002"
+    },
+    "8494156002": {
+      "first_seen": 1790878713.074676,
+      "posted": "2026-04-03",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+      "job_id": "8494156002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494156002"
+    },
+    "8341313002": {
+      "first_seen": 1790878713.0746765,
+      "posted": "2025-12-17",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+      "job_id": "8341313002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002"
+    },
     "8657488002": {
-      "first_seen": 1790877608.2544022,
+      "first_seen": 1790878713.074677,
       "posted": "2026-08-18",
       "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
       "job_id": "8657488002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002"
     },
     "8657478002": {
-      "first_seen": 1790877608.2544029,
+      "first_seen": 1790878713.0746777,
       "posted": "2026-09-08",
       "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector/National Security",
       "job_id": "8657478002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657478002"
     },
     "8647675002": {
-      "first_seen": 1790877608.2544034,
+      "first_seen": 1790878713.0746782,
       "posted": "2026-07-23",
       "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
       "job_id": "8647675002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647675002"
     },
     "8643895002": {
-      "first_seen": 1790877608.2544045,
+      "first_seen": 1790878713.074679,
       "posted": "2026-07-22",
       "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
       "job_id": "8643895002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643895002"
     },
     "8647667002": {
-      "first_seen": 1790877608.2544053,
+      "first_seen": 1790878713.0746794,
       "posted": "2026-07-23",
       "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
       "job_id": "8647667002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647667002"
     },
     "8647668002": {
-      "first_seen": 1790877608.2544062,
+      "first_seen": 1790878713.0746799,
       "posted": "2026-07-23",
       "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
       "job_id": "8647668002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647668002"
     },
     "8647669002": {
-      "first_seen": 1790877608.2544072,
+      "first_seen": 1790878713.0746803,
       "posted": "2026-07-23",
       "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
       "job_id": "8647669002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647669002"
     },
     "8647670002": {
-      "first_seen": 1790877608.254408,
+      "first_seen": 1790878713.074681,
       "posted": "2026-07-23",
       "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
       "job_id": "8647670002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647670002"
     },
     "8647677002": {
-      "first_seen": 1790877608.2544086,
+      "first_seen": 1790878713.0746815,
       "posted": "2026-07-23",
       "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
       "job_id": "8647677002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647677002"
     },
     "8657468002": {
-      "first_seen": 1790877608.2544096,
+      "first_seen": 1790878713.074682,
       "posted": "2026-08-14",
       "title": "Sr. Forward Deployed Engineer - National Security",
       "job_id": "8657468002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657468002"
     },
     "8746374002": {
-      "first_seen": 1790877608.2544103,
+      "first_seen": 1790878713.0746827,
       "posted": "2026-08-25",
       "title": "Sr. Forward Deployed Engineer - National Security",
       "job_id": "8746374002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002"
     },
     "8632188002": {
-      "first_seen": 1790877608.254411,
+      "first_seen": 1790878713.0746834,
       "posted": "2026-07-28",
       "title": "Sr. Forward Deployed Engineer - Public Sector",
       "job_id": "8632188002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632188002"
     },
     "8407913002": {
-      "first_seen": 1790877608.2544127,
+      "first_seen": 1790878713.074684,
       "posted": "2026-08-26",
       "title": "Sr Platform Monitoring Engineer",
       "job_id": "8407913002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002"
     },
     "8517577002": {
-      "first_seen": 1790877608.2544138,
+      "first_seen": 1790878713.0746846,
       "posted": "2026-04-21",
       "title": "Sr Production Engineer- Public Sector",
       "job_id": "8517577002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517577002"
     },
     "8220814002": {
-      "first_seen": 1790877608.254415,
+      "first_seen": 1790878713.0746853,
       "posted": "2026-03-03",
       "title": "Sr Software Engineer, Agentic Applications",
       "job_id": "8220814002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002"
     },
     "8379331002": {
-      "first_seen": 1790877608.254416,
+      "first_seen": 1790878713.0746863,
       "posted": "2026-01-16",
       "title": "Sr. Software Engineer- Backend",
       "job_id": "8379331002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8379331002"
     },
     "8416951002": {
-      "first_seen": 1790877608.2544167,
+      "first_seen": 1790878713.0746868,
       "posted": "2026-03-05",
       "title": "Sr Software Engineer- Customer Experience Intelligence (CXI)",
       "job_id": "8416951002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8416951002"
     },
     "8617901002": {
-      "first_seen": 1790877608.2544177,
+      "first_seen": 1790878713.0746875,
       "posted": "2026-07-15",
       "title": "Sr Software Engineer- CXI",
       "job_id": "8617901002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8617901002"
     },
     "8493170002": {
-      "first_seen": 1790877608.2544198,
+      "first_seen": 1790878713.074688,
       "posted": "2026-04-21",
       "title": "Sr Software Engineer, Infrastructure",
       "job_id": "8493170002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002"
     },
     "8815669002": {
-      "first_seen": 1790877608.2544203,
+      "first_seen": 1790878713.0746884,
       "posted": "2026-09-16",
       "title": "Sr. Software Engineer - Ingestion Core team",
       "job_id": "8815669002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8815669002"
     },
     "8211452002": {
-      "first_seen": 1790877608.254421,
+      "first_seen": 1790878713.074689,
       "posted": "2025-10-14",
       "title": "Sr Software Engineer-Networking",
       "job_id": "8211452002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211452002"
     },
     "8211450002": {
-      "first_seen": 1790877608.2544222,
+      "first_seen": 1790878713.0746896,
       "posted": "2025-10-14",
       "title": "Sr Software Engineer-Networking",
       "job_id": "8211450002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211450002"
     },
     "8512856002": {
-      "first_seen": 1790877608.2544231,
+      "first_seen": 1790878713.07469,
       "posted": "2026-04-21",
       "title": "Sr Software Engineer -Public Sector",
       "job_id": "8512856002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8512856002"
     },
+    "8632383002": {
+      "first_seen": 1790878713.0746908,
+      "posted": "2026-07-21",
+      "title": "Sr. Solutions Architect",
+      "job_id": "8632383002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632383002"
+    },
+    "8769764002": {
+      "first_seen": 1790878713.0746913,
+      "posted": "2026-09-01",
+      "title": "Sr. Solutions Architect",
+      "job_id": "8769764002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8769764002"
+    },
+    "8614977002": {
+      "first_seen": 1790878713.0746918,
+      "posted": "2026-08-13",
+      "title": "Sr. Solutions Architect",
+      "job_id": "8614977002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614977002"
+    },
+    "8567987002": {
+      "first_seen": 1790878713.0746922,
+      "posted": "2026-08-21",
+      "title": "Sr. Solutions Architect",
+      "job_id": "8567987002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567987002"
+    },
+    "8769768002": {
+      "first_seen": 1790878713.0746942,
+      "posted": "2026-09-01",
+      "title": "Sr. Solutions Architect",
+      "job_id": "8769768002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8769768002"
+    },
+    "8769750002": {
+      "first_seen": 1790878713.0746946,
+      "posted": "2026-09-01",
+      "title": "Sr. Solutions Architect",
+      "job_id": "8769750002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8769750002"
+    },
+    "8758645002": {
+      "first_seen": 1790878713.074695,
+      "posted": "2026-08-31",
+      "title": "Sr. Solutions Architect - Agencies",
+      "job_id": "8758645002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8758645002"
+    },
+    "8762360002": {
+      "first_seen": 1790878713.0746958,
+      "posted": "2026-09-03",
+      "title": "Sr. Solutions Architect, Customer Lake",
+      "job_id": "8762360002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8762360002"
+    },
+    "8567963002": {
+      "first_seen": 1790878713.0746968,
+      "posted": "2026-09-16",
+      "title": "Sr. Solutions Architect - Digital Native Business (Strategic Accounts)",
+      "job_id": "8567963002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567963002"
+    },
+    "8615045002": {
+      "first_seen": 1790878713.0746973,
+      "posted": "2026-07-22",
+      "title": "Sr. Solutions Architect - Digital Native Business, Strategics",
+      "job_id": "8615045002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8615045002"
+    },
+    "8605158002": {
+      "first_seen": 1790878713.0746977,
+      "posted": "2026-06-24",
+      "title": "Sr. Solutions Architect - Financial Services (Asset and Wealth Management)",
+      "job_id": "8605158002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8605158002"
+    },
+    "8480642002": {
+      "first_seen": 1790878713.0746984,
+      "posted": "2026-04-15",
+      "title": "Sr. Solutions Architect - Financial Services (Banking and Payments)",
+      "job_id": "8480642002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8480642002"
+    },
+    "8567961002": {
+      "first_seen": 1790878713.0746992,
+      "posted": "2026-08-18",
+      "title": "Sr. Solutions Architect - Financial Services (Hunter)",
+      "job_id": "8567961002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567961002"
+    },
+    "8568013002": {
+      "first_seen": 1790878713.0746999,
+      "posted": "2026-08-03",
+      "title": "Sr. Solutions Architect - Financial Services (Strategic Banking)",
+      "job_id": "8568013002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568013002"
+    },
+    "8583085002": {
+      "first_seen": 1790878713.0747006,
+      "posted": "2026-06-12",
+      "title": "Sr. Solutions Architect - Manufacturing",
+      "job_id": "8583085002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8583085002"
+    },
+    "8453645002": {
+      "first_seen": 1790878713.074701,
+      "posted": "2026-07-27",
+      "title": "Sr. Solutions Architect - Public Sector (Defense Industrial Base)",
+      "job_id": "8453645002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8453645002"
+    },
+    "8397493002": {
+      "first_seen": 1790878713.0747015,
+      "posted": "2026-03-16",
+      "title": "Sr. Solutions Architect - Public Sector (SLED)",
+      "job_id": "8397493002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8397493002"
+    },
+    "8221491002": {
+      "first_seen": 1790878713.074702,
+      "posted": "2025-10-21",
+      "title": "Sr. Solutions Architect - Retail, Travel & Hospitality",
+      "job_id": "8221491002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8221491002"
+    },
+    "8607059002": {
+      "first_seen": 1790878713.0747027,
+      "posted": "2026-07-13",
+      "title": "Sr. Solutions Architect - Retail, Travel & Hospitality",
+      "job_id": "8607059002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8607059002"
+    },
+    "8747038002": {
+      "first_seen": 1790878713.0747032,
+      "posted": "2026-08-31",
+      "title": "Sr. Solutions Architect - Teleco",
+      "job_id": "8747038002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8747038002"
+    },
+    "8569637002": {
+      "first_seen": 1790878713.074704,
+      "posted": "2026-09-08",
+      "title": "Sr. Solutions Architect - Travel and Hospitality",
+      "job_id": "8569637002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569637002"
+    },
+    "8756686002": {
+      "first_seen": 1790878713.0747046,
+      "posted": "2026-09-18",
+      "title": "Sr. Solutions Engineer - Digital Native Business (Strategic Accounts)",
+      "job_id": "8756686002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8756686002"
+    },
+    "8584983002": {
+      "first_seen": 1790878713.0747054,
+      "posted": "2026-06-11",
+      "title": "Sr. Solutions Engineer - Public Sector (Defense Industrial Base)",
+      "job_id": "8584983002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8584983002"
+    },
+    "8415025002": {
+      "first_seen": 1790878713.074706,
+      "posted": "2026-05-11",
+      "title": "Sr. Solutions Engineer - Public Sector (DoW - 4th Estate)",
+      "job_id": "8415025002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8415025002"
+    },
+    "8220902002": {
+      "first_seen": 1790878713.0747068,
+      "posted": "2025-10-29",
+      "title": "Sr. Staff Fullstack Engineer, Agentic Applications",
+      "job_id": "8220902002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8220902002"
+    },
+    "8519396002": {
+      "first_seen": 1790878713.0747075,
+      "posted": "2026-04-22",
+      "title": "Sr Staff Production Engineer- Public Sector",
+      "job_id": "8519396002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8519396002"
+    },
+    "8555864002": {
+      "first_seen": 1790878713.074708,
+      "posted": "2026-05-18",
+      "title": "Sr. Staff Software Engineer - Managed Tables",
+      "job_id": "8555864002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8555864002"
+    },
+    "8285949002": {
+      "first_seen": 1790878713.0747087,
+      "posted": "2025-11-11",
+      "title": "Sr. Staff Software Engineer - Money Team",
+      "job_id": "8285949002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8285949002"
+    },
+    "8575251002": {
+      "first_seen": 1790878713.0747092,
+      "posted": "2026-06-02",
+      "title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
+      "job_id": "8575251002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002"
+    },
+    "8575248002": {
+      "first_seen": 1790878713.0747097,
+      "posted": "2026-06-02",
+      "title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
+      "job_id": "8575248002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002"
+    },
+    "7993609002": {
+      "first_seen": 1790878713.0747104,
+      "posted": "2025-05-12",
+      "title": "Sr. Staff Software Engineer - Unity Catalog Data Governance",
+      "job_id": "7993609002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7993609002"
+    },
+    "8589172002": {
+      "first_seen": 1790878713.0747108,
+      "posted": "2026-06-11",
+      "title": "Sr Technical Solutions Engineering",
+      "job_id": "8589172002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8589172002"
+    },
+    "8468436002": {
+      "first_seen": 1790878713.0747116,
+      "posted": "2026-03-18",
+      "title": "Staff Backend Software Engineer",
+      "job_id": "8468436002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8468436002"
+    },
+    "8367019002": {
+      "first_seen": 1790878713.074712,
+      "posted": "2026-03-31",
+      "title": "Staff Backend Software Engineer- (AI Platform)",
+      "job_id": "8367019002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8367019002"
+    },
+    "7872746002": {
+      "first_seen": 1790878713.0747125,
+      "posted": "2025-02-20",
+      "title": "Staff Backline Engineer \u2013 ML/AI",
+      "job_id": "7872746002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7872746002"
+    },
+    "8479031002": {
+      "first_seen": 1790878713.074713,
+      "posted": "2026-03-31",
+      "title": "Staff Enterprise Security Engineer",
+      "job_id": "8479031002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8479031002"
+    },
+    "8399551002": {
+      "first_seen": 1790878713.074714,
+      "posted": "2026-02-03",
+      "title": "Staff Frontend Engineer - UI Platform - Seattle",
+      "job_id": "8399551002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8399551002"
+    },
+    "6704975002": {
+      "first_seen": 1790878713.0747147,
+      "posted": "2025-01-23",
+      "title": "Staff Fullstack Engineer",
+      "job_id": "6704975002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002"
+    },
+    "8220836002": {
+      "first_seen": 1790878713.0747151,
+      "posted": "2025-10-29",
+      "title": "Staff Fullstack Engineer, Agentic Applications",
+      "job_id": "8220836002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8220836002"
+    },
+    "8220840002": {
+      "first_seen": 1790878713.0747156,
+      "posted": "2026-06-04",
+      "title": "Staff Fullstack Engineer, Agentic Applications",
+      "job_id": "8220840002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8220840002"
+    },
+    "8401114002": {
+      "first_seen": 1790878713.0747163,
+      "posted": "2026-02-02",
+      "title": "Staff Machine Learning Engineer",
+      "job_id": "8401114002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002"
+    },
+    "8614863002": {
+      "first_seen": 1790878713.0747173,
+      "posted": "2026-06-30",
+      "title": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
+      "job_id": "8614863002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002"
+    },
+    "8643452002": {
+      "first_seen": 1790878713.0747178,
+      "posted": "2026-07-22",
+      "title": "Staff Partner Engineer, AI Partnerships",
+      "job_id": "8643452002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643452002"
+    },
+    "8508943002": {
+      "first_seen": 1790878713.0747182,
+      "posted": "2026-04-15",
+      "title": "Staff Partner Engineer, Azure",
+      "job_id": "8508943002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8508943002"
+    },
+    "8519350002": {
+      "first_seen": 1790878713.0747187,
+      "posted": "2026-04-22",
+      "title": "Staff Production Engineer- Public Sector",
+      "job_id": "8519350002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8519350002"
+    },
+    "8430837002": {
+      "first_seen": 1790878713.0747194,
+      "posted": "2026-02-23",
+      "title": "Staff Security Assurance Engineer",
+      "job_id": "8430837002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8430837002"
+    },
+    "8612870002": {
+      "first_seen": 1790878713.07472,
+      "posted": "2026-07-07",
+      "title": "Staff Security Field Engineer",
+      "job_id": "8612870002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8612870002"
+    },
+    "7882009002": {
+      "first_seen": 1790878713.0747206,
+      "posted": "2025-06-06",
+      "title": "Staff Security Software Engineer, Agentic Security Engineering",
+      "job_id": "7882009002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002"
+    },
+    "8691490002": {
+      "first_seen": 1790878713.0747213,
+      "posted": "2026-08-07",
+      "title": "Staff Software Engineer - Access Management",
+      "job_id": "8691490002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8691490002"
+    },
+    "8760165002": {
+      "first_seen": 1790878713.0747218,
+      "posted": "2026-08-28",
+      "title": "Staff Software Engineer, Ads Measurement & Orchestration",
+      "job_id": "8760165002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760165002"
+    },
+    "8635182002": {
+      "first_seen": 1790878713.0747225,
+      "posted": "2026-07-15",
+      "title": "Staff Software Engineer, Agentic Applications",
+      "job_id": "8635182002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635182002"
+    },
+    "8842963002": {
+      "first_seen": 1790878713.074723,
+      "posted": "2026-09-24",
+      "title": "Staff Software Engineer, Agent Quality",
+      "job_id": "8842963002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8842963002"
+    },
+    "8635188002": {
+      "first_seen": 1790878713.0747235,
+      "posted": "2026-07-15",
+      "title": "Staff Software Engineer, AI Native Web Platform",
+      "job_id": "8635188002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635188002"
+    },
+    "8560783002": {
+      "first_seen": 1790878713.0747244,
+      "posted": "2026-06-11",
+      "title": "Staff Software Engineer, AI Native Web Platform",
+      "job_id": "8560783002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560783002"
+    },
+    "8552484002": {
+      "first_seen": 1790878713.0747252,
+      "posted": "2026-05-15",
+      "title": "Staff Software Engineer - AI Research Infrastructure",
+      "job_id": "8552484002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002"
+    },
+    "8532682002": {
+      "first_seen": 1790878713.0747259,
+      "posted": "2026-04-30",
+      "title": "Staff Software Engineer - AI Research Infrastructure",
+      "job_id": "8532682002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8532682002"
+    },
+    "8582271002": {
+      "first_seen": 1790878713.0747263,
+      "posted": "2026-06-08",
+      "title": "Staff Software Engineer, AI Runtime",
+      "job_id": "8582271002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582271002"
+    },
+    "8578177002": {
+      "first_seen": 1790878713.0747268,
+      "posted": "2026-06-04",
+      "title": "Staff Software Engineer, AI Search",
+      "job_id": "8578177002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8578177002"
+    },
+    "6544443002": {
+      "first_seen": 1790878713.0747275,
+      "posted": "2022-12-27",
+      "title": "Staff Software Engineer - Backend",
+      "job_id": "6544443002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002"
+    },
+    "6779233002": {
+      "first_seen": 1790878713.074728,
+      "posted": "2023-05-31",
+      "title": "Staff Software Engineer - Backend",
+      "job_id": "6779233002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002"
+    },
+    "6779232002": {
+      "first_seen": 1790878713.0747285,
+      "posted": "2024-07-03",
+      "title": "Staff Software Engineer - Backend",
+      "job_id": "6779232002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002"
+    },
+    "5408888002": {
+      "first_seen": 1790878713.0747292,
+      "posted": "2022-12-27",
+      "title": "Staff Software Engineer - Backend",
+      "job_id": "5408888002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002"
+    },
+    "8032546002": {
+      "first_seen": 1790878713.0747297,
+      "posted": "2025-06-10",
+      "title": "Staff Software Engineer - Customer Engagement & Docs Platform",
+      "job_id": "8032546002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002"
+    },
+    "8416959002": {
+      "first_seen": 1790878713.0747304,
+      "posted": "2026-02-24",
+      "title": "Staff Software Engineer \u2013 Customer Experience Intelligence (CXI)",
+      "job_id": "8416959002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8416959002"
+    },
+    "8584144002": {
+      "first_seen": 1790878713.074731,
+      "posted": "2026-07-15",
+      "title": "Staff Software Engineer- CXI",
+      "job_id": "8584144002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8584144002"
+    },
+    "6544386002": {
+      "first_seen": 1790878713.0747316,
+      "posted": "2023-04-13",
+      "title": "Staff Software Engineer - Database Engine Internals",
+      "job_id": "6544386002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002"
+    },
+    "5646866002": {
+      "first_seen": 1790878713.074732,
+      "posted": "2023-04-13",
+      "title": "Staff Software Engineer - Database Engine Internals",
+      "job_id": "5646866002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002"
+    },
+    "8760176002": {
+      "first_seen": 1790878713.0747325,
+      "posted": "2026-08-28",
+      "title": "Staff Software Engineer, Data Collection (Tags & SDKs)",
+      "job_id": "8760176002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760176002"
+    },
+    "5646855002": {
+      "first_seen": 1790878713.074733,
+      "posted": "2023-04-13",
+      "title": "Staff Software Engineer - Distributed Data Systems",
+      "job_id": "5646855002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002"
+    },
+    "6937001002": {
+      "first_seen": 1790878713.0747335,
+      "posted": "2023-12-11",
+      "title": "Staff Software Engineer - Distributed Data Systems",
+      "job_id": "6937001002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002"
+    },
+    "6544364002": {
+      "first_seen": 1790878713.074734,
+      "posted": "2023-04-13",
+      "title": "Staff Software Engineer - Distributed Data Systems",
+      "job_id": "6544364002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002"
+    },
+    "8224683002": {
+      "first_seen": 1790878713.0747347,
+      "posted": "2025-10-23",
+      "title": "Staff Software Engineer, Foundational Model Serving",
+      "job_id": "8224683002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8224683002"
+    },
+    "8649279002": {
+      "first_seen": 1790878713.0747352,
+      "posted": "2026-07-24",
+      "title": "Staff Software Engineer- Foundation Model Inference",
+      "job_id": "8649279002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8649279002"
+    },
+    "8637143002": {
+      "first_seen": 1790878713.0747356,
+      "posted": "2026-07-16",
+      "title": "Staff Software Engineer, Foundation Model Inference",
+      "job_id": "8637143002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637143002"
+    },
+    "8384595002": {
+      "first_seen": 1790878713.0747364,
+      "posted": "2026-01-21",
+      "title": "Staff Software Engineer - Frontend (NYC)",
+      "job_id": "8384595002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8384595002"
+    },
+    "8509534002": {
+      "first_seen": 1790878713.0747368,
+      "posted": "2026-04-15",
+      "title": "Staff Software Engineer, Fullstack - AI Product (NYC)",
+      "job_id": "8509534002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8509534002"
+    },
+    "8202698002": {
+      "first_seen": 1790878713.0747373,
+      "posted": "2025-10-08",
+      "title": "Staff Software Engineer - GenAI inference",
+      "job_id": "8202698002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8202698002"
+    },
+    "8202700002": {
+      "first_seen": 1790878713.074738,
+      "posted": "2025-10-08",
+      "title": "Staff Software Engineer - GenAI Performance and Kernel",
+      "job_id": "8202700002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8202700002"
+    },
+    "8692516002": {
+      "first_seen": 1790878713.0747385,
+      "posted": "2026-09-09",
+      "title": "Staff Software Engineer \u2013 Genie One Mobile & Desktop",
+      "job_id": "8692516002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8692516002"
+    },
+    "7994801002": {
+      "first_seen": 1790878713.074739,
+      "posted": "2025-05-13",
+      "title": "Staff Software Engineer - IAM",
+      "job_id": "7994801002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002"
+    },
+    "7994790002": {
+      "first_seen": 1790878713.0747395,
+      "posted": "2025-05-13",
+      "title": "Staff Software Engineer - IAM",
+      "job_id": "7994790002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002"
+    },
+    "8798198002": {
+      "first_seen": 1790878713.07474,
+      "posted": "2026-09-10",
+      "title": "Staff Software Engineer, Lakeflow Pipelines DR",
+      "job_id": "8798198002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8798198002"
+    },
+    "8211647002": {
+      "first_seen": 1790878713.0747404,
+      "posted": "2025-10-14",
+      "title": "Staff Software Engineer, Model Serving",
+      "job_id": "8211647002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211647002"
+    },
+    "7111068002": {
+      "first_seen": 1790878713.074741,
+      "posted": "2024-01-24",
+      "title": "Staff Software Engineer - Money Team",
+      "job_id": "7111068002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7111068002"
+    },
+    "8517555002": {
+      "first_seen": 1790878713.0747416,
+      "posted": "2026-04-21",
+      "title": "Staff Software Engineer- Public Sector",
+      "job_id": "8517555002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517555002"
+    },
+    "8760171002": {
+      "first_seen": 1790878713.074742,
+      "posted": "2026-08-28",
+      "title": "Staff Software Engineer, Sales Data & Agents",
+      "job_id": "8760171002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760171002"
+    },
+    "8295792002": {
+      "first_seen": 1790878713.0747428,
+      "posted": "2025-11-17",
+      "title": "Staff Software Engineer, Search Quality",
+      "job_id": "8295792002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8295792002"
+    },
+    "7994770002": {
+      "first_seen": 1790878713.0747433,
+      "posted": "2025-05-13",
+      "title": "Staff Software Engineer - Security Infrastructure",
+      "job_id": "7994770002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002"
+    },
+    "7994759002": {
+      "first_seen": 1790878713.0747437,
+      "posted": "2025-05-13",
+      "title": "Staff Software Engineer - Security Infrastructure",
+      "job_id": "7994759002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002"
+    },
+    "8663972002": {
+      "first_seen": 1790878713.0747442,
+      "posted": "2026-07-31",
+      "title": "Staff Software Engineer - Streaming",
+      "job_id": "8663972002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8663972002"
+    },
+    "7979523002": {
+      "first_seen": 1790878713.074745,
+      "posted": "2025-04-30",
+      "title": "Staff Software Engineer - User Activation",
+      "job_id": "7979523002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002"
+    },
+    "8798217002": {
+      "first_seen": 1790878713.0747454,
+      "posted": "2026-09-10",
+      "title": "Staff Systems Development Engineer (GovOps)",
+      "job_id": "8798217002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8798217002"
+    },
+    "8589169002": {
+      "first_seen": 1790878713.0747461,
+      "posted": "2026-06-11",
+      "title": "Staff Technical Solution Engineering",
+      "job_id": "8589169002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8589169002"
+    },
+    "8816437002": {
+      "first_seen": 1790878713.0747466,
+      "posted": "2026-09-22",
+      "title": "Staff Unified Communications Engineer",
+      "job_id": "8816437002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8816437002"
+    },
     "8482086002": {
-      "first_seen": 1790877608.2544239,
+      "first_seen": 1790878713.0747473,
       "posted": "2026-03-26",
       "title": "Systems PhD - Software Engineer",
       "job_id": "8482086002",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002"
     },
     "8482037002": {
-      "first_seen": 1790877608.2544243,
+      "first_seen": 1790878713.0747478,
       "posted": "2026-03-26",
       "title": "Systems PhD - Software Engineer",
       "job_id": "8482037002",

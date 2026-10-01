@@ -1,0 +1,64 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "godaddy"
+  },
+  "jobs": {
+    "7987643003": {
+      "first_seen": 1790878725.520217,
+      "posted": "2026-09-10",
+      "title": "Critical Facilities Engineer",
+      "job_id": "7987643003",
+      "url": "https://careers.godaddy/jobs?gh_jid=7987643003"
+    },
+    "6646397003": {
+      "first_seen": 1790878725.5202184,
+      "posted": "2025-07-21",
+      "title": "Principal Engineer Cryptography",
+      "job_id": "6646397003",
+      "url": "https://careers.godaddy/jobs?gh_jid=6646397003"
+    },
+    "6690965003": {
+      "first_seen": 1790878725.520219,
+      "posted": "2025-09-25",
+      "title": "Senior Ceph Storage Engineer- SRE",
+      "job_id": "6690965003",
+      "url": "https://careers.godaddy/jobs?gh_jid=6690965003"
+    },
+    "7980663003": {
+      "first_seen": 1790878725.5202198,
+      "posted": "2026-09-17",
+      "title": "Senior Engineer, Directory Services",
+      "job_id": "7980663003",
+      "url": "https://careers.godaddy/jobs?gh_jid=7980663003"
+    },
+    "7820547003": {
+      "first_seen": 1790878725.5202205,
+      "posted": "2026-08-04",
+      "title": "Senior Security Engineer",
+      "job_id": "7820547003",
+      "url": "https://careers.godaddy/jobs?gh_jid=7820547003"
+    },
+    "7836109003": {
+      "first_seen": 1790878725.520221,
+      "posted": "2026-09-02",
+      "title": "Software Development Engineer - AI Services",
+      "job_id": "7836109003",
+      "url": "https://careers.godaddy/jobs?gh_jid=7836109003"
+    },
+    "7764894003": {
+      "first_seen": 1790878725.520222,
+      "posted": "2026-07-07",
+      "title": "Staff Software Engineer - Backend",
+      "job_id": "7764894003",
+      "url": "https://careers.godaddy/jobs?gh_jid=7764894003"
+    },
+    "7882527003": {
+      "first_seen": 1790878725.5202224,
+      "posted": "2026-09-08",
+      "title": "Staff Software Engineer - Backend",
+      "job_id": "7882527003",
+      "url": "https://careers.godaddy/jobs?gh_jid=7882527003"
+    }
+  }
+}
