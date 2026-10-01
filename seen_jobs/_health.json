@@ -1,1 +1,6 @@
-{}
+{
+  "netflix": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Eightfold API request failed with status 429"
+  }
+}
