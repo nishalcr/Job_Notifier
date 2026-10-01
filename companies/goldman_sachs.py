@@ -2,10 +2,10 @@ from urllib.parse import parse_qsl, quote, urlencode, urlsplit, urlunsplit
 
 from companies.base import CompanyDefinition
 from companies.filters import (
-    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    EXCLUDED_LEVEL_KEYWORDS,
     ENGINEERING_TITLE_KEYWORDS,
     NON_IC_TITLE_PHRASES,
-    NON_SOFTWARE_TITLE_PHRASES,
+    NON_ENGINEERING_ROLE_PHRASES,
 )
 from goldman_sachs_parser import get_total_pages, get_total_results, parse_jobs
 
@@ -22,9 +22,9 @@ GOLDMAN_SACHS_SEARCH_URL = (
     "&sort=POSTED_DATE"
 )
 
-EXCLUDED_ROLE_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+EXCLUDED_ROLE_KEYWORDS = EXCLUDED_LEVEL_KEYWORDS
 # Vice President is a senior IC level at Goldman Sachs, so only block partners.
-EXCLUDED_TITLE_PHRASES = NON_IC_TITLE_PHRASES + ("partner",) + NON_SOFTWARE_TITLE_PHRASES
+EXCLUDED_TITLE_PHRASES = NON_IC_TITLE_PHRASES + ("partner",) + NON_ENGINEERING_ROLE_PHRASES
 
 
 

@@ -13,8 +13,6 @@ COMPANY = workday_company(
             "2101eee3ea96017b1ceba674fc016829",
         ],
     },
-    # Cisco's "Technical Leader" is above senior, and "Leader, ..." is a manager.
-    extra_excluded_title_phrases=("leader",),
     # No country filter on Cisco's site.
     posting_filter=is_us_posting,
     default_max_pages=4,

@@ -3,7 +3,7 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 from amazon_parser import get_total_pages, get_total_results, parse_jobs
 from companies.base import CompanyDefinition
 from companies.filters import (
-    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    EXCLUDED_LEVEL_KEYWORDS,
     DEFAULT_EXCLUDED_TITLE_PHRASES,
     ENGINEERING_TITLE_KEYWORDS,
 )
@@ -33,7 +33,7 @@ AMAZON_SEARCH_URL = (
     "&query_options="
 )
 
-EXCLUDED_ROLE_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+EXCLUDED_ROLE_KEYWORDS = EXCLUDED_LEVEL_KEYWORDS
 EXCLUDED_TITLE_PHRASES = DEFAULT_EXCLUDED_TITLE_PHRASES
 
 

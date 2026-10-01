@@ -5,7 +5,7 @@ from playwright.async_api import TimeoutError as PlaywrightTimeout
 
 from companies.base import CompanyDefinition
 from companies.filters import (
-    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    EXCLUDED_LEVEL_KEYWORDS,
     DEFAULT_EXCLUDED_TITLE_PHRASES,
     ENGINEERING_TITLE_KEYWORDS,
 )
@@ -19,7 +19,7 @@ UBER_SEARCH_URL = f"{UBER_JOBS_SITE_URL}?team=Engineer"
 
 UBER_COUNTRY = "united states"
 
-EXCLUDED_ROLE_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+EXCLUDED_ROLE_KEYWORDS = EXCLUDED_LEVEL_KEYWORDS
 EXCLUDED_TITLE_PHRASES = DEFAULT_EXCLUDED_TITLE_PHRASES
 
 

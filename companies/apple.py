@@ -2,7 +2,7 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from companies.base import CompanyDefinition
 from companies.filters import (
-    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    EXCLUDED_LEVEL_KEYWORDS,
     DEFAULT_EXCLUDED_TITLE_PHRASES,
     ENGINEERING_TITLE_KEYWORDS,
 )
@@ -20,7 +20,7 @@ APPLE_SEARCH_URL = (
     "+wireless-software-SFTWR-WSFT"
 )
 
-EXCLUDED_ROLE_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+EXCLUDED_ROLE_KEYWORDS = EXCLUDED_LEVEL_KEYWORDS
 EXCLUDED_TITLE_PHRASES = DEFAULT_EXCLUDED_TITLE_PHRASES
 
 

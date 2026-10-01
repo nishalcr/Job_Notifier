@@ -3,7 +3,7 @@ from urllib.parse import urlsplit, urlunsplit
 
 from companies.base import CompanyDefinition
 from companies.filters import (
-    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    EXCLUDED_LEVEL_KEYWORDS,
     DEFAULT_EXCLUDED_TITLE_PHRASES,
     ENGINEERING_TITLE_KEYWORDS,
 )
@@ -14,7 +14,7 @@ CVS_SEARCH_URL = (
     "?keywords=software%20development%20engineer"
 )
 
-EXCLUDED_ROLE_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+EXCLUDED_ROLE_KEYWORDS = EXCLUDED_LEVEL_KEYWORDS
 EXCLUDED_TITLE_PHRASES = DEFAULT_EXCLUDED_TITLE_PHRASES
 
 

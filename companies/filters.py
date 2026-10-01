@@ -17,6 +17,7 @@ ENGINEERING_TITLE_KEYWORDS = (
     "machine learning",
     "ml",
     "applied scientist",
+    "architect",
     "mts",
     "amts",
     "smts",
@@ -53,14 +54,13 @@ TARGET_LEVEL_KEYWORDS = (
     "smts",
 )
 
-# People managers, architects, and internships. Any match drops the title.
+# People managers and internships. Any match drops the title.
 NON_IC_TITLE_PHRASES = (
     "manager",
     "mgr",
     "director",
     "head of",
     "leader",
-    "architect",
     "intern",
     "internship",
     "co-op",
@@ -218,4 +218,15 @@ SOFTWARE_TITLE_KEYWORDS = (
 
 NON_SOFTWARE_TITLE_PHRASES = NON_SOFTWARE_ROLE_PHRASES + HARDWARE_DOMAIN_PHRASES
 
-DEFAULT_EXCLUDED_TITLE_PHRASES = NON_IC_TITLE_PHRASES + EXECUTIVE_TITLE_PHRASES + NON_SOFTWARE_TITLE_PHRASES
+# Recruiting roles whose titles mention engineering ("Technical Sourcer, Engineering").
+NON_ENGINEERING_ROLE_PHRASES = (
+    "sourcer",
+    "recruiter",
+)
+
+# Active filters. Since 2026-10-01 every engineering role at every level is kept
+# (the user filters by hand); ABOVE_SENIOR_LEVEL_KEYWORDS and NON_SOFTWARE_TITLE_PHRASES
+# are not applied. To narrow again, set EXCLUDED_LEVEL_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
+# and add NON_SOFTWARE_TITLE_PHRASES to DEFAULT_EXCLUDED_TITLE_PHRASES.
+EXCLUDED_LEVEL_KEYWORDS: tuple[str, ...] = ()
+DEFAULT_EXCLUDED_TITLE_PHRASES = NON_IC_TITLE_PHRASES + EXECUTIVE_TITLE_PHRASES + NON_ENGINEERING_ROLE_PHRASES

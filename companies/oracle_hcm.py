@@ -3,7 +3,7 @@
 from companies import json_api
 from companies.base import CompanyDefinition
 from companies.filters import (
-    ABOVE_SENIOR_LEVEL_KEYWORDS,
+    EXCLUDED_LEVEL_KEYWORDS,
     DEFAULT_EXCLUDED_TITLE_PHRASES,
     ENGINEERING_TITLE_KEYWORDS,
 )
@@ -85,7 +85,7 @@ def oracle_hcm_company(
         get_total_pages=json_api.total_pages_getter(PAGE_SIZE),
         get_total_results=json_api.get_total_results,
         fetch_page_html=fetch_page_html,
-        excluded_role_keywords=ABOVE_SENIOR_LEVEL_KEYWORDS,
+        excluded_role_keywords=EXCLUDED_LEVEL_KEYWORDS,
         excluded_title_phrases=DEFAULT_EXCLUDED_TITLE_PHRASES,
         included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
     )
