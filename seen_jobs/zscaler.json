@@ -1,0 +1,71 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "zscaler"
+  },
+  "jobs": {
+    "5208829007": {
+      "first_seen": 1790877608.3811164,
+      "posted": "2026-08-20",
+      "title": "AI DevOps Engineer",
+      "job_id": "5208829007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5208829007"
+    },
+    "5208421007": {
+      "first_seen": 1790877608.3811193,
+      "posted": "2026-09-21",
+      "title": "Insider Risk Security Engineer",
+      "job_id": "5208421007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5208421007"
+    },
+    "5158936007": {
+      "first_seen": 1790877608.3811202,
+      "posted": "2026-06-30",
+      "title": "Production Engineer",
+      "job_id": "5158936007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5158936007"
+    },
+    "5239096007": {
+      "first_seen": 1790877608.3811216,
+      "posted": "2026-09-16",
+      "title": "Salesforce Developer",
+      "job_id": "5239096007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239096007"
+    },
+    "5167475007": {
+      "first_seen": 1790877608.3811228,
+      "posted": "2026-07-13",
+      "title": "Senior Enterprise Platforms & AI Systems Engineer",
+      "job_id": "5167475007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5167475007"
+    },
+    "5235296007": {
+      "first_seen": 1790877608.3811238,
+      "posted": "2026-09-15",
+      "title": "Senior Information Security Engineer",
+      "job_id": "5235296007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5235296007"
+    },
+    "5246776007": {
+      "first_seen": 1790877608.3811252,
+      "posted": "2026-09-29",
+      "title": "Senior Machine Learning Engineer",
+      "job_id": "5246776007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5246776007"
+    },
+    "5216926007": {
+      "first_seen": 1790877608.3811262,
+      "posted": "2026-08-26",
+      "title": "Sr. Software Development Engineer (Controlplane)",
+      "job_id": "5216926007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216926007"
+    },
+    "5239091007": {
+      "first_seen": 1790877608.3811274,
+      "posted": "2026-09-16",
+      "title": "Threat Response Engineer (TRE) - Day Shift (10am-6pm MT)",
+      "job_id": "5239091007",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239091007"
+    }
+  }
+}

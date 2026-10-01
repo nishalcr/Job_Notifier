@@ -1,0 +1,274 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "snowflake"
+  },
+  "jobs": {
+    "db1375f0-ea5d-404a-b640-259f94dbc995": {
+      "first_seen": 1790877608.8125865,
+      "posted": "2026-07-28",
+      "title": "Software Engineer - Database Engineering",
+      "job_id": "db1375f0-ea5d-404a-b640-259f94dbc995",
+      "url": "https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995"
+    },
+    "3eb872af-0ab1-4986-8f72-e7321fcd1538": {
+      "first_seen": 1790877608.81259,
+      "posted": "2026-02-06",
+      "title": "Software Engineer - Backend",
+      "job_id": "3eb872af-0ab1-4986-8f72-e7321fcd1538",
+      "url": "https://jobs.ashbyhq.com/snowflake/3eb872af-0ab1-4986-8f72-e7321fcd1538"
+    },
+    "97813cac-e55c-4631-94fe-5eda15c7eaed": {
+      "first_seen": 1790877608.8125918,
+      "posted": "2026-04-01",
+      "title": "Senior Forward Deployed Engineer -Spark",
+      "job_id": "97813cac-e55c-4631-94fe-5eda15c7eaed",
+      "url": "https://jobs.ashbyhq.com/snowflake/97813cac-e55c-4631-94fe-5eda15c7eaed"
+    },
+    "2a928b93-a5d4-4285-a92c-032fb389faa2": {
+      "first_seen": 1790877608.8125942,
+      "posted": "2026-09-29",
+      "title": "Software Engineer - SnowConvert AI",
+      "job_id": "2a928b93-a5d4-4285-a92c-032fb389faa2",
+      "url": "https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2"
+    },
+    "143a2248-564b-4cfa-85f5-d47bac911d74": {
+      "first_seen": 1790877608.8125966,
+      "posted": "2026-03-09",
+      "title": "Infrastructure Engineer, Observe by Snowflake",
+      "job_id": "143a2248-564b-4cfa-85f5-d47bac911d74",
+      "url": "https://jobs.ashbyhq.com/snowflake/143a2248-564b-4cfa-85f5-d47bac911d74"
+    },
+    "76e65492-9ff5-4ca1-950a-3565f075f6cb": {
+      "first_seen": 1790877608.8125982,
+      "posted": "2026-04-29",
+      "title": "Senior Frontend Engineer, AI Product -  Observe by Snowflake",
+      "job_id": "76e65492-9ff5-4ca1-950a-3565f075f6cb",
+      "url": "https://jobs.ashbyhq.com/snowflake/76e65492-9ff5-4ca1-950a-3565f075f6cb"
+    },
+    "47d4f4eb-00bf-4395-971c-52b3d23e6ae0": {
+      "first_seen": 1790877608.8126006,
+      "posted": "2026-05-08",
+      "title": "Senior Software Engineer - Observe by Snowflake, OpenTelemetry",
+      "job_id": "47d4f4eb-00bf-4395-971c-52b3d23e6ae0",
+      "url": "https://jobs.ashbyhq.com/snowflake/47d4f4eb-00bf-4395-971c-52b3d23e6ae0"
+    },
+    "12455179-f3ff-4739-b8c0-c21f3c116b87": {
+      "first_seen": 1790877608.812602,
+      "posted": "2026-09-24",
+      "title": "Senior/Staff  Applied AI Engineer (FDE)",
+      "job_id": "12455179-f3ff-4739-b8c0-c21f3c116b87",
+      "url": "https://jobs.ashbyhq.com/snowflake/12455179-f3ff-4739-b8c0-c21f3c116b87"
+    },
+    "9f769838-7ae5-4ffe-8412-3e7e7309ce89": {
+      "first_seen": 1790877608.8126042,
+      "posted": "2026-07-02",
+      "title": "Lead Forward Deployed Engineer - Migration",
+      "job_id": "9f769838-7ae5-4ffe-8412-3e7e7309ce89",
+      "url": "https://jobs.ashbyhq.com/snowflake/9f769838-7ae5-4ffe-8412-3e7e7309ce89"
+    },
+    "073c91f2-0758-4544-9297-3f48a81fb04d": {
+      "first_seen": 1790877608.8126059,
+      "posted": "2026-05-27",
+      "title": "Software Engineer (AI-Native), Database Engineering",
+      "job_id": "073c91f2-0758-4544-9297-3f48a81fb04d",
+      "url": "https://jobs.ashbyhq.com/snowflake/073c91f2-0758-4544-9297-3f48a81fb04d"
+    },
+    "9df37703-8086-48e7-93cc-3df4978c382d": {
+      "first_seen": 1790877608.8126073,
+      "posted": "2026-08-31",
+      "title": "Senior Software Engineer - ManagedDB",
+      "job_id": "9df37703-8086-48e7-93cc-3df4978c382d",
+      "url": "https://jobs.ashbyhq.com/snowflake/9df37703-8086-48e7-93cc-3df4978c382d"
+    },
+    "c61ee2f5-cfae-47f6-9b15-e42d76207f7d": {
+      "first_seen": 1790877608.8126094,
+      "posted": "2026-07-01",
+      "title": "Senior Software Engineer, Accelerated Delivery",
+      "job_id": "c61ee2f5-cfae-47f6-9b15-e42d76207f7d",
+      "url": "https://jobs.ashbyhq.com/snowflake/c61ee2f5-cfae-47f6-9b15-e42d76207f7d"
+    },
+    "ed704306-6585-4a76-ba8c-d23565ae6b9c": {
+      "first_seen": 1790877608.8126109,
+      "posted": "2026-07-01",
+      "title": "Senior Software Engineer - Identity & Access Management",
+      "job_id": "ed704306-6585-4a76-ba8c-d23565ae6b9c",
+      "url": "https://jobs.ashbyhq.com/snowflake/ed704306-6585-4a76-ba8c-d23565ae6b9c"
+    },
+    "5f731aa9-26a6-4760-8941-9f4aff96864d": {
+      "first_seen": 1790877608.8126125,
+      "posted": "2026-07-14",
+      "title": "Senior Software Engineer - Identity, Data Security and Trust",
+      "job_id": "5f731aa9-26a6-4760-8941-9f4aff96864d",
+      "url": "https://jobs.ashbyhq.com/snowflake/5f731aa9-26a6-4760-8941-9f4aff96864d"
+    },
+    "9792736b-382f-4c2d-90eb-f53134ea5d37": {
+      "first_seen": 1790877608.812614,
+      "posted": "2026-07-14",
+      "title": "Senior Software Engineer, Snowpark Container Service",
+      "job_id": "9792736b-382f-4c2d-90eb-f53134ea5d37",
+      "url": "https://jobs.ashbyhq.com/snowflake/9792736b-382f-4c2d-90eb-f53134ea5d37"
+    },
+    "6aa02c13-d9db-4624-b4ce-cc467562e2ed": {
+      "first_seen": 1790877608.8126154,
+      "posted": "2026-08-21",
+      "title": "Senior Fullstack Engineer - Marketplace Monetization",
+      "job_id": "6aa02c13-d9db-4624-b4ce-cc467562e2ed",
+      "url": "https://jobs.ashbyhq.com/snowflake/6aa02c13-d9db-4624-b4ce-cc467562e2ed"
+    },
+    "6796fd48-b377-4943-9149-1dcc0b3b2562": {
+      "first_seen": 1790877608.812617,
+      "posted": "2026-08-06",
+      "title": "Sr. Software Engineer, Customer Experience Engineering",
+      "job_id": "6796fd48-b377-4943-9149-1dcc0b3b2562",
+      "url": "https://jobs.ashbyhq.com/snowflake/6796fd48-b377-4943-9149-1dcc0b3b2562"
+    },
+    "79e0f681-fed6-42cc-9754-9e150e056c5a": {
+      "first_seen": 1790877608.8126187,
+      "posted": "2026-09-23",
+      "title": "Senior Software Engineer - Cortex AI Infrastructure",
+      "job_id": "79e0f681-fed6-42cc-9754-9e150e056c5a",
+      "url": "https://jobs.ashbyhq.com/snowflake/79e0f681-fed6-42cc-9754-9e150e056c5a"
+    },
+    "10f51a30-17eb-4eed-80b0-bb03c9d473c6": {
+      "first_seen": 1790877608.8126204,
+      "posted": "2026-08-11",
+      "title": "Senior Security Engineer, Incident Response",
+      "job_id": "10f51a30-17eb-4eed-80b0-bb03c9d473c6",
+      "url": "https://jobs.ashbyhq.com/snowflake/10f51a30-17eb-4eed-80b0-bb03c9d473c6"
+    },
+    "6cb3d18f-da62-4465-9eda-1c2cec33b3a0": {
+      "first_seen": 1790877608.8126216,
+      "posted": "2026-08-11",
+      "title": "Senior Security Engineer, Incident Response",
+      "job_id": "6cb3d18f-da62-4465-9eda-1c2cec33b3a0",
+      "url": "https://jobs.ashbyhq.com/snowflake/6cb3d18f-da62-4465-9eda-1c2cec33b3a0"
+    },
+    "c0b3a0bb-f3bd-4df2-863e-5abe846ba1c0": {
+      "first_seen": 1790877608.8126228,
+      "posted": "2026-08-31",
+      "title": "Senior Software Engineer, Cortex Quality",
+      "job_id": "c0b3a0bb-f3bd-4df2-863e-5abe846ba1c0",
+      "url": "https://jobs.ashbyhq.com/snowflake/c0b3a0bb-f3bd-4df2-863e-5abe846ba1c0"
+    },
+    "08ba6a41-fb63-4b51-aee7-be5501668909": {
+      "first_seen": 1790877608.8126245,
+      "posted": "2026-08-14",
+      "title": "Software Engineer - AIM Virtualization",
+      "job_id": "08ba6a41-fb63-4b51-aee7-be5501668909",
+      "url": "https://jobs.ashbyhq.com/snowflake/08ba6a41-fb63-4b51-aee7-be5501668909"
+    },
+    "5db01aa4-92eb-4796-bd7e-446ea98402f2": {
+      "first_seen": 1790877608.8126268,
+      "posted": "2026-08-15",
+      "title": "Senior Software Engineer - NatSec",
+      "job_id": "5db01aa4-92eb-4796-bd7e-446ea98402f2",
+      "url": "https://jobs.ashbyhq.com/snowflake/5db01aa4-92eb-4796-bd7e-446ea98402f2"
+    },
+    "bcd7eea8-1f1e-437b-b7d1-52361493d55e": {
+      "first_seen": 1790877608.8126283,
+      "posted": "2026-08-21",
+      "title": "Senior Software Engineer - Capacity",
+      "job_id": "bcd7eea8-1f1e-437b-b7d1-52361493d55e",
+      "url": "https://jobs.ashbyhq.com/snowflake/bcd7eea8-1f1e-437b-b7d1-52361493d55e"
+    },
+    "a51a1e30-94ec-4550-b39f-90ef328dfa87": {
+      "first_seen": 1790877608.8126302,
+      "posted": "2026-09-15",
+      "title": "Fullstack Engineer - Marketplace",
+      "job_id": "a51a1e30-94ec-4550-b39f-90ef328dfa87",
+      "url": "https://jobs.ashbyhq.com/snowflake/a51a1e30-94ec-4550-b39f-90ef328dfa87"
+    },
+    "30c880da-d4ec-4d66-ad2b-1d7a52c6c6b7": {
+      "first_seen": 1790877608.8126318,
+      "posted": "2026-09-03",
+      "title": "Senior Software Engineer - Cloud Efficiency",
+      "job_id": "30c880da-d4ec-4d66-ad2b-1d7a52c6c6b7",
+      "url": "https://jobs.ashbyhq.com/snowflake/30c880da-d4ec-4d66-ad2b-1d7a52c6c6b7"
+    },
+    "f4754cf9-8e07-46b9-8874-528e810892f0": {
+      "first_seen": 1790877608.812633,
+      "posted": "2026-09-02",
+      "title": "Senior Software Engineer - Cloud Security",
+      "job_id": "f4754cf9-8e07-46b9-8874-528e810892f0",
+      "url": "https://jobs.ashbyhq.com/snowflake/f4754cf9-8e07-46b9-8874-528e810892f0"
+    },
+    "9e0ae021-f264-4efb-bc80-26c04bd06df6": {
+      "first_seen": 1790877608.8126345,
+      "posted": "2026-09-21",
+      "title": "Senior/Staff System Research Engineer \u2013 LLM Inference Optimization",
+      "job_id": "9e0ae021-f264-4efb-bc80-26c04bd06df6",
+      "url": "https://jobs.ashbyhq.com/snowflake/9e0ae021-f264-4efb-bc80-26c04bd06df6"
+    },
+    "1c90dd70-ffa8-4a50-844d-00a3e8726bd3": {
+      "first_seen": 1790877608.8126354,
+      "posted": "2026-09-11",
+      "title": "Senior Software Engineer - Security Foundations",
+      "job_id": "1c90dd70-ffa8-4a50-844d-00a3e8726bd3",
+      "url": "https://jobs.ashbyhq.com/snowflake/1c90dd70-ffa8-4a50-844d-00a3e8726bd3"
+    },
+    "55e9aa63-e7b6-43b7-9ca7-8cc398dbbb00": {
+      "first_seen": 1790877608.8126369,
+      "posted": "2026-09-17",
+      "title": "Intermediate/ Senior Software Engineer - Cortex LLM Training Platform",
+      "job_id": "55e9aa63-e7b6-43b7-9ca7-8cc398dbbb00",
+      "url": "https://jobs.ashbyhq.com/snowflake/55e9aa63-e7b6-43b7-9ca7-8cc398dbbb00"
+    },
+    "e47d5736-b86b-4c10-a487-4cc3a012096e": {
+      "first_seen": 1790877608.812638,
+      "posted": "2026-09-18",
+      "title": "Senior Software Engineer - Billing Platform",
+      "job_id": "e47d5736-b86b-4c10-a487-4cc3a012096e",
+      "url": "https://jobs.ashbyhq.com/snowflake/e47d5736-b86b-4c10-a487-4cc3a012096e"
+    },
+    "b421f848-3529-4123-b833-5566c0aa9017": {
+      "first_seen": 1790877608.8126395,
+      "posted": "2026-09-30",
+      "title": "Senior Software Engineer - Cloud Provisioning Service",
+      "job_id": "b421f848-3529-4123-b833-5566c0aa9017",
+      "url": "https://jobs.ashbyhq.com/snowflake/b421f848-3529-4123-b833-5566c0aa9017"
+    },
+    "59fb145c-1a98-4fbb-897c-22b9b4d5a97d": {
+      "first_seen": 1790877608.812641,
+      "posted": "2026-09-22",
+      "title": "Senior Software Engineer, Trust & Platform Security",
+      "job_id": "59fb145c-1a98-4fbb-897c-22b9b4d5a97d",
+      "url": "https://jobs.ashbyhq.com/snowflake/59fb145c-1a98-4fbb-897c-22b9b4d5a97d"
+    },
+    "5a4a6ea7-fcfb-4639-83ce-90266cad1548": {
+      "first_seen": 1790877608.812642,
+      "posted": "2026-09-22",
+      "title": "Senior Software Engineer - Foundation DB",
+      "job_id": "5a4a6ea7-fcfb-4639-83ce-90266cad1548",
+      "url": "https://jobs.ashbyhq.com/snowflake/5a4a6ea7-fcfb-4639-83ce-90266cad1548"
+    },
+    "c03acc32-f60b-40de-9838-e954d3f419b9": {
+      "first_seen": 1790877608.8126433,
+      "posted": "2026-09-24",
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "job_id": "c03acc32-f60b-40de-9838-e954d3f419b9",
+      "url": "https://jobs.ashbyhq.com/snowflake/c03acc32-f60b-40de-9838-e954d3f419b9"
+    },
+    "6e96b818-2350-4601-8bdd-7ddd6c4a5f6d": {
+      "first_seen": 1790877608.812644,
+      "posted": "2026-09-25",
+      "title": "Software Engineer - Postgres",
+      "job_id": "6e96b818-2350-4601-8bdd-7ddd6c4a5f6d",
+      "url": "https://jobs.ashbyhq.com/snowflake/6e96b818-2350-4601-8bdd-7ddd6c4a5f6d"
+    },
+    "b3fab313-f31f-44b6-8c32-222084f93259": {
+      "first_seen": 1790877608.8126452,
+      "posted": "2026-09-29",
+      "title": "Frontend Software Engineer\u2013 Cortex AI Apps",
+      "job_id": "b3fab313-f31f-44b6-8c32-222084f93259",
+      "url": "https://jobs.ashbyhq.com/snowflake/b3fab313-f31f-44b6-8c32-222084f93259"
+    },
+    "16d130a1-4014-4458-829f-ea2ba48d366d": {
+      "first_seen": 1790877608.8126462,
+      "posted": "2026-09-30",
+      "title": "Software Engineer \u2013 Mobile Team",
+      "job_id": "16d130a1-4014-4458-829f-ea2ba48d366d",
+      "url": "https://jobs.ashbyhq.com/snowflake/16d130a1-4014-4458-829f-ea2ba48d366d"
+    }
+  }
+}

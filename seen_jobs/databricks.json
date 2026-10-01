@@ -1,0 +1,659 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "databricks"
+  },
+  "jobs": {
+    "8546367002": {
+      "first_seen": 1790877608.2543185,
+      "posted": "2026-05-13",
+      "title": "AI Engineer \u2013 Forward Deployed Engineering (AI FDE)",
+      "job_id": "8546367002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002"
+    },
+    "8760167002": {
+      "first_seen": 1790877608.254324,
+      "posted": "2026-08-28",
+      "title": "AI Engineer \u2013 Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)",
+      "job_id": "8760167002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002"
+    },
+    "8611108002": {
+      "first_seen": 1790877608.2543263,
+      "posted": "2026-07-23",
+      "title": "Forward Deployed Engineer (FDE) - Public Sector",
+      "job_id": "8611108002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611108002"
+    },
+    "8656900002": {
+      "first_seen": 1790877608.2543275,
+      "posted": "2026-08-03",
+      "title": "Senior Applied ML Engineer - ML4Sys",
+      "job_id": "8656900002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002"
+    },
+    "8635216002": {
+      "first_seen": 1790877608.2543294,
+      "posted": "2026-07-15",
+      "title": "Senior Software Engineer, AI Native Web Platform",
+      "job_id": "8635216002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635216002"
+    },
+    "8582276002": {
+      "first_seen": 1790877608.2543309,
+      "posted": "2026-06-08",
+      "title": "Senior Software Engineer, AI Runtime",
+      "job_id": "8582276002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582276002"
+    },
+    "8183195002": {
+      "first_seen": 1790877608.2543328,
+      "posted": "2025-09-23",
+      "title": "Senior Software Engineer  - Application Traffic team",
+      "job_id": "8183195002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002"
+    },
+    "4799387002": {
+      "first_seen": 1790877608.254334,
+      "posted": "2021-10-21",
+      "title": "Senior Software Engineer - Backend",
+      "job_id": "4799387002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002"
+    },
+    "6544435002": {
+      "first_seen": 1790877608.2543352,
+      "posted": "2022-12-20",
+      "title": "Senior Software Engineer - Backend",
+      "job_id": "6544435002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002"
+    },
+    "6779084002": {
+      "first_seen": 1790877608.254337,
+      "posted": "2023-06-01",
+      "title": "Senior Software Engineer - Backend",
+      "job_id": "6779084002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002"
+    },
+    "8233899002": {
+      "first_seen": 1790877608.254338,
+      "posted": "2025-10-29",
+      "title": "Senior Software Engineer (Backend) - AI/ML Environments",
+      "job_id": "8233899002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8233899002"
+    },
+    "8806934002": {
+      "first_seen": 1790877608.2543402,
+      "posted": "2026-09-14",
+      "title": "Senior Software Engineer, Compute Infrastructure",
+      "job_id": "8806934002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8806934002"
+    },
+    "5048461002": {
+      "first_seen": 1790877608.2543411,
+      "posted": "2021-01-26",
+      "title": "Senior Software Engineer - Database Engine Internals",
+      "job_id": "5048461002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002"
+    },
+    "6544383002": {
+      "first_seen": 1790877608.2543426,
+      "posted": "2023-06-23",
+      "title": "Senior Software Engineer - Database Engine Internals",
+      "job_id": "6544383002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002"
+    },
+    "4513122002": {
+      "first_seen": 1790877608.254344,
+      "posted": "2019-11-14",
+      "title": "Senior Software Engineer - Distributed Data Systems",
+      "job_id": "4513122002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002"
+    },
+    "6544325002": {
+      "first_seen": 1790877608.2543457,
+      "posted": "2023-06-23",
+      "title": "Senior Software Engineer - Distributed Data Systems",
+      "job_id": "6544325002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002"
+    },
+    "6936994002": {
+      "first_seen": 1790877608.254347,
+      "posted": "2023-12-11",
+      "title": "Senior Software Engineer - Distributed Data Systems",
+      "job_id": "6936994002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6936994002"
+    },
+    "7898766002": {
+      "first_seen": 1790877608.2543483,
+      "posted": "2025-03-06",
+      "title": "Senior Software Engineer - Fullstack",
+      "job_id": "7898766002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002"
+    },
+    "5445641002": {
+      "first_seen": 1790877608.2543497,
+      "posted": "2022-02-28",
+      "title": "Senior Software Engineer - Fullstack",
+      "job_id": "5445641002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002"
+    },
+    "6544403002": {
+      "first_seen": 1790877608.2543511,
+      "posted": "2022-12-20",
+      "title": "Senior Software Engineer - Fullstack",
+      "job_id": "6544403002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002"
+    },
+    "6318503002": {
+      "first_seen": 1790877608.2543519,
+      "posted": "2022-08-09",
+      "title": "Senior Software Engineer - Infrastructure and Tools",
+      "job_id": "6318503002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002"
+    },
+    "8211648002": {
+      "first_seen": 1790877608.2543526,
+      "posted": "2025-10-14",
+      "title": "Senior Software Engineer, Model Serving",
+      "job_id": "8211648002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211648002"
+    },
+    "8027404002": {
+      "first_seen": 1790877608.2543547,
+      "posted": "2025-06-06",
+      "title": "Senior Software Engineer  - Money Team",
+      "job_id": "8027404002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8027404002"
+    },
+    "7274459002": {
+      "first_seen": 1790877608.2543561,
+      "posted": "2024-03-06",
+      "title": "Senior Software Engineer - Security",
+      "job_id": "7274459002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274459002"
+    },
+    "8635225002": {
+      "first_seen": 1790877608.2543578,
+      "posted": "2026-07-15",
+      "title": "Software Engineer, Web Products",
+      "job_id": "8635225002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002"
+    },
+    "8560779002": {
+      "first_seen": 1790877608.2543597,
+      "posted": "2026-06-23",
+      "title": "Software Engineer, Web Products",
+      "job_id": "8560779002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002"
+    },
+    "8739484002": {
+      "first_seen": 1790877608.2543612,
+      "posted": "2026-08-21",
+      "title": "Sr. Forward Deployed Engineer",
+      "job_id": "8739484002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002"
+    },
+    "8739474002": {
+      "first_seen": 1790877608.2543623,
+      "posted": "2026-08-21",
+      "title": "Sr. Forward Deployed Engineer",
+      "job_id": "8739474002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739474002"
+    },
+    "8739465002": {
+      "first_seen": 1790877608.2543633,
+      "posted": "2026-08-21",
+      "title": "Sr. Forward Deployed Engineer",
+      "job_id": "8739465002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002"
+    },
+    "8739462002": {
+      "first_seen": 1790877608.2543645,
+      "posted": "2026-08-21",
+      "title": "Sr. Forward Deployed Engineer",
+      "job_id": "8739462002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739462002"
+    },
+    "8739458002": {
+      "first_seen": 1790877608.254366,
+      "posted": "2026-08-21",
+      "title": "Sr. Forward Deployed Engineer",
+      "job_id": "8739458002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739458002"
+    },
+    "8657065002": {
+      "first_seen": 1790877608.2543669,
+      "posted": "2026-08-21",
+      "title": "Sr. Forward Deployed Engineer",
+      "job_id": "8657065002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657065002"
+    },
+    "8461239002": {
+      "first_seen": 1790877608.254368,
+      "posted": "2026-03-12",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8461239002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002"
+    },
+    "8461163002": {
+      "first_seen": 1790877608.2543688,
+      "posted": "2026-03-12",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8461163002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002"
+    },
+    "8494153002": {
+      "first_seen": 1790877608.2543693,
+      "posted": "2026-04-03",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8494153002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494153002"
+    },
+    "8461168002": {
+      "first_seen": 1790877608.2543697,
+      "posted": "2026-03-12",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8461168002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002"
+    },
+    "8461193002": {
+      "first_seen": 1790877608.2543705,
+      "posted": "2026-03-12",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8461193002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002"
+    },
+    "8461218002": {
+      "first_seen": 1790877608.2543714,
+      "posted": "2026-03-12",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8461218002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002"
+    },
+    "8461219002": {
+      "first_seen": 1790877608.2543724,
+      "posted": "2026-03-12",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8461219002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002"
+    },
+    "8461258002": {
+      "first_seen": 1790877608.2543733,
+      "posted": "2026-03-12",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8461258002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002"
+    },
+    "8461251002": {
+      "first_seen": 1790877608.254374,
+      "posted": "2026-03-12",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8461251002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002"
+    },
+    "8461220002": {
+      "first_seen": 1790877608.2543752,
+      "posted": "2026-03-12",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8461220002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002"
+    },
+    "8461222002": {
+      "first_seen": 1790877608.254376,
+      "posted": "2026-03-12",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8461222002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002"
+    },
+    "8461243002": {
+      "first_seen": 1790877608.2543778,
+      "posted": "2026-03-12",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8461243002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461243002"
+    },
+    "8461226002": {
+      "first_seen": 1790877608.2543788,
+      "posted": "2026-03-12",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8461226002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002"
+    },
+    "8461241002": {
+      "first_seen": 1790877608.2543795,
+      "posted": "2026-03-12",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "job_id": "8461241002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002"
+    },
+    "8807063002": {
+      "first_seen": 1790877608.2543805,
+      "posted": "2026-09-14",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+      "job_id": "8807063002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807063002"
+    },
+    "8807081002": {
+      "first_seen": 1790877608.2543817,
+      "posted": "2026-09-14",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+      "job_id": "8807081002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807081002"
+    },
+    "8807049002": {
+      "first_seen": 1790877608.2543828,
+      "posted": "2026-09-14",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+      "job_id": "8807049002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807049002"
+    },
+    "8807033002": {
+      "first_seen": 1790877608.254384,
+      "posted": "2026-09-14",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+      "job_id": "8807033002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807033002"
+    },
+    "8647743002": {
+      "first_seen": 1790877608.2543852,
+      "posted": "2026-07-23",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+      "job_id": "8647743002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647743002"
+    },
+    "8488399002": {
+      "first_seen": 1790877608.254386,
+      "posted": "2026-04-07",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+      "job_id": "8488399002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002"
+    },
+    "8592952002": {
+      "first_seen": 1790877608.254387,
+      "posted": "2026-06-22",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "job_id": "8592952002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592952002"
+    },
+    "8592939002": {
+      "first_seen": 1790877608.2543886,
+      "posted": "2026-06-22",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "job_id": "8592939002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002"
+    },
+    "8592942002": {
+      "first_seen": 1790877608.2543898,
+      "posted": "2026-06-22",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "job_id": "8592942002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592942002"
+    },
+    "8592938002": {
+      "first_seen": 1790877608.2543905,
+      "posted": "2026-06-22",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "job_id": "8592938002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592938002"
+    },
+    "8592951002": {
+      "first_seen": 1790877608.2543912,
+      "posted": "2026-06-22",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "job_id": "8592951002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592951002"
+    },
+    "8592908002": {
+      "first_seen": 1790877608.2543924,
+      "posted": "2026-06-22",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "job_id": "8592908002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592908002"
+    },
+    "8438791002": {
+      "first_seen": 1790877608.254393,
+      "posted": "2026-06-22",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "job_id": "8438791002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438791002"
+    },
+    "8592928002": {
+      "first_seen": 1790877608.2543938,
+      "posted": "2026-06-22",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "job_id": "8592928002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592928002"
+    },
+    "8592937002": {
+      "first_seen": 1790877608.2543948,
+      "posted": "2026-06-22",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "job_id": "8592937002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592937002"
+    },
+    "8494142002": {
+      "first_seen": 1790877608.254396,
+      "posted": "2026-04-03",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+      "job_id": "8494142002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494142002"
+    },
+    "8494144002": {
+      "first_seen": 1790877608.254397,
+      "posted": "2026-04-03",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+      "job_id": "8494144002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002"
+    },
+    "8371312002": {
+      "first_seen": 1790877608.254398,
+      "posted": "2026-03-06",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+      "job_id": "8371312002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8371312002"
+    },
+    "8494148002": {
+      "first_seen": 1790877608.254399,
+      "posted": "2026-04-03",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+      "job_id": "8494148002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494148002"
+    },
+    "8494143002": {
+      "first_seen": 1790877608.2543998,
+      "posted": "2026-04-03",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+      "job_id": "8494143002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494143002"
+    },
+    "8494146002": {
+      "first_seen": 1790877608.2544005,
+      "posted": "2026-04-03",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+      "job_id": "8494146002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002"
+    },
+    "8494145002": {
+      "first_seen": 1790877608.254401,
+      "posted": "2026-04-03",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+      "job_id": "8494145002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494145002"
+    },
+    "8657488002": {
+      "first_seen": 1790877608.2544022,
+      "posted": "2026-08-18",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
+      "job_id": "8657488002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002"
+    },
+    "8657478002": {
+      "first_seen": 1790877608.2544029,
+      "posted": "2026-09-08",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector/National Security",
+      "job_id": "8657478002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657478002"
+    },
+    "8647675002": {
+      "first_seen": 1790877608.2544034,
+      "posted": "2026-07-23",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+      "job_id": "8647675002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647675002"
+    },
+    "8643895002": {
+      "first_seen": 1790877608.2544045,
+      "posted": "2026-07-22",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+      "job_id": "8643895002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643895002"
+    },
+    "8647667002": {
+      "first_seen": 1790877608.2544053,
+      "posted": "2026-07-23",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+      "job_id": "8647667002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647667002"
+    },
+    "8647668002": {
+      "first_seen": 1790877608.2544062,
+      "posted": "2026-07-23",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+      "job_id": "8647668002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647668002"
+    },
+    "8647669002": {
+      "first_seen": 1790877608.2544072,
+      "posted": "2026-07-23",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+      "job_id": "8647669002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647669002"
+    },
+    "8647670002": {
+      "first_seen": 1790877608.254408,
+      "posted": "2026-07-23",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+      "job_id": "8647670002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647670002"
+    },
+    "8647677002": {
+      "first_seen": 1790877608.2544086,
+      "posted": "2026-07-23",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+      "job_id": "8647677002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647677002"
+    },
+    "8657468002": {
+      "first_seen": 1790877608.2544096,
+      "posted": "2026-08-14",
+      "title": "Sr. Forward Deployed Engineer - National Security",
+      "job_id": "8657468002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657468002"
+    },
+    "8746374002": {
+      "first_seen": 1790877608.2544103,
+      "posted": "2026-08-25",
+      "title": "Sr. Forward Deployed Engineer - National Security",
+      "job_id": "8746374002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002"
+    },
+    "8632188002": {
+      "first_seen": 1790877608.254411,
+      "posted": "2026-07-28",
+      "title": "Sr. Forward Deployed Engineer - Public Sector",
+      "job_id": "8632188002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632188002"
+    },
+    "8407913002": {
+      "first_seen": 1790877608.2544127,
+      "posted": "2026-08-26",
+      "title": "Sr Platform Monitoring Engineer",
+      "job_id": "8407913002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002"
+    },
+    "8517577002": {
+      "first_seen": 1790877608.2544138,
+      "posted": "2026-04-21",
+      "title": "Sr Production Engineer- Public Sector",
+      "job_id": "8517577002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517577002"
+    },
+    "8220814002": {
+      "first_seen": 1790877608.254415,
+      "posted": "2026-03-03",
+      "title": "Sr Software Engineer, Agentic Applications",
+      "job_id": "8220814002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002"
+    },
+    "8379331002": {
+      "first_seen": 1790877608.254416,
+      "posted": "2026-01-16",
+      "title": "Sr. Software Engineer- Backend",
+      "job_id": "8379331002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8379331002"
+    },
+    "8416951002": {
+      "first_seen": 1790877608.2544167,
+      "posted": "2026-03-05",
+      "title": "Sr Software Engineer- Customer Experience Intelligence (CXI)",
+      "job_id": "8416951002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8416951002"
+    },
+    "8617901002": {
+      "first_seen": 1790877608.2544177,
+      "posted": "2026-07-15",
+      "title": "Sr Software Engineer- CXI",
+      "job_id": "8617901002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8617901002"
+    },
+    "8493170002": {
+      "first_seen": 1790877608.2544198,
+      "posted": "2026-04-21",
+      "title": "Sr Software Engineer, Infrastructure",
+      "job_id": "8493170002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002"
+    },
+    "8815669002": {
+      "first_seen": 1790877608.2544203,
+      "posted": "2026-09-16",
+      "title": "Sr. Software Engineer - Ingestion Core team",
+      "job_id": "8815669002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8815669002"
+    },
+    "8211452002": {
+      "first_seen": 1790877608.254421,
+      "posted": "2025-10-14",
+      "title": "Sr Software Engineer-Networking",
+      "job_id": "8211452002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211452002"
+    },
+    "8211450002": {
+      "first_seen": 1790877608.2544222,
+      "posted": "2025-10-14",
+      "title": "Sr Software Engineer-Networking",
+      "job_id": "8211450002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211450002"
+    },
+    "8512856002": {
+      "first_seen": 1790877608.2544231,
+      "posted": "2026-04-21",
+      "title": "Sr Software Engineer -Public Sector",
+      "job_id": "8512856002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8512856002"
+    },
+    "8482086002": {
+      "first_seen": 1790877608.2544239,
+      "posted": "2026-03-26",
+      "title": "Systems PhD - Software Engineer",
+      "job_id": "8482086002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002"
+    },
+    "8482037002": {
+      "first_seen": 1790877608.2544243,
+      "posted": "2026-03-26",
+      "title": "Systems PhD - Software Engineer",
+      "job_id": "8482037002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002"
+    }
+  }
+}
