@@ -1,0 +1,71 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "spotify"
+  },
+  "jobs": {
+    "65d6caca-6d7c-4049-8256-a128e0e7249e": {
+      "first_seen": 1790878833.4182594,
+      "posted": "2026-09-29",
+      "title": "Backend Engineer - Music",
+      "job_id": "65d6caca-6d7c-4049-8256-a128e0e7249e",
+      "url": "https://jobs.lever.co/spotify/65d6caca-6d7c-4049-8256-a128e0e7249e"
+    },
+    "cb29d857-395b-401d-9749-367e666ff870": {
+      "first_seen": 1790878833.4182734,
+      "posted": "2026-09-24",
+      "title": "Security Engineer - Detection and Response",
+      "job_id": "cb29d857-395b-401d-9749-367e666ff870",
+      "url": "https://jobs.lever.co/spotify/cb29d857-395b-401d-9749-367e666ff870"
+    },
+    "cefcda32-523e-418b-a327-383104741153": {
+      "first_seen": 1790878833.4182858,
+      "posted": "2026-09-18",
+      "title": "Senior Backend Engineer, Home Surfaces",
+      "job_id": "cefcda32-523e-418b-a327-383104741153",
+      "url": "https://jobs.lever.co/spotify/cefcda32-523e-418b-a327-383104741153"
+    },
+    "9eca14d3-8e0b-46de-8161-704e07f3d9d0": {
+      "first_seen": 1790878833.4182873,
+      "posted": "2026-05-04",
+      "title": "Senior Machine Learning Engineer - Policy & Safety",
+      "job_id": "9eca14d3-8e0b-46de-8161-704e07f3d9d0",
+      "url": "https://jobs.lever.co/spotify/9eca14d3-8e0b-46de-8161-704e07f3d9d0"
+    },
+    "d7c43743-2240-45b6-bc31-33e50cbaba4a": {
+      "first_seen": 1790878833.418291,
+      "posted": "2026-04-29",
+      "title": "Senior Machine Learning Engineer, Personalization, Muse",
+      "job_id": "d7c43743-2240-45b6-bc31-33e50cbaba4a",
+      "url": "https://jobs.lever.co/spotify/d7c43743-2240-45b6-bc31-33e50cbaba4a"
+    },
+    "c73be71c-1a63-4906-9925-95f2115d1f1d": {
+      "first_seen": 1790878833.4182923,
+      "posted": "2026-08-13",
+      "title": "Senior Software Engineer - Enterprise AI",
+      "job_id": "c73be71c-1a63-4906-9925-95f2115d1f1d",
+      "url": "https://jobs.lever.co/spotify/c73be71c-1a63-4906-9925-95f2115d1f1d"
+    },
+    "47d4eabf-8d5a-4dab-ac72-de7b5b56841c": {
+      "first_seen": 1790878833.4182937,
+      "posted": "2026-04-29",
+      "title": "Senior Staff Machine Learning Engineer - Content Platform",
+      "job_id": "47d4eabf-8d5a-4dab-ac72-de7b5b56841c",
+      "url": "https://jobs.lever.co/spotify/47d4eabf-8d5a-4dab-ac72-de7b5b56841c"
+    },
+    "281e7db9-86ba-4a1c-8773-c23b96ed32dc": {
+      "first_seen": 1790878833.4182944,
+      "posted": "2026-09-10",
+      "title": "Staff Machine Learning Engineer, Home Surfaces",
+      "job_id": "281e7db9-86ba-4a1c-8773-c23b96ed32dc",
+      "url": "https://jobs.lever.co/spotify/281e7db9-86ba-4a1c-8773-c23b96ed32dc"
+    },
+    "9761af44-be41-43ca-8c01-79cdbb2aef93": {
+      "first_seen": 1790878833.4182959,
+      "posted": "2026-07-30",
+      "title": "Staff Machine Learning Engineer, Personalization",
+      "job_id": "9761af44-be41-43ca-8c01-79cdbb2aef93",
+      "url": "https://jobs.lever.co/spotify/9761af44-be41-43ca-8c01-79cdbb2aef93"
+    }
+  }
+}
