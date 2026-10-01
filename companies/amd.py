@@ -24,7 +24,6 @@ async def fetch_page_html(page, runtime_config, url: str) -> str:
             "descending": "true",
             "internal": "false",
             "country": "United States",
-            "categories": "Engineering",
         },
         timeout=30000,
     )
@@ -57,7 +56,7 @@ COMPANY = CompanyDefinition(
     slug="amd",
     display_name="AMD",
     default_search_url=AMD_SEARCH_URL,
-    default_max_pages=4,
+    default_max_pages=6,
     default_full_scrape_max_pages=60,
     wait_selectors=(),
     build_search_url=json_api.build_search_url,

@@ -14,8 +14,7 @@ from companies.filters import (
 
 PARAMOUNT_BASE_URL = "https://careers.paramount.com"
 PARAMOUNT_SEARCH_URL = (
-    f"{PARAMOUNT_BASE_URL}/search/?q=&optionsFacetsDD_department=Technology"
-    "&sortColumn=referencedate&sortDirection=desc"
+    f"{PARAMOUNT_BASE_URL}/search/?q=&sortColumn=referencedate&sortDirection=desc"
 )
 PAGE_SIZE = 25  # fixed by the site
 JOB_ID_RE = re.compile(r"/(\d+)/?$")

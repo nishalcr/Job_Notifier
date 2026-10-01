@@ -1,9 +1,10 @@
-"""Shared title filters: software-type IC roles from new grad through senior.
+"""Shared title filters: SWE, data, ML and AI roles at every level (managers and interns excluded).
 
 All terms match whole words, case-insensitively (see state.passes_title_filters).
 """
 
-# A title must contain at least one of these to be kept.
+# A title must contain at least one of these to be kept: software engineering,
+# data (engineer, scientist, analyst), ML and AI roles.
 ENGINEERING_TITLE_KEYWORDS = (
     "engineer",
     "engineering",
@@ -17,6 +18,21 @@ ENGINEERING_TITLE_KEYWORDS = (
     "machine learning",
     "ml",
     "applied scientist",
+    "research scientist",
+    "data scientist",
+    "data science",
+    "ml scientist",
+    "machine learning scientist",
+    "ai scientist",
+    "ai researcher",
+    "ai research",
+    "data analyst",
+    "business analyst",
+    "product analyst",
+    "analytics",
+    "business intelligence",
+    "bi analyst",
+    "bi engineer",
     "architect",
     "mts",
     "amts",
@@ -91,12 +107,14 @@ NON_SOFTWARE_ROLE_PHRASES = (
     "field application",
     "support engineer",
     "content engineer",
-    "data scientist",
+    "solutions architect",
+    "solution architect",
     "consultant",
     "specialist",
     "technician",
     "sourcer",
     "recruiter",
+    "field service",
     "technologist",
     "contractor",
 )
@@ -168,6 +186,12 @@ HARDWARE_DOMAIN_PHRASES = (
     "civil",
     "chemical",
     "physical security",
+    "photonic",
+    "soc",
+    "circuit",
+    "process development",
+    "audio/visual",
+    "audio video",
     # Automotive
     "cae",
     "mechatronics",
@@ -218,15 +242,9 @@ SOFTWARE_TITLE_KEYWORDS = (
 
 NON_SOFTWARE_TITLE_PHRASES = NON_SOFTWARE_ROLE_PHRASES + HARDWARE_DOMAIN_PHRASES
 
-# Recruiting roles whose titles mention engineering ("Technical Sourcer, Engineering").
-NON_ENGINEERING_ROLE_PHRASES = (
-    "sourcer",
-    "recruiter",
-)
-
-# Active filters. Since 2026-10-01 every engineering role at every level is kept
-# (the user filters by hand); ABOVE_SENIOR_LEVEL_KEYWORDS and NON_SOFTWARE_TITLE_PHRASES
-# are not applied. To narrow again, set EXCLUDED_LEVEL_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS
-# and add NON_SOFTWARE_TITLE_PHRASES to DEFAULT_EXCLUDED_TITLE_PHRASES.
+# Active filters (since 2026-10-01): SWE, data, ML and AI roles at every level.
+# Managers, executives, interns, recruiting and non-software (hardware, customer-facing)
+# roles are dropped. To drop levels above senior again, set
+# EXCLUDED_LEVEL_KEYWORDS = ABOVE_SENIOR_LEVEL_KEYWORDS.
 EXCLUDED_LEVEL_KEYWORDS: tuple[str, ...] = ()
-DEFAULT_EXCLUDED_TITLE_PHRASES = NON_IC_TITLE_PHRASES + EXECUTIVE_TITLE_PHRASES + NON_ENGINEERING_ROLE_PHRASES
+DEFAULT_EXCLUDED_TITLE_PHRASES = NON_IC_TITLE_PHRASES + EXECUTIVE_TITLE_PHRASES + NON_SOFTWARE_TITLE_PHRASES

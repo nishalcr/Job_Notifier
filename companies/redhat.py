@@ -7,8 +7,7 @@ COMPANY = workday_company(
     tenant="redhat",
     site="jobs",
     applied_facets={
-        # Red Hat's site uses short facet names: "a" = country, "d" = job function.
+        # Red Hat's site uses short facet names: "a" = country.
         "a": ["bc33aa3152ec42d4995f4791a106ed09"],  # United States of America
-        "d": ["c18026e77576010f6ef6126f4e43ec4a"],  # Engineering
     },
 )

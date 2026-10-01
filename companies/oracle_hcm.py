@@ -33,8 +33,8 @@ def oracle_hcm_company(
                 f"offset={(page_num - 1) * PAGE_SIZE}",
                 "sortBy=POSTING_DATES_DESC",
                 f"locationId={location_id}",
-                "selectedCategoriesFacet=" + "%3B".join(category_ids),
             )
+            + (("selectedCategoriesFacet=" + "%3B".join(category_ids),) if category_ids else ())
         )
         return (
             f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"

@@ -5,14 +5,13 @@ from companies.filters import (
     EXCLUDED_LEVEL_KEYWORDS,
     ENGINEERING_TITLE_KEYWORDS,
     NON_IC_TITLE_PHRASES,
-    NON_ENGINEERING_ROLE_PHRASES,
+    NON_SOFTWARE_TITLE_PHRASES,
 )
 from goldman_sachs_parser import get_total_pages, get_total_results, parse_jobs
 
 GOLDMAN_SACHS_SEARCH_URL = (
     "https://higher.gs.com/results"
     "?EXPERIENCE_LEVEL=Analyst|Associate|Vice%20President"
-    "&JOB_FUNCTION=Software%20Engineering"
     "&LOCATION=Albany|New%20York|Atlanta|Boston|Chicago|Dallas|Houston|Irving"
     "|Richardson|Denver|Detroit|Troy|Draper|Salt%20Lake%20City|Jersey%20City"
     "|Morristown|Los%20Angeles|Menlo%20Park|Newport%20Beach|San%20Francisco"
@@ -24,7 +23,7 @@ GOLDMAN_SACHS_SEARCH_URL = (
 
 EXCLUDED_ROLE_KEYWORDS = EXCLUDED_LEVEL_KEYWORDS
 # Vice President is a senior IC level at Goldman Sachs, so only block partners.
-EXCLUDED_TITLE_PHRASES = NON_IC_TITLE_PHRASES + ("partner",) + NON_ENGINEERING_ROLE_PHRASES
+EXCLUDED_TITLE_PHRASES = NON_IC_TITLE_PHRASES + ("partner",) + NON_SOFTWARE_TITLE_PHRASES
 
 
 

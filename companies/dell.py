@@ -7,6 +7,5 @@ COMPANY = oracle_hcm_company(
     site_number="CX_1001",
     # United States
     location_id="300000000471434",
-    # Software Engineering, Systems Development Engineering
-    category_ids=("300000036340556", "300000036264054"),
+    category_ids=(),
 )

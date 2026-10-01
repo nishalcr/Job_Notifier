@@ -16,7 +16,6 @@ GOOGLE_SEARCH_URL = (
     "&target_level=ADVANCED"
     "&employment_type=FULL_TIME"
     "&sort_by=date"
-    "&q=engineer"
 )
 
 EXCLUDED_ROLE_KEYWORDS = EXCLUDED_LEVEL_KEYWORDS
@@ -36,7 +35,7 @@ COMPANY = CompanyDefinition(
     slug="google",
     display_name="Google",
     default_search_url=GOOGLE_SEARCH_URL,
-    default_max_pages=3,
+    default_max_pages=5,
     default_full_scrape_max_pages=25,
     wait_selectors=(
         'a[href*="/about/careers/applications/jobs/results/"]',

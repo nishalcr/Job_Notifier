@@ -243,6 +243,14 @@ def is_seen_elsewhere(job: dict, company_slugs: Sequence[str]) -> bool:
 
 
 def replace_seen_jobs(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) -> None:
+    """
+    Seed the seen store with the given jobs (no alerts).
+
+    Jobs already in the store keep their first_seen time; newly seeded jobs get 0, so
+    the repeated-title rule (which looks at recent first_seen times) only reacts to
+    jobs that were actually alerted or skipped by a regular run.
+    """
+    previous = load_seen_jobs(runtime_config.slug)
     seen = {}
     posted_strategy = runtime_config.definition.full_scrape_posted_strategy
     today = _today_date_string()
@@ -255,4 +263,5 @@ def replace_seen_jobs(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) ->
             job,
             posted_override=_resolve_posted_value(job, posted_strategy, today),
         )
+        seen[key]["first_seen"] = previous.get(key, {}).get("first_seen", 0)
     save_seen_jobs(runtime_config.slug, seen)

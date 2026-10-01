@@ -15,7 +15,7 @@ from uber_parser import get_total_pages, get_total_results, parse_jobs
 # honours `team` and `page`, so the US-only filter is applied client-side.
 UBER_JOBS_SITE_URL = "https://jobs.uber.com/en/jobs/"
 UBER_SEARCH_API_PATH = "/api/jobs/search/"
-UBER_SEARCH_URL = f"{UBER_JOBS_SITE_URL}?team=Engineer"
+UBER_SEARCH_URL = f"{UBER_JOBS_SITE_URL}?team=Engineer&team=Science"
 
 UBER_COUNTRY = "united states"
 

@@ -14,7 +14,6 @@ SALESFORCE_SEARCH_URL = (
     "&CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended"
     "=bc33aa3152ec42d4995f4791a106ed09"
     "&timeType=0e28126347c3100fe3b402cf26290000"
-    "&jobFamilyGroup=14fa3452ec7c1011f90d0002a2100000"
     "&workerSubType=3a910852b2c31010f48d2bbc8b020000"
 )
 
@@ -106,7 +105,7 @@ COMPANY = CompanyDefinition(
     slug="salesforce",
     display_name="Salesforce",
     default_search_url=SALESFORCE_SEARCH_URL,
-    default_max_pages=2,
+    default_max_pages=3,
     default_full_scrape_max_pages=6,
     wait_selectors=(
         '[data-automation-id="jobResults"]',

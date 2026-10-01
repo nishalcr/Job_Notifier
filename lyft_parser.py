@@ -11,6 +11,7 @@ LYFT_DEPARTMENT_NAMES = {
     "Software Engineering",
     "University",
     "Data Science",
+    "Data Analytics & Business Intelligence",
     "Security & Privacy",
 }
 # US postings look like "San Francisco, CA", "New York, NY, San Francisco, CA" or "U.S. Anywhere".

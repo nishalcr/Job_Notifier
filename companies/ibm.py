@@ -18,17 +18,6 @@ PAGE_SIZE = 30
 # field_keyword_05 = country, 08 = category, 18 = experience level, 19 = location.
 IBM_FILTERS = [
     {"term": {"field_keyword_05": "United States"}},
-    {
-        "terms": {
-            "field_keyword_08": [
-                "Software Engineering",
-                "Infrastructure & Technology",
-                "Data & Analytics",
-                "Research",
-                "Security",
-            ]
-        }
-    },
     {"terms": {"field_keyword_18": ["Entry Level", "Professional"]}},
 ]
 JOB_ID_RE = re.compile(r"jobId=(\d+)")
@@ -87,7 +76,7 @@ COMPANY = CompanyDefinition(
     slug="ibm",
     display_name="IBM",
     default_search_url=IBM_SEARCH_URL,
-    default_max_pages=2,
+    default_max_pages=3,
     default_full_scrape_max_pages=20,
     wait_selectors=(),
     build_search_url=json_api.build_search_url,

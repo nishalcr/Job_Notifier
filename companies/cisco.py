@@ -7,13 +7,8 @@ COMPANY = workday_company(
     tenant="cisco",
     site="Cisco_Careers",
     applied_facets={
-        # Engineering, Information Technology
-        "jobFamilyGroup": [
-            "2101eee3ea96016aef42a674fc016429",
-            "2101eee3ea96017b1ceba674fc016829",
-        ],
     },
     # No country filter on Cisco's site.
     posting_filter=is_us_posting,
-    default_max_pages=4,
+    default_max_pages=5,
 )

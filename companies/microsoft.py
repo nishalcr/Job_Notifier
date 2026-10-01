@@ -26,9 +26,6 @@ SEARCH_FILTERS = [
     ("query", ""),
     ("location", "United States"),
     ("sort_by", "timestamp"),
-    ("filter_profession", "software engineering"),
-    ("filter_profession", "security engineering"),
-    ("filter_profession", "research, applied, & data sciences"),
     ("filter_roletype", "individual contributor"),
     ("filter_employment_type", "full-time"),
 ]
@@ -97,7 +94,7 @@ COMPANY = CompanyDefinition(
     slug="microsoft",
     display_name="Microsoft",
     default_search_url=MICROSOFT_SEARCH_URL,
-    default_max_pages=5,
+    default_max_pages=8,
     default_full_scrape_max_pages=60,
     wait_selectors=(),
     build_search_url=json_api.build_search_url,
