@@ -6,8 +6,10 @@
     "status": "broken"
   },
   "cvs_wd": {
-    "consecutive_failures": 2,
-    "last_error": "No jobs extracted. The page structure may have changed."
+    "broken_since": "2026-10-03T06:33:46+00:00",
+    "consecutive_failures": 3,
+    "last_error": "No jobs extracted. The page structure may have changed.",
+    "status": "broken"
   },
   "disney": {
     "broken_since": "2026-10-03T06:24:48+00:00",
@@ -28,8 +30,10 @@
     "status": "broken"
   },
   "nvidia": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    "broken_since": "2026-10-03T06:34:39+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
+    "status": "broken"
   },
   "paypal": {
     "broken_since": "2026-10-03T06:24:55+00:00",
@@ -44,8 +48,10 @@
     "status": "broken"
   },
   "samsung": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    "broken_since": "2026-10-03T06:34:40+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
+    "status": "broken"
   },
   "yahoo": {
     "broken_since": "2026-10-03T06:25:01+00:00",
