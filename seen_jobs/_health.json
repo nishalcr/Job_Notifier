@@ -1,1 +1,30 @@
-{}
+{
+  "cisco": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 500"
+  },
+  "disney": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 500"
+  },
+  "hp": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 500"
+  },
+  "intel": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 500"
+  },
+  "paypal": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 500"
+  },
+  "redhat": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 500"
+  },
+  "yahoo": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 500"
+  }
+}
