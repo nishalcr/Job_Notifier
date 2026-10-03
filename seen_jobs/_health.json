@@ -1,1 +1,6 @@
-{}
+{
+  "meta": {
+    "consecutive_failures": 1,
+    "last_error": "Timeout on page 1: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.metacareers.com/jobsearch/?sort_by_new=true&roles[0]=Full%20time%20employment&offices[0]=Irvine%2C%20CA&offices[1]=Newark%2C%20CA&offices[2]=Fremont%2C%20CA&offices[3]=Pasadena%2C%20CA&offices[4]=San%20D"
+  }
+}
