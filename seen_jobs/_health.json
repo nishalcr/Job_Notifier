@@ -5,12 +5,6 @@
     "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
     "status": "broken"
   },
-  "cvs_wd": {
-    "broken_since": "2026-10-03T06:33:46+00:00",
-    "consecutive_failures": 3,
-    "last_error": "No jobs extracted. The page structure may have changed.",
-    "status": "broken"
-  },
   "disney": {
     "broken_since": "2026-10-03T06:24:48+00:00",
     "consecutive_failures": 3,
