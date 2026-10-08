@@ -1,0 +1,967 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "pinterest"
+  },
+  "jobs": {
+    "8103612": {
+      "first_seen": 0,
+      "posted": "2026-08-14",
+      "title": "Administrative Business Partner I - Engineering, Product and Design",
+      "job_id": "8103612",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8103612"
+    },
+    "8202207": {
+      "first_seen": 0,
+      "posted": "2026-09-17",
+      "title": "Client Account Manager II",
+      "job_id": "8202207",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8202207"
+    },
+    "8130612": {
+      "first_seen": 0,
+      "posted": "2026-09-11",
+      "title": "Client Account Manager II, Affiliate (tvScientific)",
+      "job_id": "8130612",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8130612"
+    },
+    "8223489": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "Client Account Manager II, Beauty CPG",
+      "job_id": "8223489",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8223489"
+    },
+    "8114760": {
+      "first_seen": 0,
+      "posted": "2026-09-01",
+      "title": "Client Account Manager II, CPG (Food)",
+      "job_id": "8114760",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8114760"
+    },
+    "7908767": {
+      "first_seen": 0,
+      "posted": "2026-08-26",
+      "title": "Content Designer II, Personalization",
+      "job_id": "7908767",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7908767"
+    },
+    "7816424": {
+      "first_seen": 0,
+      "posted": "2026-05-18",
+      "title": "Data Scientist II, Infrastructure",
+      "job_id": "7816424",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7816424"
+    },
+    "8233536": {
+      "first_seen": 0,
+      "posted": "2026-10-02",
+      "title": "Director & Assistant General Counsel, Commercial",
+      "job_id": "8233536",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8233536"
+    },
+    "8234555": {
+      "first_seen": 0,
+      "posted": "2026-09-30",
+      "title": "Director, Machine Learning Engineering, Ads Measurement",
+      "job_id": "8234555",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8234555"
+    },
+    "8258175": {
+      "first_seen": 0,
+      "posted": "2026-10-06",
+      "title": "Director, Machine Learning Engineering, Ads Quality",
+      "job_id": "8258175",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8258175"
+    },
+    "8035163": {
+      "first_seen": 0,
+      "posted": "2026-07-31",
+      "title": "Director of Engineering, Core & Ads Serving Platform",
+      "job_id": "8035163",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8035163"
+    },
+    "8132504": {
+      "first_seen": 0,
+      "posted": "2026-09-17",
+      "title": "Director of Product Management, Advertiser Growth",
+      "job_id": "8132504",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8132504"
+    },
+    "8051472": {
+      "first_seen": 0,
+      "posted": "2026-08-03",
+      "title": "Engineering Manager II, Media Rendering",
+      "job_id": "8051472",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8051472"
+    },
+    "8026862": {
+      "first_seen": 0,
+      "posted": "2026-08-06",
+      "title": "Lead Client Partner, Brand Sales (tvScientific)",
+      "job_id": "8026862",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8026862"
+    },
+    "8026869": {
+      "first_seen": 0,
+      "posted": "2026-08-05",
+      "title": "Lead Client Partner, Consumer Apps (tvScientific)",
+      "job_id": "8026869",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8026869"
+    },
+    "8207249": {
+      "first_seen": 0,
+      "posted": "2026-09-21",
+      "title": "Lead Client Partner, CPG",
+      "job_id": "8207249",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8207249"
+    },
+    "8210875": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "Lead Client Partner, Pharma",
+      "job_id": "8210875",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8210875"
+    },
+    "6121450": {
+      "first_seen": 0,
+      "posted": "2024-07-24",
+      "title": "Machine Learning Engineer, Core Engineering",
+      "job_id": "6121450",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121450"
+    },
+    "6121543": {
+      "first_seen": 0,
+      "posted": "2024-07-23",
+      "title": "Machine Learning Engineer, EPD Ads",
+      "job_id": "6121543",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543"
+    },
+    "8162046": {
+      "first_seen": 0,
+      "posted": "2026-08-27",
+      "title": "Machine Learning Engineer II, Responsible AI",
+      "job_id": "8162046",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162046"
+    },
+    "7697137": {
+      "first_seen": 0,
+      "posted": "2026-03-10",
+      "title": "Machine Learning Engineer II, Visual AI",
+      "job_id": "7697137",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7697137"
+    },
+    "8104117": {
+      "first_seen": 0,
+      "posted": "2026-08-19",
+      "title": "Manager II, Config Deployments",
+      "job_id": "8104117",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8104117"
+    },
+    "7957635": {
+      "first_seen": 0,
+      "posted": "2026-10-05",
+      "title": "Manager II, Engineering, Ads Serving Infrastructure",
+      "job_id": "7957635",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7957635"
+    },
+    "8015360": {
+      "first_seen": 0,
+      "posted": "2026-09-28",
+      "title": "Manager II, Engineering- Analytics Engineering, Core Data Science",
+      "job_id": "8015360",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015360"
+    },
+    "8010903": {
+      "first_seen": 0,
+      "posted": "2026-07-01",
+      "title": "Manager II, Machine Learning \u2013 Conversion Visibility",
+      "job_id": "8010903",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8010903"
+    },
+    "8152750": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "Manager II, Machine Learning Engineering-Content Foundation",
+      "job_id": "8152750",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8152750"
+    },
+    "8132078": {
+      "first_seen": 0,
+      "posted": "2026-08-25",
+      "title": "Manager II, Recruiting",
+      "job_id": "8132078",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8132078"
+    },
+    "8138097": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "Master's Data Science Internship 2027 (USA)",
+      "job_id": "8138097",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097"
+    },
+    "8138090": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "Master's Machine Learning Internship 2027 (USA)",
+      "job_id": "8138090",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090"
+    },
+    "8140389": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "Master's University Grad Data Scientist (USA)",
+      "job_id": "8140389",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389"
+    },
+    "8140219": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "Master's University Grad Machine Learning Engineer 2027 (USA)",
+      "job_id": "8140219",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140219"
+    },
+    "8248297": {
+      "first_seen": 0,
+      "posted": "2026-10-02",
+      "title": "Performance Solutions Partner II",
+      "job_id": "8248297",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8248297"
+    },
+    "8140169": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "PhD Data Science Internship 2027 (USA)",
+      "job_id": "8140169",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140169"
+    },
+    "8140140": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "PhD Machine Learning Internship 2027 (USA)",
+      "job_id": "8140140",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140"
+    },
+    "8140363": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "PhD University Grad Machine Learning Engineer (USA)",
+      "job_id": "8140363",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363"
+    },
+    "7683977": {
+      "first_seen": 0,
+      "posted": "2026-09-22",
+      "title": "Principal Engineer, AI Platform",
+      "job_id": "7683977",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7683977"
+    },
+    "7683981": {
+      "first_seen": 0,
+      "posted": "2026-09-02",
+      "title": "Principal Engineer, Big Data Platform",
+      "job_id": "7683981",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7683981"
+    },
+    "8011719": {
+      "first_seen": 0,
+      "posted": "2026-07-31",
+      "title": "Principal Engineer, Indexing & Retrieval Infrastructure",
+      "job_id": "8011719",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8011719"
+    },
+    "7494740": {
+      "first_seen": 0,
+      "posted": "2026-09-29",
+      "title": "Principal Engineer, Shopping & Delivery Infra",
+      "job_id": "7494740",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494740"
+    },
+    "6963868": {
+      "first_seen": 0,
+      "posted": "2025-09-23",
+      "title": "Principal Machine Learning Engineer, Ads Delivery",
+      "job_id": "6963868",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6963868"
+    },
+    "7638599": {
+      "first_seen": 0,
+      "posted": "2026-07-02",
+      "title": "Principal Product Designer, AI Native, Core",
+      "job_id": "7638599",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7638599"
+    },
+    "7901910": {
+      "first_seen": 0,
+      "posted": "2026-05-22",
+      "title": "Product Manager II, Content Compliance",
+      "job_id": "7901910",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7901910"
+    },
+    "8129654": {
+      "first_seen": 0,
+      "posted": "2026-09-02",
+      "title": "Programmatic Ads Sales Lead",
+      "job_id": "8129654",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8129654"
+    },
+    "8120416": {
+      "first_seen": 0,
+      "posted": "2026-08-27",
+      "title": "Sales Strategy & Operations Lead",
+      "job_id": "8120416",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8120416"
+    },
+    "8015547": {
+      "first_seen": 0,
+      "posted": "2026-10-05",
+      "title": "Security Software Engineer II, Detection and Response",
+      "job_id": "8015547",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015547"
+    },
+    "7494636": {
+      "first_seen": 0,
+      "posted": "2026-08-11",
+      "title": "Senior Staff Technical Program Manager, Search Signals",
+      "job_id": "7494636",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494636"
+    },
+    "7782538": {
+      "first_seen": 0,
+      "posted": "2026-06-18",
+      "title": "Site Reliability Engineer II, tvScientific",
+      "job_id": "7782538",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782538"
+    },
+    "8213988": {
+      "first_seen": 0,
+      "posted": "2026-09-18",
+      "title": "Software Engineer II, Data Analytics & Engineering",
+      "job_id": "8213988",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988"
+    },
+    "8227344": {
+      "first_seen": 0,
+      "posted": "2026-10-05",
+      "title": "Software Engineer II, EPD Ads",
+      "job_id": "8227344",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8227344"
+    },
+    "7838577": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "Software Engineer Intern 2027 (USA)",
+      "job_id": "7838577",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577"
+    },
+    "8214788": {
+      "first_seen": 0,
+      "posted": "2026-10-08",
+      "title": "Solutions Engineer Intern 2027 (USA)",
+      "job_id": "8214788",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214788"
+    },
+    "8082503": {
+      "first_seen": 0,
+      "posted": "2026-08-21",
+      "title": "Sr. Ads Product Marketing Manager- Ads Delivery",
+      "job_id": "8082503",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8082503"
+    },
+    "7746407": {
+      "first_seen": 0,
+      "posted": "2026-08-19",
+      "title": "Sr. Agency Lead, Dentsu/Havas",
+      "job_id": "7746407",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7746407"
+    },
+    "7656243": {
+      "first_seen": 0,
+      "posted": "2026-02-25",
+      "title": "Sr. Client Account Manager, Financial Services",
+      "job_id": "7656243",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7656243"
+    },
+    "8171331": {
+      "first_seen": 0,
+      "posted": "2026-09-14",
+      "title": "Sr. Client Account Manager, FinServ",
+      "job_id": "8171331",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8171331"
+    },
+    "8081452": {
+      "first_seen": 0,
+      "posted": "2026-08-19",
+      "title": "Sr. Client Account Manager, Home Retail",
+      "job_id": "8081452",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8081452"
+    },
+    "8081505": {
+      "first_seen": 0,
+      "posted": "2026-07-30",
+      "title": "Sr. Client Account Manager, Home Retail",
+      "job_id": "8081505",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8081505"
+    },
+    "8112049": {
+      "first_seen": 0,
+      "posted": "2026-08-17",
+      "title": "Sr. Client Account Manager, Walmart",
+      "job_id": "8112049",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8112049"
+    },
+    "7771049": {
+      "first_seen": 0,
+      "posted": "2026-07-28",
+      "title": "Sr. Client Partner",
+      "job_id": "7771049",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7771049"
+    },
+    "8074880": {
+      "first_seen": 0,
+      "posted": "2026-07-22",
+      "title": "Sr. Client Partner [12-Month Fixed Term]",
+      "job_id": "8074880",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8074880"
+    },
+    "7671759": {
+      "first_seen": 0,
+      "posted": "2026-08-18",
+      "title": "Sr. Client Partner, Grocery",
+      "job_id": "7671759",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7671759"
+    },
+    "8206769": {
+      "first_seen": 0,
+      "posted": "2026-09-15",
+      "title": "Sr. Client Partner, Pinterest Spark",
+      "job_id": "8206769",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8206769"
+    },
+    "8130616": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Sr. Client Partner (tvScientific)",
+      "job_id": "8130616",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8130616"
+    },
+    "7494590": {
+      "first_seen": 0,
+      "posted": "2026-10-02",
+      "title": "Sr. Counsel",
+      "job_id": "7494590",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494590"
+    },
+    "6087213": {
+      "first_seen": 0,
+      "posted": "2024-07-03",
+      "title": "Sr. Data Scientist, Core",
+      "job_id": "6087213",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6087213"
+    },
+    "8011376": {
+      "first_seen": 0,
+      "posted": "2026-06-18",
+      "title": "Sr. Data Scientist, Marketing",
+      "job_id": "8011376",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8011376"
+    },
+    "5740948": {
+      "first_seen": 0,
+      "posted": "2024-02-22",
+      "title": "Sr. Data Scientist, Monetization",
+      "job_id": "5740948",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5740948"
+    },
+    "8084337": {
+      "first_seen": 0,
+      "posted": "2026-07-28",
+      "title": "Sr. Industry Manager",
+      "job_id": "8084337",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8084337"
+    },
+    "8226882": {
+      "first_seen": 0,
+      "posted": "2026-10-05",
+      "title": "Sr. Industry Manager, Fashion",
+      "job_id": "8226882",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8226882"
+    },
+    "8209845": {
+      "first_seen": 0,
+      "posted": "2026-09-17",
+      "title": "Sr. IT Project & Program Manager, Asset Management",
+      "job_id": "8209845",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209845"
+    },
+    "8097938": {
+      "first_seen": 0,
+      "posted": "2026-08-24",
+      "title": "Sr. Lead, Corporate Communications",
+      "job_id": "8097938",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8097938"
+    },
+    "6894747": {
+      "first_seen": 0,
+      "posted": "2025-05-19",
+      "title": "Sr. Machine Learning Engineer, Applied Science",
+      "job_id": "6894747",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6894747"
+    },
+    "6121464": {
+      "first_seen": 0,
+      "posted": "2024-07-24",
+      "title": "Sr. Machine Learning Engineer, Core Engineering",
+      "job_id": "6121464",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121464"
+    },
+    "6121551": {
+      "first_seen": 0,
+      "posted": "2024-07-23",
+      "title": "Sr. Machine Learning Engineer, EPD Ads",
+      "job_id": "6121551",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121551"
+    },
+    "8239425": {
+      "first_seen": 0,
+      "posted": "2026-10-06",
+      "title": "Sr. Manager, Ads Product Marketing- Ads Automation",
+      "job_id": "8239425",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8239425"
+    },
+    "8222282": {
+      "first_seen": 0,
+      "posted": "2026-10-05",
+      "title": "Sr. Manager, Ads Product Policy",
+      "job_id": "8222282",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8222282"
+    },
+    "8046842": {
+      "first_seen": 0,
+      "posted": "2026-09-25",
+      "title": "Sr. Manager, Capacity Engineering",
+      "job_id": "8046842",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8046842"
+    },
+    "8241516": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "Sr. Manager, Engineering \u2013\u00a0 Delivery Serving Infrastructure",
+      "job_id": "8241516",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8241516"
+    },
+    "8234002": {
+      "first_seen": 0,
+      "posted": "2026-09-29",
+      "title": "Sr. Manager, Machine Learning Engineering, Ads Measurement Products",
+      "job_id": "8234002",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8234002"
+    },
+    "8015504": {
+      "first_seen": 0,
+      "posted": "2026-08-04",
+      "title": "Sr. Manager, Machine Learning Engineering-Applied Research",
+      "job_id": "8015504",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015504"
+    },
+    "7763557": {
+      "first_seen": 0,
+      "posted": "2026-08-21",
+      "title": "Sr. Manager, Programmatic Ads Sales",
+      "job_id": "7763557",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7763557"
+    },
+    "8205194": {
+      "first_seen": 0,
+      "posted": "2026-09-24",
+      "title": "Sr. Manager, Strategic Sourcing",
+      "job_id": "8205194",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8205194"
+    },
+    "8238389": {
+      "first_seen": 0,
+      "posted": "2026-10-07",
+      "title": "Sr. Product Manager, Data and Signals Intelligence",
+      "job_id": "8238389",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8238389"
+    },
+    "8015494": {
+      "first_seen": 0,
+      "posted": "2026-08-07",
+      "title": "Sr. Product Manager, Search Personalization",
+      "job_id": "8015494",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015494"
+    },
+    "8015519": {
+      "first_seen": 0,
+      "posted": "2026-08-04",
+      "title": "Sr. Product Manager, TwoTwenty",
+      "job_id": "8015519",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015519"
+    },
+    "8129662": {
+      "first_seen": 0,
+      "posted": "2026-09-09",
+      "title": "Sr. Programmatic Tech Operations Specialist",
+      "job_id": "8129662",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8129662"
+    },
+    "8230592": {
+      "first_seen": 0,
+      "posted": "2026-09-24",
+      "title": "Sr. Programmatic Tech Operations Specialist",
+      "job_id": "8230592",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8230592"
+    },
+    "8230778": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "Sr. Security Software Engineer, Security Operations",
+      "job_id": "8230778",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8230778"
+    },
+    "7782550": {
+      "first_seen": 0,
+      "posted": "2026-07-30",
+      "title": "Sr. Site Reliability Engineer, tvScientific",
+      "job_id": "7782550",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782550"
+    },
+    "8231071": {
+      "first_seen": 0,
+      "posted": "2026-10-05",
+      "title": "Sr Software Engineer, EPD Ads",
+      "job_id": "8231071",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8231071"
+    },
+    "5412514": {
+      "first_seen": 0,
+      "posted": "2023-10-04",
+      "title": "Sr. Software Engineer, Web",
+      "job_id": "5412514",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5412514"
+    },
+    "7986197": {
+      "first_seen": 0,
+      "posted": "2026-10-05",
+      "title": "Sr. Staff Product Manager, Ads Quality Ranking",
+      "job_id": "7986197",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7986197"
+    },
+    "8234540": {
+      "first_seen": 0,
+      "posted": "2026-10-07",
+      "title": "Sr. Staff Product Manager, Data and Signals Connectivity",
+      "job_id": "8234540",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8234540"
+    },
+    "7770911": {
+      "first_seen": 0,
+      "posted": "2026-08-14",
+      "title": "Sr. Staff Quantitative Product Researcher",
+      "job_id": "7770911",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770911"
+    },
+    "7577227": {
+      "first_seen": 0,
+      "posted": "2026-10-06",
+      "title": "Sr. Staff Software Engineer, AI Platform",
+      "job_id": "7577227",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7577227"
+    },
+    "7746946": {
+      "first_seen": 0,
+      "posted": "2026-04-09",
+      "title": "Sr. Staff Software Engineer, Data Product Platform",
+      "job_id": "7746946",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7746946"
+    },
+    "7770918": {
+      "first_seen": 0,
+      "posted": "2026-04-14",
+      "title": "Sr. Staff Software Engineer, Merchants",
+      "job_id": "7770918",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770918"
+    },
+    "7770946": {
+      "first_seen": 0,
+      "posted": "2026-10-05",
+      "title": "Sr. Staff Software Engineer, Notifications & Growth Platform",
+      "job_id": "7770946",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770946"
+    },
+    "8088867": {
+      "first_seen": 0,
+      "posted": "2026-08-10",
+      "title": "Sr. Staff Software Engineer, Pinterest Assistant",
+      "job_id": "8088867",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8088867"
+    },
+    "8046860": {
+      "first_seen": 0,
+      "posted": "2026-09-30",
+      "title": "Sr. Staff Software Engineer, Product ML Infrastructure",
+      "job_id": "8046860",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8046860"
+    },
+    "8011573": {
+      "first_seen": 0,
+      "posted": "2026-07-02",
+      "title": "Sr. Systems Engineer, Sales & Marketing",
+      "job_id": "8011573",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8011573"
+    },
+    "8208419": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Sr. Technical Program Manager, Ads Delivery Infrastructure",
+      "job_id": "8208419",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8208419"
+    },
+    "8209014": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Sr. Technical Program Manager, Data Engineering",
+      "job_id": "8209014",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209014"
+    },
+    "7963755": {
+      "first_seen": 0,
+      "posted": "2026-06-10",
+      "title": "Staff Data Scientist, Ads Product",
+      "job_id": "7963755",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7963755"
+    },
+    "8001932": {
+      "first_seen": 0,
+      "posted": "2026-06-23",
+      "title": "Staff Data Scientist, Forecasting",
+      "job_id": "8001932",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8001932"
+    },
+    "8095343": {
+      "first_seen": 0,
+      "posted": "2026-08-04",
+      "title": "Staff Data Scientist, Notifications",
+      "job_id": "8095343",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8095343"
+    },
+    "7987856": {
+      "first_seen": 0,
+      "posted": "2026-10-06",
+      "title": "Staff Data Scientist, Trust and Safety",
+      "job_id": "7987856",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7987856"
+    },
+    "8238679": {
+      "first_seen": 0,
+      "posted": "2026-09-29",
+      "title": "Staff Machine Learning Engineer, Ads Bidding & Pacing",
+      "job_id": "8238679",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8238679"
+    },
+    "8011452": {
+      "first_seen": 0,
+      "posted": "2026-07-08",
+      "title": "Staff Machine Learning Engineer, Ads Conversion Core Modeling",
+      "job_id": "8011452",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8011452"
+    },
+    "8247246": {
+      "first_seen": 0,
+      "posted": "2026-10-08",
+      "title": "Staff Machine Learning Engineer, Content Visual AI",
+      "job_id": "8247246",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8247246"
+    },
+    "8049465": {
+      "first_seen": 0,
+      "posted": "2026-07-07",
+      "title": "Staff Machine Learning Engineer, Shopping Ads",
+      "job_id": "8049465",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8049465"
+    },
+    "7770898": {
+      "first_seen": 0,
+      "posted": "2026-08-13",
+      "title": "Staff Motion Designer, Design Innovation",
+      "job_id": "7770898",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770898"
+    },
+    "8234538": {
+      "first_seen": 0,
+      "posted": "2026-10-05",
+      "title": "Staff Product Manager, Ads Measurement & Optimization",
+      "job_id": "8234538",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8234538"
+    },
+    "7985302": {
+      "first_seen": 0,
+      "posted": "2026-10-07",
+      "title": "Staff Product Manager, Ads Quality Ranking",
+      "job_id": "7985302",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7985302"
+    },
+    "8082033": {
+      "first_seen": 0,
+      "posted": "2026-08-19",
+      "title": "Staff Product Manager, Applied Science - Representation Learning",
+      "job_id": "8082033",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8082033"
+    },
+    "8239171": {
+      "first_seen": 0,
+      "posted": "2026-10-07",
+      "title": "Staff Product Manager, Content-to-Discovery Infrastructure",
+      "job_id": "8239171",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8239171"
+    },
+    "8239954": {
+      "first_seen": 0,
+      "posted": "2026-10-05",
+      "title": "Staff Product Manager, Measurement Partner Optimization",
+      "job_id": "8239954",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8239954"
+    },
+    "7959458": {
+      "first_seen": 0,
+      "posted": "2026-08-05",
+      "title": "Staff Product Manager, Programmatic Ads",
+      "job_id": "7959458",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7959458"
+    },
+    "8209814": {
+      "first_seen": 0,
+      "posted": "2026-09-28",
+      "title": "Staff Product Manager, Retail Media & Audiences",
+      "job_id": "8209814",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209814"
+    },
+    "7684577": {
+      "first_seen": 0,
+      "posted": "2026-09-15",
+      "title": "Staff Qualitative UX Researcher, Monetization",
+      "job_id": "7684577",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684577"
+    },
+    "8055266": {
+      "first_seen": 0,
+      "posted": "2026-09-09",
+      "title": "Staff Software Engineer, Ads & Core Serving Platform",
+      "job_id": "8055266",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8055266"
+    },
+    "7494904": {
+      "first_seen": 0,
+      "posted": "2026-03-23",
+      "title": "Staff Software Engineer, Ads Measurement Signal",
+      "job_id": "7494904",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494904"
+    },
+    "8131793": {
+      "first_seen": 0,
+      "posted": "2026-10-06",
+      "title": "Staff Software Engineer, App Promotion",
+      "job_id": "8131793",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8131793"
+    },
+    "7437356": {
+      "first_seen": 0,
+      "posted": "2025-12-17",
+      "title": "Staff Software Engineer, Big Data Storage",
+      "job_id": "7437356",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7437356"
+    },
+    "7494668": {
+      "first_seen": 0,
+      "posted": "2026-07-16",
+      "title": "Staff Software Engineer, Capacity Engineering",
+      "job_id": "7494668",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494668"
+    },
+    "7990090": {
+      "first_seen": 0,
+      "posted": "2026-06-30",
+      "title": "Staff Software Engineer, Edge",
+      "job_id": "7990090",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7990090"
+    },
+    "8015346": {
+      "first_seen": 0,
+      "posted": "2026-09-28",
+      "title": "Staff Software, Engineering \u2013 Analytics Engineering, Core Data Science",
+      "job_id": "8015346",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015346"
+    },
+    "7954753": {
+      "first_seen": 0,
+      "posted": "2026-05-26",
+      "title": "Staff Software Engineer, Observability",
+      "job_id": "7954753",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7954753"
+    },
+    "8226802": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Staff Software Engineer, Programmatic Ads",
+      "job_id": "8226802",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8226802"
+    },
+    "8075888": {
+      "first_seen": 0,
+      "posted": "2026-08-10",
+      "title": "Staff Software Engineer, Web Product Enablement",
+      "job_id": "8075888",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8075888"
+    },
+    "8067933": {
+      "first_seen": 0,
+      "posted": "2026-07-29",
+      "title": "Staff Technical Program Manager, Data Science",
+      "job_id": "8067933",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8067933"
+    },
+    "8049832": {
+      "first_seen": 0,
+      "posted": "2026-08-17",
+      "title": "Staff Technical Program Manager, Identity and Product Safety",
+      "job_id": "8049832",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8049832"
+    },
+    "7494650": {
+      "first_seen": 0,
+      "posted": "2026-07-29",
+      "title": "Staff Technical Program Manager, Security",
+      "job_id": "7494650",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494650"
+    },
+    "8209324": {
+      "first_seen": 0,
+      "posted": "2026-09-23",
+      "title": "Technical Program Manager II, Infrastructure (Capacity & Efficiency)",
+      "job_id": "8209324",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209324"
+    },
+    "8209020": {
+      "first_seen": 0,
+      "posted": "2026-09-24",
+      "title": "Technical Program Manager II, Shopping Platforms",
+      "job_id": "8209020",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209020"
+    },
+    "7838591": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "University Grad Software Engineer 2027 (USA)",
+      "job_id": "7838591",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591"
+    },
+    "8140217": {
+      "first_seen": 0,
+      "posted": "2026-10-01",
+      "title": "UX Quantitative Research Intern (USA)",
+      "job_id": "8140217",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217"
+    }
+  }
+}

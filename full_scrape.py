@@ -13,7 +13,7 @@ from playwright.async_api import async_playwright
 
 import config
 from runner import collect_jobs
-from state import passes_title_filters, replace_seen_jobs
+from state import passes_title_filters, seed_seen_jobs
 
 
 def parse_args() -> argparse.Namespace:
@@ -33,18 +33,17 @@ async def _seed_company_jobs(browser, slug: str) -> bool:
     try:
         runtime_config = config.get_company_runtime(slug)
         unique_jobs = await collect_jobs(browser, runtime_config, runtime_config.full_scrape_max_pages)
-        filtered_jobs = [
-            job for job in unique_jobs if passes_title_filters(job.get("title", ""), runtime_config)
-        ]
+        if not unique_jobs:
+            print(f"[{runtime_config.slug}] No jobs found; seen state left unchanged")
+            return False
 
-        excluded = len(unique_jobs) - len(filtered_jobs)
-        if excluded:
-            print(f"[{runtime_config.slug}] Excluded {excluded} job(s) by title filter during seed")
-
-        replace_seen_jobs(runtime_config, filtered_jobs)
+        # Every listed job is marked seen, not only those passing the title filters,
+        # so widening the filters later does not alert on jobs that are already old.
+        matching = sum(passes_title_filters(job.get("title", ""), runtime_config) for job in unique_jobs)
+        seed_seen_jobs(runtime_config, unique_jobs)
         print(
-            f"[full-scrape] Saved {len(filtered_jobs)} entries for "
-            f"{runtime_config.display_name} to {config.SEEN_JOBS_DIR}"
+            f"[full-scrape] Saved {len(unique_jobs)} entries for "
+            f"{runtime_config.display_name} to {config.SEEN_JOBS_DIR} ({matching} match the title filters)"
         )
         return True
     except Exception as exc:

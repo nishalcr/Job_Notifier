@@ -117,6 +117,8 @@ NON_SOFTWARE_ROLE_PHRASES = (
     "field service",
     "technologist",
     "contractor",
+    "administrative",
+    "business partner",
 )
 
 # Hardware, fab and physical-engineering domains. A match drops the title unless

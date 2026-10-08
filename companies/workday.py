@@ -1,6 +1,7 @@
 """Adapter for Workday career sites (*.myworkdayjobs.com) via their public jobs API."""
 
 import json
+import re
 from typing import Callable
 
 from companies import json_api
@@ -19,8 +20,8 @@ def is_us_posting(posting: dict) -> bool:
     True if a posting's primary location (the first path segment) is in the US.
 
     For sites without a country filter. Paths look like "/job/San-Jose-California-US/...",
-    "/job/Orlando-FL-USA/...", "/job/US-Arizona-Phoenix/...", "/job/McLean-VA/..." or
-    "/job/Austin-Texas-United-States-of-America/...".
+    "/job/Orlando-FL-USA/...", "/job/US-Arizona-Phoenix/...", "/job/McLean-VA/...",
+    "/job/Austin-Texas-United-States-of-America/..." or "/job/Los-Angeles-California/...".
     """
     parts = (posting.get("externalPath") or "").split("/")
     segment = parts[2] if len(parts) > 2 else ""
@@ -28,7 +29,10 @@ def is_us_posting(posting: dict) -> bool:
     if {"US", "USA"} & set(tokens) or "United-States" in segment:
         return True
     # "City-ST" paths, e.g. "/job/McLean-VA/...".
-    return len(tokens) > 1 and tokens[-1] in json_api.US_STATE_CODES
+    if len(tokens) > 1 and tokens[-1] in json_api.US_STATE_CODES:
+        return True
+    # "City-State" paths, e.g. "/job/Los-Angeles-California/...".
+    return re.search(rf"\b({json_api.US_STATE_NAMES})$", segment.replace("-", " ")) is not None
 
 
 def workday_company(

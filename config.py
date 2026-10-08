@@ -25,7 +25,9 @@ JOB_CARD_TIMEOUT = int(os.getenv("JOB_CARD_TIMEOUT", "8000"))
 # State
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SEEN_JOBS_DIR = os.path.join(BASE_DIR, "seen_jobs")
-MAX_SEEN_JOBS = int(os.getenv("MAX_SEEN_JOBS", "3000"))
+# Per company. Pruning drops the oldest entries, and a pruned job that is still listed
+# would be alerted again, so keep this far above any company's open-job count.
+MAX_SEEN_JOBS = int(os.getenv("MAX_SEEN_JOBS", "50000"))
 
 # Diagnostics
 SCRAPE_ARTIFACTS_DIR = Path(

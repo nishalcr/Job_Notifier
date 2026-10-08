@@ -242,26 +242,26 @@ def is_seen_elsewhere(job: dict, company_slugs: Sequence[str]) -> bool:
     return bool(key) and any(key in load_seen_jobs(slug) for slug in company_slugs)
 
 
-def replace_seen_jobs(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) -> None:
+def seed_seen_jobs(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) -> None:
     """
-    Seed the seen store with the given jobs (no alerts).
+    Add the given jobs to the seen store without alerting.
 
-    Jobs already in the store keep their first_seen time; newly seeded jobs get 0, so
-    the repeated-title rule (which looks at recent first_seen times) only reacts to
-    jobs that were actually alerted or skipped by a regular run.
+    Existing entries are kept, so a partial or empty scrape (an outage, a site change)
+    can never make old jobs look new again. Jobs already in the store keep their
+    first_seen time; newly seeded jobs get 0, so the repeated-title rule (which looks
+    at recent first_seen times) only reacts to jobs a regular run alerted or skipped.
     """
-    previous = load_seen_jobs(runtime_config.slug)
-    seen = {}
+    seen = load_seen_jobs(runtime_config.slug)
     posted_strategy = runtime_config.definition.full_scrape_posted_strategy
     today = _today_date_string()
 
     for job in jobs:
         key = _job_key(job)
-        if not key:
+        if not key or key in seen:
             continue
         seen[key] = _job_state_payload(
             job,
             posted_override=_resolve_posted_value(job, posted_strategy, today),
         )
-        seen[key]["first_seen"] = previous.get(key, {}).get("first_seen", 0)
+        seen[key]["first_seen"] = 0
     save_seen_jobs(runtime_config.slug, seen)

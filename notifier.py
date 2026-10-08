@@ -2,6 +2,7 @@
 
 import asyncio
 from datetime import datetime
+from typing import Callable
 from zoneinfo import ZoneInfo
 
 import httpx
@@ -48,11 +49,16 @@ async def send_job_alert_for_company(company_name: str, job: dict) -> bool:
     return await _send_message("\n".join(lines), parse_mode="MarkdownV2")
 
 
-async def send_job_digest(company_name: str, jobs: list[dict]) -> list[dict]:
+async def send_job_digest(
+    company_name: str,
+    jobs: list[dict],
+    on_delivered: Callable[[list[dict]], None] | None = None,
+) -> list[dict]:
     """
     Send several jobs as compact digest message(s).
 
     Returns the jobs whose message was delivered, so callers only mark those seen.
+    on_delivered is called with each message's jobs as soon as that message is sent.
     """
     header = f"🔔 *{len(jobs)} new {_escape_md(company_name)} jobs*"
     delivered = []
@@ -65,6 +71,8 @@ async def send_job_digest(company_name: str, jobs: list[dict]) -> list[dict]:
         text = "\n".join([header, "", *chunk_lines])
         if await _send_message(text, parse_mode="MarkdownV2"):
             delivered.extend(chunk_jobs)
+            if on_delivered:
+                on_delivered(list(chunk_jobs))
         chunk_lines.clear()
         chunk_jobs.clear()
 
@@ -147,8 +155,14 @@ async def _send_message(text: str, parse_mode: str = "MarkdownV2") -> bool:
                     continue
 
                 return False
+    except (httpx.ConnectError, httpx.ConnectTimeout, httpx.PoolTimeout) as exc:
+        # The request never reached Telegram, so the job is retried next run.
+        print(f"[notifier] Could not reach Telegram: {exc}")
     except httpx.HTTPError as exc:
-        print(f"[notifier] HTTP error sending Telegram message: {exc}")
+        # The request was sent but the reply was lost (e.g. read timeout). Telegram may
+        # already have posted the message, so count it as sent rather than risk a duplicate.
+        print(f"[notifier] No reply from Telegram ({exc!r}); treating the message as sent")
+        return True
     return False
 
 

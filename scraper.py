@@ -8,6 +8,7 @@ import argparse
 import asyncio
 import sys
 import time
+from typing import Callable
 
 from playwright.async_api import async_playwright
 
@@ -99,8 +100,13 @@ async def _run_company_scrape(browser, slug: str) -> tuple[bool, str]:
             print(f"[{runtime_config.slug}] Sending {len(to_alert)} job(s) to Telegram...")
             for job in to_alert:
                 print(f"  - {job['title']}")
-            delivered = await _send_alerts(runtime_config.display_name, to_alert)
-            mark_jobs_seen(runtime_config, delivered)
+            # Each job is saved as seen the moment its message is sent, so a run that
+            # dies part-way through never re-sends what it already delivered.
+            delivered = await _send_alerts(
+                runtime_config.display_name,
+                to_alert,
+                on_delivered=lambda jobs: mark_jobs_seen(runtime_config, jobs),
+            )
             if len(delivered) < len(to_alert):
                 print(
                     f"[{runtime_config.slug}] {len(to_alert) - len(delivered)} alert(s) failed; "
@@ -119,14 +125,22 @@ async def _run_company_scrape(browser, slug: str) -> tuple[bool, str]:
         return False, f"Unexpected error: {exc}"
 
 
-async def _send_alerts(company_name: str, jobs: list[dict]) -> list[dict]:
-    """Send alerts one per job, or as a digest for bursts. Returns delivered jobs."""
+async def _send_alerts(
+    company_name: str,
+    jobs: list[dict],
+    on_delivered: Callable[[list[dict]], None] | None = None,
+) -> list[dict]:
+    """
+    Send alerts one per job, or as a digest for bursts. Returns delivered jobs.
+
+    on_delivered is called with the jobs of each message as soon as it is sent.
+    """
     global _run_header_sent
     if not _run_header_sent:
         _run_header_sent = await send_run_header()
 
     if len(jobs) > DIGEST_THRESHOLD:
-        return await send_job_digest(company_name, jobs)
+        return await send_job_digest(company_name, jobs, on_delivered)
 
     delivered = []
     for index, job in enumerate(jobs):
@@ -134,6 +148,8 @@ async def _send_alerts(company_name: str, jobs: list[dict]) -> list[dict]:
             await asyncio.sleep(0.5)
         if await send_job_alert_for_company(company_name, job):
             delivered.append(job)
+            if on_delivered:
+                on_delivered([job])
     return delivered
 
 

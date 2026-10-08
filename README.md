@@ -102,7 +102,7 @@ python full_scrape.py --company amazon,uber
 | `TELEGRAM_CHAT_ID` | Yes | — | Target chat / channel ID |
 | `PAGE_LOAD_TIMEOUT` | No | `15000` | Playwright page load timeout (ms) |
 | `JOB_CARD_TIMEOUT` | No | `8000` | Selector wait timeout (ms) |
-| `MAX_SEEN_JOBS` | No | `3000` | Cap on persisted job IDs per company |
+| `MAX_SEEN_JOBS` | No | `50000` | Cap on persisted job IDs per company |
 
 ## Adding a New Company
 

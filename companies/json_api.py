@@ -25,11 +25,15 @@ US_STATE_NAMES = (
 )
 _US_STATE_NAME_RE = re.compile(rf"\b({US_STATE_NAMES})\b")
 _STATE_CODE_RE = re.compile(r",\s*([A-Z]{2})\b")
+# "Toronto, ON, CA": CA is the country code for Canada here, not California.
+_CANADA_RE = re.compile(r",\s*(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT),\s*CA\s*$")
 
 
 def is_us_location(location: str) -> bool:
     """True if any part of a location string ("A, CA; Remote - US; Austin, Texas") is in the US."""
     for part in re.split(r"[;|]", location or ""):
+        if _CANADA_RE.search(part.strip()):
+            continue
         if _US_NAME_RE.search(part):
             return True
         if any(code in US_STATE_CODES for code in _STATE_CODE_RE.findall(part)):
