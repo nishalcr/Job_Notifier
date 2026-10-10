@@ -1,8 +1,6 @@
 {
-  "jpmc": {
-    "broken_since": "2026-10-10T08:23:55+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Oracle API request failed with status 503",
-    "status": "broken"
+  "apple": {
+    "consecutive_failures": 1,
+    "last_error": "No jobs extracted. The page structure may have changed."
   }
 }
