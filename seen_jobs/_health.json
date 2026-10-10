@@ -1,6 +1,6 @@
 {
-  "apple": {
+  "ford": {
     "consecutive_failures": 1,
-    "last_error": "No jobs extracted. The page structure may have changed."
+    "last_error": "Error on page 1: Oracle API request failed with status 503"
   }
 }
