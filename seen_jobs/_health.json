@@ -1,8 +1,1 @@
-{
-  "apple": {
-    "broken_since": "2026-10-15T06:11:08+00:00",
-    "consecutive_failures": 3,
-    "last_error": "No jobs extracted. The page structure may have changed.",
-    "status": "broken"
-  }
-}
+{}
