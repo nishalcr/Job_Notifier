@@ -1,6 +1,1 @@
-{
-  "paramount": {
-    "consecutive_failures": 1,
-    "last_error": "Timeout on page 1: APIRequestContext.get: Timeout 30000ms exceeded.\nCall log:\n  - \u2192 GET https://careers.paramount.com/search/?q=&sortColumn=referencedate&sortDirection=desc&startrow=0\n    - user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122."
-  }
-}
+{}
