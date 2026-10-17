@@ -29,12 +29,6 @@
     "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
     "status": "broken"
   },
-  "goldman-sachs": {
-    "broken_since": "2026-10-17T07:44:07+00:00",
-    "consecutive_failures": 3,
-    "last_error": "No jobs extracted. The page structure may have changed.",
-    "status": "broken"
-  },
   "hp": {
     "broken_since": "2026-10-17T06:34:06+00:00",
     "consecutive_failures": 3,
