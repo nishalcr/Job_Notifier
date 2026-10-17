@@ -1,10 +1,10 @@
 {
   "capitalone": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Workday API request failed with status 502"
+    "consecutive_failures": 2,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
   },
   "salesforce": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_error": "No jobs extracted. The page structure may have changed."
   }
 }
