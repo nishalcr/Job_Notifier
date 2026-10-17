@@ -1,8 +1,4 @@
 {
-  "apple": {
-    "consecutive_failures": 1,
-    "last_error": "No jobs extracted. The page structure may have changed."
-  },
   "capitalone": {
     "broken_since": "2026-10-17T04:24:52+00:00",
     "consecutive_failures": 3,
