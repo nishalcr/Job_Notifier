@@ -30,8 +30,10 @@
     "status": "broken"
   },
   "goldman-sachs": {
-    "consecutive_failures": 2,
-    "last_error": "No jobs extracted. The page structure may have changed."
+    "broken_since": "2026-10-17T07:44:07+00:00",
+    "consecutive_failures": 3,
+    "last_error": "No jobs extracted. The page structure may have changed.",
+    "status": "broken"
   },
   "hp": {
     "broken_since": "2026-10-17T06:34:06+00:00",
