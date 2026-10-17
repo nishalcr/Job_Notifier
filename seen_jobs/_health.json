@@ -5,6 +5,10 @@
     "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
     "status": "broken"
   },
+  "apple": {
+    "consecutive_failures": 1,
+    "last_error": "No jobs extracted. The page structure may have changed."
+  },
   "capitalone": {
     "broken_since": "2026-10-17T04:24:52+00:00",
     "consecutive_failures": 3,
