@@ -1,14 +1,1 @@
-{
-  "dell": {
-    "broken_since": "2026-10-18T02:24:21+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Oracle API request failed with status 503",
-    "status": "broken"
-  },
-  "jpmc": {
-    "broken_since": "2026-10-18T02:24:20+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Oracle API request failed with status 503",
-    "status": "broken"
-  }
-}
+{}
