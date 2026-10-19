@@ -1,6 +1,16 @@
 {
-  "salesforce": {
-    "consecutive_failures": 2,
+  "apple": {
+    "consecutive_failures": 1,
     "last_error": "No jobs extracted. The page structure may have changed."
+  },
+  "cvs_wd": {
+    "consecutive_failures": 1,
+    "last_error": "No jobs extracted. The page structure may have changed."
+  },
+  "salesforce": {
+    "broken_since": "2026-10-19T01:42:49+00:00",
+    "consecutive_failures": 3,
+    "last_error": "No jobs extracted. The page structure may have changed.",
+    "status": "broken"
   }
 }
