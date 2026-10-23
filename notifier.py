@@ -17,84 +17,80 @@ MAX_SEND_ATTEMPTS = 3
 MAX_RETRY_AFTER_SECONDS = 60
 
 
-async def send_job_alert_for_company(company_name: str, job: dict) -> bool:
-    """Send a single job notification to Telegram. Returns True on success."""
-    title = job.get("title", "Unknown Position")
-    team = job.get("team", "")
-    location = job.get("location", "")
-    posted = _format_posted(job.get("source_posted", ""))
-    role_number = job.get("job_id") or job.get("role_number") or job.get("key", "")
-    weekly_hours = job.get("weekly_hours", "")
-    url = job.get("url", "")
-    escaped_company = _escape_md(company_name)
-
-    lines = [
-        f"🔔 *New {escaped_company} Job*",
-        "",
-        f"📌 *{_escape_md(title)}*",
-    ]
-    if team:
-        lines.append(f"🏢 {_escape_md(team)}")
-    if location:
-        lines.append(f"📍 {_escape_md(location)}")
-    if posted:
-        lines.append(f"🗓 Posted {_escape_md(posted)}")
-    if role_number:
-        lines.append(f"🆔 `{_escape_md(role_number)}`")
-    if weekly_hours:
-        lines.append(f"⏱ {_escape_md(weekly_hours)}")
-    if url:
-        lines.extend(["", f"[Apply on {escaped_company} Careers]({_escape_url(url)})"])
-
-    return await _send_message("\n".join(lines), parse_mode="MarkdownV2")
-
-
-async def send_job_digest(
-    company_name: str,
-    jobs: list[dict],
-    on_delivered: Callable[[list[dict]], None] | None = None,
-) -> list[dict]:
+async def send_run_summary(
+    groups: list[tuple[str, list[dict]]],
+    on_delivered: Callable[[str, list[dict]], None] | None = None,
+) -> int:
     """
-    Send several jobs as compact digest message(s).
+    Send all of a run's new jobs as one message, grouped by company.
 
-    Returns the jobs whose message was delivered, so callers only mark those seen.
-    on_delivered is called with each message's jobs as soon as that message is sent.
+    groups is [(company name, jobs), ...]. A run with more than fits in one Telegram
+    message is split into numbered parts. on_delivered(company name, jobs) is called
+    for each part as soon as it is sent, so callers can mark those jobs seen.
+    Returns the number of jobs delivered.
     """
-    header = f"🔔 *{len(jobs)} new {_escape_md(company_name)} jobs*"
-    delivered = []
-    chunk_lines: list[str] = []
-    chunk_jobs: list[dict] = []
+    total = sum(len(jobs) for _, jobs in groups)
+    if not total:
+        return 0
 
-    async def flush() -> None:
-        if not chunk_jobs:
-            return
-        text = "\n".join([header, "", *chunk_lines])
-        if await _send_message(text, parse_mode="MarkdownV2"):
-            delivered.extend(chunk_jobs)
-            if on_delivered:
-                on_delivered(list(chunk_jobs))
-        chunk_lines.clear()
-        chunk_jobs.clear()
+    now = datetime.now(ZoneInfo(config.ALERT_TIMEZONE))
+    stamp = f"{now:%b} {now.day}, {now:%I:%M %p}".replace(" 0", " ")
+    title = f"🔔 *{total} new job{'s' if total != 1 else ''}* · {_escape_md(stamp)}"
 
-    for job in jobs:
-        line = f"• [{_escape_md(job.get('title', 'Unknown Position'))}]({_escape_url(job.get('url', ''))})"
-        if job.get("location"):
-            line += f" — {_escape_md(job['location'])}"
-        if chunk_jobs and len(header) + sum(len(x) + 1 for x in chunk_lines) + len(line) > MAX_MESSAGE_CHARS:
-            await flush()
+    # Build every part first, so each can be numbered "(1/3)".
+    parts: list[tuple[list[str], dict[str, list[dict]]]] = []
+    lines: list[str] = []
+    part_jobs: dict[str, list[dict]] = {}
+    size = len(title) + 20
+
+    def start_part() -> None:
+        nonlocal lines, part_jobs, size
+        if part_jobs:
+            parts.append((lines, part_jobs))
+        lines, part_jobs, size = [], {}, len(title) + 20
+
+    started: set[str] = set()
+    for company_name, jobs in groups:
+        for job in jobs:
+            entry = _summary_entry(job)
+            if part_jobs and size + len(entry) + 60 > MAX_MESSAGE_CHARS:
+                start_part()
+            if company_name not in part_jobs:
+                # A company split across parts is marked "(cont.)" in the later part.
+                count = "\\(cont\\.\\)" if company_name in started else f"· {len(jobs)}"
+                lines.extend(["", f"*{_escape_md(company_name)}* {count}"])
+                size += len(lines[-1]) + 2
+                started.add(company_name)
+            lines.append(entry)
+            size += len(entry) + 1
+            part_jobs.setdefault(company_name, []).append(job)
+    start_part()
+
+    delivered = 0
+    for index, (part_lines, jobs_by_company) in enumerate(parts, 1):
+        if index > 1:
             await asyncio.sleep(0.5)
-        chunk_lines.append(line)
-        chunk_jobs.append(job)
-    await flush()
+        suffix = f" \\({index}/{len(parts)}\\)" if len(parts) > 1 else ""
+        text = "\n".join([title + suffix, *part_lines])
+        if not await _send_message(text, parse_mode="MarkdownV2"):
+            continue
+        for company_name, jobs in jobs_by_company.items():
+            delivered += len(jobs)
+            if on_delivered:
+                on_delivered(company_name, jobs)
     return delivered
 
 
-async def send_run_header() -> bool:
-    """Separator sent before the first alert of a run, so each run's alerts stand apart."""
-    now = datetime.now(ZoneInfo(config.ALERT_TIMEZONE))
-    stamp = f"{now:%b} {now.day}, {now:%I:%M %p}".replace(" 0", " ")
-    divider = "━━━━━━━━━━━━━━━━━━━━"
-    return await _send_message(f"{divider}\n🕐 New jobs · {stamp}\n{divider}", parse_mode="")
+def _summary_entry(job: dict) -> str:
+    """One job in a run summary: linked title, then location and post date."""
+    title = _escape_md(job.get("title", "Unknown Position"))
+    url = job.get("url", "")
+    line = f"• [{title}]({_escape_url(url)})" if url else f"• {title}"
+    details = [job.get("location", ""), _format_posted(job.get("source_posted", ""))]
+    details = [_escape_md(detail) for detail in details if detail]
+    if details:
+        line += "\n    " + " · ".join(details)
+    return line
 
 
 async def send_error(company_name: str, error_msg: str) -> bool:
@@ -175,13 +171,17 @@ def _retry_after_seconds(resp: httpx.Response) -> int:
 
 
 def _format_posted(value: str) -> str:
-    """Normalize a source post date: ISO timestamps become YYYY-MM-DD."""
+    """Normalize a source post date: ISO dates become "Oct 22"; other text is kept."""
     value = str(value or "").strip()
     if value.lower().startswith("posted "):
         value = value[len("posted "):].strip()
     if len(value) > 10 and value[4:5] == "-" and "T" in value:
         value = value.split("T", 1)[0]
-    return value
+    try:
+        posted = datetime.strptime(value, "%Y-%m-%d")
+        return f"{posted:%b} {posted.day}"
+    except ValueError:
+        return value
 
 
 def _escape_md(text: str) -> str:

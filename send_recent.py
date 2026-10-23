@@ -15,7 +15,7 @@ from zoneinfo import ZoneInfo
 from playwright.async_api import async_playwright
 
 import config
-import scraper
+from notifier import send_run_summary
 from runner import collect_jobs
 from state import passes_title_filters
 
@@ -75,8 +75,8 @@ async def main() -> None:
                     print(f"  - {job['title']}")
                     job["source_posted"] = job.get("posted", "")
                 if matches:
-                    delivered = await scraper._send_alerts(runtime_config.display_name, matches)
-                    print(f"[send-recent] Delivered {len(delivered)}/{len(matches)}")
+                    delivered = await send_run_summary([(runtime_config.display_name, matches)])
+                    print(f"[send-recent] Delivered {delivered}/{len(matches)}")
         finally:
             await browser.close()
 

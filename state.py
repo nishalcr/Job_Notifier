@@ -168,7 +168,7 @@ def _resolve_posted_value(job: dict, strategy: str, today: str) -> str:
     return job.get("posted", "")
 
 
-def _job_key(job: dict) -> str:
+def job_key(job: dict) -> str:
     return job.get("key") or job.get("job_id") or job.get("role_number") or ""
 
 
@@ -187,7 +187,7 @@ def filter_new_jobs(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) -> l
     changed = False
 
     for job in jobs:
-        key = _job_key(job)
+        key = job_key(job)
         if not key:
             continue
         job.setdefault("source_posted", job.get("posted", ""))
@@ -215,7 +215,7 @@ def mark_jobs_seen(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) -> No
         return
     seen = load_seen_jobs(runtime_config.slug)
     for job in jobs:
-        key = _job_key(job)
+        key = job_key(job)
         if key and key not in seen:
             seen[key] = _job_state_payload(job, posted_override=job.get("posted", ""))
     save_seen_jobs(runtime_config.slug, seen)
@@ -238,7 +238,7 @@ def recent_title_keys(runtime_config: CompanyRuntimeConfig, days: int) -> set[st
 
 def is_seen_elsewhere(job: dict, company_slugs: Sequence[str]) -> bool:
     """True if another adapter for the same employer already saw this job ID."""
-    key = _job_key(job)
+    key = job_key(job)
     return bool(key) and any(key in load_seen_jobs(slug) for slug in company_slugs)
 
 
@@ -256,7 +256,7 @@ def seed_seen_jobs(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) -> No
     today = _today_date_string()
 
     for job in jobs:
-        key = _job_key(job)
+        key = job_key(job)
         if not key or key in seen:
             continue
         seen[key] = _job_state_payload(

@@ -3,14 +3,14 @@
 Got bored checking careers page for major tech companies so I vibe coded a Job Notifier (Scrapes every 10 mins).
 
 
-A fully automated job-board monitor that scrapes career pages across 10 major tech and finance companies, deduplicates listings against a persisted state store, and fires real-time Telegram alerts the moment a new opening appears. Runs on GitHub Actions every 10 minutes so you never miss an application window.
+A fully automated job-board monitor that scrapes career pages across 40 tech and finance companies, deduplicates listings against a persisted state store, and fires real-time Telegram alerts the moment a new opening appears. Runs on GitHub Actions every 10 minutes so you never miss an application window.
 
 ## Features
 
 - **37 companies out of the box** — Amazon, AMD, American Express, Apple, Capital One, Cisco, CVS Health (two adapters), Databricks, Dell, Disney, DoorDash, Ford, GoDaddy, Goldman Sachs, Google, HP, IBM, Intel, JPMorgan Chase, Lyft, Meta, Microsoft, Netflix, NVIDIA, Paramount, PayPal, Red Hat, Reddit, Salesforce, Samsung, Snowflake, Spotify, Stripe, Uber, Yahoo, and Zscaler
 - **Headless browser scraping** — Playwright + Chromium handles JS-heavy career pages and interactive pagination without brittle DOM hacks
 - **Smart deduplication** — each company keeps its own `seen_jobs/<slug>.json` state file; jobs are tracked by stable ID so alerts never repeat
-- **Real-time Telegram alerts** — richly-formatted notifications include title, team, location, post date, role ID, and a direct link to apply
+- **One Telegram message per run** — every new job a run finds arrives in a single message, grouped by company, with the title linked to the posting plus location and post date (long runs are split into numbered parts)
 - **Two scrape modes** — a fast *regular* scrape that alerts on new-since-last-run jobs, and a *full scrape* that seeds the seen-jobs state without sending alerts
 - **Title filtering** — shared rules in `companies/filters.py`: titles must name an engineering role; managers, directors, leaders, VPs, interns and recruiting roles are dropped (whole-word matching). Level and non-software filters exist there but are off by default
 - **Scraper health alerts** — a company that errors or returns 0 jobs for 3 runs in a row (`HEALTH_FAILURE_THRESHOLD`) triggers one Telegram "broken" alert, and one "recovered" alert when it works again; state lives in `seen_jobs/_health.json`
@@ -49,7 +49,7 @@ GitHub Actions (every 10 min)
         │   ├─ Parse & normalise job records  ──► { title, team, location, posted, url, job_id }
         │   ├─ Deduplicate against seen_jobs/<slug>.json
         │   ├─ Apply title keyword / phrase filters
-        │   └─ Send Telegram alert per new job  ──► 🔔 Telegram notification
+        │   └─ Send one Telegram message per run ──► 🔔 Telegram notification
         └─ Commit updated seen_jobs/ back to repo
 ```
 

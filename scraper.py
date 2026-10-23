@@ -8,24 +8,17 @@ import argparse
 import asyncio
 import sys
 import time
-from typing import Callable
 
 from playwright.async_api import async_playwright
 
 import config
 from health import BROKEN, load_health, record_result, save_health
-from notifier import (
-    send_error,
-    send_job_alert_for_company,
-    send_job_digest,
-    send_plain,
-    send_run_header,
-    verify_bot,
-)
+from notifier import send_error, send_plain, send_run_summary, verify_bot
 from runner import LAST_ERRORS, collect_jobs
 from state import (
     filter_new_jobs,
     is_seen_elsewhere,
+    job_key,
     load_seen_jobs,
     mark_jobs_seen,
     passes_title_filters,
@@ -33,14 +26,8 @@ from state import (
     title_key,
 )
 
-# More new jobs than this for one company in one run are sent as a digest.
-DIGEST_THRESHOLD = 5
-
 # A job whose title this company already posted within this many days is not re-alerted.
 REPEAT_TITLE_DAYS = 7
-
-# Whether this run already sent its separator message (sent only if the run has alerts).
-_run_header_sent = False
 
 
 def parse_args() -> argparse.Namespace:
@@ -54,8 +41,13 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-async def _run_company_scrape(browser, slug: str) -> tuple[bool, str]:
-    """Scrape one company. Returns (ok, error message)."""
+async def _run_company_scrape(browser, slug: str, pending: list) -> tuple[bool, str]:
+    """
+    Scrape one company. Returns (ok, error message).
+
+    Jobs to alert on are appended to pending as (runtime config, jobs); the run sends
+    them all in one message at the end.
+    """
     runtime_config = None
 
     try:
@@ -81,11 +73,16 @@ async def _run_company_scrape(browser, slug: str) -> tuple[bool, str]:
         # Some employers (e.g. Capital One) post many openings with the same generic
         # title; alert on a title once per REPEAT_TITLE_DAYS per company.
         recent_titles = recent_title_keys(runtime_config, REPEAT_TITLE_DAYS)
+        # Jobs another adapter for the same employer queued earlier in this run.
+        shares = runtime_config.definition.shares_jobs_with
+        queued_elsewhere = {
+            job_key(job) for queued_config, jobs in pending if queued_config.slug in shares for job in jobs
+        }
         for job in new_jobs:
             key = title_key(job.get("title", ""))
             if not passes_title_filters(job.get("title", ""), runtime_config):
                 skipped.append(job)
-            elif is_seen_elsewhere(job, runtime_config.definition.shares_jobs_with):
+            elif is_seen_elsewhere(job, shares) or job_key(job) in queued_elsewhere:
                 skipped.append(job)
             elif key in recent_titles:
                 skipped.append(job)
@@ -97,21 +94,10 @@ async def _run_company_scrape(browser, slug: str) -> tuple[bool, str]:
         mark_jobs_seen(runtime_config, skipped)
 
         if to_alert:
-            print(f"[{runtime_config.slug}] Sending {len(to_alert)} job(s) to Telegram...")
+            print(f"[{runtime_config.slug}] Queued {len(to_alert)} job(s) for this run's message:")
             for job in to_alert:
                 print(f"  - {job['title']}")
-            # Each job is saved as seen the moment its message is sent, so a run that
-            # dies part-way through never re-sends what it already delivered.
-            delivered = await _send_alerts(
-                runtime_config.display_name,
-                to_alert,
-                on_delivered=lambda jobs: mark_jobs_seen(runtime_config, jobs),
-            )
-            if len(delivered) < len(to_alert):
-                print(
-                    f"[{runtime_config.slug}] {len(to_alert) - len(delivered)} alert(s) failed; "
-                    "they will be retried next run"
-                )
+            pending.append((runtime_config, to_alert))
         else:
             print(f"[{runtime_config.slug}] No new jobs to notify.")
 
@@ -125,32 +111,21 @@ async def _run_company_scrape(browser, slug: str) -> tuple[bool, str]:
         return False, f"Unexpected error: {exc}"
 
 
-async def _send_alerts(
-    company_name: str,
-    jobs: list[dict],
-    on_delivered: Callable[[list[dict]], None] | None = None,
-) -> list[dict]:
-    """
-    Send alerts one per job, or as a digest for bursts. Returns delivered jobs.
-
-    on_delivered is called with the jobs of each message as soon as it is sent.
-    """
-    global _run_header_sent
-    if not _run_header_sent:
-        _run_header_sent = await send_run_header()
-
-    if len(jobs) > DIGEST_THRESHOLD:
-        return await send_job_digest(company_name, jobs, on_delivered)
-
-    delivered = []
-    for index, job in enumerate(jobs):
-        if index:
-            await asyncio.sleep(0.5)
-        if await send_job_alert_for_company(company_name, job):
-            delivered.append(job)
-            if on_delivered:
-                on_delivered([job])
-    return delivered
+async def _send_pending(pending: list) -> None:
+    """Send the run's queued jobs as one message; jobs are marked seen once delivered."""
+    if not pending:
+        return
+    by_name = {runtime_config.display_name: runtime_config for runtime_config, _ in pending}
+    total = sum(len(jobs) for _, jobs in pending)
+    print(f"[scraper] Sending {total} job(s) to Telegram in one message...")
+    delivered = await send_run_summary(
+        [(runtime_config.display_name, jobs) for runtime_config, jobs in pending],
+        # Saved the moment each part is sent, so a run that dies part-way through
+        # never re-sends what it already delivered.
+        on_delivered=lambda name, jobs: mark_jobs_seen(by_name[name], jobs),
+    )
+    if delivered < total:
+        print(f"[scraper] {total - delivered} job(s) not delivered; they will be retried next run")
 
 
 async def _report_health(health: dict, slug: str, ok: bool, error: str) -> None:
@@ -174,8 +149,6 @@ async def _report_health(health: dict, slug: str, ok: bool, error: str) -> None:
 
 async def run_scraper(selected_companies: list[str] | None = None) -> None:
     """Main scraper entry point."""
-    global _run_header_sent
-    _run_header_sent = False
     start_time = time.time()
     requested_companies = config.get_selected_company_slugs(selected_companies)
 
@@ -201,11 +174,13 @@ async def run_scraper(selected_companies: list[str] | None = None) -> None:
             args=["--disable-blink-features=AutomationControlled"],
         )
         try:
+            pending = []
             for slug in requested_companies:
-                ok, error = await _run_company_scrape(browser, slug)
+                ok, error = await _run_company_scrape(browser, slug, pending)
                 if not ok:
                     failed_companies.append(slug)
                 await _report_health(health, slug, ok, error)
+            await _send_pending(pending)
         finally:
             await browser.close()
             save_health(health)
