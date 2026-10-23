@@ -1,6 +1,14 @@
 {
   "apple": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_error": "No jobs extracted. The page structure may have changed."
+  },
+  "salesforce": {
+    "consecutive_failures": 1,
+    "last_error": "Timeout on page 1: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site?redirect=/en-US/external_career_site/userHome&CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=bc33aa3152ec42d4995"
+  },
+  "uber": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.uber.com/en/jobs/\nCall log:\n  - navigating to \"https://jobs.uber.com/en/jobs/\", waiting until \"domcontentloaded\"\n"
   }
 }
