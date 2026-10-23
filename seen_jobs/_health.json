@@ -1,10 +1,1 @@
-{
-  "apple": {
-    "consecutive_failures": 1,
-    "last_error": "Timeout on page 1: Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.apple.com/en-us/search?location=united-states-USA&team=apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-"
-  },
-  "netflix": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Eightfold API request failed with status 429"
-  }
-}
+{}
