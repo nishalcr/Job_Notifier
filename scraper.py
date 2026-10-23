@@ -12,6 +12,7 @@ import time
 from playwright.async_api import async_playwright
 
 import config
+from details import add_job_details
 from health import BROKEN, load_health, record_result, save_health
 from notifier import send_error, send_plain, send_run_summary, verify_bot
 from runner import LAST_ERRORS, collect_jobs
@@ -180,6 +181,10 @@ async def run_scraper(selected_companies: list[str] | None = None) -> None:
                 if not ok:
                     failed_companies.append(slug)
                 await _report_health(health, slug, ok, error)
+            try:
+                await add_job_details(browser, [job for _, jobs in pending for job in jobs])
+            except Exception as exc:
+                print(f"[details] Skipped job details: {exc}")
             await _send_pending(pending)
         finally:
             await browser.close()

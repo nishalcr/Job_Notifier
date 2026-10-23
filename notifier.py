@@ -82,15 +82,29 @@ async def send_run_summary(
 
 
 def _summary_entry(job: dict) -> str:
-    """One job in a run summary: linked title, then location and post date."""
+    """
+    One job in a run summary: linked title, then a line each for where/when,
+    pay/experience/work type, and team/job ID (lines with nothing to show are left out).
+    """
     title = _escape_md(job.get("title", "Unknown Position"))
     url = job.get("url", "")
-    line = f"• [{title}]({_escape_url(url)})" if url else f"• {title}"
-    details = [job.get("location", ""), _format_posted(job.get("source_posted", ""))]
-    details = [_escape_md(detail) for detail in details if detail]
-    if details:
-        line += "\n    " + " · ".join(details)
-    return line
+    lines = [f"• [{title}]({_escape_url(url)})" if url else f"• {title}"]
+    rows = [
+        [("📍", job.get("location", "")), ("🗓", _format_posted(job.get("source_posted", "")))],
+        [("💰", job.get("salary", "")), ("🧑‍💻", job.get("years", "")), ("🏠", job.get("work_type", ""))],
+        [("🏢", job.get("team", "")), ("🆔", _display_job_id(job))],
+    ]
+    for row in rows:
+        parts = [f"{icon} {_escape_md(value)}" for icon, value in row if value]
+        if parts:
+            lines.append("    " + "  ".join(parts))
+    return "\n".join(lines)
+
+
+def _display_job_id(job: dict) -> str:
+    """The requisition ID, unless the only ID is a URL path or long internal key."""
+    job_id = str(job.get("job_id") or "").strip()
+    return job_id if job_id and "/" not in job_id and len(job_id) <= 24 else ""
 
 
 async def send_error(company_name: str, error_msg: str) -> bool:
