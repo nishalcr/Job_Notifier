@@ -41,12 +41,6 @@
     "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
     "status": "broken"
   },
-  "paypal": {
-    "broken_since": "2026-10-24T06:34:01+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
   "redhat": {
     "broken_since": "2026-10-24T06:24:02+00:00",
     "consecutive_failures": 3,
