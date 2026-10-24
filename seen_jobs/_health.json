@@ -1,1 +1,22 @@
-{}
+{
+  "hp": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 502"
+  },
+  "intel": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 502"
+  },
+  "nvidia": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 502"
+  },
+  "redhat": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 502"
+  },
+  "yahoo": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+  }
+}
