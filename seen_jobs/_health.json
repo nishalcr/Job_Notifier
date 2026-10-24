@@ -1,10 +1,1 @@
-{
-  "apple": {
-    "consecutive_failures": 1,
-    "last_error": "No jobs extracted. The page structure may have changed."
-  },
-  "dell": {
-    "consecutive_failures": 1,
-    "last_error": "Timeout on page 1: APIRequestContext.get: Timeout 30000ms exceeded.\nCall log:\n  - \u2192 GET https://enterpriseplatform.dell.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1001,limit=25,offset=0,sortBy=POST"
-  }
-}
+{}
