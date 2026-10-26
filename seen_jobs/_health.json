@@ -1,10 +1,1 @@
-{
-  "ibm": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: IBM API request failed with status 502"
-  },
-  "netflix": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Eightfold API request failed with status 429"
-  }
-}
+{}
