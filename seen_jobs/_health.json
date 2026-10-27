@@ -1,1 +1,6 @@
-{}
+{
+  "amazon": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Amazon API request failed with status 503"
+  }
+}
