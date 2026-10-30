@@ -7,7 +7,7 @@ Last updated: 2026-10-23. Repo: `nishalcr/Job_Notifier` (fork of `rohitdanti/FAA
 
 ## Current status
 
-- **Live.** 41 companies are scraped every 10 minutes on GitHub Actions; new jobs arrive in Telegram.
+- **Live.** 42 companies are scraped every 10 minutes on GitHub Actions; new jobs arrive in Telegram.
 - A run takes about 4.5 minutes. Opening job pages for details adds up to 2.5 minutes when there are new jobs.
 - No open issues. Apple was switched to its embedded JSON on 2026-10-23 after its page sometimes failed to render.
 
@@ -90,7 +90,7 @@ Target: about 5 years of experience, **US only**, **SWE, data, ML and AI roles a
 
 After **widening** any filter or search scope, follow the reseed runbook below, or the first run sends every old job that now matches.
 
-## Companies (41)
+## Companies (42)
 
 Pages = result pages read per regular run / per full scrape.
 
@@ -136,6 +136,7 @@ Pages = result pages read per regular run / per full scrape.
 | `godaddy` | GoDaddy | Greenhouse | all | US |
 | `pinterest` | Pinterest | Greenhouse | all | US |
 | `snowflake` | Snowflake | Ashby | all | US |
+| `cerebras` | Cerebras | Ashby | all | US |
 | `spotify` | Spotify | Lever | all | US |
 
 **Not possible:** Tesla. Its careers site returns 403 Access Denied to automation.
@@ -161,7 +162,7 @@ Pages = result pages read per regular run / per full scrape.
 | Variable | Default | Meaning |
 |---|---|---|
 | `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | — | Telegram destination (required) |
-| `COMPANIES` | `apple` locally; all 41 in the workflows | Comma-separated slugs to scrape |
+| `COMPANIES` | `apple` locally; all 42 in the workflows | Comma-separated slugs to scrape |
 | `ALERT_TIMEZONE` | `America/Phoenix` | Time shown in message headers |
 | `MAX_SEEN_JOBS` | `50000` | Seen-job cap per company |
 | `HEALTH_FAILURE_THRESHOLD` | `3` | Consecutive failures before a "broken" alert |
@@ -253,7 +254,7 @@ Run **Send Jobs Posted On A Day** (`send-recent.yml`) with the companies and a d
 - **2026-10-08:**
   - Added Pinterest, Palo Alto Networks and Adobe.
   - Added the duplicate protections above.
-- **2026-10-29:** added Oracle.
+- **2026-10-29:** added Oracle and Cerebras.
 - **2026-10-23:**
   - One message per run.
   - Job details (pay, experience, work type, team, ID).
