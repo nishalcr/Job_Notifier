@@ -13,7 +13,7 @@ A fully automated job-board monitor that scrapes career pages across 40 tech and
 - **Headless browser scraping** — Playwright + Chromium handles JS-heavy career pages and interactive pagination without brittle DOM hacks
 - **Full-list comparison** — every run reads each company's complete US listing (in parallel) and compares it with `seen_jobs/<slug>.json`, so a new job is found wherever the site puts it; jobs are marked seen as soon as their message is delivered, so alerts never repeat
 - **One Telegram message per run** — every new job a run finds arrives in a single message, grouped by company, with the title linked to the posting plus location, post date, pay range, years of experience, remote/hybrid/onsite, team and job ID when the posting lists them (`details.py`; long runs are split into numbered parts)
-- **Two scrape modes** — a fast *regular* scrape that alerts on new-since-last-run jobs, and a *full scrape* that seeds the seen-jobs state without sending alerts
+- **Safe by default** — a company's first run saves its current jobs without alerts; jobs posted over 30 days ago are saved quietly; a flood guard catches sites that change their job IDs; a stuck site is stopped after 6 minutes; `full_scrape.py` can seed state by hand
 - **Title filtering** — shared rules in `companies/filters.py`: US-only SWE, data, ML and AI roles at every level; managers, directors, VPs, interns, customer-facing and hardware engineering roles are dropped (whole-word matching)
 - **Scraper health alerts** — a company that errors or returns 0 jobs for 3 runs in a row (`HEALTH_FAILURE_THRESHOLD`) triggers one Telegram "broken" alert, and one "recovered" alert when it works again; state lives in `seen_jobs/_health.json`
 - **Plug-in adapter architecture** — adding a new company is a single file that implements `CompanyDefinition`; no core code changes required
@@ -39,12 +39,11 @@ cron-job.org → workflow_dispatch (every 10 min)
   └─► python scraper.py --company <slugs>
         │
         ├─ Launch headless Chromium via Playwright
-        ├─ For each company adapter:
-        │   ├─ Build paginated search URL(s)
-        │   ├─ Fetch page HTML / API response
+        ├─ For each company adapter (8 at a time):
+        │   ├─ Fetch the company's FULL US listing (API pages, 4 at a time where possible)
         │   ├─ Parse & normalise job records  ──► { title, team, location, posted, url, job_id }
-        │   ├─ Deduplicate against seen_jobs/<slug>.json
-        │   └─ Apply title / US filters, queue new jobs
+        │   ├─ Compare with seen_jobs/<slug>.json → jobs not seen before
+        │   └─ Apply title / US / age filters, queue new jobs
         ├─ Open each new job's page for pay, experience, work type (details.py)
         ├─ Send one Telegram message for the run  ──► 🔔 Telegram notification
         └─ Commit updated seen_jobs/ back to repo (push retried)
@@ -74,7 +73,7 @@ cp .env.example .env   # fill in TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID
 
 1. Fork / push to your own repository.
 2. Add two repository secrets: `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`.
-3. Seed the seen-jobs state once with the **Full Scrape** workflow (no alerts).
+3. Nothing to seed: each company's first run saves its current jobs without alerts.
 4. Point an external scheduler (this fork uses cron-job.org) at the `scrape.yml` `workflow_dispatch` endpoint every 10 minutes. GitHub's own `schedule:` trigger fired too rarely to rely on. See [docs/OPERATIONS.md](docs/OPERATIONS.md#external-trigger-cron-joborg).
 
 ## Usage
@@ -87,7 +86,7 @@ python scraper.py
 python scraper.py --company apple --company google
 python scraper.py --company apple,google,meta   # comma-separated also works
 
-# Seed seen_jobs/ without sending alerts (run once before enabling notifications)
+# Seed seen_jobs/ by hand without sending alerts (optional; first runs do this automatically)
 python full_scrape.py
 python full_scrape.py --company amazon,uber
 ```
@@ -109,8 +108,8 @@ python full_scrape.py --company amazon,uber
 
 1. Create `companies/<slug>.py` defining `COMPANY`, usually with a shared builder (`workday_company`, `greenhouse_company`, `oracle_hcm_company`, `ashby_company`, `lever_company`, `eightfold_company`).
 2. Register it in `companies/registry.py`.
-3. Seed it without alerts: `python full_scrape.py --company <slug>` and commit `seen_jobs/` (`git add -f`).
-4. Add the slug to the company lists in `scrape.yml` and `full-scrape.yml`.
+3. Set its page limit (`default_full_scrape_max_pages`) above the site's page count.
+4. Add the slug to the company lists in `scrape.yml` and `full-scrape.yml` and push. Its first run saves current jobs without alerts.
 
 Full checklist: [docs/OPERATIONS.md](docs/OPERATIONS.md#add-a-company).
 
@@ -122,7 +121,9 @@ faang-jobs-notifier/
 ├── seen_jobs/          # Persisted job-ID state, one JSON file per company
 ├── docs/OPERATIONS.md  # Status, configuration and runbooks
 ├── scraper.py          # Entry point: incremental scrape + Telegram alerts
-├── full_scrape.py      # Entry point: seed seen_jobs without sending alerts
+├── full_scrape.py      # Entry point: seed seen_jobs by hand without alerts
+├── tests/              # pytest suite (filters, state, run behaviour, messages)
+├── tools/filter_audit.py # Lists stored jobs each filter rule drops
 ├── send_recent.py      # Entry point: re-send jobs posted on a given day
 ├── details.py          # Pay range / experience / work type from job pages
 ├── health.py           # Broken / recovered tracking

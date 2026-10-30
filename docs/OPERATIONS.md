@@ -8,7 +8,12 @@ Last updated: 2026-10-30. Repo: `nishalcr/Job_Notifier` (fork of `rohitdanti/FAA
 ## Current status
 
 - **Live.** 44 companies are scraped every 10 minutes on GitHub Actions; new jobs arrive in Telegram.
-- Every run reads each company's **full** US job list (about 26,600 jobs) and alerts every matching job not seen before. A run takes 3–4 minutes; opening job pages for details adds up to 2.5 minutes when there are new jobs.
+- **Live and verified (2026-10-30).** 44 companies; every run reads each company's **full** US job list
+  (about 26,600 jobs) and alerts every matching job not seen before.
+  - First run on this design (19:20 UTC) sent a one-time catch-up of 350 missed jobs from the last 30 days, in 295 s.
+  - First normal run after it (19:30 UTC) sent 5 new jobs in 230 s.
+  - Runs take 4–5 minutes. Opening job pages for details adds up to 2.5 minutes when there are many new jobs.
+  - No company is marked broken (`seen_jobs/_health.json` is `{}`).
 - Tests: `.venv/bin/python -m pytest -q` (also run by `.github/workflows/tests.yml` on every code push).
 
 ## How a run works
@@ -100,7 +105,8 @@ Target: about 5 years of experience, **US only**, **SWE, data, ML and AI roles a
   - API country filters where the site has them; otherwise location text (`companies/json_api.is_us_location`) or Workday job paths (`companies/workday.is_us_posting`).
   - "Toronto, ON, CA" is treated as Canada.
 
-After **widening** any filter or search scope, follow the reseed runbook below, or the first run sends every old job that now matches.
+Widening a filter does not resend old jobs: every listed job is already saved as seen, matching or not. It
+applies to new postings from then on. To also get recent jobs the old filter dropped, see "Widen filters" below.
 
 ## Companies (44)
 
@@ -227,16 +233,17 @@ Don't bulk-download hundreds of run logs. That trips GitHub's API rate limit for
 4. Make sure its page limit (`default_full_scrape_max_pages`) is above the site's page count.
 5. Add the slug to `scrape.yml` and `full-scrape.yml` and push. Its first run saves the current jobs without alerts; alerts start from the run after.
 
-### Widen filters or search scope (reseed)
-Pick one method.
-- **Without the GitHub API:** change the code, run `full_scrape.py --company <affected slugs>` locally, then commit the code and `seen_jobs/` together.
-- **Through Actions:**
-  1. `gh workflow disable scrape.yml -R nishalcr/Job_Notifier`.
-  2. Push the change.
-  3. Run `full-scrape.yml` with the affected companies.
-  4. `gh workflow enable scrape.yml -R nishalcr/Job_Notifier`.
+### Widen filters or search scope
+1. Change `companies/filters.py` (or the company's site filter), add the titles to `tests/test_filters.py`, and run the tests.
+2. Run `.venv/bin/python tools/filter_audit.py --show 20` to check nothing real is still dropped.
+3. Push. New postings that match are alerted from the next run.
+4. Optional: recent jobs the old filter dropped are already saved as seen and will not be alerted. To get them,
+   remove those keys from `seen_jobs/<slug>.json` (jobs first seen in the last few days that now pass the filter)
+   and commit; the next run alerts them if they were posted within 30 days.
 
-Narrowing filters needs no reseed. Widening filters needs none either if you are happy to get matching jobs posted in the last 30 days: they are alerted on the next run.
+A wider *site-side* search (for example a removed category filter) brings in jobs never saved before. The next run
+alerts those posted within 30 days and saves older ones quietly. If many jobs appear at once while the saved ones are
+still listed, that is a real catch-up, not a flood.
 
 ### Catch up on jobs a fix now matches
 `send_recent.py --unseen --company <slugs>` reads deeper than a regular run and sends every matching job not in the seen store, then marks it seen. It needs `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`, and you must commit `seen_jobs/` afterwards. Regular runs now do this automatically for jobs posted in the last 30 days, so this is rarely needed.
