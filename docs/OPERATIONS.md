@@ -84,7 +84,7 @@ Target: about 5 years of experience, **US only**, **SWE, data, ML and AI roles a
   - UX, user, design and market researchers.
   - Hardware, chip, fab, data-center, automotive and audio/visual engineering. These are kept if the title also says software, firmware, ML, SRE, DevOps, data engineer or full stack.
 - **Core-role override:** a title naming a core role (`CORE_ROLE_PHRASES`: software engineer, SDE, data engineer/scientist, ML engineer/scientist, research/applied scientist, full stack, SRE, platform engineer, BI engineer) is kept despite any non-software or hardware phrase, e.g. "Software Engineer III – AI Enablement", "Senior Data Scientist, GTM". Manager, intern and executive phrases still drop it.
-- **Audit tool:** to check for jobs dropped by mistake, re-run the grouping in the 2026-10-30 commit message idea: list every seen job that fails `passes_title_filters` and group by the rule that dropped it.
+- **Audit tool:** `.venv/bin/python tools/filter_audit.py --show 20` lists every stored job the filters drop, grouped by the rule that dropped it. Run it after any filter change to spot real roles being filtered out.
 - **Levels:**
   - `EXCLUDED_LEVEL_KEYWORDS = ()`, so all levels are kept.
   - To drop staff/principal again, set it to `ABOVE_SENIOR_LEVEL_KEYWORDS`.
