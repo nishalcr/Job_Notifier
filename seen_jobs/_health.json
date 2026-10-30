@@ -1,6 +1,1 @@
-{
-  "oracle": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Oracle API request failed with status 502"
-  }
-}
+{}
