@@ -68,8 +68,10 @@ COMPANY = CompanyDefinition(
     slug="amazon",
     display_name="Amazon",
     default_search_url=AMAZON_SEARCH_URL,
-    default_max_pages=2,
-    default_full_scrape_max_pages=40,
+    # amazon.jobs "recent" order is not by post date (new jobs show up hundreds of
+    # places down), so every run reads all pages (~2,600 jobs, about a minute).
+    default_max_pages=60,
+    default_full_scrape_max_pages=60,
     wait_selectors=(),
     build_search_url=json_api.build_search_url,
     parse_jobs=json_api.parse_jobs,

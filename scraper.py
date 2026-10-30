@@ -8,6 +8,8 @@ import argparse
 import asyncio
 import sys
 import time
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 from playwright.async_api import async_playwright
 
@@ -23,12 +25,23 @@ from state import (
     load_seen_jobs,
     mark_jobs_seen,
     passes_title_filters,
+    posted_date,
     recent_title_keys,
     title_key,
 )
 
 # A job whose title this company already posted within this many days is not re-alerted.
 REPEAT_TITLE_DAYS = 7
+
+# Regular runs read only each company's newest pages. Some sites insert jobs below
+# those pages (Workday jobs that go live with an earlier post date), so each run also
+# reads a rotating share of companies in full: every company once per this many hours.
+DEEP_READ_EVERY_HOURS = 2
+RUNS_PER_HOUR = 6
+
+# Jobs a deep read finds for the first time are alerted only if posted within this
+# many days; older ones (or ones that predate the bot) are marked seen quietly.
+MAX_ALERT_AGE_DAYS = 14
 
 
 def parse_args() -> argparse.Namespace:
@@ -42,7 +55,19 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-async def _run_company_scrape(browser, slug: str, pending: list) -> tuple[bool, str]:
+def _deep_read_slugs(slugs: list[str]) -> set[str]:
+    """The companies this run reads in full, rotating so each gets a turn every few hours."""
+    slots = DEEP_READ_EVERY_HOURS * RUNS_PER_HOUR
+    slot = int(time.time() // (3600 / RUNS_PER_HOUR)) % slots
+    return {slug for index, slug in enumerate(slugs) if index % slots == slot}
+
+
+def _too_old(job: dict, today) -> bool:
+    posted = posted_date(job.get("source_posted", ""), today)
+    return posted is not None and (today - posted).days > MAX_ALERT_AGE_DAYS
+
+
+async def _run_company_scrape(browser, slug: str, pending: list, deep: bool = False) -> tuple[bool, str]:
     """
     Scrape one company. Returns (ok, error message).
 
@@ -53,7 +78,11 @@ async def _run_company_scrape(browser, slug: str, pending: list) -> tuple[bool, 
 
     try:
         runtime_config = config.get_company_runtime(slug)
-        unique_jobs = await collect_jobs(browser, runtime_config, runtime_config.max_pages)
+        pages = runtime_config.max_pages
+        if deep and runtime_config.full_scrape_max_pages > pages:
+            pages = runtime_config.full_scrape_max_pages
+            print(f"[{runtime_config.slug}] Deep read this run: up to {pages} page(s)")
+        unique_jobs = await collect_jobs(browser, runtime_config, pages)
 
         if not unique_jobs:
             if runtime_config.definition.allow_empty_results:
@@ -79,9 +108,12 @@ async def _run_company_scrape(browser, slug: str, pending: list) -> tuple[bool, 
         queued_elsewhere = {
             job_key(job) for queued_config, jobs in pending if queued_config.slug in shares for job in jobs
         }
+        today = datetime.now(ZoneInfo(config.ALERT_TIMEZONE)).date()
         for job in new_jobs:
             key = title_key(job.get("title", ""))
             if not passes_title_filters(job.get("title", ""), runtime_config):
+                skipped.append(job)
+            elif _too_old(job, today):
                 skipped.append(job)
             elif is_seen_elsewhere(job, shares) or job_key(job) in queued_elsewhere:
                 skipped.append(job)
@@ -91,7 +123,7 @@ async def _run_company_scrape(browser, slug: str, pending: list) -> tuple[bool, 
                 recent_titles.add(key)
                 to_alert.append(job)
         if skipped:
-            print(f"[{runtime_config.slug}] Skipped {len(skipped)} job(s) (title filter, already alerted or repeated title)")
+            print(f"[{runtime_config.slug}] Skipped {len(skipped)} job(s) (title filter, already alerted, repeated title or posted over {MAX_ALERT_AGE_DAYS} days ago)")
         mark_jobs_seen(runtime_config, skipped)
 
         if to_alert:
@@ -176,8 +208,10 @@ async def run_scraper(selected_companies: list[str] | None = None) -> None:
         )
         try:
             pending = []
+            deep_slugs = _deep_read_slugs(requested_companies)
+            print(f"[scraper] Deep read this run: {', '.join(sorted(deep_slugs)) or 'none'}")
             for slug in requested_companies:
-                ok, error = await _run_company_scrape(browser, slug, pending)
+                ok, error = await _run_company_scrape(browser, slug, pending, deep=slug in deep_slugs)
                 if not ok:
                     failed_companies.append(slug)
                 await _report_health(health, slug, ok, error)

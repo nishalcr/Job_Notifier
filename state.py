@@ -4,7 +4,7 @@ import json
 import os
 import re
 import time
-from datetime import date
+from datetime import date, datetime, timedelta
 from typing import Any, Sequence
 
 import config
@@ -244,6 +244,42 @@ def mark_jobs_seen(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) -> No
         if key and key not in seen:
             seen[key] = _job_state_payload(job, posted_override=job.get("posted", ""))
     save_seen_jobs(runtime_config.slug, seen)
+
+
+_MONTH_DATE_RE = re.compile(r"[A-Z][a-z]{2,8}\.? \d{1,2},? \d{4}")
+_DAYS_AGO_RE = re.compile(r"(\d+)\+?\s*days?\s+ago", re.I)
+
+
+def posted_date(value: str, today: date) -> date | None:
+    """
+    A job's source post date, or None if unknown.
+
+    Reads ISO dates, "Sep 29, 2026" / "October 29, 2026", and Workday's
+    "Posted Today", "Posted Yesterday", "Posted 3 Days Ago", "Posted 30+ Days Ago".
+    """
+    text = str(value or "").strip()
+    lowered = text.lower().removeprefix("posted ").strip()
+    if lowered == "today":
+        return today
+    if lowered == "yesterday":
+        return today - timedelta(days=1)
+    days_ago = _DAYS_AGO_RE.search(lowered)
+    if days_ago:
+        return today - timedelta(days=int(days_ago.group(1)))
+    if re.match(r"\d{4}-\d{2}-\d{2}", text):
+        try:
+            return date.fromisoformat(text[:10])
+        except ValueError:
+            return None
+    match = _MONTH_DATE_RE.search(text)
+    if match:
+        cleaned = match.group(0).replace(".", "").replace(",", "")
+        for fmt in ("%b %d %Y", "%B %d %Y"):
+            try:
+                return datetime.strptime(cleaned, fmt).date()
+            except ValueError:
+                continue
+    return None
 
 
 def title_key(title: str) -> str:

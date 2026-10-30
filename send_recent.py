@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 """
-Send matching jobs posted on a given day to Telegram, whether or not they were seen before.
+Catch-up sends, outside the regular 10-minute runs.
 
-For catching up on jobs that were marked seen without an alert (for example when
-a company is first seeded). Does not change the seen-jobs state.
+Default mode: send matching jobs posted on a given day, whether or not they were
+seen before (e.g. after a company is first seeded). Does not change seen state.
+
+--unseen mode: read deeper than a regular run and send every matching job that is
+not in the seen store yet (e.g. jobs a filter fix now matches but that are older
+than a regular run's first pages). Sent jobs are marked seen, so they never repeat.
 """
 
 import argparse
 import asyncio
-import re
-from datetime import date, datetime, timedelta
+from datetime import date, datetime
 from zoneinfo import ZoneInfo
 
 from playwright.async_api import async_playwright
@@ -17,9 +20,9 @@ from playwright.async_api import async_playwright
 import config
 from notifier import send_run_summary
 from runner import collect_jobs
-from state import passes_title_filters
+from details import add_job_details
+from state import is_seen_elsewhere, job_key, load_seen_jobs, mark_jobs_seen, passes_title_filters, posted_date
 
-MONTH_DATE_RE = re.compile(r"[A-Z][a-z]{2,8} \d{1,2}, \d{4}")
 
 
 def parse_args() -> argparse.Namespace:
@@ -27,27 +30,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--company", action="append", dest="companies", help="Company slug(s), comma-separated.")
     parser.add_argument("--posted-on", help="YYYY-MM-DD (default: today in ALERT_TIMEZONE).")
     parser.add_argument("--pages", type=int, default=10, help="Result pages to scan per company (default 10).")
+    parser.add_argument("--unseen", action="store_true", help="Send matching jobs not seen before (any post date) and mark them seen.")
     return parser.parse_args()
-
-
-def posted_date(value: str, today: date) -> date | None:
-    """Read a job's source post date: ISO dates, "Sep 29, 2026", or "Posted Today/Yesterday"."""
-    text = str(value or "").strip()
-    lowered = text.lower().removeprefix("posted ").strip()
-    if lowered == "today":
-        return today
-    if lowered == "yesterday":
-        return today - timedelta(days=1)
-    if re.match(r"\d{4}-\d{2}-\d{2}", text):
-        return date.fromisoformat(text[:10])
-    match = MONTH_DATE_RE.search(text)
-    if match:
-        for fmt in ("%b %d, %Y", "%B %d, %Y"):
-            try:
-                return datetime.strptime(match.group(0), fmt).date()
-            except ValueError:
-                continue
-    return None
 
 
 async def main() -> None:
@@ -55,7 +39,10 @@ async def main() -> None:
     today = datetime.now(ZoneInfo(config.ALERT_TIMEZONE)).date()
     target = date.fromisoformat(args.posted_on) if args.posted_on else today
     slugs = config.get_selected_company_slugs(args.companies)
-    print(f"[send-recent] Jobs posted on {target} for: {', '.join(slugs)}")
+    if args.unseen:
+        print(f"[send-recent] Matching jobs not seen before, for: {', '.join(slugs)}")
+    else:
+        print(f"[send-recent] Jobs posted on {target} for: {', '.join(slugs)}")
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True, args=["--disable-blink-features=AutomationControlled"])
@@ -64,19 +51,33 @@ async def main() -> None:
                 runtime_config = config.get_company_runtime(slug)
                 pages = min(args.pages, runtime_config.full_scrape_max_pages)
                 jobs = await collect_jobs(browser, runtime_config, pages)
-                matches = [
-                    job
-                    for job in jobs
-                    if passes_title_filters(job.get("title", ""), runtime_config)
-                    and posted_date(job.get("posted", ""), today) == target
-                ]
-                print(f"[send-recent] {runtime_config.display_name}: {len(matches)} matching job(s) posted on {target}")
+                if args.unseen:
+                    seen = load_seen_jobs(slug)
+                    shares = runtime_config.definition.shares_jobs_with
+                    matches = [
+                        job
+                        for job in jobs
+                        if passes_title_filters(job.get("title", ""), runtime_config)
+                        and job_key(job) not in seen
+                        and not is_seen_elsewhere(job, shares)
+                    ]
+                else:
+                    matches = [
+                        job
+                        for job in jobs
+                        if passes_title_filters(job.get("title", ""), runtime_config)
+                        and posted_date(job.get("posted", ""), today) == target
+                    ]
+                print(f"[send-recent] {runtime_config.display_name}: {len(matches)} matching job(s)")
                 for job in matches:
                     print(f"  - {job['title']}")
-                    job["source_posted"] = job.get("posted", "")
-                if matches:
-                    delivered = await send_run_summary([(runtime_config.display_name, matches)])
-                    print(f"[send-recent] Delivered {delivered}/{len(matches)}")
+                    job.setdefault("source_posted", job.get("posted", ""))
+                if not matches:
+                    continue
+                await add_job_details(browser, matches)
+                on_delivered = (lambda name, sent, rc=runtime_config: mark_jobs_seen(rc, sent)) if args.unseen else None
+                delivered = await send_run_summary([(runtime_config.display_name, matches)], on_delivered)
+                print(f"[send-recent] Delivered {delivered}/{len(matches)}")
         finally:
             await browser.close()
 

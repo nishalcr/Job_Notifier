@@ -16,13 +16,16 @@ Last updated: 2026-10-23. Repo: `nishalcr/Job_Notifier` (fork of `rohitdanti/FAA
 1. **Trigger.** A cron-job.org job (the user's account) POSTs a `workflow_dispatch` to
    `.github/workflows/scrape.yml` every 10 minutes, using a fine-grained GitHub token.
    GitHub's own `schedule:` trigger is not used: it fired too rarely.
-2. **Scrape.** `scraper.py` checks each company in order and reads only the newest pages of results.
+2. **Scrape.** `scraper.py` checks each company in order and reads only the newest pages of results, with two exceptions:
+   - **Amazon** reads all ~52 pages every run (about a minute), because its "recent" order is not by post date.
+   - **Deep reads:** every run also fully reads a rotating share of companies (`DEEP_READ_EVERY_HOURS = 2`), so each company is fully read every 2 hours. This catches jobs a site inserts below its first pages, e.g. Workday jobs that go live with an earlier post date.
 3. **Decide what is new.** A job is alerted only if all of these hold:
    - its ID is not in `seen_jobs/<slug>.json`;
    - it passes the title filters;
    - it is in the US;
    - another adapter for the same employer has not seen it (CVS has two);
-   - the company has not alerted the same title in the last 7 days (`REPEAT_TITLE_DAYS`).
+   - the company has not alerted the same title in the last 7 days (`REPEAT_TITLE_DAYS`);
+   - its post date, when known, is within 14 days (`MAX_ALERT_AGE_DAYS`), so a deep read does not alert long-open jobs.
    Jobs that fail any check are marked seen silently.
 4. **Details.** Each job about to be alerted has its page opened once (`details.py`) to read
    the pay range, years of experience and Remote/Hybrid/Onsite. The cap is 40 jobs and 150 s per run.
@@ -57,7 +60,7 @@ Other messages:
 |---|---|
 | Run dies after sending | Jobs marked seen per delivered message part, not at the end |
 | State push fails (GitHub 500) | Push retried 5× with backoff; error annotation if all fail |
-| Job times out before saving | Scraper step timeout (12 min) < job timeout (16 min), so the save step always runs |
+| Job times out before saving | Scraper step timeout (14 min) < job timeout (18 min), so the save step always runs |
 | Telegram reply lost after posting | Read timeout counts as sent; only connect errors are retried |
 | Queued run uses stale state | Checkout uses `ref: ${{ github.ref_name }}` (branch tip); concurrency group `seen-jobs-state` |
 | Seeding during an outage wipes state | `full_scrape.py` merges into the store and skips companies that return 0 jobs |
@@ -100,7 +103,7 @@ Pages = result pages read per regular run / per full scrape.
 
 | Slug | Company | Source | Pages | Site-side filter |
 |---|---|---|---|---|
-| `amazon` | Amazon | amazon.jobs `search.json` | 2 / 40 | US (`normalized_country_code`), full-time, non-manager, 6 tech categories, newest |
+| `amazon` | Amazon | amazon.jobs `search.json` | all / all | US (`normalized_country_code`), full-time, non-manager, 6 tech categories, newest |
 | `apple` | Apple | search page embedded JSON | 2 / 90 | US, Software & Services teams |
 | `cvs` | CVS Health | jobs.cvshealth.com | 2 / 6 | keyword search |
 | `cvs_wd` | CVS Health (Workday) | Workday | 2 / 6 | tech job family; shares IDs with `cvs` |
@@ -177,7 +180,7 @@ Pages = result pages read per regular run / per full scrape.
 | `SCRAPE_ARTIFACTS_DIR` | `artifacts/` | Where failure diagnostics are saved |
 
 Tunables in code:
-- `scraper.py`: `REPEAT_TITLE_DAYS = 7`.
+- `scraper.py`: `REPEAT_TITLE_DAYS = 7`, `DEEP_READ_EVERY_HOURS = 2`, `MAX_ALERT_AGE_DAYS = 14`.
 - `notifier.py`: `MAX_MESSAGE_CHARS = 3800`.
 - `details.py`: `TIME_BUDGET_SECONDS = 150`, `MAX_JOBS_PER_RUN = 40`.
 - Each company file sets its pages per run with `default_max_pages`.
@@ -186,7 +189,7 @@ Tunables in code:
 
 | File | Purpose | Trigger | Timeout |
 |---|---|---|---|
-| `scrape.yml` | Regular run: alert on new jobs, commit `seen_jobs/` | cron-job.org every 10 min | 16 min (scraper step 12) |
+| `scrape.yml` | Regular run: alert on new jobs, commit `seen_jobs/` | cron-job.org every 10 min | 18 min (scraper step 14) |
 | `full-scrape.yml` | Seed `seen_jobs/` without alerts | manual | 90 min |
 | `send-recent.yml` | Send matching jobs posted on a given day, even if already seen | manual (`companies`, `posted_on`) | 15 min |
 
@@ -230,6 +233,9 @@ Pick one method.
 
 Narrowing filters needs no reseed.
 
+### Catch up on jobs a fix now matches
+`send_recent.py --unseen --company <slugs>` reads deeper than a regular run and sends every matching job not in the seen store, then marks it seen. It needs `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`, and you must commit `seen_jobs/` afterwards. Deep reads do this automatically within 2 hours for jobs posted in the last 14 days.
+
 ### Catch up on jobs that were seeded without alerts
 Run **Send Jobs Posted On A Day** (`send-recent.yml`) with the companies and a date, or locally:
 ```bash
@@ -261,7 +267,7 @@ Run **Send Jobs Posted On A Day** (`send-recent.yml`) with the companies and a d
   - Added Pinterest, Palo Alto Networks and Adobe.
   - Added the duplicate protections above.
 - **2026-10-29:** added Oracle and Cerebras.
-- **2026-10-30:** added Atlassian and Intuit. Filter audit: plurals, typos, scientist/researcher titles, Cisco Technical Leader, core-role override; 20 missed jobs from the previous week re-sent.
+- **2026-10-30:** added Atlassian and Intuit. Found runs missing jobs below the first pages (Amazon order, Workday backdated posts): Amazon now reads all pages, plus 2-hourly deep reads per company. Filter audit: plurals, typos, scientist/researcher titles, Cisco Technical Leader, core-role override; 20 missed jobs from the previous week re-sent.
 - **2026-10-23:**
   - One message per run.
   - Job details (pay, experience, work type, team, ID).
