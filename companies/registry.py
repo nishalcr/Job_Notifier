@@ -3,6 +3,7 @@ from companies.apple import COMPANY as APPLE
 from companies.base import CompanyDefinition
 from companies.spotify import COMPANY as SPOTIFY
 from companies.adobe import COMPANY as ADOBE
+from companies.oracle import COMPANY as ORACLE
 from companies.paloalto import COMPANY as PALOALTO
 from companies.pinterest import COMPANY as PINTEREST
 from companies.godaddy import COMPANY as GODADDY
@@ -81,6 +82,7 @@ COMPANIES: dict[str, CompanyDefinition] = {
     PINTEREST.slug: PINTEREST,
     PALOALTO.slug: PALOALTO,
     ADOBE.slug: ADOBE,
+    ORACLE.slug: ORACLE,
 }
 
 
