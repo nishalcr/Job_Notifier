@@ -20,7 +20,7 @@ def oracle_hcm_company(
     location_id: str,
     category_ids: tuple[str, ...],
     default_max_pages: int = 2,
-    default_full_scrape_max_pages: int = 40,
+    default_full_scrape_max_pages: int = 300,
 ) -> CompanyDefinition:
     """Build a company from Oracle facet IDs (location and job categories), newest first."""
     site_url = f"https://{host}/hcmUI/CandidateExperience/en/sites/{site_number}"
@@ -44,8 +44,10 @@ def oracle_hcm_company(
     async def fetch_page_html(page, runtime_config, url: str) -> str:
         page_num = json_api.page_num_from_url(url)
         print(f"[{runtime_config.slug}] Loading Oracle API page {page_num}")
-        response = await page.context.request.get(
-            api_url(page_num), headers={"accept": "application/json"}, timeout=30000
+        response = await json_api.request_with_retry(
+            lambda: page.context.request.get(
+                api_url(page_num), headers={"accept": "application/json"}, timeout=30000
+            )
         )
         if not response.ok:
             raise RuntimeError(f"Oracle API request failed with status {response.status}")
@@ -88,4 +90,5 @@ def oracle_hcm_company(
         excluded_role_keywords=EXCLUDED_LEVEL_KEYWORDS,
         excluded_title_phrases=DEFAULT_EXCLUDED_TITLE_PHRASES,
         included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
+        page_concurrency=4,
     )

@@ -19,7 +19,7 @@ def eightfold_company(
     domain: str,
     extra_excluded_title_phrases: tuple[str, ...] = (),
     default_max_pages: int = 3,
-    default_full_scrape_max_pages: int = 40,
+    default_full_scrape_max_pages: int = 200,
 ) -> CompanyDefinition:
     """Build a company from an Eightfold host and company domain; US jobs, newest first."""
     api_url = f"https://{host}/api/apply/v2/jobs"
@@ -28,16 +28,18 @@ def eightfold_company(
     async def fetch_page_html(page, runtime_config, url: str) -> str:
         page_num = json_api.page_num_from_url(url)
         print(f"[{runtime_config.slug}] Loading Eightfold API page {page_num}")
-        response = await page.context.request.get(
-            api_url,
-            params={
-                "domain": domain,
-                "start": (page_num - 1) * PAGE_SIZE,
-                "num": PAGE_SIZE,
-                "location": "United States",
-                "sort_by": "new",
-            },
-            timeout=30000,
+        response = await json_api.request_with_retry(
+            lambda: page.context.request.get(
+                api_url,
+                params={
+                    "domain": domain,
+                    "start": (page_num - 1) * PAGE_SIZE,
+                    "num": PAGE_SIZE,
+                    "location": "United States",
+                    "sort_by": "new",
+                },
+                timeout=30000,
+            )
         )
         if not response.ok:
             raise RuntimeError(f"Eightfold API request failed with status {response.status}")
@@ -77,4 +79,5 @@ def eightfold_company(
         excluded_role_keywords=EXCLUDED_LEVEL_KEYWORDS,
         excluded_title_phrases=DEFAULT_EXCLUDED_TITLE_PHRASES + extra_excluded_title_phrases,
         included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
+        page_concurrency=4,
     )

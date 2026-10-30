@@ -26,22 +26,28 @@ from state import (
     mark_jobs_seen,
     passes_title_filters,
     posted_date,
-    recent_title_keys,
-    title_key,
+    seed_seen_jobs,
 )
 
-# A job whose title this company already posted within this many days is not re-alerted.
-REPEAT_TITLE_DAYS = 7
+# Companies scraped at the same time. Every run reads each company's full US job list
+# (not just the newest pages), so no job is missed however a site orders its results.
+CONCURRENCY = 8
 
-# Regular runs read only each company's newest pages. Some sites insert jobs below
-# those pages (Workday jobs that go live with an earlier post date), so each run also
-# reads a rotating share of companies in full: every company once per this many hours.
-DEEP_READ_EVERY_HOURS = 2
-RUNS_PER_HOUR = 6
+# A company taking longer than this is stopped and counted as failed, so one stuck
+# site cannot hold up the whole run (its jobs are picked up on the next run).
+COMPANY_TIMEOUT_SECONDS = 360
 
-# Jobs a deep read finds for the first time are alerted only if posted within this
-# many days; older ones (or ones that predate the bot) are marked seen quietly.
-MAX_ALERT_AGE_DAYS = 14
+# Jobs seen for the first time are alerted only if posted within this many days;
+# older ones (open since before the bot tracked them) are marked seen quietly.
+MAX_ALERT_AGE_DAYS = 30
+
+# If a company's listing suddenly contains almost none of the jobs already saved for
+# it (under FLOOD_KNOWN_SHARE) while many look new (FLOOD_MIN_JOBS or more), the site
+# most likely changed its job IDs: everything is marked seen without alerts and one
+# warning is sent, instead of re-sending every job. (A listing where many jobs are new
+# but most known ones are still there is a real catch-up and is alerted normally.)
+FLOOD_KNOWN_SHARE = 0.1
+FLOOD_MIN_JOBS = 50
 
 
 def parse_args() -> argparse.Namespace:
@@ -55,11 +61,10 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-def _deep_read_slugs(slugs: list[str]) -> set[str]:
-    """The companies this run reads in full, rotating so each gets a turn every few hours."""
-    slots = DEEP_READ_EVERY_HOURS * RUNS_PER_HOUR
-    slot = int(time.time() // (3600 / RUNS_PER_HOUR)) % slots
-    return {slug for index, slug in enumerate(slugs) if index % slots == slot}
+def _looks_like_id_change(new_jobs: list[dict], listed_jobs: list[dict]) -> bool:
+    """True if many jobs look new while almost none of the saved ones are still listed."""
+    known = len(listed_jobs) - len(new_jobs)
+    return len(new_jobs) >= FLOOD_MIN_JOBS and known < FLOOD_KNOWN_SHARE * len(listed_jobs)
 
 
 def _too_old(job: dict, today) -> bool:
@@ -67,7 +72,7 @@ def _too_old(job: dict, today) -> bool:
     return posted is not None and (today - posted).days > MAX_ALERT_AGE_DAYS
 
 
-async def _run_company_scrape(browser, slug: str, pending: list, deep: bool = False) -> tuple[bool, str]:
+async def _run_company_scrape(browser, slug: str, pending: list) -> tuple[bool, str]:
     """
     Scrape one company. Returns (ok, error message).
 
@@ -78,10 +83,7 @@ async def _run_company_scrape(browser, slug: str, pending: list, deep: bool = Fa
 
     try:
         runtime_config = config.get_company_runtime(slug)
-        pages = runtime_config.max_pages
-        if deep and runtime_config.full_scrape_max_pages > pages:
-            pages = runtime_config.full_scrape_max_pages
-            print(f"[{runtime_config.slug}] Deep read this run: up to {pages} page(s)")
+        pages = max(runtime_config.max_pages, runtime_config.full_scrape_max_pages)
         unique_jobs = await collect_jobs(browser, runtime_config, pages)
 
         if not unique_jobs:
@@ -95,35 +97,39 @@ async def _run_company_scrape(browser, slug: str, pending: list, deep: bool = Fa
             print(f"[scraper] No jobs were extracted for {runtime_config.display_name}.")
             return False, LAST_ERRORS.get(slug) or "No jobs extracted. The page structure may have changed."
 
+        if not load_seen_jobs(runtime_config.slug):
+            # First run for a company: record its current jobs without alerting.
+            seed_seen_jobs(runtime_config, unique_jobs)
+            print(f"[{runtime_config.slug}] First run: saved {len(unique_jobs)} current job(s) without alerts")
+            return True, ""
+
         new_jobs = filter_new_jobs(runtime_config, unique_jobs)
         print(f"[{runtime_config.slug}] New jobs (not seen before): {len(new_jobs)}")
+        if _looks_like_id_change(new_jobs, unique_jobs):
+            mark_jobs_seen(runtime_config, new_jobs)
+            message = (
+                f"{len(new_jobs)} of {len(unique_jobs)} listed jobs looked new and almost none of the "
+                "saved ones are still listed, so the site probably changed its job IDs. They were "
+                "saved without alerts; check the adapter."
+            )
+            print(f"[{runtime_config.slug}] Flood guard: {message}")
+            await send_error(runtime_config.display_name, message)
+            return True, ""
 
         to_alert = []
         skipped = []
-        # Some employers (e.g. Capital One) post many openings with the same generic
-        # title; alert on a title once per REPEAT_TITLE_DAYS per company.
-        recent_titles = recent_title_keys(runtime_config, REPEAT_TITLE_DAYS)
-        # Jobs another adapter for the same employer queued earlier in this run.
-        shares = runtime_config.definition.shares_jobs_with
-        queued_elsewhere = {
-            job_key(job) for queued_config, jobs in pending if queued_config.slug in shares for job in jobs
-        }
         today = datetime.now(ZoneInfo(config.ALERT_TIMEZONE)).date()
         for job in new_jobs:
-            key = title_key(job.get("title", ""))
             if not passes_title_filters(job.get("title", ""), runtime_config):
                 skipped.append(job)
             elif _too_old(job, today):
                 skipped.append(job)
-            elif is_seen_elsewhere(job, shares) or job_key(job) in queued_elsewhere:
-                skipped.append(job)
-            elif key in recent_titles:
+            elif is_seen_elsewhere(job, runtime_config.definition.shares_jobs_with):
                 skipped.append(job)
             else:
-                recent_titles.add(key)
                 to_alert.append(job)
         if skipped:
-            print(f"[{runtime_config.slug}] Skipped {len(skipped)} job(s) (title filter, already alerted, repeated title or posted over {MAX_ALERT_AGE_DAYS} days ago)")
+            print(f"[{runtime_config.slug}] Skipped {len(skipped)} job(s) (title filter, posted over {MAX_ALERT_AGE_DAYS} days ago, or already alerted by a sibling adapter)")
         mark_jobs_seen(runtime_config, skipped)
 
         if to_alert:
@@ -148,6 +154,18 @@ async def _send_pending(pending: list) -> None:
     """Send the run's queued jobs as one message; jobs are marked seen once delivered."""
     if not pending:
         return
+    # Adapters for the same employer (CVS) run in parallel: send a shared job once.
+    queued: dict[str, set[str]] = {}
+    deduped = []
+    for runtime_config, jobs in pending:
+        siblings = runtime_config.definition.shares_jobs_with
+        taken = set().union(*(queued.get(slug, set()) for slug in siblings))
+        keep = [job for job in jobs if job_key(job) not in taken]
+        mark_jobs_seen(runtime_config, [job for job in jobs if job_key(job) in taken])
+        queued[runtime_config.slug] = {job_key(job) for job in keep}
+        if keep:
+            deduped.append((runtime_config, keep))
+    pending = deduped
     by_name = {runtime_config.display_name: runtime_config for runtime_config, _ in pending}
     total = sum(len(jobs) for _, jobs in pending)
     print(f"[scraper] Sending {total} job(s) to Telegram in one message...")
@@ -207,14 +225,28 @@ async def run_scraper(selected_companies: list[str] | None = None) -> None:
             args=["--disable-blink-features=AutomationControlled"],
         )
         try:
-            pending = []
-            deep_slugs = _deep_read_slugs(requested_companies)
-            print(f"[scraper] Deep read this run: {', '.join(sorted(deep_slugs)) or 'none'}")
-            for slug in requested_companies:
-                ok, error = await _run_company_scrape(browser, slug, pending, deep=slug in deep_slugs)
-                if not ok:
-                    failed_companies.append(slug)
-                await _report_health(health, slug, ok, error)
+            results: dict[str, list] = {}
+            semaphore = asyncio.Semaphore(CONCURRENCY)
+
+            async def scrape(slug: str) -> None:
+                async with semaphore:
+                    company_pending: list = []
+                    try:
+                        ok, error = await asyncio.wait_for(
+                            _run_company_scrape(browser, slug, company_pending), COMPANY_TIMEOUT_SECONDS
+                        )
+                    except asyncio.TimeoutError:
+                        print(f"[{slug}] Stopped after {COMPANY_TIMEOUT_SECONDS}s")
+                        ok, error = False, f"Timed out after {COMPANY_TIMEOUT_SECONDS // 60} minutes"
+                        company_pending.clear()
+                    results[slug] = company_pending
+                    if not ok:
+                        failed_companies.append(slug)
+                    await _report_health(health, slug, ok, error)
+
+            await asyncio.gather(*(scrape(slug) for slug in requested_companies))
+            # Message order follows the company list, not finishing order.
+            pending = [item for slug in requested_companies for item in results.get(slug, [])]
             try:
                 await add_job_details(browser, [job for _, jobs in pending for job in jobs])
             except Exception as exc:

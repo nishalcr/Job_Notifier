@@ -10,5 +10,5 @@ COMPANY = oracle_hcm_company(
     category_ids=(),
     # Oracle posts many jobs a day (~2,000 open in the US).
     default_max_pages=4,
-    default_full_scrape_max_pages=90,
+    default_full_scrape_max_pages=300,
 )

@@ -12,5 +12,5 @@ COMPANY = workday_company(
     },
     # NVIDIA posts dozens of roles a day.
     default_max_pages=6,
-    default_full_scrape_max_pages=60,
+    default_full_scrape_max_pages=200,
 )

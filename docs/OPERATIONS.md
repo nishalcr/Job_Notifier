@@ -1,6 +1,6 @@
 # Job Notifier: Status, Configuration and Runbook
 
-Last updated: 2026-10-23. Repo: `nishalcr/Job_Notifier` (fork of `rohitdanti/FAANG-Job-Notifier`).
+Last updated: 2026-10-30. Repo: `nishalcr/Job_Notifier` (fork of `rohitdanti/FAANG-Job-Notifier`).
 
 > The clone has two remotes (`origin` = the fork, `upstream` = rohitdanti). Always pass
 > `-R nishalcr/Job_Notifier` to `gh`, or it acts on upstream.
@@ -8,25 +8,30 @@ Last updated: 2026-10-23. Repo: `nishalcr/Job_Notifier` (fork of `rohitdanti/FAA
 ## Current status
 
 - **Live.** 44 companies are scraped every 10 minutes on GitHub Actions; new jobs arrive in Telegram.
-- A run takes about 4.5 minutes. Opening job pages for details adds up to 2.5 minutes when there are new jobs.
-- No open issues. Apple was switched to its embedded JSON on 2026-10-23 after its page sometimes failed to render.
+- Every run reads each company's **full** US job list (about 26,600 jobs) and alerts every matching job not seen before. A run takes 3–4 minutes; opening job pages for details adds up to 2.5 minutes when there are new jobs.
+- Tests: `.venv/bin/python -m pytest -q` (also run by `.github/workflows/tests.yml` on every code push).
 
 ## How a run works
 
 1. **Trigger.** A cron-job.org job (the user's account) POSTs a `workflow_dispatch` to
    `.github/workflows/scrape.yml` every 10 minutes, using a fine-grained GitHub token.
    GitHub's own `schedule:` trigger is not used: it fired too rarely.
-2. **Scrape.** `scraper.py` checks each company in order and reads only the newest pages of results, with two exceptions:
-   - **Amazon** reads all ~52 pages every run (about a minute), because its "recent" order is not by post date.
-   - **Deep reads:** every run also fully reads a rotating share of companies (`DEEP_READ_EVERY_HOURS = 2`), so each company is fully read every 2 hours. This catches jobs a site inserts below its first pages, e.g. Workday jobs that go live with an earlier post date.
-3. **Decide what is new.** A job is alerted only if all of these hold:
-   - its ID is not in `seen_jobs/<slug>.json`;
-   - it passes the title filters;
-   - it is in the US;
-   - another adapter for the same employer has not seen it (CVS has two);
-   - the company has not alerted the same title in the last 7 days (`REPEAT_TITLE_DAYS`);
-   - its post date, when known, is within 14 days (`MAX_ALERT_AGE_DAYS`), so a deep read does not alert long-open jobs.
-   Jobs that fail any check are marked seen silently.
+2. **Scrape.** `scraper.py` reads every company's **complete** current US listing, 8 companies at a time
+   (`CONCURRENCY`). Sites that serve listings as data (Workday, Oracle, Eightfold, Microsoft, Amazon, Apple,
+   AMD, IBM, Intuit) fetch 4 pages at a time (`page_concurrency`). Brief server errors (429/5xx) are retried.
+   A company taking over 6 minutes is stopped and counted as failed (`COMPANY_TIMEOUT_SECONDS`), so one stuck
+   site cannot hold up the run.
+   Reading the full list, not just the newest pages, is what guarantees no job is missed: some sites do not
+   sort by post date (Amazon), and Workday jobs can go live with an earlier post date, landing deep in the list.
+3. **Decide what is new.** The current listing is compared with `seen_jobs/<slug>.json`; any job not in it is new. A new job is alerted if:
+   - it passes the title filters and is in the US;
+   - another adapter for the same employer has not already sent it (CVS has two);
+   - its post date, when known, is within 30 days (`MAX_ALERT_AGE_DAYS`), so jobs open since before the bot tracked them are not alerted.
+   Every opening is alerted, including several openings with the same title.
+   Jobs that fail a check are marked seen silently. Special cases:
+   - **First run for a company** (no saved state): its current jobs are saved without alerts.
+   - **Flood guard:** if 50+ jobs look new while under 10% of the saved jobs are still listed, the site most
+     likely changed its job IDs. Everything is saved without alerts and one warning is sent.
 4. **Details.** Each job about to be alerted has its page opened once (`details.py`) to read
    the pay range, years of experience and Remote/Hybrid/Onsite. The cap is 40 jobs and 150 s per run.
 5. **Send.** One Telegram message per run, grouped by company. It is split into numbered parts if it is over 3800 characters.
@@ -65,7 +70,7 @@ Other messages:
 | Queued run uses stale state | Checkout uses `ref: ${{ github.ref_name }}` (branch tip); concurrency group `seen-jobs-state` |
 | Seeding during an outage wipes state | `full_scrape.py` merges into the store and skips companies that return 0 jobs |
 | Old entries pruned then re-seen | `MAX_SEEN_JOBS` = 50000 per company |
-| Same opening reposted (Capital One) | Same title within 7 days is skipped |
+| Site changes its job IDs | Flood guard: saved without alerts, one warning |
 | Same job on both CVS feeds in one run | Queued jobs of sibling adapters are checked too |
 
 In the week before these fixes, 1 duplicate was found in 958 alerts; it was caused by a failed push.
@@ -99,7 +104,7 @@ After **widening** any filter or search scope, follow the reseed runbook below, 
 
 ## Companies (44)
 
-Pages = result pages read per regular run / per full scrape.
+Every run reads each company's full listing; the page limits in each company file only need to exceed the site's page count.
 
 | Slug | Company | Source | Pages | Site-side filter |
 |---|---|---|---|---|
@@ -180,7 +185,7 @@ Pages = result pages read per regular run / per full scrape.
 | `SCRAPE_ARTIFACTS_DIR` | `artifacts/` | Where failure diagnostics are saved |
 
 Tunables in code:
-- `scraper.py`: `REPEAT_TITLE_DAYS = 7`, `DEEP_READ_EVERY_HOURS = 2`, `MAX_ALERT_AGE_DAYS = 14`.
+- `scraper.py`: `CONCURRENCY = 8`, `COMPANY_TIMEOUT_SECONDS = 360`, `MAX_ALERT_AGE_DAYS = 30`, `FLOOD_KNOWN_SHARE = 0.1`, `FLOOD_MIN_JOBS = 50`.
 - `notifier.py`: `MAX_MESSAGE_CHARS = 3800`.
 - `details.py`: `TIME_BUDGET_SECONDS = 150`, `MAX_JOBS_PER_RUN = 40`.
 - Each company file sets its pages per run with `default_max_pages`.
@@ -219,8 +224,8 @@ Don't bulk-download hundreds of run logs. That trips GitHub's API rate limit for
    - Others: Ashby, Lever, Oracle, Eightfold.
 2. Create `companies/<slug>.py` using the shared builder (`workday_company`, `greenhouse_company`, `oracle_hcm_company`, `ashby_company`, `lever_company`, `eightfold_company`). Register it in `companies/registry.py`.
 3. Test locally that it returns US jobs and that the matching titles look right.
-4. Seed it **before** it is in the regular list: run `.venv/bin/python full_scrape.py --company <slug>`, then `git add -f seen_jobs` (the folder is gitignored).
-5. Add the slug to `scrape.yml` and `full-scrape.yml`, then commit the code and the seeded state together and push.
+4. Make sure its page limit (`default_full_scrape_max_pages`) is above the site's page count.
+5. Add the slug to `scrape.yml` and `full-scrape.yml` and push. Its first run saves the current jobs without alerts; alerts start from the run after.
 
 ### Widen filters or search scope (reseed)
 Pick one method.
@@ -231,10 +236,10 @@ Pick one method.
   3. Run `full-scrape.yml` with the affected companies.
   4. `gh workflow enable scrape.yml -R nishalcr/Job_Notifier`.
 
-Narrowing filters needs no reseed.
+Narrowing filters needs no reseed. Widening filters needs none either if you are happy to get matching jobs posted in the last 30 days: they are alerted on the next run.
 
 ### Catch up on jobs a fix now matches
-`send_recent.py --unseen --company <slugs>` reads deeper than a regular run and sends every matching job not in the seen store, then marks it seen. It needs `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`, and you must commit `seen_jobs/` afterwards. Deep reads do this automatically within 2 hours for jobs posted in the last 14 days.
+`send_recent.py --unseen --company <slugs>` reads deeper than a regular run and sends every matching job not in the seen store, then marks it seen. It needs `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`, and you must commit `seen_jobs/` afterwards. Regular runs now do this automatically for jobs posted in the last 30 days, so this is rarely needed.
 
 ### Catch up on jobs that were seeded without alerts
 Run **Send Jobs Posted On A Day** (`send-recent.yml`) with the companies and a date, or locally:
@@ -267,7 +272,7 @@ Run **Send Jobs Posted On A Day** (`send-recent.yml`) with the companies and a d
   - Added Pinterest, Palo Alto Networks and Adobe.
   - Added the duplicate protections above.
 - **2026-10-29:** added Oracle and Cerebras.
-- **2026-10-30:** added Atlassian and Intuit. Found runs missing jobs below the first pages (Amazon order, Workday backdated posts): Amazon now reads all pages, plus 2-hourly deep reads per company. Filter audit: plurals, typos, scientist/researcher titles, Cisco Technical Leader, core-role override; 20 missed jobs from the previous week re-sent.
+- **2026-10-30:** added Atlassian and Intuit. Found runs missing jobs below the first pages (Amazon order, Workday backdated posts). Redesigned: every run reads every company's full list in parallel and compares it with the saved jobs; flood guard, per-company time limit, retries, tests. Salesforce and CVS (Workday) moved to the Workday API. Same-title rule removed. Filter audit: plurals, typos, scientist/researcher titles, Cisco Technical Leader, core-role override; 20 missed jobs from the previous week re-sent.
 - **2026-10-23:**
   - One message per run.
   - Job details (pay, experience, work type, team, ID).

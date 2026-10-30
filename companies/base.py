@@ -32,3 +32,6 @@ class CompanyDefinition:
     # Stop paginating at the first page with no jobs. Disable for adapters that
     # filter client-side, where one page can be empty while later pages match.
     stop_on_empty_page: bool = True
+    # Result pages fetched at the same time after page 1. Only for adapters whose
+    # fetch_page_html makes independent API requests (not page navigation).
+    page_concurrency: int = 1

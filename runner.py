@@ -1,3 +1,4 @@
+import asyncio
 from pathlib import Path
 
 from playwright.async_api import TimeoutError as PlaywrightTimeout
@@ -66,6 +67,10 @@ async def collect_jobs(browser, runtime_config: config.CompanyRuntimeConfig, pag
     )
     try:
         for page_num in range(1, page_limit + 1):
+            # After page 1, adapters that allow it fetch several pages at once.
+            if page_num > 1 and runtime_config.definition.page_concurrency > 1:
+                await _collect_remaining_pages(page, runtime_config, page_num, target_pages, all_jobs)
+                break
             url = runtime_config.definition.build_search_url(runtime_config.search_url, page_num)
             try:
                 html = await scrape_page(page, runtime_config, url)
@@ -133,6 +138,31 @@ async def collect_jobs(browser, runtime_config: config.CompanyRuntimeConfig, pag
 
     print(f"[{runtime_config.slug}] Total unique jobs scraped: {len(unique_jobs)}")
     return unique_jobs
+
+
+async def _collect_remaining_pages(page, runtime_config, first: int, last: int, all_jobs: list) -> None:
+    """Fetch pages first..last in batches of page_concurrency, keeping page order."""
+    batch_size = runtime_config.definition.page_concurrency
+
+    async def fetch(page_num: int) -> list[dict]:
+        url = runtime_config.definition.build_search_url(runtime_config.search_url, page_num)
+        jobs = runtime_config.definition.parse_jobs(await scrape_page(page, runtime_config, url))
+        print(f"[{runtime_config.slug}] Page {page_num}: found {len(jobs)} jobs")
+        return jobs
+
+    for start in range(first, last + 1, batch_size):
+        page_nums = list(range(start, min(start + batch_size, last + 1)))
+        results = await asyncio.gather(*(fetch(num) for num in page_nums), return_exceptions=True)
+        for page_num, result in zip(page_nums, results):
+            if isinstance(result, Exception):
+                # Keep what was read; the rest is read again next run.
+                print(f"[{runtime_config.slug}] Error on page {page_num}: {result}")
+                LAST_ERRORS[runtime_config.slug] = f"Error on page {page_num}: {result}"
+                return
+            if not result and runtime_config.definition.stop_on_empty_page:
+                print(f"[{runtime_config.slug}] No jobs found on page {page_num}; stopping pagination.")
+                return
+            all_jobs.extend(result)
 
 
 async def _capture_diagnostics(

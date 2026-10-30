@@ -282,21 +282,6 @@ def posted_date(value: str, today: date) -> date | None:
     return None
 
 
-def title_key(title: str) -> str:
-    """Normalized title for spotting reposts ("Full-stack Engineer 4" == "Full Stack Engineer 4")."""
-    return " ".join(re.sub(r"[^a-z0-9]+", " ", title.lower()).split())
-
-
-def recent_title_keys(runtime_config: CompanyRuntimeConfig, days: int) -> set[str]:
-    """Titles of this company's jobs first seen within the last `days` days."""
-    cutoff = time.time() - days * 86400
-    return {
-        title_key(entry.get("title", ""))
-        for entry in load_seen_jobs(runtime_config.slug).values()
-        if entry.get("first_seen", 0) >= cutoff and entry.get("title")
-    }
-
-
 def is_seen_elsewhere(job: dict, company_slugs: Sequence[str]) -> bool:
     """True if another adapter for the same employer already saw this job ID."""
     key = job_key(job)

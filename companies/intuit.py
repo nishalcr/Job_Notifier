@@ -95,4 +95,5 @@ COMPANY = CompanyDefinition(
     excluded_role_keywords=EXCLUDED_LEVEL_KEYWORDS,
     excluded_title_phrases=DEFAULT_EXCLUDED_TITLE_PHRASES,
     included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
+    page_concurrency=4,
 )

@@ -92,13 +92,17 @@ async def _go_to_page(page, target_page: int) -> None:
         return
 
     current_page = await _current_page_number(page)
-    while current_page < target_page:
+    for _ in range(target_page + 3):
+        if current_page >= target_page:
+            return
         next_button = page.get_by_role("button", name="Next")
         if not await next_button.count():
             raise RuntimeError(f"Unable to find CVS pagination control for page {target_page}")
         await next_button.first.click()
         await page.wait_for_timeout(800)
         current_page = await _current_page_number(page)
+    # "Next" did not move the page: fail instead of clicking forever.
+    raise RuntimeError(f"CVS pagination stuck on page {current_page} (wanted {target_page})")
 
 
 async def _current_page_number(page) -> int:
@@ -127,7 +131,7 @@ COMPANY = CompanyDefinition(
     display_name="CVS Health",
     default_search_url=CVS_SEARCH_URL,
     default_max_pages=2,
-    default_full_scrape_max_pages=6,
+    default_full_scrape_max_pages=30,
     wait_selectors=(
         'a[data-ph-at-id="job-link"]',
         'h2:has-text("Showing")',

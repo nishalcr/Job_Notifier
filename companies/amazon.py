@@ -40,7 +40,9 @@ async def fetch_page_html(page, runtime_config, url: str) -> str:
         ("is_manager[]", "0"),
     ] + [("category[]", category) for category in CATEGORIES]
     query = "&".join(f"{key}={value}" for key, value in params)
-    response = await page.context.request.get(f"{AMAZON_API_URL}?{query}", timeout=30000)
+    response = await json_api.request_with_retry(
+        lambda: page.context.request.get(f"{AMAZON_API_URL}?{query}", timeout=30000)
+    )
     if not response.ok:
         raise RuntimeError(f"Amazon API request failed with status {response.status}")
     data = await response.json()
@@ -71,7 +73,7 @@ COMPANY = CompanyDefinition(
     # amazon.jobs "recent" order is not by post date (new jobs show up hundreds of
     # places down), so every run reads all pages (~2,600 jobs, about a minute).
     default_max_pages=60,
-    default_full_scrape_max_pages=60,
+    default_full_scrape_max_pages=100,
     wait_selectors=(),
     build_search_url=json_api.build_search_url,
     parse_jobs=json_api.parse_jobs,
@@ -81,4 +83,5 @@ COMPANY = CompanyDefinition(
     excluded_role_keywords=EXCLUDED_LEVEL_KEYWORDS,
     excluded_title_phrases=DEFAULT_EXCLUDED_TITLE_PHRASES,
     included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
+    page_concurrency=4,
 )

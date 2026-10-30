@@ -77,7 +77,7 @@ COMPANY = CompanyDefinition(
     display_name="IBM",
     default_search_url=IBM_SEARCH_URL,
     default_max_pages=3,
-    default_full_scrape_max_pages=20,
+    default_full_scrape_max_pages=100,
     wait_selectors=(),
     build_search_url=json_api.build_search_url,
     parse_jobs=json_api.parse_jobs,
@@ -87,4 +87,5 @@ COMPANY = CompanyDefinition(
     excluded_role_keywords=EXCLUDED_LEVEL_KEYWORDS,
     excluded_title_phrases=DEFAULT_EXCLUDED_TITLE_PHRASES,
     included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
+    page_concurrency=4,
 )

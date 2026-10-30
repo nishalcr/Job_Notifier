@@ -75,7 +75,7 @@ COMPANY = CompanyDefinition(
     display_name="Apple",
     default_search_url=APPLE_SEARCH_URL,
     default_max_pages=2,
-    default_full_scrape_max_pages=90,
+    default_full_scrape_max_pages=150,
     wait_selectors=(),
     build_search_url=build_search_url,
     parse_jobs=json_api.parse_jobs,
@@ -85,4 +85,5 @@ COMPANY = CompanyDefinition(
     excluded_role_keywords=EXCLUDED_ROLE_KEYWORDS,
     excluded_title_phrases=EXCLUDED_TITLE_PHRASES,
     included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
+    page_concurrency=4,
 )

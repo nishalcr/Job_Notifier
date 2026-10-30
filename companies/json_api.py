@@ -4,6 +4,7 @@ The adapter's fetch_page_html returns a small normalized payload
 ({"total": N, "jobs": [...]}) and the shared parse/total functions below read it.
 """
 
+import asyncio
 import json
 import math
 import re
@@ -27,6 +28,20 @@ _US_STATE_NAME_RE = re.compile(rf"\b({US_STATE_NAMES})\b")
 _STATE_CODE_RE = re.compile(r",\s*([A-Z]{2})\b")
 # "Toronto, ON, CA": CA is the country code for Canada here, not California.
 _CANADA_RE = re.compile(r",\s*(AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT),\s*CA\s*$")
+
+
+# Brief server errors and rate limits are retried before a page counts as failed.
+RETRY_STATUSES = frozenset({429, 500, 502, 503, 504})
+MAX_ATTEMPTS = 3
+
+
+async def request_with_retry(send):
+    """Call send() (one HTTP request) until it is not a retryable error, up to MAX_ATTEMPTS."""
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        response = await send()
+        if response.status not in RETRY_STATUSES or attempt == MAX_ATTEMPTS:
+            return response
+        await asyncio.sleep(2 * attempt)
 
 
 def is_us_location(location: str) -> bool:

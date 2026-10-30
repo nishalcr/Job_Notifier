@@ -46,7 +46,7 @@ def workday_company(
     posting_filter: Callable[[dict], bool] | None = None,
     extra_excluded_title_phrases: tuple[str, ...] = (),
     default_max_pages: int = 3,
-    default_full_scrape_max_pages: int = 50,
+    default_full_scrape_max_pages: int = 200,
 ) -> CompanyDefinition:
     """
     Build a company from Workday facets (IDs come from the site's own filters).
@@ -60,18 +60,21 @@ def workday_company(
     async def fetch_page_html(page, runtime_config, url: str) -> str:
         page_num = json_api.page_num_from_url(url)
         print(f"[{runtime_config.slug}] Loading Workday API page {page_num}")
-        response = await page.context.request.post(
-            api_url,
-            headers={"content-type": "application/json", "accept": "application/json"},
-            data=json.dumps(
-                {
-                    "appliedFacets": applied_facets,
-                    "limit": PAGE_SIZE,
-                    "offset": (page_num - 1) * PAGE_SIZE,
-                    "searchText": "",
-                }
-            ),
-            timeout=30000,
+        body = json.dumps(
+            {
+                "appliedFacets": applied_facets,
+                "limit": PAGE_SIZE,
+                "offset": (page_num - 1) * PAGE_SIZE,
+                "searchText": "",
+            }
+        )
+        response = await json_api.request_with_retry(
+            lambda: page.context.request.post(
+                api_url,
+                headers={"content-type": "application/json", "accept": "application/json"},
+                data=body,
+                timeout=30000,
+            )
         )
         if not response.ok:
             raise RuntimeError(f"Workday API request failed with status {response.status}")
@@ -114,5 +117,6 @@ def workday_company(
         excluded_title_phrases=DEFAULT_EXCLUDED_TITLE_PHRASES + extra_excluded_title_phrases,
         included_title_keywords=ENGINEERING_TITLE_KEYWORDS,
         # With a client-side filter a page can be empty while later pages still match.
+        page_concurrency=4,
         stop_on_empty_page=posting_filter is None,
     )
