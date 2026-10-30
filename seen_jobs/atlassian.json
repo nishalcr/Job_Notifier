@@ -1,0 +1,1170 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "atlassian"
+  },
+  "jobs": {
+    "27257": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Head of Detection and Response",
+      "job_id": "27257",
+      "url": "https://careers-apac-atlassian.icims.com/jobs/27257/head-of-detection-and-response/job"
+    },
+    "26246": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "AI Researcher, 2027 Graduate U.S.",
+      "job_id": "26246",
+      "url": "https://campus-americas.icims.com/jobs/26246/ai-researcher%2c-2027-graduate-u.s./job"
+    },
+    "26269": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "AI Research Intern (PhD), 2027 Summer U.S.",
+      "job_id": "26269",
+      "url": "https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job"
+    },
+    "25998": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Data Engineer, 2027 Graduate U.S",
+      "job_id": "25998",
+      "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job"
+    },
+    "26272": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Data Engineer Intern, 2027 Summer U.S.",
+      "job_id": "26272",
+      "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job"
+    },
+    "26000": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Data Scientist, 2027 Graduate U.S.",
+      "job_id": "26000",
+      "url": "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job"
+    },
+    "26271": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Data Scientist Intern, 2027 Summer U.S.",
+      "job_id": "26271",
+      "url": "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job"
+    },
+    "25999": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Machine Learning Engineer, 2027 Graduate U.S.",
+      "job_id": "25999",
+      "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job"
+    },
+    "26268": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Machine Learning Intern, 2027 Summer U.S.",
+      "job_id": "26268",
+      "url": "https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job"
+    },
+    "26270": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Research Intern, 2027 Summer U.S.",
+      "job_id": "26270",
+      "url": "https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job"
+    },
+    "25997": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Security Engineer, 2027 Graduate U.S.",
+      "job_id": "25997",
+      "url": "https://campus-americas.icims.com/jobs/25997/security-engineer%2c-2027-graduate-u.s./job"
+    },
+    "26267": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Security Engineer Intern, 2027 Summer U.S.",
+      "job_id": "26267",
+      "url": "https://campus-americas.icims.com/jobs/26267/security-engineer-intern%2c-2027-summer-u.s./job"
+    },
+    "25813": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Software Engineer, 2027 Graduate U.S.",
+      "job_id": "25813",
+      "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job"
+    },
+    "27178": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Forward Deployed Engineer",
+      "job_id": "27178",
+      "url": "https://careers-americas.icims.com/jobs/27178/principal-forward-deployed-engineer/job"
+    },
+    "27567": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Software Engineer - Confluence AI",
+      "job_id": "27567",
+      "url": "https://globalcareers-atlassian.icims.com/jobs/27567/principal-software-engineer---confluence-ai/job"
+    },
+    "25549": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Sales Development Representative | DX",
+      "job_id": "25549",
+      "url": "https://careers-americas.icims.com/jobs/25549/sales-development-representative-%7c-dx/job"
+    },
+    "26664": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Fullstack Software Engineer, DX",
+      "job_id": "26664",
+      "url": "https://globalcareers-atlassian.icims.com/jobs/26664/senior-fullstack-software-engineer%2c-dx/job"
+    },
+    "27179": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Principal Forward Deployed Engineer",
+      "job_id": "27179",
+      "url": "https://careers-americas.icims.com/jobs/27179/senior-principal-forward-deployed-engineer/job"
+    },
+    "26989": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Solutions Engineer | DX",
+      "job_id": "26989",
+      "url": "https://careers-americas.icims.com/jobs/26989/senior-solutions-engineer-%7c-dx/job"
+    },
+    "27713": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Solutions Engineer, Mid-Market (East & Central)",
+      "job_id": "27713",
+      "url": "https://careers-americas.icims.com/jobs/27713/senior-solutions-engineer%2c-mid-market-%28east-%26-central%29/job"
+    },
+    "25138": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Solutions Engineer, Strategic",
+      "job_id": "25138",
+      "url": "https://careers-americas.icims.com/jobs/25138/senior-solutions-engineer%2c-strategic/job"
+    },
+    "26991": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Solutions Engineer | DX",
+      "job_id": "26991",
+      "url": "https://careers-americas.icims.com/jobs/26991/solutions-engineer-%7c-dx/job"
+    },
+    "27360": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Solutions Engineering Manager | DX",
+      "job_id": "27360",
+      "url": "https://careers-americas.icims.com/jobs/27360/solutions-engineering-manager-%7c-dx/job"
+    },
+    "27424": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Technical Head of Enginering",
+      "job_id": "27424",
+      "url": "https://careers-americas.icims.com/jobs/27424/technical-head-of-enginering/job"
+    },
+    "27800": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Technical Support Engineer | DX",
+      "job_id": "27800",
+      "url": "https://careers-americas.icims.com/jobs/27800/technical-support-engineer-%7c-dx/job"
+    },
+    "25522": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Account Executive, Mid Market Central",
+      "job_id": "25522",
+      "url": "https://careers-americas.icims.com/jobs/25522/account-executive%2c-mid-market-central/job"
+    },
+    "25523": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Account Executive, Mid-Market East",
+      "job_id": "25523",
+      "url": "https://careers-americas.icims.com/jobs/25523/account-executive%2c-mid-market-east/job"
+    },
+    "25537": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Account Executive, Mid-Market West",
+      "job_id": "25537",
+      "url": "https://careers-americas.icims.com/jobs/25537/account-executive%2c-mid-market-west/job"
+    },
+    "25829": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Account Executive, Public Sector - State and Local Government (West)",
+      "job_id": "25829",
+      "url": "https://careers-americas.icims.com/jobs/25829/account-executive%2c-public-sector---state-and-local-government-%28west%29/job"
+    },
+    "26830": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Account Executive, Strategic | DX",
+      "job_id": "26830",
+      "url": "https://careers-americas.icims.com/jobs/26830/account-executive%2c-strategic-%7c-dx/job"
+    },
+    "26831": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Account Executive, Strategic | DX",
+      "job_id": "26831",
+      "url": "https://careers-americas.icims.com/jobs/26831/account-executive%2c-strategic-%7c-dx/job"
+    },
+    "26381": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Account Manager, Public Sector",
+      "job_id": "26381",
+      "url": "https://careers-americas.icims.com/jobs/26381/account-manager%2c-public-sector/job"
+    },
+    "27501": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Account Manager, Strategic",
+      "job_id": "27501",
+      "url": "https://careers-americas.icims.com/jobs/27501/account-manager%2c-strategic/job"
+    },
+    "26052": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Agentic Success Portfolio Lead",
+      "job_id": "26052",
+      "url": "https://careers-americas.icims.com/jobs/26052/agentic-success-portfolio-lead/job"
+    },
+    "26843": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "AI Demand Intelligence Intern, 2027 Summer U.S.",
+      "job_id": "26843",
+      "url": "https://careers-americas.icims.com/jobs/26843/ai-demand-intelligence-intern%2c-2027-summer-u.s./job"
+    },
+    "26833": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Application Development Engineer",
+      "job_id": "26833",
+      "url": "https://careers-americas.icims.com/jobs/26833/application-development-engineer/job"
+    },
+    "27063": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Associate Customer Success Manager",
+      "job_id": "27063",
+      "url": "https://careers-americas.icims.com/jobs/27063/associate-customer-success-manager/job"
+    },
+    "25539": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Backend Software Engineer",
+      "job_id": "25539",
+      "url": "https://careers-americas.icims.com/jobs/25539/backend-software-engineer/job"
+    },
+    "27823": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Backend Software Engineer",
+      "job_id": "27823",
+      "url": "https://careers-americas.icims.com/jobs/27823/backend-software-engineer/job"
+    },
+    "27824": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Backend Software Engineer - Focus Funds and AI",
+      "job_id": "27824",
+      "url": "https://careers-americas.icims.com/jobs/27824/backend-software-engineer---focus-funds-and-ai/job"
+    },
+    "27819": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Backend Software Engineer - Identity",
+      "job_id": "27819",
+      "url": "https://careers-americas.icims.com/jobs/27819/backend-software-engineer---identity/job"
+    },
+    "27792": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Commercial Customer Success Manager, DX",
+      "job_id": "27792",
+      "url": "https://careers-americas.icims.com/jobs/27792/commercial-customer-success-manager%2c-dx/job"
+    },
+    "27290": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Credit and Collections Manager",
+      "job_id": "27290",
+      "url": "https://careers-americas.icims.com/jobs/27290/credit-and-collections-manager/job"
+    },
+    "26847": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Customer Engagement Marketing Intern, 2027 Summer U.S.",
+      "job_id": "26847",
+      "url": "https://careers-americas.icims.com/jobs/26847/customer-engagement-marketing-intern%2c-2027-summer-u.s./job"
+    },
+    "26305": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Customer Success Manager, DX",
+      "job_id": "26305",
+      "url": "https://careers-americas.icims.com/jobs/26305/customer-success-manager%2c-dx/job"
+    },
+    "27401": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Customer Success Manager, Mid Market",
+      "job_id": "27401",
+      "url": "https://careers-americas.icims.com/jobs/27401/customer-success-manager%2c-mid-market/job"
+    },
+    "26236": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Customer Success Manager, Spanish & English",
+      "job_id": "26236",
+      "url": "https://careers-americas.icims.com/jobs/26236/customer-success-manager%2c-spanish-%26-english/job"
+    },
+    "27443": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Data Engineer",
+      "job_id": "27443",
+      "url": "https://careers-americas.icims.com/jobs/27443/data-engineer/job"
+    },
+    "26771": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Director, Commercial Legal - Enterprise Sales",
+      "job_id": "26771",
+      "url": "https://careers-americas.icims.com/jobs/26771/director%2c-commercial-legal---enterprise-sales/job"
+    },
+    "27651": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Director of Investor Relations",
+      "job_id": "27651",
+      "url": "https://careers-americas.icims.com/jobs/27651/director-of-investor-relations/job"
+    },
+    "27270": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Director of Product Counsel",
+      "job_id": "27270",
+      "url": "https://careers-americas.icims.com/jobs/27270/director-of-product-counsel/job"
+    },
+    "27638": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Employee Relations Partner",
+      "job_id": "27638",
+      "url": "https://careers-americas.icims.com/jobs/27638/employee-relations-partner/job"
+    },
+    "26980": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Engagement Manager",
+      "job_id": "26980",
+      "url": "https://careers-americas.icims.com/jobs/26980/engagement-manager/job"
+    },
+    "27793": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Enterprise Customer Success Manager, DX",
+      "job_id": "27793",
+      "url": "https://careers-americas.icims.com/jobs/27793/enterprise-customer-success-manager%2c-dx/job"
+    },
+    "26674": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Frontend Software Engineer",
+      "job_id": "26674",
+      "url": "https://careers-americas.icims.com/jobs/26674/frontend-software-engineer/job"
+    },
+    "25561": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Full Stack Software Engineer",
+      "job_id": "25561",
+      "url": "https://careers-americas.icims.com/jobs/25561/full-stack-software-engineer/job"
+    },
+    "27825": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Functional/BSA Lead",
+      "job_id": "27825",
+      "url": "https://careers-americas.icims.com/jobs/27825/functional-bsa-lead/job"
+    },
+    "27480": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Global GTM Lead, Teamwork Collection \u2013 Mid-Market",
+      "job_id": "27480",
+      "url": "https://careers-americas.icims.com/jobs/27480/global-gtm-lead%2c-teamwork-collection-%e2%80%93-mid-market/job"
+    },
+    "27227": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Head of Data Governance & Enterprise Context Eng",
+      "job_id": "27227",
+      "url": "https://careers-americas.icims.com/jobs/27227/head-of-data-governance-%26-enterprise-context-eng/job"
+    },
+    "27321": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Lead Product Designer, AI",
+      "job_id": "27321",
+      "url": "https://careers-americas.icims.com/jobs/27321/lead-product-designer%2c-ai/job"
+    },
+    "27441": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Lead Product Designer, AI",
+      "job_id": "27441",
+      "url": "https://careers-americas.icims.com/jobs/27441/lead-product-designer%2c-ai/job"
+    },
+    "27320": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Lead Product Designer, Growth Platform",
+      "job_id": "27320",
+      "url": "https://careers-americas.icims.com/jobs/27320/lead-product-designer%2c-growth-platform/job"
+    },
+    "27324": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Lead Product Designer, Jira",
+      "job_id": "27324",
+      "url": "https://careers-americas.icims.com/jobs/27324/lead-product-designer%2c-jira/job"
+    },
+    "22861": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Machine Learning Engineering Manager",
+      "job_id": "22861",
+      "url": "https://careers-americas.icims.com/jobs/22861/machine-learning-engineering-manager/job"
+    },
+    "27498": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Manager, AMER - Teamwork Collection | Enterprise Solutions",
+      "job_id": "27498",
+      "url": "https://careers-americas.icims.com/jobs/27498/manager%2c-amer---teamwork-collection-%7c-enterprise-solutions/job"
+    },
+    "26995": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Manager, Customer Success Architects (AI)",
+      "job_id": "26995",
+      "url": "https://careers-americas.icims.com/jobs/26995/manager%2c-customer-success-architects-%28ai%29/job"
+    },
+    "26846": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Marketing Business Operations Intern, 2027 Summer U.S.",
+      "job_id": "26846",
+      "url": "https://careers-americas.icims.com/jobs/26846/marketing-business-operations-intern%2c-2027-summer-u.s./job"
+    },
+    "27191": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Analyst, Sales Strategy & Operations",
+      "job_id": "27191",
+      "url": "https://careers-americas.icims.com/jobs/27191/principal-analyst%2c-sales-strategy-%26-operations/job"
+    },
+    "27485": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Backend Engineer",
+      "job_id": "27485",
+      "url": "https://careers-americas.icims.com/jobs/27485/principal-backend-engineer/job"
+    },
+    "25586": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Backend Software Engineer",
+      "job_id": "25586",
+      "url": "https://careers-americas.icims.com/jobs/25586/principal-backend-software-engineer/job"
+    },
+    "26696": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Data Scientist",
+      "job_id": "26696",
+      "url": "https://careers-americas.icims.com/jobs/26696/principal-data-scientist/job"
+    },
+    "27694": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Data Scientist",
+      "job_id": "27694",
+      "url": "https://careers-americas.icims.com/jobs/27694/principal-data-scientist/job"
+    },
+    "26575": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Data Scientist, Loom",
+      "job_id": "26575",
+      "url": "https://careers-americas.icims.com/jobs/26575/principal-data-scientist%2c-loom/job"
+    },
+    "26359": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Engineer - Kubernetes Platform",
+      "job_id": "26359",
+      "url": "https://careers-americas.icims.com/jobs/26359/principal-engineer---kubernetes-platform/job"
+    },
+    "27017": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Full Stack Software Engineer",
+      "job_id": "27017",
+      "url": "https://careers-americas.icims.com/jobs/27017/principal-full-stack-software-engineer/job"
+    },
+    "27074": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Fullstack Software Engineer",
+      "job_id": "27074",
+      "url": "https://careers-americas.icims.com/jobs/27074/principal-fullstack-software-engineer/job"
+    },
+    "27494": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Machine Learning Architect | Enterprise Agentic Search",
+      "job_id": "27494",
+      "url": "https://careers-americas.icims.com/jobs/27494/principal-machine-learning-architect-%7c-enterprise-agentic-search/job"
+    },
+    "25394": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Machine Learning Engineer",
+      "job_id": "25394",
+      "url": "https://careers-americas.icims.com/jobs/25394/principal-machine-learning-engineer/job"
+    },
+    "25797": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Machine Learning Engineer",
+      "job_id": "25797",
+      "url": "https://careers-americas.icims.com/jobs/25797/principal-machine-learning-engineer/job"
+    },
+    "26848": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Machine Learning Engineer",
+      "job_id": "26848",
+      "url": "https://careers-americas.icims.com/jobs/26848/principal-machine-learning-engineer/job"
+    },
+    "27037": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Machine Learning Engineer",
+      "job_id": "27037",
+      "url": "https://careers-americas.icims.com/jobs/27037/principal-machine-learning-engineer/job"
+    },
+    "27122": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Machine Learning Engineer",
+      "job_id": "27122",
+      "url": "https://careers-americas.icims.com/jobs/27122/principal-machine-learning-engineer/job"
+    },
+    "26927": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Machine Learning System Engineer",
+      "job_id": "26927",
+      "url": "https://careers-americas.icims.com/jobs/26927/principal-machine-learning-system-engineer/job"
+    },
+    "26787": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Machine Learning Systems Engineer - Search & Intelligence",
+      "job_id": "26787",
+      "url": "https://careers-americas.icims.com/jobs/26787/principal-machine-learning-systems-engineer---search-%26-intelligence/job"
+    },
+    "27426": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Outbound Product Manager, Service Collection",
+      "job_id": "27426",
+      "url": "https://careers-americas.icims.com/jobs/27426/principal-outbound-product-manager%2c-service-collection/job"
+    },
+    "27399": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Product Designer, DX",
+      "job_id": "27399",
+      "url": "https://careers-americas.icims.com/jobs/27399/principal-product-designer%2c-dx/job"
+    },
+    "27322": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Product Designer, Jira",
+      "job_id": "27322",
+      "url": "https://careers-americas.icims.com/jobs/27322/principal-product-designer%2c-jira/job"
+    },
+    "27204": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Product Designer, Rovo & AI",
+      "job_id": "27204",
+      "url": "https://careers-americas.icims.com/jobs/27204/principal-product-designer%2c-rovo-%26-ai/job"
+    },
+    "26958": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Product Manager",
+      "job_id": "26958",
+      "url": "https://careers-americas.icims.com/jobs/26958/principal-product-manager/job"
+    },
+    "27291": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Product Manager, Confluence Aggregation",
+      "job_id": "27291",
+      "url": "https://careers-americas.icims.com/jobs/27291/principal-product-manager%2c-confluence-aggregation/job"
+    },
+    "27203": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Product Marketing Manager, Developer Platform & GTM",
+      "job_id": "27203",
+      "url": "https://careers-americas.icims.com/jobs/27203/principal-product-marketing-manager%2c-developer-platform-%26-gtm/job"
+    },
+    "27367": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Sales Infrastructure Analyst, Analytics Engineering",
+      "job_id": "27367",
+      "url": "https://careers-americas.icims.com/jobs/27367/principal-sales-infrastructure-analyst%2c-analytics-engineering/job"
+    },
+    "26765": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Software Engineer",
+      "job_id": "26765",
+      "url": "https://careers-americas.icims.com/jobs/26765/principal-software-engineer/job"
+    },
+    "26993": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Software Engineer",
+      "job_id": "26993",
+      "url": "https://careers-americas.icims.com/jobs/26993/principal-software-engineer/job"
+    },
+    "27084": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Software Engineer",
+      "job_id": "27084",
+      "url": "https://careers-americas.icims.com/jobs/27084/principal-software-engineer/job"
+    },
+    "27363": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Software Engineer",
+      "job_id": "27363",
+      "url": "https://careers-americas.icims.com/jobs/27363/principal-software-engineer/job"
+    },
+    "27814": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Software Engineer",
+      "job_id": "27814",
+      "url": "https://careers-americas.icims.com/jobs/27814/principal-software-engineer/job"
+    },
+    "26318": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Solutions Architect | DX",
+      "job_id": "26318",
+      "url": "https://careers-americas.icims.com/jobs/26318/principal-solutions-architect-%7c-dx/job"
+    },
+    "27414": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Strategist, Sales & Success Strategy",
+      "job_id": "27414",
+      "url": "https://careers-americas.icims.com/jobs/27414/principal-strategist%2c-sales-%26-success-strategy/job"
+    },
+    "25128": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Strategist, Sales & Success Strategy - Public Sector",
+      "job_id": "25128",
+      "url": "https://careers-americas.icims.com/jobs/25128/principal-strategist%2c-sales-%26-success-strategy---public-sector/job"
+    },
+    "27630": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Technical Program Manager- Agent Quality and API Governance",
+      "job_id": "27630",
+      "url": "https://careers-americas.icims.com/jobs/27630/principal-technical-program-manager--agent-quality-and-api-governance/job"
+    },
+    "27224": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Technical Program Manager - Trust",
+      "job_id": "27224",
+      "url": "https://careers-americas.icims.com/jobs/27224/principal-technical-program-manager---trust/job"
+    },
+    "26966": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principal Value Advisor, DX",
+      "job_id": "26966",
+      "url": "https://careers-americas.icims.com/jobs/26966/principal-value-advisor%2c-dx/job"
+    },
+    "27796": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Principle Machine Learning Systems Engineer",
+      "job_id": "27796",
+      "url": "https://careers-americas.icims.com/jobs/27796/principle-machine-learning-systems-engineer/job"
+    },
+    "26273": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Product Design Intern, 2027 Summer U.S.",
+      "job_id": "26273",
+      "url": "https://careers-americas.icims.com/jobs/26273/product-design-intern%2c-2027-summer-u.s./job"
+    },
+    "26274": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Product Management Intern, 2027 Summer U.S.",
+      "job_id": "26274",
+      "url": "https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job"
+    },
+    "27433": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Product Manager, Atlassian Government Cloud",
+      "job_id": "27433",
+      "url": "https://careers-americas.icims.com/jobs/27433/product-manager%2c-atlassian-government-cloud/job"
+    },
+    "26289": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Product Manager, Rovo",
+      "job_id": "26289",
+      "url": "https://careers-americas.icims.com/jobs/26289/product-manager%2c-rovo/job"
+    },
+    "26665": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Risk and Compliance Senior Manager",
+      "job_id": "26665",
+      "url": "https://careers-americas.icims.com/jobs/26665/risk-and-compliance-senior-manager/job"
+    },
+    "27636": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Sales Enablement Specialist, DX",
+      "job_id": "27636",
+      "url": "https://careers-americas.icims.com/jobs/27636/sales-enablement-specialist%2c-dx/job"
+    },
+    "25559": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Account Executive, Enterprise - East & Central",
+      "job_id": "25559",
+      "url": "https://careers-americas.icims.com/jobs/25559/senior-account-executive%2c-enterprise---east-%26-central/job"
+    },
+    "25759": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Account Executive, Enterprise - West",
+      "job_id": "25759",
+      "url": "https://careers-americas.icims.com/jobs/25759/senior-account-executive%2c-enterprise---west/job"
+    },
+    "27069": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Application Engineering Manager, Core Financial Apps",
+      "job_id": "27069",
+      "url": "https://careers-americas.icims.com/jobs/27069/senior-application-engineering-manager%2c-core-financial-apps/job"
+    },
+    "27022": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior AR Manager, Developer Solutions",
+      "job_id": "27022",
+      "url": "https://careers-americas.icims.com/jobs/27022/senior-ar-manager%2c-developer-solutions/job"
+    },
+    "25558": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Backend Software Engineer",
+      "job_id": "25558",
+      "url": "https://careers-americas.icims.com/jobs/25558/senior-backend-software-engineer/job"
+    },
+    "27820": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Backend Software Engineer (Confluence Cloud AI Automation and Search)",
+      "job_id": "27820",
+      "url": "https://careers-americas.icims.com/jobs/27820/senior-backend-software-engineer-%28confluence-cloud-ai-automation-and-search%29/job"
+    },
+    "25737": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Backend Software Engineer - Platform",
+      "job_id": "25737",
+      "url": "https://careers-americas.icims.com/jobs/25737/senior-backend-software-engineer---platform/job"
+    },
+    "26959": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Brand Strategist",
+      "job_id": "26959",
+      "url": "https://careers-americas.icims.com/jobs/26959/senior-brand-strategist/job"
+    },
+    "26770": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Commercial Counsel - Enterprise Sales",
+      "job_id": "26770",
+      "url": "https://careers-americas.icims.com/jobs/26770/senior-commercial-counsel---enterprise-sales/job"
+    },
+    "27514": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Customer Success Architect (AI)",
+      "job_id": "27514",
+      "url": "https://careers-americas.icims.com/jobs/27514/senior-customer-success-architect-%28ai%29/job"
+    },
+    "27575": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Data Engineer",
+      "job_id": "27575",
+      "url": "https://careers-americas.icims.com/jobs/27575/senior-data-engineer/job"
+    },
+    "26572": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Data Engineer, DX",
+      "job_id": "26572",
+      "url": "https://careers-americas.icims.com/jobs/26572/senior-data-engineer%2c-dx/job"
+    },
+    "27282": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Design Manager, Strategy Collection",
+      "job_id": "27282",
+      "url": "https://careers-americas.icims.com/jobs/27282/senior-design-manager%2c-strategy-collection/job"
+    },
+    "27205": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Director - (IC) Product Manager, AI",
+      "job_id": "27205",
+      "url": "https://careers-americas.icims.com/jobs/27205/senior-director---%28ic%29-product-manager%2c-ai/job"
+    },
+    "26973": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Engineering Manager",
+      "job_id": "26973",
+      "url": "https://careers-americas.icims.com/jobs/26973/senior-engineering-manager/job"
+    },
+    "27318": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Engineering Manager",
+      "job_id": "27318",
+      "url": "https://careers-americas.icims.com/jobs/27318/senior-engineering-manager/job"
+    },
+    "27216": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Engineering Manager - Atlassian Government Cloud",
+      "job_id": "27216",
+      "url": "https://careers-americas.icims.com/jobs/27216/senior-engineering-manager---atlassian-government-cloud/job"
+    },
+    "27016": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Engineering Manager - Core Engineering, Trusted Data Platform",
+      "job_id": "27016",
+      "url": "https://careers-americas.icims.com/jobs/27016/senior-engineering-manager---core-engineering%2c-trusted-data-platform/job"
+    },
+    "27697": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Engineering Manager, GTM Systems (SalesTech)",
+      "job_id": "27697",
+      "url": "https://careers-americas.icims.com/jobs/27697/senior-engineering-manager%2c-gtm-systems-%28salestech%29/job"
+    },
+    "27312": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Finance Manager, AI & Infrastructure",
+      "job_id": "27312",
+      "url": "https://careers-americas.icims.com/jobs/27312/senior-finance-manager%2c-ai-%26-infrastructure/job"
+    },
+    "27822": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Full Stack Engineer",
+      "job_id": "27822",
+      "url": "https://careers-americas.icims.com/jobs/27822/senior-full-stack-engineer/job"
+    },
+    "25546": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Full Stack Software Engineer",
+      "job_id": "25546",
+      "url": "https://careers-americas.icims.com/jobs/25546/senior-full-stack-software-engineer/job"
+    },
+    "26954": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Machine Learning Engineer",
+      "job_id": "26954",
+      "url": "https://careers-americas.icims.com/jobs/26954/senior-machine-learning-engineer/job"
+    },
+    "26955": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Machine Learning Engineer",
+      "job_id": "26955",
+      "url": "https://careers-americas.icims.com/jobs/26955/senior-machine-learning-engineer/job"
+    },
+    "27149": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Machine Learning Engineer",
+      "job_id": "27149",
+      "url": "https://careers-americas.icims.com/jobs/27149/senior-machine-learning-engineer/job"
+    },
+    "27208": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Machine Learning Engineer",
+      "job_id": "27208",
+      "url": "https://careers-americas.icims.com/jobs/27208/senior-machine-learning-engineer/job"
+    },
+    "27356": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior machine learning engineer",
+      "job_id": "27356",
+      "url": "https://careers-americas.icims.com/jobs/27356/senior-machine-learning-engineer/job"
+    },
+    "27821": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Machine Learning Engineer",
+      "job_id": "27821",
+      "url": "https://careers-americas.icims.com/jobs/27821/senior-machine-learning-engineer/job"
+    },
+    "26789": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Machine Learning Engineer, AI-Native Evaluation & Search",
+      "job_id": "26789",
+      "url": "https://careers-americas.icims.com/jobs/26789/senior-machine-learning-engineer%2c-ai-native-evaluation-%26-search/job"
+    },
+    "26917": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Machine Learning Engineer - Growth",
+      "job_id": "26917",
+      "url": "https://careers-americas.icims.com/jobs/26917/senior-machine-learning-engineer---growth/job"
+    },
+    "26918": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Machine Learning Engineer - Growth",
+      "job_id": "26918",
+      "url": "https://careers-americas.icims.com/jobs/26918/senior-machine-learning-engineer---growth/job"
+    },
+    "26788": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Machine Learning Engineer, Search & Intelligence",
+      "job_id": "26788",
+      "url": "https://careers-americas.icims.com/jobs/26788/senior-machine-learning-engineer%2c-search-%26-intelligence/job"
+    },
+    "25787": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Manager, Enterprise Sales (Fabric) DX",
+      "job_id": "25787",
+      "url": "https://careers-americas.icims.com/jobs/25787/senior-manager%2c-enterprise-sales-%28fabric%29-dx/job"
+    },
+    "25734": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Manager, Strategic Sales | DX",
+      "job_id": "25734",
+      "url": "https://careers-americas.icims.com/jobs/25734/senior-manager%2c-strategic-sales-%7c-dx/job"
+    },
+    "26678": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Manager, Strategic Sales | DX",
+      "job_id": "26678",
+      "url": "https://careers-americas.icims.com/jobs/26678/senior-manager%2c-strategic-sales-%7c-dx/job"
+    },
+    "26377": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior ML Performance Engineer",
+      "job_id": "26377",
+      "url": "https://careers-americas.icims.com/jobs/26377/senior-ml-performance-engineer/job"
+    },
+    "26762": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior ML System Engineer",
+      "job_id": "26762",
+      "url": "https://careers-americas.icims.com/jobs/26762/senior-ml-system-engineer/job"
+    },
+    "27278": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Partner Solutions Architect - Cloud Platform",
+      "job_id": "27278",
+      "url": "https://careers-americas.icims.com/jobs/27278/senior-partner-solutions-architect---cloud-platform/job"
+    },
+    "25716": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Principal Engineer",
+      "job_id": "25716",
+      "url": "https://careers-americas.icims.com/jobs/25716/senior-principal-engineer/job"
+    },
+    "26836": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Principal Engineer, Rovo Experiences & Growth",
+      "job_id": "26836",
+      "url": "https://careers-americas.icims.com/jobs/26836/senior-principal-engineer%2c-rovo-experiences-%26-growth/job"
+    },
+    "27089": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Principal Machine Learning Systems Engineer, Search Platform",
+      "job_id": "27089",
+      "url": "https://careers-americas.icims.com/jobs/27089/senior-principal-machine-learning-systems-engineer%2c-search-platform/job"
+    },
+    "25687": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Principal Software Engineer",
+      "job_id": "25687",
+      "url": "https://careers-americas.icims.com/jobs/25687/senior-principal-software-engineer/job"
+    },
+    "27468": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Principal Software Engineer",
+      "job_id": "27468",
+      "url": "https://careers-americas.icims.com/jobs/27468/senior-principal-software-engineer/job"
+    },
+    "27187": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Principal Technical Program Manager - Agent Infrastructure",
+      "job_id": "27187",
+      "url": "https://careers-americas.icims.com/jobs/27187/senior-principal-technical-program-manager---agent-infrastructure/job"
+    },
+    "26663": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Product Manager, DX - Data Platform and Integrations",
+      "job_id": "26663",
+      "url": "https://careers-americas.icims.com/jobs/26663/senior-product-manager%2c-dx---data-platform-and-integrations/job"
+    },
+    "27558": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Product Marketing Manager - Teamwork Graph Adoption",
+      "job_id": "27558",
+      "url": "https://careers-americas.icims.com/jobs/27558/senior-product-marketing-manager---teamwork-graph-adoption/job"
+    },
+    "26956": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Software Engineer",
+      "job_id": "26956",
+      "url": "https://careers-americas.icims.com/jobs/26956/senior-software-engineer/job"
+    },
+    "27413": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Senior Solution Consultant, Cloud Platform and AI",
+      "job_id": "27413",
+      "url": "https://careers-americas.icims.com/jobs/27413/senior-solution-consultant%2c-cloud-platform-and-ai/job"
+    },
+    "26266": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Software Engineer Intern, 2027 Summer U.S.",
+      "job_id": "26266",
+      "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job"
+    },
+    "24970": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Solution Consultant, Cloud Platform Development and Integration",
+      "job_id": "24970",
+      "url": "https://careers-americas.icims.com/jobs/24970/solution-consultant%2c-cloud-platform-development-and-integration/job"
+    },
+    "27563": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Solution Consultant, Data Center & Cloud Platform",
+      "job_id": "27563",
+      "url": "https://careers-americas.icims.com/jobs/27563/solution-consultant%2c-data-center-%26-cloud-platform/job"
+    },
+    "27241": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Solution Sales Executive for Service Collection, Mid-Market",
+      "job_id": "27241",
+      "url": "https://careers-americas.icims.com/jobs/27241/solution-sales-executive-for-service-collection%2c-mid-market/job"
+    },
+    "27411": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Solution Sales Executive, TWC",
+      "job_id": "27411",
+      "url": "https://careers-americas.icims.com/jobs/27411/solution-sales-executive%2c-twc/job"
+    },
+    "25758": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Strategic Account Executive - West",
+      "job_id": "25758",
+      "url": "https://careers-americas.icims.com/jobs/25758/strategic-account-executive---west/job"
+    },
+    "27486": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Strategy and Business Operations Principal - Rovo and AI",
+      "job_id": "27486",
+      "url": "https://careers-americas.icims.com/jobs/27486/strategy-and-business-operations-principal---rovo-and-ai/job"
+    },
+    "26834": {
+      "first_seen": 0,
+      "posted": "",
+      "title": "Technical Social Media Strategist",
+      "job_id": "26834",
+      "url": "https://careers-americas.icims.com/jobs/26834/technical-social-media-strategist/job"
+    }
+  }
+}

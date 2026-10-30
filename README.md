@@ -9,7 +9,7 @@ A fully automated job-board monitor that scrapes career pages across 40 tech and
 
 ## Features
 
-- **42 companies out of the box** — Adobe, Amazon, AMD, American Express, Apple, Capital One, Cerebras, Cisco, CVS Health (two adapters), Databricks, Dell, Disney, DoorDash, Ford, GoDaddy, Goldman Sachs, Google, HP, IBM, Intel, JPMorgan Chase, Lyft, Meta, Microsoft, Netflix, NVIDIA, Oracle, Palo Alto Networks, Paramount, PayPal, Pinterest, Red Hat, Reddit, Salesforce, Samsung, Snowflake, Spotify, Stripe, Uber, Yahoo, and Zscaler
+- **44 companies out of the box** — Adobe, Amazon, AMD, Atlassian, American Express, Apple, Capital One, Cerebras, Cisco, CVS Health (two adapters), Databricks, Dell, Disney, DoorDash, Ford, GoDaddy, Goldman Sachs, Google, HP, IBM, Intel, Intuit, JPMorgan Chase, Lyft, Meta, Microsoft, Netflix, NVIDIA, Oracle, Palo Alto Networks, Paramount, PayPal, Pinterest, Red Hat, Reddit, Salesforce, Samsung, Snowflake, Spotify, Stripe, Uber, Yahoo, and Zscaler
 - **Headless browser scraping** — Playwright + Chromium handles JS-heavy career pages and interactive pagination without brittle DOM hacks
 - **Smart deduplication** — each company keeps its own `seen_jobs/<slug>.json` state file; jobs are tracked by stable ID and marked seen as soon as their message is delivered, so alerts never repeat (same title within 7 days is also skipped)
 - **One Telegram message per run** — every new job a run finds arrives in a single message, grouped by company, with the title linked to the posting plus location, post date, pay range, years of experience, remote/hybrid/onsite, team and job ID when the posting lists them (`details.py`; long runs are split into numbered parts)
@@ -27,9 +27,9 @@ A fully automated job-board monitor that scrapes career pages across 40 tech and
 | Greenhouse boards API (`companies/greenhouse.py`) | Databricks, DoorDash, GoDaddy, Pinterest, Reddit, Stripe, Zscaler |
 | Oracle Recruiting Cloud API (`companies/oracle_hcm.py`) | American Express, Dell, Ford, JPMorgan Chase, Oracle |
 | Ashby / Lever / Eightfold | Cerebras, Snowflake / Spotify / Netflix |
-| Company-specific | Amazon (`search.json`), AMD (Jibe API), Apple (embedded JSON), CVS (HTML), Goldman Sachs, Google (`AF_initDataCallback`), IBM (search API), Lyft (CareerPuck API), Meta (GraphQL), Microsoft (Eightfold PCSX), Paramount (SuccessFactors HTML), Uber (in-page API fetch) |
+| Company-specific | Amazon (`search.json`), AMD (Jibe API), Atlassian (listings JSON), Intuit (Radancy results), Apple (embedded JSON), CVS (HTML), Goldman Sachs, Google (`AF_initDataCallback`), IBM (search API), Lyft (CareerPuck API), Meta (GraphQL), Microsoft (Eightfold PCSX), Paramount (SuccessFactors HTML), Uber (in-page API fetch) |
 
-Per-company pages, site-side filters and notes are in [docs/OPERATIONS.md](docs/OPERATIONS.md#companies-42).
+Per-company pages, site-side filters and notes are in [docs/OPERATIONS.md](docs/OPERATIONS.md#companies-44).
 
 ## How It Works
 
@@ -101,7 +101,7 @@ python full_scrape.py --company amazon,uber
 | `PAGE_LOAD_TIMEOUT` | No | `15000` | Playwright page load timeout (ms) |
 | `JOB_CARD_TIMEOUT` | No | `8000` | Selector wait timeout (ms) |
 | `MAX_SEEN_JOBS` | No | `50000` | Cap on persisted job IDs per company |
-| `COMPANIES` | No | `apple` | Comma-separated slugs (the workflows pass all 42) |
+| `COMPANIES` | No | `apple` | Comma-separated slugs (the workflows pass all 44) |
 | `ALERT_TIMEZONE` | No | `America/Phoenix` | Time zone of the message header |
 | `HEALTH_FAILURE_THRESHOLD` | No | `3` | Consecutive failures before a "broken" alert |
 
