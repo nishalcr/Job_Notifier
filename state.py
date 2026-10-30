@@ -98,11 +98,15 @@ def save_seen_jobs(company_slug: str, seen: dict[str, Any]) -> None:
 
 
 def _contains_term(text: str, term: str) -> bool:
-    """Whole-word, case-insensitive match (so "sr" does not match "SRE")."""
+    """
+    Whole-word, case-insensitive match (so "sr" does not match "SRE").
+
+    Plurals count too: "engineer" matches "Software Engineers", "intern" matches "Interns".
+    """
     term = term.strip().lower()
     if not term:
         return False
-    return re.search(rf"(?<!\w){re.escape(term)}(?!\w)", text.lower()) is not None
+    return re.search(rf"(?<!\w){re.escape(term)}(?:s|es)?(?!\w)", text.lower()) is not None
 
 
 def _normalize_title(title: str) -> str:
