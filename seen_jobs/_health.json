@@ -1,6 +1,8 @@
 {
   "oracle": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Oracle API request failed with status 502"
+    "broken_since": "2026-10-30T21:42:13+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Oracle API request failed with status 503",
+    "status": "broken"
   }
 }
