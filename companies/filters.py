@@ -39,6 +39,52 @@ ENGINEERING_TITLE_KEYWORDS = (
     "smts",
     "lmts",
     "pmts",
+    # Titles that name the work rather than "engineer": Adobe "Computer Scientist",
+    # Capital One "Applied Researcher", Uber "Scientist II", Cerebras "Technical Staff".
+    "software",
+    "scientist",
+    "researcher",
+    "technical staff",
+    "mle",
+    "fullstack",
+    "full stack",
+    "quantitative",
+    "deep learning",
+    "pre-training",
+    "post-training",
+)
+
+# A title naming one of these core roles is kept even when it also contains a
+# non-software or hardware phrase ("Software Engineer, AI Enablement",
+# "Senior Data Scientist, GTM", "Sr Embedded SDE III, Hardware Engineering").
+# Manager, intern and executive titles are still dropped.
+CORE_ROLE_PHRASES = (
+    "software engineer",
+    "software developer",
+    "software development engineer",
+    "sde",
+    "swe",
+    "sdet",
+    "data engineer",
+    "data scientist",
+    "machine learning engineer",
+    "ml engineer",
+    "ai engineer",
+    "mle",
+    "research scientist",
+    "applied scientist",
+    "ai research scientist",
+    "machine learning scientist",
+    "ml scientist",
+    "business intelligence engineer",
+    "full stack",
+    "fullstack",
+    "backend engineer",
+    "frontend engineer",
+    "front end engineer",
+    "site reliability",
+    "devops engineer",
+    "platform engineer",
 )
 
 # Levels above senior. Dropped unless the title also names a target level
@@ -75,6 +121,9 @@ NON_IC_TITLE_PHRASES = (
     "manager",
     "mgr",
     "director",
+    "dir",
+    "supervisor",
+    "tpm",
     "head of",
     "leader",
     "intern",
@@ -119,6 +168,34 @@ NON_SOFTWARE_ROLE_PHRASES = (
     "contractor",
     "administrative",
     "business partner",
+    # Researchers and scientists outside software, data, ML and AI.
+    "ux researcher",
+    "ux research",
+    "ux quantitative researcher",
+    "user researcher",
+    "experience researcher",
+    "design researcher",
+    "qualitative",
+    "mixed methods",
+    "market research",
+    "sustainability scientist",
+    "clinical scientist",
+    "chemist",
+    # Sales, research-analyst and support titles that only mention "software".
+    "sales representative",
+    "pre-sales",
+    "presales",
+    "account executive",
+    "equity research",
+    "finance analyst",
+    "technical support",
+    "technology support",
+    "recruiting researcher",
+    "marketing insights",
+    "technical marketing",
+    # Cisco's customer-facing consulting engineers.
+    "consulting engineer",
+    "consulting engineering",
 )
 
 # Hardware, fab and physical-engineering domains. A match drops the title unless

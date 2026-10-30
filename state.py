@@ -8,10 +8,18 @@ from datetime import date
 from typing import Any, Sequence
 
 import config
-from companies.filters import HARDWARE_DOMAIN_PHRASES, SOFTWARE_TITLE_KEYWORDS, TARGET_LEVEL_KEYWORDS
+from companies.filters import (
+    CORE_ROLE_PHRASES,
+    HARDWARE_DOMAIN_PHRASES,
+    NON_SOFTWARE_TITLE_PHRASES,
+    SOFTWARE_TITLE_KEYWORDS,
+    TARGET_LEVEL_KEYWORDS,
+)
 from config import CompanyRuntimeConfig
 
 STATE_VERSION = 3
+
+_NON_SOFTWARE_PHRASES = frozenset(NON_SOFTWARE_TITLE_PHRASES)
 
 # Rewrites applied before matching. "Senior Staff" is still staff level, and
 # Salesforce spells out its levels as "... Member of Technical Staff".
@@ -31,6 +39,14 @@ _TITLE_NORMALIZATIONS = (
     ("lead member of technical staff", "lmts"),
     ("principal member of technical staff", "pmts"),
     ("member of technical staff", "mts"),
+    # Cisco's senior individual-contributor title, not a people manager.
+    ("technical leader", "technical lead"),
+)
+
+# Regex rewrites: common typos and joined levels ("SWE2", "SDE3").
+_TITLE_REGEX_NORMALIZATIONS = (
+    (re.compile(r"\b(?:enginner|engineeer|enigneer|engneer|enginer)(s?)\b"), r"engineer\1"),
+    (re.compile(r"\b(swe|sde|mle)(\d)\b"), r"\1 \2"),
 )
 
 
@@ -113,6 +129,8 @@ def _normalize_title(title: str) -> str:
     text = " ".join(title.lower().split())
     for phrase, replacement in _TITLE_NORMALIZATIONS:
         text = text.replace(phrase, replacement)
+    for pattern, replacement in _TITLE_REGEX_NORMALIZATIONS:
+        text = pattern.sub(replacement, text)
     return text
 
 
@@ -140,10 +158,13 @@ def passes_title_filters(title: str, runtime_config: CompanyRuntimeConfig) -> bo
         return False
 
     is_software = any(_contains_term(text, keyword) for keyword in SOFTWARE_TITLE_KEYWORDS)
+    is_core_role = any(_contains_term(text, phrase) for phrase in CORE_ROLE_PHRASES)
     for phrase in runtime_config.excluded_title_phrases:
         if not _contains_term(text, phrase):
             continue
         if is_software and phrase in HARDWARE_DOMAIN_PHRASES:
+            continue
+        if is_core_role and phrase in _NON_SOFTWARE_PHRASES:
             continue
         return False
 

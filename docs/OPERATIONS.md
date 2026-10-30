@@ -71,16 +71,20 @@ In the week before these fixes, 1 duplicate was found in 958 alerts; it was caus
 
 Target: about 5 years of experience, **US only**, **SWE, data, ML and AI roles at every level**, individual contributors.
 
-- **Title must contain** (whole word) a word from `ENGINEERING_TITLE_KEYWORDS`:
-  - engineer, developer, programmer, SDE, SDET, SWE, SRE, DevOps;
-  - machine learning, ML, applied/research/data/AI scientist, data analyst, business/product analyst, analytics, BI;
-  - architect;
-  - Salesforce MTS levels.
+- **Title must contain** (whole word, plurals count) a word from `ENGINEERING_TITLE_KEYWORDS`:
+  - engineer, developer, programmer, software, SDE, SDET, SWE, SRE, DevOps, full stack/FullStack, MLE;
+  - machine learning, ML, deep learning, scientist, researcher, data analyst, business/product analyst, analytics, BI, quantitative;
+  - architect, technical staff, Salesforce MTS levels.
+  - Common typos ("Enginner") and joined levels ("SWE2") are normalized first.
 - **Dropped:**
-  - Managers, directors, "head of", leaders, interns and co-ops.
+  - Managers, directors ("Dir,"), supervisors, TPMs, "head of", leaders, interns and co-ops. Cisco's "Technical Leader" is an individual-contributor title and is kept.
   - VP and vice president, except at Goldman, where VP is an individual-contributor level.
-  - Sales, solutions, customer, field, support and partner engineers; consultants, specialists, recruiters, contractors; administrative and business-partner roles.
+  - Customer-facing roles: sales, pre-sales, solutions, customer, field, support, partner, consulting and technical-marketing engineers; solutions architects, consultants, developer advocates, account executives.
+  - Specialists, recruiters, contractors, administrative and business-partner roles.
+  - UX, user, design and market researchers.
   - Hardware, chip, fab, data-center, automotive and audio/visual engineering. These are kept if the title also says software, firmware, ML, SRE, DevOps, data engineer or full stack.
+- **Core-role override:** a title naming a core role (`CORE_ROLE_PHRASES`: software engineer, SDE, data engineer/scientist, ML engineer/scientist, research/applied scientist, full stack, SRE, platform engineer, BI engineer) is kept despite any non-software or hardware phrase, e.g. "Software Engineer III – AI Enablement", "Senior Data Scientist, GTM". Manager, intern and executive phrases still drop it.
+- **Audit tool:** to check for jobs dropped by mistake, re-run the grouping in the 2026-10-30 commit message idea: list every seen job that fails `passes_title_filters` and group by the rule that dropped it.
 - **Levels:**
   - `EXCLUDED_LEVEL_KEYWORDS = ()`, so all levels are kept.
   - To drop staff/principal again, set it to `ABOVE_SENIOR_LEVEL_KEYWORDS`.
@@ -257,7 +261,7 @@ Run **Send Jobs Posted On A Day** (`send-recent.yml`) with the companies and a d
   - Added Pinterest, Palo Alto Networks and Adobe.
   - Added the duplicate protections above.
 - **2026-10-29:** added Oracle and Cerebras.
-- **2026-10-30:** added Atlassian and Intuit.
+- **2026-10-30:** added Atlassian and Intuit. Filter audit: plurals, typos, scientist/researcher titles, Cisco Technical Leader, core-role override; 20 missed jobs from the previous week re-sent.
 - **2026-10-23:**
   - One message per run.
   - Job details (pay, experience, work type, team, ID).
