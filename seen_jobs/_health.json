@@ -47,6 +47,10 @@
     "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
     "status": "broken"
   },
+  "oracle": {
+    "consecutive_failures": 1,
+    "last_error": "Timeout on page 1: APIRequestContext.get: Timeout 30000ms exceeded.\nCall log:\n  - \u2192 GET https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_45001,limit=25,offset=0,sortBy=POS"
+  },
   "paloalto": {
     "broken_since": "2026-10-31T06:31:10+00:00",
     "consecutive_failures": 3,
