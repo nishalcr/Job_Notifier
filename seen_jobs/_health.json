@@ -1,8 +1,56 @@
 {
+  "adobe": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+  },
+  "cisco": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+  },
+  "cvs_wd": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+  },
+  "disney": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+  },
   "goldman-sachs": {
     "broken_since": "2026-10-31T02:01:32+00:00",
     "consecutive_failures": 3,
     "last_error": "No jobs extracted. The page structure may have changed.",
     "status": "broken"
+  },
+  "hp": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+  },
+  "intel": {
+    "consecutive_failures": 1,
+    "last_error": "Timeout on page 1: APIRequestContext.post: Timeout 30000ms exceeded.\nCall log:\n  - \u2192 POST https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs\n    - user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36\n    - acc"
+  },
+  "nvidia": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+  },
+  "paloalto": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+  },
+  "paypal": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+  },
+  "redhat": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+  },
+  "samsung": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+  },
+  "yahoo": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
   }
 }
