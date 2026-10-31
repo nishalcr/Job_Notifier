@@ -1,74 +1,8 @@
 {
-  "adobe": {
-    "broken_since": "2026-10-31T06:31:11+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
-  "cisco": {
-    "broken_since": "2026-10-31T06:30:53+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
-  "cvs_wd": {
-    "broken_since": "2026-10-31T06:30:45+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
-  "disney": {
-    "broken_since": "2026-10-31T06:30:56+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
   "goldman-sachs": {
     "broken_since": "2026-10-31T02:01:32+00:00",
     "consecutive_failures": 3,
     "last_error": "No jobs extracted. The page structure may have changed.",
-    "status": "broken"
-  },
-  "hp": {
-    "broken_since": "2026-10-31T06:30:52+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
-  "intel": {
-    "broken_since": "2026-10-31T06:30:58+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
-  "nvidia": {
-    "broken_since": "2026-10-31T06:30:50+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
-  "paloalto": {
-    "broken_since": "2026-10-31T06:31:10+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
-  "paypal": {
-    "broken_since": "2026-10-31T06:30:57+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
-  "samsung": {
-    "broken_since": "2026-10-31T06:30:53+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
-  "yahoo": {
-    "broken_since": "2026-10-31T06:31:01+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
     "status": "broken"
   }
 }
