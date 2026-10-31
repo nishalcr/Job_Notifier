@@ -1,8 +1,4 @@
 {
-  "capitalone": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Workday API request failed with status 502"
-  },
   "goldman-sachs": {
     "broken_since": "2026-10-31T02:01:32+00:00",
     "consecutive_failures": 3,
