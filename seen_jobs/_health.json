@@ -1,1 +1,6 @@
-{}
+{
+  "amazon": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: APIRequestContext.get: getaddrinfo ENOTFOUND www.amazon.jobs\nCall log:\n  - \u2192 GET https://www.amazon.jobs/en/search.json?offset=0&result_limit=50&sort=recent&normalized_country_code[]=USA&job_type[]=Full-Time&is_manager[]=0&category[]=software-development&category[]=machine-learning-"
+  }
+}
