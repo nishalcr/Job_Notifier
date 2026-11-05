@@ -1,6 +1,1 @@
-{
-  "cvs": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://jobs.cvshealth.com/us/en/search-results?keywords=software%20development%20engineer\nCall log:\n  - navigating to \"https://jobs.cvshealth.com/us/en/search-results?keywords=software%20development%20engineer\", waiting until \"domcontentl"
-  }
-}
+{}
