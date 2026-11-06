@@ -1,1 +1,6 @@
-{}
+{
+  "intuit": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Intuit search request failed with status 403"
+  }
+}
