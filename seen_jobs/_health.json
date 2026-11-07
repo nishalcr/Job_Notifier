@@ -1,19 +1,31 @@
 {
   "adobe": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    "broken_since": "2026-11-07T07:31:09+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
+    "status": "broken"
+  },
+  "capitalone": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 500"
   },
   "cisco": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    "broken_since": "2026-11-07T07:30:50+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
+    "status": "broken"
   },
   "cvs_wd": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    "broken_since": "2026-11-07T07:30:40+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
+    "status": "broken"
   },
   "disney": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    "broken_since": "2026-11-07T07:30:52+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
+    "status": "broken"
   },
   "goldman-sachs": {
     "broken_since": "2026-11-07T01:01:40+00:00",
@@ -22,32 +34,40 @@
     "status": "broken"
   },
   "hp": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    "broken_since": "2026-11-07T07:30:50+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
+    "status": "broken"
   },
   "intel": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    "broken_since": "2026-11-07T07:30:56+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
+    "status": "broken"
   },
   "nvidia": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
-  },
-  "oracle": {
-    "consecutive_failures": 1,
-    "last_error": "Timeout on page 1: APIRequestContext.get: Timeout 30000ms exceeded.\nCall log:\n  - \u2192 GET https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_45001,limit=25,offset=0,sortBy=POS"
+    "broken_since": "2026-11-07T07:30:48+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
+    "status": "broken"
   },
   "paloalto": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    "broken_since": "2026-11-07T07:31:08+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
+    "status": "broken"
   },
   "paypal": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    "broken_since": "2026-11-07T07:30:55+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
+    "status": "broken"
   },
   "redhat": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    "broken_since": "2026-11-07T07:31:01+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
+    "status": "broken"
   },
   "samsung": {
     "broken_since": "2026-11-07T07:20:53+00:00",
@@ -56,7 +76,9 @@
     "status": "broken"
   },
   "yahoo": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    "broken_since": "2026-11-07T07:31:00+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
+    "status": "broken"
   }
 }
