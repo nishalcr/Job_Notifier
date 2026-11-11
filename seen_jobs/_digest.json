@@ -1,5 +1,72 @@
 {
   "issues": [],
-  "jobs": [],
+  "jobs": [
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200693770-0836",
+        "key": "200693770-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "2026-11-11",
+        "team": "Software and Services",
+        "title": "Senior Product Designer (UI/UX), AI/ML Tools",
+        "url": "https://jobs.apple.com/en-us/details/200693770-0836/senior-product-designer-ui-ux-ai-ml-tools?team=SFTWR",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10598778",
+        "key": "10598778",
+        "location": "Raleigh, North Carolina",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "November 11, 2026",
+        "title": "Software Development Engineer, NetOS Observability",
+        "url": "https://www.amazon.jobs/en/jobs/10598778/software-development-engineer-netos-observability",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97117",
+        "key": "97117",
+        "location": "Austin, Texas",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "2026-11-11",
+        "title": "Senior Post Silicon Validation and Software Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/97117",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066672",
+        "key": "1970393557070459",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-11",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-11",
+        "team": "Applied Sciences",
+        "title": "Senior Machine Learning Engineer - Applied Scientist",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070459",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
+    }
+  ],
   "last_sent": "2026-11-11"
 }
