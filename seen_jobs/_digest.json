@@ -218,6 +218,23 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694649-2459",
+        "key": "200694649-2459",
+        "location": "New York City",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "2026-11-11",
+        "team": "Software and Services",
+        "title": "Senior Software Engineer, Apple Card & Savings",
+        "url": "https://jobs.apple.com/en-us/details/200694649-2459/senior-software-engineer-apple-card-savings?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-11"
