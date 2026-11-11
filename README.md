@@ -3,7 +3,7 @@
 Got bored checking careers page for major tech companies so I vibe coded a Job Notifier (Scrapes every 10 mins).
 
 
-A fully automated job-board monitor that scrapes career pages across 40 tech and finance companies, deduplicates listings against a persisted state store, and sends one Telegram message per run with every new opening. Runs on GitHub Actions every 10 minutes so you never miss an application window.
+A fully automated job-board monitor that scrapes career pages across 40 tech and finance companies, deduplicates listings against a persisted state store, and sends one daily Telegram digest (8 AM) with every new opening. Scrapes on GitHub Actions every 10 minutes so no posting is missed, even short-lived ones.
 
 > **Operations guide:** current status, every company's configuration, filters, triggers and runbooks are in [docs/OPERATIONS.md](docs/OPERATIONS.md).
 
@@ -12,10 +12,10 @@ A fully automated job-board monitor that scrapes career pages across 40 tech and
 - **44 companies out of the box** — Adobe, Amazon, AMD, Atlassian, American Express, Apple, Capital One, Cerebras, Cisco, CVS Health (two adapters), Databricks, Dell, Disney, DoorDash, Ford, GoDaddy, Goldman Sachs, Google, HP, IBM, Intel, Intuit, JPMorgan Chase, Lyft, Meta, Microsoft, Netflix, NVIDIA, Oracle, Palo Alto Networks, Paramount, PayPal, Pinterest, Red Hat, Reddit, Salesforce, Samsung, Snowflake, Spotify, Stripe, Uber, Yahoo, and Zscaler
 - **Headless browser scraping** — Playwright + Chromium handles JS-heavy career pages and interactive pagination without brittle DOM hacks
 - **Full-list comparison** — every run reads each company's complete US listing (in parallel) and compares it with `seen_jobs/<slug>.json`, so a new job is found wherever the site puts it; jobs are marked seen as soon as their message is delivered, so alerts never repeat
-- **One Telegram message per run** — every new job a run finds arrives in a single message, grouped by company, with the title linked to the posting plus location, post date, pay range, years of experience, remote/hybrid/onsite, team and job ID when the posting lists them (`details.py`; long runs are split into numbered parts)
+- **One daily Telegram digest** — jobs found during the day are queued (`seen_jobs/_digest.json`) and sent at `DIGEST_HOUR` (8 AM) in one digest, grouped by company, with the title linked to the posting plus location, post date, pay range, years of experience, remote/hybrid/onsite, team and job ID when the posting lists them (`details.py`; long runs are split into numbered parts)
 - **Safe by default** — a company's first run saves its current jobs without alerts; jobs posted over 30 days ago are saved quietly; a flood guard catches sites that change their job IDs; a stuck site is stopped after 6 minutes; `full_scrape.py` can seed state by hand
 - **Title filtering** — shared rules in `companies/filters.py`: US-only SWE, data, ML and AI roles at every level; managers, directors, VPs, interns, customer-facing and hardware engineering roles are dropped (whole-word matching)
-- **Scraper health alerts** — a company that errors or returns 0 jobs for 3 runs in a row (`HEALTH_FAILURE_THRESHOLD`) triggers one Telegram "broken" alert, and one "recovered" alert when it works again; state lives in `seen_jobs/_health.json`
+- **Scraper health alerts** — a company that errors or returns 0 jobs for 3 runs in a row (`HEALTH_FAILURE_THRESHOLD`) is listed as "broken" in the next digest's issues section, and as "recovered" when it works again; state lives in `seen_jobs/_health.json`
 - **Plug-in adapter architecture** — adding a new company is a single file that implements `CompanyDefinition`; no core code changes required
 - **GitHub Actions CI/CD** — both workflows commit updated state back to the repo, cache the Playwright browser binary, and handle concurrent run conflicts with `git pull --rebase`
 
@@ -45,7 +45,8 @@ cron-job.org → workflow_dispatch (every 10 min)
         │   ├─ Compare with seen_jobs/<slug>.json → jobs not seen before
         │   └─ Apply title / US / age filters, queue new jobs
         ├─ Open each new job's page for pay, experience, work type (details.py)
-        ├─ Send one Telegram message for the run  ──► 🔔 Telegram notification
+        ├─ Add new jobs to the digest queue (seen_jobs/_digest.json)
+        ├─ First run at/after 8 AM: send the daily digest  ──► 📬 Telegram
         └─ Commit updated seen_jobs/ back to repo (push retried)
 ```
 
@@ -101,7 +102,8 @@ python full_scrape.py --company amazon,uber
 | `JOB_CARD_TIMEOUT` | No | `8000` | Selector wait timeout (ms) |
 | `MAX_SEEN_JOBS` | No | `50000` | Cap on persisted job IDs per company |
 | `COMPANIES` | No | `apple` | Comma-separated slugs (the workflows pass all 44) |
-| `ALERT_TIMEZONE` | No | `America/Phoenix` | Time zone of the message header |
+| `ALERT_TIMEZONE` | No | `America/Phoenix` | Time zone for the digest hour |
+| `DIGEST_HOUR` | No | `8` | Hour (0–23) after which the daily digest is sent |
 | `HEALTH_FAILURE_THRESHOLD` | No | `3` | Consecutive failures before a "broken" alert |
 
 ## Adding a New Company
@@ -120,7 +122,8 @@ faang-jobs-notifier/
 ├── companies/          # One adapter file per company + shared base + registry
 ├── seen_jobs/          # Persisted job-ID state, one JSON file per company
 ├── docs/OPERATIONS.md  # Status, configuration and runbooks
-├── scraper.py          # Entry point: incremental scrape + Telegram alerts
+├── scraper.py          # Entry point: full-list scrape, queue new jobs, send digest
+├── digest.py           # Daily digest queue (seen_jobs/_digest.json)
 ├── full_scrape.py      # Entry point: seed seen_jobs by hand without alerts
 ├── tests/              # pytest suite (filters, state, run behaviour, messages)
 ├── tools/filter_audit.py # Lists stored jobs each filter rule drops

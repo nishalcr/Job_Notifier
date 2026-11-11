@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Multi-company jobs notifier.
-Scrapes configured careers pages and sends Telegram alerts for newly seen jobs.
+Scrapes configured careers pages every run, queues newly seen jobs, and sends them
+to Telegram as one daily digest (see digest.py).
 """
 
 import argparse
@@ -15,8 +16,9 @@ from playwright.async_api import async_playwright
 
 import config
 from details import add_job_details
+from digest import queue_issue, queue_jobs, send_digest_if_due
 from health import BROKEN, load_health, record_result, save_health
-from notifier import send_error, send_plain, send_run_summary, verify_bot
+from notifier import verify_bot
 from runner import LAST_ERRORS, collect_jobs
 from state import (
     filter_new_jobs,
@@ -43,8 +45,8 @@ MAX_ALERT_AGE_DAYS = 30
 
 # If a company's listing suddenly contains almost none of the jobs already saved for
 # it (under FLOOD_KNOWN_SHARE) while many look new (FLOOD_MIN_JOBS or more), the site
-# most likely changed its job IDs: everything is marked seen without alerts and one
-# warning is sent, instead of re-sending every job. (A listing where many jobs are new
+# most likely changed its job IDs: everything is marked seen without alerts and a
+# warning goes in the digest, instead of re-sending every job. (A listing where many jobs are new
 # but most known ones are still there is a real catch-up and is alerted normally.)
 FLOOD_KNOWN_SHARE = 0.1
 FLOOD_MIN_JOBS = 50
@@ -76,8 +78,8 @@ async def _run_company_scrape(browser, slug: str, pending: list) -> tuple[bool, 
     """
     Scrape one company. Returns (ok, error message).
 
-    Jobs to alert on are appended to pending as (runtime config, jobs); the run sends
-    them all in one message at the end.
+    Jobs to alert on are appended to pending as (runtime config, jobs); the run adds
+    them to the daily digest queue at the end.
     """
     runtime_config = None
 
@@ -113,7 +115,7 @@ async def _run_company_scrape(browser, slug: str, pending: list) -> tuple[bool, 
                 "saved without alerts; check the adapter."
             )
             print(f"[{runtime_config.slug}] Flood guard: {message}")
-            await send_error(runtime_config.display_name, message)
+            queue_issue(runtime_config.display_name, message)
             return True, ""
 
         to_alert = []
@@ -133,7 +135,7 @@ async def _run_company_scrape(browser, slug: str, pending: list) -> tuple[bool, 
         mark_jobs_seen(runtime_config, skipped)
 
         if to_alert:
-            print(f"[{runtime_config.slug}] Queued {len(to_alert)} job(s) for this run's message:")
+            print(f"[{runtime_config.slug}] Found {len(to_alert)} new job(s) for the digest:")
             for job in to_alert:
                 print(f"  - {job['title']}")
             pending.append((runtime_config, to_alert))
@@ -150,33 +152,23 @@ async def _run_company_scrape(browser, slug: str, pending: list) -> tuple[bool, 
         return False, f"Unexpected error: {exc}"
 
 
-async def _send_pending(pending: list) -> None:
-    """Send the run's queued jobs as one message; jobs are marked seen once delivered."""
-    if not pending:
-        return
-    # Adapters for the same employer (CVS) run in parallel: send a shared job once.
+def _queue_pending(pending: list) -> None:
+    """Add the run's new jobs to the daily digest queue and mark them seen."""
+    # Adapters for the same employer (CVS) run in parallel: queue a shared job once.
     queued: dict[str, set[str]] = {}
-    deduped = []
+    total = 0
     for runtime_config, jobs in pending:
         siblings = runtime_config.definition.shares_jobs_with
         taken = set().union(*(queued.get(slug, set()) for slug in siblings))
         keep = [job for job in jobs if job_key(job) not in taken]
-        mark_jobs_seen(runtime_config, [job for job in jobs if job_key(job) in taken])
         queued[runtime_config.slug] = {job_key(job) for job in keep}
-        if keep:
-            deduped.append((runtime_config, keep))
-    pending = deduped
-    by_name = {runtime_config.display_name: runtime_config for runtime_config, _ in pending}
-    total = sum(len(jobs) for _, jobs in pending)
-    print(f"[scraper] Sending {total} job(s) to Telegram in one message...")
-    delivered = await send_run_summary(
-        [(runtime_config.display_name, jobs) for runtime_config, jobs in pending],
-        # Saved the moment each part is sent, so a run that dies part-way through
-        # never re-sends what it already delivered.
-        on_delivered=lambda name, jobs: mark_jobs_seen(by_name[name], jobs),
-    )
-    if delivered < total:
-        print(f"[scraper] {total - delivered} job(s) not delivered; they will be retried next run")
+        # Queue first, then mark seen: a run that dies in between re-finds the job
+        # next run, and queue_jobs ignores a job that is already queued.
+        queue_jobs(runtime_config.display_name, runtime_config.slug, keep)
+        mark_jobs_seen(runtime_config, jobs)
+        total += len(keep)
+    if total:
+        print(f"[scraper] Added {total} job(s) to the daily digest queue")
 
 
 async def _report_health(health: dict, slug: str, ok: bool, error: str) -> None:
@@ -192,10 +184,10 @@ async def _report_health(health: dict, slug: str, ok: bool, error: str) -> None:
     if transition == BROKEN:
         failures = health[slug]["consecutive_failures"]
         print(f"[health] {company_name} marked broken after {failures} consecutive failures")
-        await send_error(company_name, f"Broken for {failures} consecutive runs. Last error: {error}")
+        queue_issue(company_name, f"Broken for {failures} consecutive runs. Last error: {error}")
     else:
         print(f"[health] {company_name} recovered")
-        await send_plain(f"✅ {company_name} scraper recovered.")
+        queue_issue(company_name, "Recovered ✅")
 
 
 async def run_scraper(selected_companies: list[str] | None = None) -> None:
@@ -251,10 +243,15 @@ async def run_scraper(selected_companies: list[str] | None = None) -> None:
                 await add_job_details(browser, [job for _, jobs in pending for job in jobs])
             except Exception as exc:
                 print(f"[details] Skipped job details: {exc}")
-            await _send_pending(pending)
+            _queue_pending(pending)
         finally:
             await browser.close()
             save_health(health)
+
+    try:
+        await send_digest_if_due(requested_companies)
+    except Exception as exc:
+        print(f"[digest] Could not send the digest: {exc}")
 
     elapsed = time.time() - start_time
     print(f"\n[scraper] Run completed in {elapsed:.1f}s")

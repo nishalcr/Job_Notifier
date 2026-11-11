@@ -5,6 +5,8 @@ from datetime import date, timedelta
 
 import pytest
 
+import config
+import digest
 import scraper
 from state import load_seen_jobs
 
@@ -18,12 +20,12 @@ def fake_run(seen_dir, monkeypatch):
     async def fake_collect(browser, runtime_config, pages):
         return [dict(job) for job in listings.get(runtime_config.slug, [])]
 
-    async def fake_send(groups, on_delivered=None):
+    async def fake_send(groups, issues, now, on_delivered=None):
         for name, jobs in groups:
             sent.setdefault(name, []).extend(job["title"] for job in jobs)
             if on_delivered:
                 on_delivered(name, jobs)
-        return sum(len(jobs) for _, jobs in groups)
+        return sum(len(jobs) for _, jobs in groups), True
 
     async def ok(*args, **kwargs):
         return True
@@ -50,16 +52,20 @@ def fake_run(seen_dir, monkeypatch):
             return FakeBrowser()
 
     monkeypatch.setattr(scraper, "collect_jobs", fake_collect)
-    monkeypatch.setattr(scraper, "send_run_summary", fake_send)
+    monkeypatch.setattr(digest, "send_digest", fake_send)
+    # Every run in these tests sends the digest: due from midnight, once per "day".
+    monkeypatch.setattr(config, "DIGEST_HOUR", 0)
     monkeypatch.setattr(scraper, "add_job_details", no_details)
     monkeypatch.setattr(scraper, "async_playwright", FakePlaywright)
-    for name in ("verify_bot", "send_error", "send_plain"):
-        monkeypatch.setattr(scraper, name, ok)
+    monkeypatch.setattr(scraper, "verify_bot", ok)
 
     def run(new_listings: dict[str, list[dict]]) -> dict[str, list[str]]:
         listings.clear()
         listings.update(new_listings)
         sent.clear()
+        queue = digest.load_queue()
+        queue["last_sent"] = ""
+        digest._save_queue(queue)
         asyncio.run(scraper.run_scraper(list(new_listings)))
         return dict(sent)
 

@@ -15,8 +15,11 @@ load_dotenv()
 # Telegram
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
-# Timezone for the time shown in the per-run separator message.
+# Timezone for message times and the daily digest hour.
 ALERT_TIMEZONE = os.getenv("ALERT_TIMEZONE", "America/Phoenix")
+# New jobs are collected all day and sent as one digest by the first run at or after
+# this hour (ALERT_TIMEZONE), once per day.
+DIGEST_HOUR = int(os.getenv("DIGEST_HOUR", "8"))
 
 # Scraping
 PAGE_LOAD_TIMEOUT = int(os.getenv("PAGE_LOAD_TIMEOUT", "15000"))

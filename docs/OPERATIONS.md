@@ -7,7 +7,8 @@ Last updated: 2026-10-30. Repo: `nishalcr/Job_Notifier` (fork of `rohitdanti/FAA
 
 ## Current status
 
-- **Live.** 44 companies are scraped every 10 minutes on GitHub Actions; new jobs arrive in Telegram.
+- **Live.** 44 companies are scraped every 10 minutes on GitHub Actions. Since 2026-11-11, new jobs are
+  collected all day and arrive as **one daily digest at 8 AM Arizona time** (no real-time alerts).
 - **Live and verified (2026-10-30).** 44 companies; every run reads each company's **full** US job list
   (about 26,600 jobs) and alerts every matching job not seen before.
   - First run on this design (19:20 UTC) sent a one-time catch-up of 350 missed jobs from the last 30 days, in 295 s.
@@ -36,17 +37,23 @@ Last updated: 2026-10-30. Repo: `nishalcr/Job_Notifier` (fork of `rohitdanti/FAA
    Jobs that fail a check are marked seen silently. Special cases:
    - **First run for a company** (no saved state): its current jobs are saved without alerts.
    - **Flood guard:** if 50+ jobs look new while under 10% of the saved jobs are still listed, the site most
-     likely changed its job IDs. Everything is saved without alerts and one warning is sent.
+     likely changed its job IDs. Everything is saved without alerts and a warning goes in the digest.
 4. **Details.** Each job about to be alerted has its page opened once (`details.py`) to read
    the pay range, years of experience and Remote/Hybrid/Onsite. The cap is 40 jobs and 150 s per run.
-5. **Send.** One Telegram message per run, grouped by company. It is split into numbered parts if it is over 3800 characters.
-6. **Save.** Each job is marked seen as soon as the part containing it is delivered. The
-   workflow then commits `seen_jobs/` (push retried up to 5 times).
+5. **Queue.** New jobs are added to `seen_jobs/_digest.json` and marked seen (`digest.py`).
+   Nothing is sent to Telegram during the day.
+6. **Daily digest.** The first run at or after `DIGEST_HOUR` (8 AM, `ALERT_TIMEZONE`) sends everything
+   queued as one digest, grouped by company, split into numbered parts over 3800 characters. A
+   final message lists scraper issues (broken/recovered companies, flood-guard warnings) since the
+   last digest. A day with no jobs still gets "No new matching jobs", so silence means something is wrong.
+   - Jobs leave the queue as soon as the part holding them is delivered; `last_sent` (the date) is set
+     only when everything went out. If 8:00 fails, the 8:10 run retries just the undelivered parts.
+7. **Save.** The workflow commits `seen_jobs/` (queue included; push retried up to 5 times).
 
 ### Message format
 
 ```
-🔔 3 new jobs · Oct 23, 12:40 PM
+📬 Daily digest · Thu, Nov 12 · 3 new jobs
 
 Snowflake · 1
 • Software Engineer                      (title links to the posting)
@@ -59,23 +66,28 @@ Missing details are left out. Pay is found on roughly two thirds of postings. Am
 Apple, NVIDIA, JPMC, Dell, IBM and AMD often show no readable range. Work type is a best guess
 from the page text.
 
-Other messages:
-- `⚠️ <Company> Jobs Scraper Error`: a company failed 3 runs in a row (`HEALTH_FAILURE_THRESHOLD`).
-- `✅ <Company> scraper recovered.`: sent when it works again.
-- Health state lives in `seen_jobs/_health.json`.
+Issues message (after the jobs, only if there were any):
+- `<Company>: Broken for 3 consecutive runs. Last error: …` (`HEALTH_FAILURE_THRESHOLD`).
+- `<Company>: Recovered ✅` when it works again.
+- Health state lives in `seen_jobs/_health.json`; queued issues in `seen_jobs/_digest.json`.
+
+To get a digest early (e.g. testing), lower `last_sent` in `seen_jobs/_digest.json`, or run with
+`DIGEST_HOUR=0`.
 
 ## Never sending the same alert twice
 
 | Risk | Protection |
 |---|---|
-| Run dies after sending | Jobs marked seen per delivered message part, not at the end |
+| Run dies while sending the digest | Jobs removed from the queue per delivered part, not at the end |
+| Run dies between queueing and marking seen | Queue written first; a job already queued is not queued again |
+| Digest sent twice in a day | `last_sent` date in `_digest.json` |
 | State push fails (GitHub 500) | Push retried 5× with backoff; error annotation if all fail |
 | Job times out before saving | Scraper step timeout (14 min) < job timeout (18 min), so the save step always runs |
 | Telegram reply lost after posting | Read timeout counts as sent; only connect errors are retried |
 | Queued run uses stale state | Checkout uses `ref: ${{ github.ref_name }}` (branch tip); concurrency group `seen-jobs-state` |
 | Seeding during an outage wipes state | `full_scrape.py` merges into the store and skips companies that return 0 jobs |
 | Old entries pruned then re-seen | `MAX_SEEN_JOBS` = 50000 per company |
-| Site changes its job IDs | Flood guard: saved without alerts, one warning |
+| Site changes its job IDs | Flood guard: saved without alerts, one warning in the digest |
 | Same job on both CVS feeds in one run | Queued jobs of sibling adapters are checked too |
 
 In the week before these fixes, 1 duplicate was found in 958 alerts; it was caused by a failed push.
@@ -183,7 +195,8 @@ Every run reads each company's full listing; the page limits in each company fil
 |---|---|---|
 | `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | — | Telegram destination (required) |
 | `COMPANIES` | `apple` locally; all 44 in the workflows | Comma-separated slugs to scrape |
-| `ALERT_TIMEZONE` | `America/Phoenix` | Time shown in message headers |
+| `ALERT_TIMEZONE` | `America/Phoenix` | Time zone for the digest hour and dates |
+| `DIGEST_HOUR` | `8` | Hour (0–23) after which the daily digest is sent |
 | `MAX_SEEN_JOBS` | `50000` | Seen-job cap per company |
 | `HEALTH_FAILURE_THRESHOLD` | `3` | Consecutive failures before a "broken" alert |
 | `PAGE_LOAD_TIMEOUT` | `15000` | Playwright page load timeout (ms) |
@@ -280,6 +293,7 @@ Run **Send Jobs Posted On A Day** (`send-recent.yml`) with the companies and a d
   - Added the duplicate protections above.
 - **2026-10-29:** added Oracle and Cerebras.
 - **2026-10-30:** added Atlassian and Intuit. Found runs missing jobs below the first pages (Amazon order, Workday backdated posts). Redesigned: every run reads every company's full list in parallel and compares it with the saved jobs; flood guard, per-company time limit, retries, tests. Salesforce and CVS (Workday) moved to the Workday API. Same-title rule removed. Filter audit: plurals, typos, scientist/researcher titles, Cisco Technical Leader, core-role override; 20 missed jobs from the previous week re-sent.
+- **2026-11-11:** real-time alerts replaced by one daily digest at 8 AM Arizona time (`digest.py`); scraper issues moved into the digest.
 - **2026-10-23:**
   - One message per run.
   - Job details (pay, experience, work type, team, ID).

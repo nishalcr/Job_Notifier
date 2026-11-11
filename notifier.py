@@ -20,6 +20,7 @@ MAX_RETRY_AFTER_SECONDS = 60
 async def send_run_summary(
     groups: list[tuple[str, list[dict]]],
     on_delivered: Callable[[str, list[dict]], None] | None = None,
+    title: str = "",
 ) -> int:
     """
     Send all of a run's new jobs as one message, grouped by company.
@@ -27,15 +28,17 @@ async def send_run_summary(
     groups is [(company name, jobs), ...]. A run with more than fits in one Telegram
     message is split into numbered parts. on_delivered(company name, jobs) is called
     for each part as soon as it is sent, so callers can mark those jobs seen.
+    title (MarkdownV2) replaces the default "N new jobs · time" header.
     Returns the number of jobs delivered.
     """
     total = sum(len(jobs) for _, jobs in groups)
     if not total:
         return 0
 
-    now = datetime.now(ZoneInfo(config.ALERT_TIMEZONE))
-    stamp = f"{now:%b} {now.day}, {now:%I:%M %p}".replace(" 0", " ")
-    title = f"🔔 *{total} new job{'s' if total != 1 else ''}* · {_escape_md(stamp)}"
+    if not title:
+        now = datetime.now(ZoneInfo(config.ALERT_TIMEZONE))
+        stamp = f"{now:%b} {now.day}, {now:%I:%M %p}".replace(" 0", " ")
+        title = f"🔔 *{total} new job{'s' if total != 1 else ''}* · {_escape_md(stamp)}"
 
     # Build every part first, so each can be numbered "(1/3)".
     parts: list[tuple[list[str], dict[str, list[dict]]]] = []
@@ -79,6 +82,33 @@ async def send_run_summary(
             if on_delivered:
                 on_delivered(company_name, jobs)
     return delivered
+
+
+async def send_digest(
+    groups: list[tuple[str, list[dict]]],
+    issues: list[str],
+    now: datetime,
+    on_delivered: Callable[[str, list[dict]], None] | None = None,
+) -> tuple[int, bool]:
+    """
+    Send the daily digest: the jobs (split into parts like a run summary), then one
+    message listing scraper issues if there were any. A day with no jobs still gets a
+    short "no new jobs" message, so silence always means something is wrong.
+    Returns (jobs delivered, whether the no-jobs/issues message was delivered).
+    """
+    total = sum(len(jobs) for _, jobs in groups)
+    day = _escape_md(f"{now:%a, %b} {now.day}")
+    title = f"📬 *Daily digest* · {day} · *{total} new job{'s' if total != 1 else ''}*"
+    delivered = await send_run_summary(groups, on_delivered, title=title) if total else 0
+
+    lines = [] if total else [f"📬 *Daily digest* · {day}", "No new matching jobs in the last day\\."]
+    if issues:
+        lines += ["", "⚠️ *Scraper issues since the last digest*"]
+        lines += [f"• {_escape_md(issue[:200])}" for issue in issues[-30:]]
+        if len(issues) > 30:
+            lines.append(_escape_md(f"…and {len(issues) - 30} earlier"))
+    extras_ok = await _send_message("\n".join(lines).strip()) if lines else True
+    return delivered, extras_ok
 
 
 def _summary_entry(job: dict) -> str:
