@@ -235,6 +235,22 @@
         "years": ""
       },
       "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602900",
+        "key": "10602900",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "November 11, 2026",
+        "title": "Software Development Engineer, EC2 UltraServer Delivery Team",
+        "url": "https://www.amazon.jobs/en/jobs/10602900/software-development-engineer-ec2-ultraserver-delivery-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-11"
