@@ -7,10 +7,12 @@ Last updated: 2026-10-30. Repo: `nishalcr/Job_Notifier` (fork of `rohitdanti/FAA
 
 ## Current status
 
-- **Live.** 44 companies are scraped every 10 minutes on GitHub Actions. Since 2026-11-11, new jobs are
-  collected all day and arrive as **one daily digest at 8 AM Arizona time** (no real-time alerts).
-- **Live and verified (2026-10-30).** 44 companies; every run reads each company's **full** US job list
-  (about 26,600 jobs) and alerts every matching job not seen before.
+- **Live.** 44 companies are scraped every 10 minutes on GitHub Actions. New jobs are collected all day
+  and arrive as **one Telegram digest at 8 AM Arizona time**. There are no real-time alerts.
+- **Daily digest verified live (2026-11-11).** The first run on the new code (22:40 UTC) queued 2 jobs and
+  sent them as that day's digest; the queue emptied and `last_sent` was set. From 2026-11-12 the digest arrives at 8 AM.
+- **Full-list design verified (2026-10-30).** Every run reads each company's **full** US job list
+  (about 26,600 jobs) and queues every matching job not seen before.
   - First run on this design (19:20 UTC) sent a one-time catch-up of 350 missed jobs from the last 30 days, in 295 s.
   - First normal run after it (19:30 UTC) sent 5 new jobs in 230 s.
   - Runs take 4–5 minutes. Opening job pages for details adds up to 2.5 minutes when there are many new jobs.
@@ -175,7 +177,7 @@ Every run reads each company's full listing; the page limits in each company fil
 
 **Known behaviour:**
 - Workday's wd1/wd5 data centers have maintenance windows (seen Saturday around 06:00 UTC).
-- During one, requests redirect to an outage page, and several Workday companies send "broken" alerts that recover on their own.
+- During one, requests redirect to an outage page, and several Workday companies show up as "broken" then "Recovered" in the digest's issues section.
 - Capital One (wd12) is not affected.
 
 ## Configuration
@@ -198,7 +200,7 @@ Every run reads each company's full listing; the page limits in each company fil
 | `ALERT_TIMEZONE` | `America/Phoenix` | Time zone for the digest hour and dates |
 | `DIGEST_HOUR` | `8` | Hour (0–23) after which the daily digest is sent |
 | `MAX_SEEN_JOBS` | `50000` | Seen-job cap per company |
-| `HEALTH_FAILURE_THRESHOLD` | `3` | Consecutive failures before a "broken" alert |
+| `HEALTH_FAILURE_THRESHOLD` | `3` | Consecutive failures before a company is listed as broken in the digest |
 | `PAGE_LOAD_TIMEOUT` | `15000` | Playwright page load timeout (ms) |
 | `JOB_CARD_TIMEOUT` | `8000` | Selector wait timeout (ms) |
 | `SCRAPE_ARTIFACTS_DIR` | `artifacts/` | Where failure diagnostics are saved |
@@ -213,7 +215,7 @@ Tunables in code:
 
 | File | Purpose | Trigger | Timeout |
 |---|---|---|---|
-| `scrape.yml` | Regular run: alert on new jobs, commit `seen_jobs/` | cron-job.org every 10 min | 18 min (scraper step 14) |
+| `scrape.yml` | Regular run: queue new jobs, send the digest at 8 AM, commit `seen_jobs/` | cron-job.org every 10 min | 18 min (scraper step 14) |
 | `full-scrape.yml` | Seed `seen_jobs/` without alerts | manual | 90 min |
 | `send-recent.yml` | Send matching jobs posted on a given day, even if already seen | manual (`companies`, `posted_on`) | 15 min |
 
@@ -244,22 +246,22 @@ Don't bulk-download hundreds of run logs. That trips GitHub's API rate limit for
 2. Create `companies/<slug>.py` using the shared builder (`workday_company`, `greenhouse_company`, `oracle_hcm_company`, `ashby_company`, `lever_company`, `eightfold_company`). Register it in `companies/registry.py`.
 3. Test locally that it returns US jobs and that the matching titles look right.
 4. Make sure its page limit (`default_full_scrape_max_pages`) is above the site's page count.
-5. Add the slug to `scrape.yml` and `full-scrape.yml` and push. Its first run saves the current jobs without alerts; alerts start from the run after.
+5. Add the slug to `scrape.yml` and `full-scrape.yml` and push. Its first run saves the current jobs silently; new jobs go into the digest from the run after.
 
 ### Widen filters or search scope
 1. Change `companies/filters.py` (or the company's site filter), add the titles to `tests/test_filters.py`, and run the tests.
 2. Run `.venv/bin/python tools/filter_audit.py --show 20` to check nothing real is still dropped.
-3. Push. New postings that match are alerted from the next run.
-4. Optional: recent jobs the old filter dropped are already saved as seen and will not be alerted. To get them,
+3. Push. New postings that match are queued for the digest from the next run.
+4. Optional: recent jobs the old filter dropped are already saved as seen and will not be sent. To get them,
    remove those keys from `seen_jobs/<slug>.json` (jobs first seen in the last few days that now pass the filter)
-   and commit; the next run alerts them if they were posted within 30 days.
+   and commit; the next run queues them if they were posted within 30 days.
 
 A wider *site-side* search (for example a removed category filter) brings in jobs never saved before. The next run
-alerts those posted within 30 days and saves older ones quietly. If many jobs appear at once while the saved ones are
+queues those posted within 30 days and saves older ones quietly. If many jobs appear at once while the saved ones are
 still listed, that is a real catch-up, not a flood.
 
 ### Catch up on jobs a fix now matches
-`send_recent.py --unseen --company <slugs>` reads deeper than a regular run and sends every matching job not in the seen store, then marks it seen. It needs `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`, and you must commit `seen_jobs/` afterwards. Regular runs now do this automatically for jobs posted in the last 30 days, so this is rarely needed.
+`send_recent.py --unseen --company <slugs>` reads deeper than a regular run and sends every matching job not in the seen store, then marks it seen. It needs `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`, and you must commit `seen_jobs/` afterwards. It sends right away (not via the digest). Regular runs already queue unseen jobs posted in the last 30 days, so this is rarely needed.
 
 ### Catch up on jobs that were seeded without alerts
 Run **Send Jobs Posted On A Day** (`send-recent.yml`) with the companies and a date, or locally:
@@ -267,13 +269,15 @@ Run **Send Jobs Posted On A Day** (`send-recent.yml`) with the companies and a d
 .venv/bin/python send_recent.py --company microsoft --posted-on 2026-10-23
 ```
 
-### Runs stopped arriving
+### No digest at 8 AM, or runs stopped
+0. A day with no jobs still sends "No new matching jobs", so a missing digest always means a problem.
+   If runs are fine, check `seen_jobs/_digest.json`: undelivered jobs stay in `jobs` and the next run retries.
 1. Check `gh run list`. If nothing has run in the last 20 minutes, the trigger is the problem.
 2. Check the cron-job.org execution history for the job, and whether the job was auto-disabled after failures.
 3. Check the PAT expiry date. A 401 means the token expired; a 403 rate limit usually clears within an hour.
 4. Start a run by hand: `gh workflow run scrape.yml -R nishalcr/Job_Notifier`.
 
-### A company sends "broken"
+### The digest lists a company as "broken"
 1. Look at `last_error` in `seen_jobs/_health.json` and the run's `scraper-diagnostics` artifact.
 2. Test the company locally: `.venv/bin/python scraper.py --company <slug>`. With no `.env`, this skips Telegram but still updates local seen state, so don't commit those files.
 3. If it is a Workday maintenance redirect, wait. It recovers on its own.

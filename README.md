@@ -104,7 +104,7 @@ python full_scrape.py --company amazon,uber
 | `COMPANIES` | No | `apple` | Comma-separated slugs (the workflows pass all 44) |
 | `ALERT_TIMEZONE` | No | `America/Phoenix` | Time zone for the digest hour |
 | `DIGEST_HOUR` | No | `8` | Hour (0–23) after which the daily digest is sent |
-| `HEALTH_FAILURE_THRESHOLD` | No | `3` | Consecutive failures before a "broken" alert |
+| `HEALTH_FAILURE_THRESHOLD` | No | `3` | Consecutive failures before a company is listed as broken in the digest |
 
 ## Adding a New Company
 
