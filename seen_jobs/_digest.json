@@ -251,6 +251,23 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694651-2459",
+        "key": "200694651-2459",
+        "location": "New York City",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "2026-11-11",
+        "team": "Software and Services",
+        "title": "Software Engineering Technical Lead, Apple Card & Savings",
+        "url": "https://jobs.apple.com/en-us/details/200694651-2459/software-engineering-technical-lead-apple-card-savings?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-11"
