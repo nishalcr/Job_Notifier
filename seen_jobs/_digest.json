@@ -66,6 +66,22 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "94435",
+        "key": "94435",
+        "location": "Austin, Texas",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "2026-11-11",
+        "title": "Software System Design Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/94435",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-11"
