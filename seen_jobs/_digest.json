@@ -82,6 +82,142 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602871",
+        "key": "10602871",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "November 11, 2026",
+        "title": "Senior Software Engineer, Requirements , Amazon LEO, D2D Software",
+        "url": "https://www.amazon.jobs/en/jobs/10602871/senior-software-engineer-requirements-amazon-leo-d2d-software",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602872",
+        "key": "10602872",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "November 11, 2026",
+        "title": "Senior Software Engineer, Interfaces and Contracts, Amazon LEO, D2D Software",
+        "url": "https://www.amazon.jobs/en/jobs/10602872/senior-software-engineer-interfaces-and-contracts-amazon-leo-d2d-software",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602870",
+        "key": "10602870",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "November 11, 2026",
+        "title": "Business Intelligence Engineer II, R2L Analytics",
+        "url": "https://www.amazon.jobs/en/jobs/10602870/business-intelligence-engineer-ii-r2l-analytics",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602874",
+        "key": "10602874",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "November 11, 2026",
+        "title": "Business Intelligence Engineer II, Rapid and Rural Logistics",
+        "url": "https://www.amazon.jobs/en/jobs/10602874/business-intelligence-engineer-ii-rapid-and-rural-logistics",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "113654329000239814",
+        "key": "113654329000239814",
+        "location": "Kirkland, WA, USA; +1 more",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Runtimes",
+        "title": "Staff Software Engineer, Infrastructure, Google Cloud Runtimes",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/113654329000239814",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "139796317462241990",
+        "key": "139796317462241990",
+        "location": "Kirkland, WA, USA",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "",
+        "team": "Security/Privacy / Google Cloud Security and Privacy",
+        "title": "Software Engineer III, Security/Privacy, Google Cloud Security and Privacy",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/139796317462241990",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "85838883840762566",
+        "key": "85838883840762566",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Networking",
+        "title": "Software Engineer III, Infrastructure, Google Cloud Networking",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/85838883840762566",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "122485606394536646",
+        "key": "122485606394536646",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-11",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Compute Infrastructure",
+        "title": "Senior Software Engineer, Infrastructure, Google Cloud Compute Infrastructure",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/122485606394536646",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-11"
