@@ -923,6 +923,42 @@
         "years": "5+ yrs"
       },
       "slug": "amex"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's leadership team hand-picks thorny business challenges, and members of BizOps work in small teams to find solutions. As part of this team you fully immerse yourself in data collection, draw insight from analysis, and then zoom out to develop compelling, synthesized recomm",
+        "job_id": "107816231494394566",
+        "key": "107816231494394566",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "gUP Analytics",
+        "title": "Business Data Scientist, gUP Analytics",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/107816231494394566",
+        "work_type": "Remote",
+        "years": "3+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "119104917376770758",
+        "key": "119104917376770758",
+        "location": "Atlanta, GA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Full Stack and Advanced Algorithms",
+        "title": "Senior Software Engineer, Full Stack and Advanced Algorithms",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/119104917376770758",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-11"
