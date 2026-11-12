@@ -82,6 +82,71 @@
         "years": "1+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603275",
+        "key": "10603275",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Senior Security Engineer, Corporate Services Security",
+        "url": "https://www.amazon.jobs/en/jobs/10603275/senior-security-engineer-corporate-services-security",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005553",
+        "key": "R1005553",
+        "location": "2 Locations",
+        "posted": "2026-11-12",
+        "salary": "$179K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Data Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Data-Engineer-4_R1005553-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066243",
+        "key": "1970393557055972",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-12",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557055972",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103208841152",
+        "key": "103208841152",
+        "location": "New York, New York",
+        "posted": "2026-11-12",
+        "salary": "$202K\u2013$274K",
+        "source_posted": "",
+        "title": "Staff Software Engineer, Agentic Workflows",
+        "url": "https://jobs.intuit.com/job/new-york/staff-software-engineer-agentic-workflows/27595/103208841152",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-12"
