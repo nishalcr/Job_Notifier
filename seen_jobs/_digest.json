@@ -147,6 +147,38 @@
         "years": "8+ yrs"
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005670",
+        "key": "R1005670",
+        "location": "Chicago, IL",
+        "posted": "2026-11-12",
+        "salary": "$209K\u2013$238K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 5",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-5_R1005670",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005633",
+        "key": "R1005633",
+        "location": "2 Locations",
+        "posted": "2026-11-12",
+        "salary": "$245K\u2013$307K",
+        "source_posted": "Posted Today",
+        "title": "Staff Full-stack Engineer",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/US-Remote/Staff-Full-stack-Engineer_R1005633-1",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-12"
