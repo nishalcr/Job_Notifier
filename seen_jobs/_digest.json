@@ -1097,6 +1097,22 @@
         "years": "7+ yrs"
       },
       "slug": "reddit"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "300012",
+        "key": "300012",
+        "location": "VA, United States",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Deployment Engineer - Federal Customer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/300012",
+        "work_type": "Onsite",
+        "years": "12+ yrs"
+      },
+      "slug": "dell"
     }
   ],
   "last_sent": "2026-11-11"
