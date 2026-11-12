@@ -1063,6 +1063,40 @@
         "years": "2+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "84410790034973382",
+        "key": "84410790034973382",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI Storage Infrastructure",
+        "title": "Senior Software Engineer, AI Storage Infrastructure",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/84410790034973382",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Reddit",
+      "job": {
+        "job_id": "8382925",
+        "key": "8382925",
+        "location": "New York City, NY",
+        "posted": "2026-11-12",
+        "salary": "$230K\u2013$322K",
+        "source_posted": "2026-11-12",
+        "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8382925",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "reddit"
     }
   ],
   "last_sent": "2026-11-11"
