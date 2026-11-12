@@ -2267,6 +2267,56 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694541-3337",
+        "key": "200694541-3337",
+        "location": "Seattle",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "team": "Software and Services",
+        "title": "Senior Software Engineer, AI Inference Asset Delivery Platform",
+        "url": "https://jobs.apple.com/en-us/details/200694541-3337/senior-software-engineer-ai-inference-asset-delivery-platform?team=SFTWR",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603862",
+        "key": "10603862",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer II - Change Review , Amazon Software Builder Experience \u2013 Change Auto Review Experience (CRUX)",
+        "url": "https://www.amazon.jobs/en/jobs/10603862/software-development-engineer-ii-change-review-amazon-software-builder-experience-change-auto-review-experience-crux",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143004",
+        "key": "143004",
+        "location": "Multiple Cities",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "AI Architect - Enterprise Integrations",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143004",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
     }
   ],
   "last_sent": "2026-11-12"
