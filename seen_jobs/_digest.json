@@ -935,6 +935,38 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603660",
+        "key": "10603660",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer - Embedded, Flight Computer Software",
+        "url": "https://www.amazon.jobs/en/jobs/10603660/software-development-engineer-embedded-flight-computer-software",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603659",
+        "key": "10603659",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer, Amazon Leo Live",
+        "url": "https://www.amazon.jobs/en/jobs/10603659/software-development-engineer-amazon-leo-live",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-12"
