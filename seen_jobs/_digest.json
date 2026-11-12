@@ -1165,6 +1165,72 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1476374641074357",
+        "key": "1476374641074357",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Engineering",
+        "title": "Software Engineer, Agent Transformation Accelerator XFN (Technical Leadership)",
+        "url": "https://www.metacareers.com/profile/job_details/1476374641074357",
+        "work_type": "",
+        "years": "15+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR367247",
+        "key": "JR367247",
+        "location": "4 Locations",
+        "posted": "2026-11-12",
+        "salary": "$150K\u2013$227K",
+        "source_posted": "Posted Today",
+        "title": "CIC Strategic Programs Senior Architect",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Illinois---Chicago/CIC-Strategic-Programs-Senior-Architect_JR367247",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808518",
+        "key": "210808518",
+        "location": "NY, United States; +1 more",
+        "posted": "2026-11-12",
+        "salary": "$152K\u2013$260K",
+        "source_posted": "2026-11-12",
+        "title": "Sr Lead Software Engineer - AI Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808518",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "342848",
+        "key": "342848",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-12",
+        "salary": "$70K\u2013$166K",
+        "source_posted": "2026-11-12",
+        "title": "Core Infrastructure Engineer 2",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342848",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-12"
