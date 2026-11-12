@@ -591,6 +591,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029924",
+        "key": "JR2029924",
+        "location": "2 Locations",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Enterprise Product Engineer - Fullstack",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Product-Engineer---Fullstack_JR2029924",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-11"
