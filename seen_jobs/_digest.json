@@ -66,6 +66,22 @@
         "years": "3\u20135 yrs"
       },
       "slug": "amex"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005289",
+        "key": "R1005289",
+        "location": "McLean, VA",
+        "posted": "2026-11-12",
+        "salary": "$117K\u2013$133K",
+        "source_posted": "Posted Today",
+        "title": "Associate, Data Scientist - US Card",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-12"
