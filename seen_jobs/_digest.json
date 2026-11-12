@@ -374,6 +374,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "342836",
+        "key": "342836",
+        "location": "Nashville, TN, United States; +6 more",
+        "posted": "2026-11-12",
+        "salary": "$91K\u2013$187K",
+        "source_posted": "2026-11-12",
+        "title": "Senior Network Developer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342836",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-12"
