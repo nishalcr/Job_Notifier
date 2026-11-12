@@ -618,6 +618,90 @@
         "years": ""
       },
       "slug": "atlassian"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10592912",
+        "key": "10592912",
+        "location": "New York, New York",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer, AWS Contract Onboarding",
+        "url": "https://www.amazon.jobs/en/jobs/10592912/software-development-engineer-aws-contract-onboarding",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "142306",
+        "key": "142306",
+        "location": "Annapolis Junction, US",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data & Analytics",
+        "title": "Backend Software Developer TS/SCI (FSP)",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=142306",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "140133",
+        "key": "140133",
+        "location": "Multiple Cities",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Staff Engineer HashiCorp Vault Ecosystem",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=140133",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "142307",
+        "key": "142307",
+        "location": "Annapolis Junction, US",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data & Analytics",
+        "title": "Senior Backend Software Engineer TS/SCI (FSP)",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=142307",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "142305",
+        "key": "142305",
+        "location": "Annapolis Junction, US",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data & Analytics",
+        "title": "Senior Systems Engineer TS/SCI (FSP)",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=142305",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "ibm"
     }
   ],
   "last_sent": "2026-11-12"
