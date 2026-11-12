@@ -488,6 +488,55 @@
         "years": "5+ yrs"
       },
       "slug": "amex"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602901",
+        "key": "10602901",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer, EC2 UltraServer Delivery Team",
+        "url": "https://www.amazon.jobs/en/jobs/10602901/software-development-engineer-ec2-ultraserver-delivery-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8383466",
+        "key": "8383466",
+        "location": "na",
+        "posted": "2026-11-12",
+        "salary": "$224K\u2013$336K",
+        "source_posted": "2026-11-12",
+        "title": "Staff Software Engineer, Code Forge",
+        "url": "https://stripe.com/jobs/search?gh_jid=8383466",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "stripe"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066763",
+        "key": "1970393557070629",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-12",
+        "team": "Data Science",
+        "title": "Senior Data Scientist",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070629",
+        "work_type": "Onsite",
+        "years": "1+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-12"
