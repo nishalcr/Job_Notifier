@@ -422,6 +422,72 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603427",
+        "key": "10603427",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Sr Software Dev Engineer, Stores Foundational AI -SFAI",
+        "url": "https://www.amazon.jobs/en/jobs/10603427/sr-software-dev-engineer-stores-foundational-ai-sfai",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603423",
+        "key": "10603423",
+        "location": "Tempe, Arizona",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer, Selling Partner Trust",
+        "url": "https://www.amazon.jobs/en/jobs/10603423/software-development-engineer-selling-partner-trust",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "139716499790013126",
+        "key": "139716499790013126",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Serving Platform / Google Cloud Storage",
+        "title": "Senior Staff Software Engineer, Serving Platform, Google Cloud Storage",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/139716499790013126",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26013169",
+        "key": "26013169",
+        "location": "Phoenix, AZ, United States",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Senior Frontend Engineer",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013169",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-12"
