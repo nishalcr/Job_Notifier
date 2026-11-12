@@ -446,6 +446,22 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368128",
+        "key": "JR368128",
+        "location": "10 Locations",
+        "posted": "2026-11-12",
+        "salary": "$148K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "Senior (SMTS) Enterprise Application Engineer (Enterprise Security - Security AI)",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Senior--SMTS--Enterprise-Application-Engineer--Enterprise-Security---Security-AI-_JR368128",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "salesforce"
     }
   ],
   "last_sent": "2026-11-11"
