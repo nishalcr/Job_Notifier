@@ -871,6 +871,42 @@
         "years": "1+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "122047485370606278",
+        "key": "122047485370606278",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "XProf SOC Architect",
+        "title": "Software Engineer III, XProf SOC Architect",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/122047485370606278",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Help serve Google's worldwide user base of more than a billion people. Data Scientists provide quantitative support, market understanding and a strategic perspective to our partners throughout the organization. As a data-loving member of the team, you serve as an analytics expert",
+        "job_id": "140840338112553670",
+        "key": "140840338112553670",
+        "location": "Mountain View, CA, USA; +1 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Video and Image Search",
+        "title": "Senior Data Scientist, Video and Image Search",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/140840338112553670",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-11"
