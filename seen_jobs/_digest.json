@@ -1974,6 +1974,54 @@
         "years": ""
       },
       "slug": "ford"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210765945",
+        "key": "210765945",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-12",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-12",
+        "title": "Full-Stack Java React Software Engineer III",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765945",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005509",
+        "key": "R1005509",
+        "location": "3 Locations",
+        "posted": "2026-11-12",
+        "salary": "$209K\u2013$286K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 5",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1005509",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8293644",
+        "key": "8293644",
+        "location": "San Francisco; +2 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-10-16",
+        "title": "Staff Software Engineer, Code Forge",
+        "url": "https://stripe.com/jobs/search?gh_jid=8293644",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "stripe"
     }
   ],
   "last_sent": "2026-11-12"
