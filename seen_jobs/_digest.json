@@ -179,6 +179,72 @@
         "years": "7+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602394",
+        "key": "10602394",
+        "location": "Dallas, Texas",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer, Close Systems - Project Accounting",
+        "url": "https://www.amazon.jobs/en/jobs/10602394/software-development-engineer-close-systems-project-accounting",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "79841494587843270",
+        "key": "79841494587843270",
+        "location": "Cambridge, MA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Platforms",
+        "title": "Software Engineer III, Infrastructure, Google Cloud Platforms",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/79841494587843270",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808810",
+        "key": "210808810",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Security Engineer III - Java/Observability",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808810",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73598",
+        "key": "73598",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-12",
+        "salary": "$65K\u2013$166K",
+        "source_posted": "2026-11-12",
+        "title": "Engineer, Vehicle Attributes",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73598",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-12"
