@@ -659,6 +659,24 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1725888355192236",
+        "key": "1725888355192236",
+        "location": "Redmond, WA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Burlingame, CA / AI Research",
+        "title": "Computer Vision Engineer, Reality Labs",
+        "url": "https://www.metacareers.com/profile/job_details/1725888355192236",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-11"
