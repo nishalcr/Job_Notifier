@@ -527,6 +527,38 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10599141",
+        "key": "10599141",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Senior Software Engineer - Embedded Networking, Payload Network Software Team",
+        "url": "https://www.amazon.jobs/en/jobs/10599141/senior-software-engineer-embedded-networking-payload-network-software-team",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10599140",
+        "key": "10599140",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Dev Engineer, Amazon Leo Networking, Amazon Leo - Payload Dataplane Team",
+        "url": "https://www.amazon.jobs/en/jobs/10599140/software-dev-engineer-amazon-leo-networking-amazon-leo-payload-dataplane-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-11"
