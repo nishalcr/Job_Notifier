@@ -2086,6 +2086,88 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603879",
+        "key": "10603879",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer, Leo Commerce Financial Systems and Data (Bestia, Triton, Lucid)",
+        "url": "https://www.amazon.jobs/en/jobs/10603879/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603880",
+        "key": "10603880",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer, Leo Commerce Financial Systems and Data (Bestia, Triton, Lucid)",
+        "url": "https://www.amazon.jobs/en/jobs/10603880/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603823",
+        "key": "10603823",
+        "location": "North Reading, Massachusetts",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Sr. Systems Development Engineer, Tech Deploy - Systems Integration",
+        "url": "https://www.amazon.jobs/en/jobs/10603823/sr-systems-development-engineer-tech-deploy-systems-integration",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1115799461081377",
+        "key": "1115799461081377",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Lebanon, IN",
+        "title": "Network Engineer, Deployment & Support",
+        "url": "https://www.metacareers.com/profile/job_details/1115799461081377",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024630",
+        "key": "JR-024630",
+        "location": "Santa Clara, United States of America",
+        "posted": "2026-11-12",
+        "salary": "$156K\u2013$253K",
+        "source_posted": "Posted Today",
+        "title": "Principal Software Engineer (Cloud NGFW)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Santa-Clara-United-States-of-America/Principal-Software-Engineer--Cloud-NGFW-_JR-024630",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-12"
