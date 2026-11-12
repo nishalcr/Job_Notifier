@@ -1047,6 +1047,22 @@
         "years": ""
       },
       "slug": "godaddy"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005177",
+        "key": "R1005177",
+        "location": "4 Locations",
+        "posted": "2026-11-12",
+        "salary": "$123K\u2013$155K",
+        "source_posted": "Posted Today",
+        "title": "Senior Associate, Data Science - Compliance Model Risk",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Associate--Data-Science---Compliance-Model-Risk_R1005177-1",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-11"
