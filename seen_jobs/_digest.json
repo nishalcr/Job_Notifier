@@ -754,6 +754,38 @@
         "years": "6+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10601540",
+        "key": "10601540",
+        "location": "Cupertino, California",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "System Development Engineer, Release Engineering and System Test",
+        "url": "https://www.amazon.jobs/en/jobs/10601540/system-development-engineer-release-engineering-and-system-test",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2030429",
+        "key": "2030429",
+        "location": "2 Locations",
+        "posted": "2026-11-12",
+        "salary": "$221K\u2013$380K",
+        "source_posted": "Posted Today",
+        "title": "Principal Product Management Engineer",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Principal-Product-Management-Engineer_2030429",
+        "work_type": "Hybrid",
+        "years": "15+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-12"
