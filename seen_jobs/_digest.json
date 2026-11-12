@@ -1511,6 +1511,105 @@
         "years": "12+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200691165-0836",
+        "key": "200691165-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "team": "Software and Services",
+        "title": "ML Research Engineer, HOUr - ISE",
+        "url": "https://jobs.apple.com/en-us/details/200691165-0836/ml-research-engineer-hour-ise?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603767",
+        "key": "10603767",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Principal, Senior Principal and Distinguished Engineer, AWS Agentic AI",
+        "url": "https://www.amazon.jobs/en/jobs/10603767/principal-senior-principal-and-distinguished-engineer-aws-agentic-ai",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603768",
+        "key": "10603768",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Dev Engineer II, Programming Foundations",
+        "url": "https://www.amazon.jobs/en/jobs/10603768/software-dev-engineer-ii-programming-foundations",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603773",
+        "key": "10603773",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Application Security Engineer, Proactive Security",
+        "url": "https://www.amazon.jobs/en/jobs/10603773/application-security-engineer-proactive-security",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066503",
+        "key": "1970393557070162",
+        "location": "Multiple Locations",
+        "posted": "2026-11-12",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-12",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070162",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Snowflake",
+      "job": {
+        "job_id": "d699971b-0c25-48e4-8733-7e8bd2328536",
+        "key": "d699971b-0c25-48e4-8733-7e8bd2328536",
+        "location": "US-WA-Bellevue",
+        "posted": "2026-11-12",
+        "salary": "$160K\u2013$230K",
+        "source_posted": "2026-11-12",
+        "team": "Engineering",
+        "title": "Software Engineer, Identity & Access Management",
+        "url": "https://jobs.ashbyhq.com/snowflake/d699971b-0c25-48e4-8733-7e8bd2328536",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "snowflake"
     }
   ],
   "last_sent": "2026-11-12"
