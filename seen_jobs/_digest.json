@@ -786,6 +786,72 @@
         "years": "15+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603510",
+        "key": "10603510",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "SDE-II, Catalog System Services - SPCL",
+        "url": "https://www.amazon.jobs/en/jobs/10603510/sde-ii-catalog-system-services-spcl",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603509",
+        "key": "10603509",
+        "location": "Nashville, Tennessee",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Systems Developer Engineer, Security Integrations Group (SIG) Infrastructure",
+        "url": "https://www.amazon.jobs/en/jobs/10603509/systems-developer-engineer-security-integrations-group-sig-infrastructure",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "As a GenAI Forward Deployed Engineer (FDE) at Google Cloud, you will be an embedded builder who bridges the gap between frontier AI products and production-grade reality within customers. Unlike traditional advisory roles, you will function as an innovator-builder, moving beyond",
+        "job_id": "81089096687985350",
+        "key": "81089096687985350",
+        "location": "Chicago, IL, USA; +1 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Generative AI / Google Cloud",
+        "title": "Forward Deployed Engineer III, Generative AI, Google Cloud, Healthcare",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/81089096687985350",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Paramount",
+      "job": {
+        "job_id": "1450294100",
+        "key": "1450294100",
+        "location": "New York, NY",
+        "posted": "2026-11-12",
+        "salary": "$157K\u2013$235K",
+        "source_posted": "Nov 12, 2026",
+        "title": "Lead AI Engineer",
+        "url": "https://careers.paramount.com/job/New-York-Lead-AI-Engineer-NY-10036/1450294100/",
+        "work_type": "Onsite",
+        "years": "8+ yrs"
+      },
+      "slug": "paramount"
     }
   ],
   "last_sent": "2026-11-12"
