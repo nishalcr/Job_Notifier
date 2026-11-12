@@ -511,6 +511,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10599139",
+        "key": "10599139",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Engineer II - Embedded Networking, Amazon Leo",
+        "url": "https://www.amazon.jobs/en/jobs/10599139/software-engineer-ii-embedded-networking-amazon-leo",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-11"
