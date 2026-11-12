@@ -623,6 +623,42 @@
         "years": "7+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "79960929038410438",
+        "key": "79960929038410438",
+        "location": "Sunnyvale, CA, USA; +1 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Site Reliability Engineering",
+        "title": "Staff Software Engineer, Site Reliability Engineering",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/79960929038410438",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Articulate a long-term direction for progress in AI-assisted development and a road map for achieving that direction. Design, evaluate, and deploy novel techniques for accelerating development at Google through the application of state-of-the-art AI techniques. Develop novel neur",
+        "job_id": "131902957846176454",
+        "key": "131902957846176454",
+        "location": "New York, NY, USA; +2 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Developer AI Research",
+        "title": "Senior Software Engineer, Developer AI Research",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/131902957846176454",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-11"
