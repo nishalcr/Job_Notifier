@@ -1840,6 +1840,40 @@
         "years": "8+ yrs"
       },
       "slug": "zscaler"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694779-0836",
+        "key": "200694779-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "team": "Software and Services",
+        "title": "AI Software Engineer - Calendar Intelligence",
+        "url": "https://jobs.apple.com/en-us/details/200694779-0836/ai-software-engineer-calendar-intelligence?team=SFTWR",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Snowflake",
+      "job": {
+        "job_id": "1c8dbe2c-60b3-4d66-a73f-95dffe416626",
+        "key": "1c8dbe2c-60b3-4d66-a73f-95dffe416626",
+        "location": "US-WA-Bellevue; +1 more",
+        "posted": "2026-11-12",
+        "salary": "$236K\u2013$339K",
+        "source_posted": "2026-11-12",
+        "team": "Engineering",
+        "title": "Staff Software Engineer",
+        "url": "https://jobs.ashbyhq.com/snowflake/1c8dbe2c-60b3-4d66-a73f-95dffe416626",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "snowflake"
     }
   ],
   "last_sent": "2026-11-12"
