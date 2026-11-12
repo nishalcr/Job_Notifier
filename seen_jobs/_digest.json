@@ -1428,6 +1428,23 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "142629",
+        "key": "142629",
+        "location": "Bethesda, US",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure & Technology",
+        "title": "Azure Purview Architect",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=142629",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
     }
   ],
   "last_sent": "2026-11-12"
