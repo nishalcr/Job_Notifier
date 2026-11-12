@@ -2251,6 +2251,22 @@
         "years": "6+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350510",
+        "key": "350510",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-12",
+        "salary": "$59K\u2013$118K",
+        "source_posted": "2026-11-12",
+        "title": "Site Reliability Engineer - OCI (Start Date: Feb 2027)",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350510",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-12"
