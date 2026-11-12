@@ -1098,6 +1098,41 @@
         "years": "5+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1172768971855228",
+        "key": "1172768971855228",
+        "location": "Redmond, WA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Burlingame, CA",
+        "title": "AI Engineer, Specialist - VR - (Technical Leadership)",
+        "url": "https://www.metacareers.com/profile/job_details/1172768971855228",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067109",
+        "key": "1970393557072824",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-12",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer - Linux Platform Engineer (CoreAI)",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557072824",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-12"
