@@ -316,6 +316,39 @@
         "years": "10+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97832",
+        "key": "97832",
+        "location": "Boxborough, Massachusetts",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Memory PHY Architect",
+        "url": "https://careers.amd.com/careers-home/jobs/97832",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066965",
+        "key": "1970393557071317",
+        "location": "Redmond, Washington; +1 more",
+        "posted": "2026-11-12",
+        "salary": "$102K\u2013$261K",
+        "source_posted": "2026-11-12",
+        "team": "Software Engineering",
+        "title": "Software Engineer II and Senior Software Engineer (Mutiple Positions)",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557071317",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-11"
