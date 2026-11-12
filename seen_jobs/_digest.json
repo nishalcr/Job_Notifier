@@ -358,6 +358,22 @@
         "years": "1+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603380",
+        "key": "10603380",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer, Frontier Core Platform Team",
+        "url": "https://www.amazon.jobs/en/jobs/10603380/software-development-engineer-frontier-core-platform-team",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-12"
