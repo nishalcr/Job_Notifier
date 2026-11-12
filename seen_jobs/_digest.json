@@ -1610,6 +1610,73 @@
         "years": ""
       },
       "slug": "snowflake"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200685551-0836",
+        "key": "200685551-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-10",
+        "team": "Software and Services",
+        "title": "Senior Security Engineer - Security Assurance Scaling",
+        "url": "https://jobs.apple.com/en-us/details/200685551-0836/senior-security-engineer-security-assurance-scaling?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google is proud to boast a network that provides service to millions of Internet users around the world. The Network Engineering team is responsible for operating that network reliably and at scale. As a member of the team, you have a direct impact on design and feature enhanceme",
+        "job_id": "113655806468989638",
+        "key": "113655806468989638",
+        "location": "Austin, TX, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Enterprise Network",
+        "title": "Network Security Engineer, Google Enterprise Network",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/113655806468989638",
+        "work_type": "Remote",
+        "years": "3+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2026430",
+        "key": "2026430",
+        "location": "San Jose, California, US",
+        "posted": "2026-11-12",
+        "salary": "$138K\u2013$256K",
+        "source_posted": "Posted Today",
+        "title": "Fullstack Software Engineer",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Fullstack-Software-Engineer_2026430",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "72881",
+        "key": "72881",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Senior Software Engineer (Agentic SDLC)",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72881",
+        "work_type": "Hybrid",
+        "years": "5\u20137 yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-12"
