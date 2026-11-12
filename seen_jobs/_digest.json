@@ -2317,6 +2317,89 @@
         "years": ""
       },
       "slug": "ibm"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694832-3543",
+        "key": "200694832-3543",
+        "location": "San Diego",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "team": "Software and Services",
+        "title": "UI Software Engineer - Apple TV",
+        "url": "https://jobs.apple.com/en-us/details/200694832-3543/ui-software-engineer-apple-tv?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1880972626418157",
+        "key": "1880972626418157",
+        "location": "Sunnyvale, CA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Facebook Reality Labs / Hardware",
+        "title": "Wearables Systems Architect",
+        "url": "https://www.metacareers.com/profile/job_details/1880972626418157",
+        "work_type": "",
+        "years": "15+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368208",
+        "key": "JR368208",
+        "location": "4 Locations",
+        "posted": "2026-11-12",
+        "salary": "$148K\u2013$286K",
+        "source_posted": "Posted Today",
+        "title": "Staff Researcher, Rolling Research (Slack)",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Staff-Researcher--Rolling-Research--Slack-_JR368208",
+        "work_type": "",
+        "years": "7\u20138 yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R122210",
+        "key": "R122210",
+        "location": "1530 FM 973 Taylor, TX, USA",
+        "posted": "2026-11-12",
+        "salary": "$106K\u2013$145K",
+        "source_posted": "Posted Today",
+        "title": "Infra Cost Engineer",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Infra-Cost-Engineer_R122210-1",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "samsung"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R122207",
+        "key": "R122207",
+        "location": "1530 FM 973 Taylor, TX, USA",
+        "posted": "2026-11-12",
+        "salary": "$106K\u2013$145K",
+        "source_posted": "Posted Today",
+        "title": "Investment Management Engineer",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Investment-Management-Engineer_R122207",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "samsung"
     }
   ],
   "last_sent": "2026-11-12"
