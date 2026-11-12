@@ -349,6 +349,54 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602944",
+        "key": "10602944",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Applied Scientist, Search Ranking and Exploration",
+        "url": "https://www.amazon.jobs/en/jobs/10602944/applied-scientist-search-ranking-and-exploration",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024724",
+        "key": "JR-024724",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-12",
+        "salary": "$163K\u2013$264K",
+        "source_posted": "Posted Today",
+        "title": "Principal Machine Learning Engineer (Advanced Threat Protection)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Machine-Learning-Engineer--Advanced-Threat-Protection-_JR-024724",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "paloalto"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024722",
+        "key": "JR-024722",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-12",
+        "salary": "$156K\u2013$253K",
+        "source_posted": "Posted Today",
+        "title": "Principal Software Engineer (Wildfire)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Software-Engineer--Wildfire-_JR-024722",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-11"
