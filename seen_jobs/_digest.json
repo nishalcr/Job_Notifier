@@ -1922,6 +1922,58 @@
         "years": ""
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "72111309369287366",
+        "key": "72111309369287366",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Consumer DevAI",
+        "title": "Software Engineer, Consumer DevAI",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/72111309369287366",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Be part of a team that pushes boundaries, developing custom silicon solutions that power the future of Google's direct-to-consumer products. You'll contribute to the innovation behind products loved by millions worldwide. Your expertise will shape the next generation of hardware",
+        "job_id": "118765786759078598",
+        "key": "118765786759078598",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "",
+        "title": "Senior Static Timing Engineer",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/118765786759078598",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74272",
+        "key": "74272",
+        "location": "Glendale, KY, United States",
+        "posted": "2026-11-12",
+        "salary": "$74K\u2013$166K",
+        "source_posted": "2026-11-12",
+        "title": "Quality Engineer, Ford Energy",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74272",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-12"
