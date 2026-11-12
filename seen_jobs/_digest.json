@@ -766,6 +766,24 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "As a Generative AI Forward Deployed Engineer (FDE) at Google Cloud, you will be an embedded builder who bridges the gap between frontier AI products and production-grade reality within customers. Unlike traditional advisory roles, you will function as an innovator-builder, moving",
+        "job_id": "77331446980584134",
+        "key": "77331446980584134",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Generative AI / Google Cloud",
+        "title": "Forward Deployed Engineer II, Generative AI, Google Cloud",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/77331446980584134",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-11"
