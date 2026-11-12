@@ -559,6 +559,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029837",
+        "key": "JR2029837",
+        "location": "5 Locations",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Data Engineer, Operational Excellence - EDA Infrastructure",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Data-Engineer--Operational-Excellence---EDA-Infrastructure_JR2029837",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-11"
