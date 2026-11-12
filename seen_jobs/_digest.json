@@ -818,6 +818,42 @@
         "years": ""
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "82852094863647430",
+        "key": "82852094863647430",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Eval Infra TL / Quality Platform",
+        "title": "Staff Software Engineer, Eval Infra TL, Quality Platform, Gemini Cloud Operator, Agentic AI",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/82852094863647430",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Our AI Infrastructure Engineering Support team is dedicated to ensuring our customers get the most out of their Google Cloud hardware investment. As a Platform Application Engineer (Hardware Engineer), you will be focused on solving customer observations by, driving deep hardware",
+        "job_id": "130145388509176518",
+        "key": "130145388509176518",
+        "location": "Austin, TX, USA; +1 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Cloud AI Infrastructure",
+        "title": "Platform Application Engineer, Cloud AI Infrastructure",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/130145388509176518",
+        "work_type": "Remote",
+        "years": "4+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-11"
