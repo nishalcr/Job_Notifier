@@ -907,6 +907,22 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016029",
+        "key": "26016029",
+        "location": "Phoenix, AZ, United States; +1 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Quality Engineer II, Travel & Lifestyle Services",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016029",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-11"
