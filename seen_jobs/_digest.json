@@ -245,6 +245,39 @@
         "years": "5+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73956",
+        "key": "73956",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-12",
+        "salary": "$74K\u2013$166K",
+        "source_posted": "2026-11-12",
+        "title": "Factory Automation Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73956",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200065396",
+        "key": "1970393557053504",
+        "location": "Reston, Virginia; +1 more",
+        "posted": "2026-11-12",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-12",
+        "team": "Software Engineering",
+        "title": "Software Engineer II - CTJ - Poly",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557053504",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-12"
