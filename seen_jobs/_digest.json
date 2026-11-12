@@ -959,6 +959,78 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "99790896123257542",
+        "key": "99790896123257542",
+        "location": "Kirkland, WA, USA; +1 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Knowledge Catalog For AI",
+        "title": "Software Engineer, Knowledge Catalog For AI",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/99790896123257542",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "123327042027430598",
+        "key": "123327042027430598",
+        "location": "San Jose, CA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Android Laptop and Tablet System Software / Platform Inputs",
+        "title": "Staff Software Engineer, Android Laptop and Tablet System Software, Platform Inputs",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/123327042027430598",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Our computational issues are so big, complex and unique we can't just purchase off-the-shelf hardware, we've got to make it ourselves. Our Platforms Team designs and builds the hardware, software and networking technologies that power all of Google's services. In this role, you w",
+        "job_id": "87298245008466630",
+        "key": "87298245008466630",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Platforms Engineering",
+        "title": "Senior Power Management Engineer, Platforms Engineering",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/87298245008466630",
+        "work_type": "Remote",
+        "years": "4+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "76954039614350022",
+        "key": "76954039614350022",
+        "location": "San Jose, CA, USA; +1 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Core",
+        "title": "Senior Software Engineer, Infrastructure, Core",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/76954039614350022",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-11"
