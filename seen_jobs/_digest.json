@@ -713,6 +713,42 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Our Security team works to create and maintain the safest operating environment for Google's users and developers. Security Engineers work with network equipment and actively monitor our systems for attacks and intrusions. In this role, you will also work with software engineers",
+        "job_id": "91812564874207942",
+        "key": "91812564874207942",
+        "location": "Maryland, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Threat Intelligence Group",
+        "title": "Staff Security Engineer, Google Threat Intelligence Group",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/91812564874207942",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "A problem isn\u2019t truly solved until it\u2019s solved for all. That\u2019s why Googlers build products that help create opportunities for everyone, whether down the street or across the globe. As a Technical Program Manager at Google, you\u2019ll use your technical expertise to lead complex, mult",
+        "job_id": "77010939341087430",
+        "key": "77010939341087430",
+        "location": "New York, NY, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Technical Risk Engineering",
+        "title": "Technical Program Management Lead, Technical Risk Engineering",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/77010939341087430",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-11"
