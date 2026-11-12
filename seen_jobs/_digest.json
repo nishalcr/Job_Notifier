@@ -1445,6 +1445,72 @@
         "years": ""
       },
       "slug": "ibm"
+    },
+    {
+      "company": "DoorDash",
+      "job": {
+        "job_id": "8384127",
+        "key": "8384127",
+        "location": "San Francisco, CA; +2 more",
+        "posted": "2026-11-12",
+        "salary": "$168K\u2013$247K",
+        "source_posted": "2026-11-12",
+        "title": "Senior Software Engineer, Machine Learning Platform - Serving (US)",
+        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8384127",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "doordash"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066809",
+        "key": "1970393557070725",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-12",
+        "team": "Security Research",
+        "title": "Security Researcher",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070725",
+        "work_type": "Onsite",
+        "years": "8+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200053832",
+        "key": "1970393556988944",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-12",
+        "team": "Sourcing Engineering",
+        "title": "Principal Sourcing Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556988944",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-023239",
+        "key": "JR-023239",
+        "location": "Remote - USA - CA",
+        "posted": "2026-11-12",
+        "salary": "$163K\u2013$264K",
+        "source_posted": "Posted Today",
+        "title": "Sr. Technical Product Engineer (Cortex)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Remote---USA---CA/Sr-Technical-Product-Engineer--Cortex-_JR-023239",
+        "work_type": "Remote",
+        "years": "12+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-12"
