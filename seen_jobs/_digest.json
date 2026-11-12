@@ -607,6 +607,22 @@
         "years": "8+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603034",
+        "key": "10603034",
+        "location": "Irving, Texas",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Senior Data Engineer, WW Ops Finance - S&A",
+        "url": "https://www.amazon.jobs/en/jobs/10603034/senior-data-engineer-ww-ops-finance-s-a",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-11"
