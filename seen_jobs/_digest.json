@@ -1728,6 +1728,118 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10597836",
+        "key": "10597836",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer, EC2 Capacity Telemetry and Autonomous Systems",
+        "url": "https://www.amazon.jobs/en/jobs/10597836/software-development-engineer-ec2-capacity-telemetry-and-autonomous-systems",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google is proud to boast a network that provides service to millions of Internet users around the world. The Network Engineering team is responsible for operating that network reliably and at scale. As a member of the team, you have a direct impact on design and feature enhanceme",
+        "job_id": "91863486006469318",
+        "key": "91863486006469318",
+        "location": "Austin, TX, USA; +2 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Enterprise Network",
+        "title": "Staff Network Security Engineer, Google Enterprise Network",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/91863486006469318",
+        "work_type": "Remote",
+        "years": "10+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8384325",
+        "key": "8384325",
+        "location": "Seattle; +1 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Software Engineer \u2013 Backend Engineer \u2013 Tax Engineering",
+        "url": "https://stripe.com/jobs/search?gh_jid=8384325",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "stripe"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8384287",
+        "key": "8384287",
+        "location": "New York; +1 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Software Engineer, Full Stack",
+        "url": "https://stripe.com/jobs/search?gh_jid=8384287",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "stripe"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200054244",
+        "key": "1970393556991353",
+        "location": "Redmond, Washington; +3 more",
+        "posted": "2026-11-12",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-12",
+        "team": "Hardware Engineering",
+        "title": "Senior Platform Systems Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556991353",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Databricks",
+      "job": {
+        "job_id": "8940421002",
+        "key": "8940421002",
+        "location": "New York City, New York",
+        "posted": "2026-11-12",
+        "source_posted": "2026-11-12",
+        "title": "Sr. Research Scientist - Agent Flywheel",
+        "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8940421002"
+      },
+      "slug": "databricks"
+    },
+    {
+      "company": "Zscaler",
+      "job": {
+        "job_id": "5271584007",
+        "key": "5271584007",
+        "location": "Santa Clara, California, USA",
+        "posted": "2026-11-12",
+        "salary": "$180K\u2013$225K",
+        "source_posted": "2026-11-12",
+        "title": "Sr. Staff Software Development Engineer",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5271584007",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "zscaler"
     }
   ],
   "last_sent": "2026-11-12"
