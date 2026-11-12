@@ -2168,6 +2168,22 @@
         "years": "8+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029678",
+        "key": "JR2029678",
+        "location": "2 Locations",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer, Resilience Engineering - DGX Cloud",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Resilience-Engineering---DGX-Cloud_JR2029678",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-12"
