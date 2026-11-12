@@ -1874,6 +1874,54 @@
         "years": "8+ yrs"
       },
       "slug": "snowflake"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603814",
+        "key": "10603814",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Senior Software Development Engineer, Software Defined Network Agent",
+        "url": "https://www.amazon.jobs/en/jobs/10603814/senior-software-development-engineer-software-defined-network-agent",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603822",
+        "key": "10603822",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer , Software Defined Network Control Plane, Amazon LEO",
+        "url": "https://www.amazon.jobs/en/jobs/10603822/software-development-engineer-software-defined-network-control-plane-amazon-leo",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603824",
+        "key": "10603824",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Lab Engineer, LEO - Plexus Lab",
+        "url": "https://www.amazon.jobs/en/jobs/10603824/lab-engineer-leo-plexus-lab",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-12"
