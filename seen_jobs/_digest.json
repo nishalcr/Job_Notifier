@@ -2022,6 +2022,54 @@
         "years": ""
       },
       "slug": "stripe"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10601883",
+        "key": "10601883",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Front-End Engineer II, AWS Agentic WorkSpaces -  WorkSpaces Admin and Builder CX",
+        "url": "https://www.amazon.jobs/en/jobs/10601883/front-end-engineer-ii-aws-agentic-workspaces-workspaces-admin-and-builder-cx",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603866",
+        "key": "10603866",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer II, SDN Controller, Amazon LEO",
+        "url": "https://www.amazon.jobs/en/jobs/10603866/software-development-engineer-ii-sdn-controller-amazon-leo",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350501",
+        "key": "350501",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Site Reliability Engineer - OCI (Feb 2027 Start Date)",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350501",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-12"
