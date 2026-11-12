@@ -702,6 +702,58 @@
         "years": "10+ yrs"
       },
       "slug": "ibm"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1432172068743527",
+        "key": "1432172068743527",
+        "location": "Denver, CO",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data Center / Data Center Operations",
+        "title": "Network Engineer, Backbone Operations",
+        "url": "https://www.metacareers.com/profile/job_details/1432172068743527",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Netflix",
+      "job": {
+        "job_id": "JR43604",
+        "key": "790319479902",
+        "location": "Remote, United States",
+        "posted": "2026-11-12",
+        "salary": "$500K\u2013$860K",
+        "source_posted": "",
+        "team": "Data & Insights",
+        "title": "Machine Learning Scientist 5 - Bidding & Pacing",
+        "url": "https://explore.jobs.netflix.net/careers/job/790319479902",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "netflix"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066311",
+        "key": "1970393557056075",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-12",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557056075",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-12"
