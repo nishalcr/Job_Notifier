@@ -397,6 +397,55 @@
         "years": "6+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694513-3337",
+        "key": "200694513-3337",
+        "location": "Seattle",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "team": "Software and Services",
+        "title": "Software Development Engineer, Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200694513-3337/software-development-engineer-vision-products-software?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602945",
+        "key": "10602945",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Principal, Senior Principal and Distinguished Engineer, AWS Agentic AI",
+        "url": "https://www.amazon.jobs/en/jobs/10602945/principal-senior-principal-and-distinguished-engineer-aws-agentic-ai",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10592934",
+        "key": "10592934",
+        "location": "Austin, Texas",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Sr. Software Dev Engineer, AWS OpenSearch Service",
+        "url": "https://www.amazon.jobs/en/jobs/10592934/sr-software-dev-engineer-aws-opensearch-service",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-11"
