@@ -1,5 +1,72 @@
 {
   "issues": [],
-  "jobs": [],
+  "jobs": [
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "98668707068158662",
+        "key": "98668707068158662",
+        "location": "Boulder, CO, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "gUP Engineering",
+        "title": "Data Engineer, gUP Engineering",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/98668707068158662",
+        "work_type": "Remote",
+        "years": "3+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R122175",
+        "key": "R122175",
+        "location": "12100 Samsung Blvd, Austin, TX, USA",
+        "posted": "2026-11-12",
+        "salary": "$95K\u2013$120K",
+        "source_posted": "Posted Today",
+        "title": "EHS Software Engineer",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/EHS-Software-Engineer_R122175",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "samsung"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R122170",
+        "key": "R122170",
+        "location": "1530 FM 973 Taylor, TX, USA",
+        "posted": "2026-11-12",
+        "salary": "$95K\u2013$120K",
+        "source_posted": "Posted Today",
+        "title": "Field Safety Engineer",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Field-Safety-Engineer_R122170",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "samsung"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016137",
+        "key": "26016137",
+        "location": "Sunrise, FL, United States",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "AI Engineer - Global Servicing Technology",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016137",
+        "work_type": "Hybrid",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "amex"
+    }
+  ],
   "last_sent": "2026-11-12"
 }
