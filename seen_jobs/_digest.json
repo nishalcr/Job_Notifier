@@ -1031,6 +1031,22 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "GoDaddy",
+      "job": {
+        "job_id": "8020267003",
+        "key": "8020267003",
+        "location": "United States",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Software Development Engineer",
+        "url": "https://careers.godaddy/jobs?gh_jid=8020267003",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "godaddy"
     }
   ],
   "last_sent": "2026-11-11"
