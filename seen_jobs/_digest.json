@@ -1343,6 +1343,58 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "134960218646684358",
+        "key": "134960218646684358",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Storage",
+        "title": "Software Engineer III, Infrastructure, Google Cloud Storage",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/134960218646684358",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Role At Uber Health , we are reimagining how patients access care, medications, and health services by connecting healthcare organizations, payers, and patients directly with Uber\u2019s global mobility and delivery logistics network. Operating at massive scale, Uber Health",
+        "job_id": "304720",
+        "key": "304720",
+        "location": "San Francisco, California; +3 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-10",
+        "team": "Engineer",
+        "title": "Staff Software Engineer - Uber Health",
+        "url": "https://jobs.uber.com/en/jobs/304720/",
+        "work_type": "Onsite",
+        "years": "8+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2028862",
+        "key": "JR2028862",
+        "location": "6 Locations",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Engineer - Quantum Error Correction Libraries",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Engineer---Quantum-Error-Correction-Libraries_JR2028862",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-12"
