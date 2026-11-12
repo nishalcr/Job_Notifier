@@ -479,6 +479,22 @@
         "years": "3+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10597213",
+        "key": "10597213",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Senior Software Development Engineer, OpenSearch Platform Team",
+        "url": "https://www.amazon.jobs/en/jobs/10597213/senior-software-development-engineer-opensearch-platform-team",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-11"
