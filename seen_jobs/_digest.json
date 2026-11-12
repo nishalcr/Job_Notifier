@@ -1711,6 +1711,23 @@
         "years": "10+ yrs"
       },
       "slug": "amex"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066429",
+        "key": "1970393557069985",
+        "location": "Redmond, Washington; +2 more",
+        "posted": "2026-11-12",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-12",
+        "team": "Applied Sciences",
+        "title": "Applied Scientist",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557069985",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-12"
