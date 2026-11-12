@@ -1133,6 +1133,38 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "292859",
+        "key": "292859",
+        "location": "Round Rock, TX, United States; +1 more",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Systems Development Engineer 2",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/292859",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005704",
+        "key": "R1005704",
+        "location": "4 Locations",
+        "posted": "2026-11-12",
+        "salary": "$179K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "Data Engineer - 4 (Bank Tech)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Data-Engineer---4--Bank-Tech-_R1005704-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-12"
