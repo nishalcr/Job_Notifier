@@ -1677,6 +1677,40 @@
         "years": "5\u20137 yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "979367111616403",
+        "key": "979367111616403",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / New York, NY / Research",
+        "title": "Research Scientist, Demography and Survey Sciences",
+        "url": "https://www.metacareers.com/profile/job_details/979367111616403",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016262",
+        "key": "26016262",
+        "location": "Phoenix, AZ, United States",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Senior Software Engineer",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016262",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-12"
