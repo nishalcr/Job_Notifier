@@ -537,6 +537,38 @@
         "years": "1+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603466",
+        "key": "10603466",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Forward Deployed Engineer, AWS Forward Deployed Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10603466/forward-deployed-engineer-aws-forward-deployed-engineering",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "95813",
+        "key": "95813",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Software Engineer - Networking (P4, packet processing, data plane)",
+        "url": "https://careers.amd.com/careers-home/jobs/95813",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-12"
