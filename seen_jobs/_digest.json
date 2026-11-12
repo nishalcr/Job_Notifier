@@ -2184,6 +2184,73 @@
         "years": "10+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694227-0836",
+        "key": "200694227-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "team": "Software and Services",
+        "title": "Build Automation & iOS Engineer - Services Special Project",
+        "url": "https://jobs.apple.com/en-us/details/200694227-0836/build-automation-ios-engineer-services-special-project?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603810",
+        "key": "10603810",
+        "location": "New York, New York",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Senior Software Development Engineer, Ads - Full-Funnel Agentic Intelligence & Models (FAIM)",
+        "url": "https://www.amazon.jobs/en/jobs/10603810/senior-software-development-engineer-ads-full-funnel-agentic-intelligence-models-faim",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603863",
+        "key": "10603863",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer II - Change Review , Amazon Software Builder Experience \u2013 Change Auto Review Experience (CRUX)",
+        "url": "https://www.amazon.jobs/en/jobs/10603863/software-development-engineer-ii-change-review-amazon-software-builder-experience-change-auto-review-experience-crux",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google is proud to boast a network that provides service to millions of Internet users around the world. The Network Engineering team is responsible for operating that network reliably and at scale. As a member of the team, you have a direct impact on design and feature enhanceme",
+        "job_id": "104030131923624646",
+        "key": "104030131923624646",
+        "location": "Austin, TX, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "GEN Customer Network Solutions",
+        "title": "Customer Network Engineer, GEN Customer Network Solutions",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/104030131923624646",
+        "work_type": "Remote",
+        "years": "6+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-12"
