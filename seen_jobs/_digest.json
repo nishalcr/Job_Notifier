@@ -278,6 +278,86 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10590925",
+        "key": "10590925",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Sr. Software Development Engineer, Amazon Leo",
+        "url": "https://www.amazon.jobs/en/jobs/10590925/sr-software-development-engineer-amazon-leo",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210791873",
+        "key": "210791873",
+        "location": "Wilmington, DE, United States; +1 more",
+        "posted": "2026-11-12",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-12",
+        "title": "Lead Security Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791873",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97907",
+        "key": "97907",
+        "location": "San Jose, California",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Principal Software Development Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/97907",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005507",
+        "key": "R1005507",
+        "location": "3 Locations",
+        "posted": "2026-11-12",
+        "salary": "$179K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4 (Risk Tech)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Risk-Tech-_R1005507-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "345087",
+        "key": "345087",
+        "location": "United States",
+        "posted": "2026-11-12",
+        "salary": "$53K\u2013$132K",
+        "source_posted": "2026-11-12",
+        "title": "Consulting Software Developer - CCL - Oracle Health",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345087",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-12"
