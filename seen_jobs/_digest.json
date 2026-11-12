@@ -575,6 +575,22 @@
         "years": "5+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349650",
+        "key": "349650",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-12",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-04",
+        "title": "Senior Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349650",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-11"
