@@ -569,6 +569,55 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602907",
+        "key": "10602907",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Software Development Engineer, EC2 UltraServer Delivery Team",
+        "url": "https://www.amazon.jobs/en/jobs/10602907/software-development-engineer-ec2-ultraserver-delivery-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73264",
+        "key": "73264",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-12",
+        "salary": "$100K\u2013$167K",
+        "source_posted": "2026-11-12",
+        "title": "DAT Feature and Software Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73264",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Atlassian",
+      "job": {
+        "job_id": "26984",
+        "key": "26984",
+        "location": "San Francisco, United States",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "Engineering",
+        "title": "Senior Machine Learning Engineer",
+        "url": "https://careers-americas.icims.com/jobs/26984/senior-machine-learning-engineer/job",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "atlassian"
     }
   ],
   "last_sent": "2026-11-12"
