@@ -268,6 +268,22 @@
         "years": ""
       },
       "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10601927",
+        "key": "10601927",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 11, 2026",
+        "title": "Sr. Software Dev Engineer, Ads Datalake (Advertising Core Infra)",
+        "url": "https://www.amazon.jobs/en/jobs/10601927/sr-software-dev-engineer-ads-datalake-advertising-core-infra",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-11"
