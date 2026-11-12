@@ -677,6 +677,42 @@
         "years": "2+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "137573139310617286",
+        "key": "137573139310617286",
+        "location": "Kirkland, WA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "BigQuery Workload Management",
+        "title": "Senior Staff Software Engineer, BigQuery Workload Management",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/137573139310617286",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "The AI Safety Protections team within Trust and Safety develops and implements AI-powered solutions to ensure the safety of foundation models, including Gemini, Veo, Agents, and Robotics. We work with DeepMind as well as downstream products such as enterprise (Vertex AI), on-devi",
+        "job_id": "101591621291647686",
+        "key": "101591621291647686",
+        "location": "Kirkland, WA, USA",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "",
+        "team": "",
+        "title": "Senior AI Safety Researcher",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/101591621291647686",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-11"
