@@ -967,6 +967,87 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603233",
+        "key": "10603233",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Applied Scientist II, AWS Applied Data Science Labs",
+        "url": "https://www.amazon.jobs/en/jobs/10603233/applied-scientist-ii-aws-applied-data-science-labs",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10601837",
+        "key": "10601837",
+        "location": "New York, New York",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Kernel / Hypervisor Engineer - Firecracker, Firecracker",
+        "url": "https://www.amazon.jobs/en/jobs/10601837/kernel-hypervisor-engineer-firecracker-firecracker",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2030246",
+        "key": "2030246",
+        "location": "6 Locations",
+        "posted": "2026-11-12",
+        "salary": "$135K\u2013$235K",
+        "source_posted": "Posted Today",
+        "title": "Business Architect for Foundry Operations (Remote)& Automation",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Business-Architect-for-Foundry-Operations--Remote---Automation_2030246",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005697",
+        "key": "R1005697",
+        "location": "4 Locations",
+        "posted": "2026-11-12",
+        "salary": "$179K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "Data Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Data-Engineer-4_R1005697-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066771",
+        "key": "1970393557070643",
+        "location": "Redmond, Washington; +1 more",
+        "posted": "2026-11-12",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-12",
+        "team": "Applied Sciences",
+        "title": "Applied Scientist II",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070643",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-12"
