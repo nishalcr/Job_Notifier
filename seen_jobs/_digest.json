@@ -1048,6 +1048,56 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694769-0836",
+        "key": "200694769-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "team": "Software and Services",
+        "title": "Software Engineer, Ad Platforms",
+        "url": "https://jobs.apple.com/en-us/details/200694769-0836/software-engineer-ad-platforms?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200636174-0836",
+        "key": "200636174-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-10-22",
+        "team": "Software and Services",
+        "title": "Machine Learning Researcher, Foundation Models",
+        "url": "https://jobs.apple.com/en-us/details/200636174-0836/machine-learning-researcher-foundation-models?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R232943",
+        "key": "R232943",
+        "location": "2 Locations",
+        "posted": "2026-11-12",
+        "salary": "$119K\u2013$150K",
+        "source_posted": "Posted Today",
+        "title": "Principal Data Analyst - Card",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Data-Analyst---Card_R232943-1",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-12"
