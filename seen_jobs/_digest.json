@@ -1231,6 +1231,86 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1102581",
+        "key": "R1102581",
+        "location": "CT - Work from home",
+        "posted": "2026-11-12",
+        "salary": "$130K\u2013$261K",
+        "source_posted": "Posted Today",
+        "title": "Staff Software Development Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Work-from-home/Staff-Software-Development-Engineer_R1102581",
+        "work_type": "Remote",
+        "years": "7+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73928",
+        "key": "73928",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "ADAS HiL Automation Developer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73928",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "96388",
+        "key": "96388",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Fellow Firmware Engineering",
+        "url": "https://careers.amd.com/careers-home/jobs/96388",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "94240",
+        "key": "94240",
+        "location": "Secaucus, New Jersey",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Business Analyst Capital Projects",
+        "url": "https://careers.amd.com/careers-home/jobs/94240",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349663",
+        "key": "349663",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-12",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-12",
+        "title": "Principal Security Researcher",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349663",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-12"
