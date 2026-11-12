@@ -1395,6 +1395,39 @@
         "years": "8+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016073",
+        "key": "26016073",
+        "location": "Phoenix, AZ, United States",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Staff- Software Engineer - Digital Pyts",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016073",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "amex"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067015",
+        "key": "1970393557072487",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-12",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557072487",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-12"
