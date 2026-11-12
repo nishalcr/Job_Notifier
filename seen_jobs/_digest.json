@@ -749,6 +749,23 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200060965",
+        "key": "1970393557027390",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-12",
+        "salary": "$85K\u2013$184K",
+        "source_posted": "2026-11-12",
+        "team": "Data Science",
+        "title": "Data Scientist, CoreAI",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-11"
