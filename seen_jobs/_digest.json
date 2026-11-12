@@ -1311,6 +1311,38 @@
         "years": "7+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "96394",
+        "key": "96394",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Staff Firmware Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/96394",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "96390",
+        "key": "96390",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-12",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "title": "Principal Firmware Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/96390",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-12"
