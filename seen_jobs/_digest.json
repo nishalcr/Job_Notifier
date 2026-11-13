@@ -2091,6 +2091,54 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604977",
+        "key": "10604977",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer, Core Shopping",
+        "url": "https://www.amazon.jobs/en/jobs/10604977/software-development-engineer-core-shopping",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2031561",
+        "key": "2031561",
+        "location": "2 Locations",
+        "posted": "2026-11-13",
+        "salary": "$129K\u2013$256K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer (Back-end)",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Boulder-Colorado-US/Software-Engineer--Back-end-_2031561",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210803486",
+        "key": "210803486",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Lead Infrastructure Engineer - VMware, Red Hat, Kubernetes, Terraform",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803486",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-13"
