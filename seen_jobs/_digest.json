@@ -48,6 +48,55 @@
         "years": "3+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R122214",
+        "key": "R122214",
+        "location": "1530 FM 973 Taylor, TX, USA",
+        "posted": "2026-11-13",
+        "salary": "$106K\u2013$145K",
+        "source_posted": "Posted Today",
+        "title": "Investment Management Engineer",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Investment-Management-Engineer_R122214",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "samsung"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2031593",
+        "key": "2031593",
+        "location": "5 Locations",
+        "posted": "2026-11-13",
+        "salary": "$95K\u2013$157K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer Compiler I (Full Time) \u2013 United States",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Austin-Texas-US/Software-Engineer-Compiler-I--Full-Time----United-States_2031593",
+        "work_type": "Hybrid",
+        "years": "1+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066697",
+        "key": "1970393557070499",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-13",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-13",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer - CoreAI",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070499",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-13"
