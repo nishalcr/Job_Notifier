@@ -2698,6 +2698,121 @@
         "years": "15+ yrs"
       },
       "slug": "amd"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "137780",
+        "key": "137780",
+        "location": "San Jose, US",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Google Cloud FullStack",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=137780",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067160",
+        "key": "1970393557073003",
+        "location": "Multiple Locations",
+        "posted": "2026-11-13",
+        "salary": "$166K\u2013$331K",
+        "source_posted": "2026-11-13",
+        "team": "Software Engineering",
+        "title": "Principal AI Software Engineer - DevOps Acceleration",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073003",
+        "work_type": "Onsite",
+        "years": "8+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066465",
+        "key": "1970393557070075",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-13",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-13",
+        "team": "Quantum Software Engineering",
+        "title": "Senior Quantum Software Engineer - HPC Infrastructure",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070075",
+        "work_type": "Onsite",
+        "years": "1+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350502",
+        "key": "350502",
+        "location": "Austin, TX, United States; +2 more",
+        "posted": "2026-11-13",
+        "salary": "$62K\u2013$132K",
+        "source_posted": "2026-11-12",
+        "title": "Business Analyst - NetSuite Business Transformation, Headless AI & Customer Health",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350502",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350255",
+        "key": "350255",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-13",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-10",
+        "title": "Senior Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350255",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349767",
+        "key": "349767",
+        "location": "Redwood City, CA, United States; +3 more",
+        "posted": "2026-11-13",
+        "salary": "$114K\u2013$306K",
+        "source_posted": "2026-11-05",
+        "title": "Lead Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349767",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349721",
+        "key": "349721",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-13",
+        "salary": "$80K\u2013$187K",
+        "source_posted": "2026-11-04",
+        "title": "Senior Security Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349721",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-13"
