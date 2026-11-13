@@ -2484,6 +2484,24 @@
         "years": "12+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "Senior Software Engineer ML Infrastructure, Mobility Simulation and Planning About the role and team How can Uber plan pricing and incentives to meet financial goals while keeping its marketplace healthy and growing? That\u2019s the challenge our Mobility Simulation and Planning (MSP)",
+        "job_id": "304217",
+        "key": "304217",
+        "location": "San Francisco, California; +3 more",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "team": "Engineer",
+        "title": "Sr Software Engineer - ML Infrastructure",
+        "url": "https://jobs.uber.com/en/jobs/304217/",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "uber"
     }
   ],
   "last_sent": "2026-11-12"
