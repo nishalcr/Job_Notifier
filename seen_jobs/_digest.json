@@ -1279,6 +1279,72 @@
         "years": "1+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210803303",
+        "key": "210803303",
+        "location": "Palo Alto, CA, United States",
+        "posted": "2026-11-13",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-13",
+        "title": "Software Engineer III - Java Spring and API",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803303",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "301820",
+        "key": "301820",
+        "location": "Hopkinton, MA, United States",
+        "posted": "2026-11-13",
+        "salary": "$133K\u2013$173K",
+        "source_posted": "2026-11-13",
+        "title": "Cable and Optics Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/301820",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066855",
+        "key": "1970393557070776",
+        "location": "Atlanta, Georgia; +1 more",
+        "posted": "2026-11-13",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-13",
+        "team": "Service Engineering",
+        "title": "Global Senior CE Application Service Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070776",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067149",
+        "key": "1970393557072925",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-13",
+        "salary": "$85K\u2013$184K",
+        "source_posted": "2026-11-13",
+        "team": "Software Engineering",
+        "title": "Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557072925",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-13"
