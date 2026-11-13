@@ -1783,6 +1783,139 @@
         "years": "10+ yrs"
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694977-0836",
+        "key": "200694977-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Embedded Systems Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200694977-0836/embedded-systems-engineer?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603476",
+        "key": "10603476",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer, Last Mile Delivery Technology",
+        "url": "https://www.amazon.jobs/en/jobs/10603476/software-development-engineer-last-mile-delivery-technology",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "From the beginning, Google's mission has been to organize the world\u2019s information and make it universally accessible and useful, and we consider it a privilege to be able to help. As technology continues to evolve, our commitment remains to help users in their journey to connect",
+        "job_id": "102523852533179078",
+        "key": "102523852533179078",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Discover Experience",
+        "title": "Staff Research Data Scientist, Discover Experience",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/102523852533179078",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "110085193997394630",
+        "key": "110085193997394630",
+        "location": "Pittsburgh, PA, USA; +1 more",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML / Shopping on Search",
+        "title": "Staff Software Engineer, AI/ML, Shopping on Search, Commerce, Consumer Shopping Quality",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/110085193997394630",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210706883",
+        "key": "210706883",
+        "location": "New York, NY, United States; +4 more",
+        "posted": "2026-11-13",
+        "salary": "$114K\u2013$195K",
+        "source_posted": "2026-11-13",
+        "title": "Chase Modeling - Applied AI ML Senior Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706883",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73215",
+        "key": "73215",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-13",
+        "salary": "$65K\u2013$166K",
+        "source_posted": "2026-11-13",
+        "title": "Design Release Engineer-Wheel, Tire, Jack & Ornament",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73215",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350146",
+        "key": "350146",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-13",
+        "salary": "$146K\u2013$306K",
+        "source_posted": "2026-11-10",
+        "title": "Lead Principal Engineer, OCI Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350146",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350147",
+        "key": "350147",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-13",
+        "salary": "$146K\u2013$306K",
+        "source_posted": "2026-11-10",
+        "title": "Lead Principal Engineer, OCI Object Storage",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350147",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-13"
