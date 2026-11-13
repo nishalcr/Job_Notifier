@@ -489,6 +489,38 @@
         "years": "3+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603855",
+        "key": "10603855",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Sr. Front-End Engineer, Leo Network Observability, Visibility & Analytics team",
+        "url": "https://www.amazon.jobs/en/jobs/10603855/sr-front-end-engineer-leo-network-observability-visibility-analytics-team",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029897",
+        "key": "JR2029897",
+        "location": "2 Locations",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Staff Software Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer_JR2029897",
+        "work_type": "Hybrid",
+        "years": "12+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-13"
