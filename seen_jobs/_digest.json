@@ -19,6 +19,16 @@
       "at": "Nov 13 03:41 PM",
       "company": "Red Hat",
       "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
+    },
+    {
+      "at": "Nov 13 03:51 PM",
+      "company": "Yahoo",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
+    },
+    {
+      "at": "Nov 13 03:51 PM",
+      "company": "Palo Alto Networks",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
     }
   ],
   "jobs": [
@@ -2521,6 +2531,41 @@
         "years": "6+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694936-3956",
+        "key": "200694936-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "AR/VR Applications Engineer - visionOS Spatial Media, Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200694936-3956/ar-vr-applications-engineer-visionos-spatial-media-vision-products-software?team=SFTWR",
+        "work_type": "",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1825428685550972",
+        "key": "1825428685550972",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Seattle, WA / AI Infrastructure",
+        "title": "Research Scientist - Demand Forecasting",
+        "url": "https://www.metacareers.com/profile/job_details/1825428685550972",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-13"
