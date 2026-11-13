@@ -1622,6 +1622,71 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604833",
+        "key": "10604833",
+        "location": "Boston, Massachusetts",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer, AWS Transform Migrations",
+        "url": "https://www.amazon.jobs/en/jobs/10604833/software-development-engineer-aws-transform-migrations",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604831",
+        "key": "10604831",
+        "location": "San Francisco, California",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Sr. Software Dev Engineer, Amazon Interactive Video Service (IVS)",
+        "url": "https://www.amazon.jobs/en/jobs/10604831/sr-software-dev-engineer-amazon-interactive-video-service-ivs",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005335",
+        "key": "R1005335",
+        "location": "Plano, TX",
+        "posted": "2026-11-13",
+        "salary": "$179K\u2013$205K",
+        "source_posted": "Posted Today",
+        "title": "Data Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Data-Engineer-4_R1005335-1",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067009",
+        "key": "1970393557072474",
+        "location": "Multiple Locations",
+        "posted": "2026-11-13",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-13",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer - Azure Storage",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557072474",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-13"
