@@ -375,6 +375,56 @@
         "years": "3+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200065896",
+        "key": "1970393557055299",
+        "location": "Reston, Virginia",
+        "posted": "2026-11-13",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-13",
+        "team": "Software Engineering",
+        "title": "Software Engineering II - CTJ - Poly",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557055299",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200061179",
+        "key": "1970393557037653",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-13",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-13",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557037653",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350540",
+        "key": "350540",
+        "location": "Austin, TX, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Software Developer 2",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350540",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-13"
