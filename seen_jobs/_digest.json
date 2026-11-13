@@ -2811,6 +2811,24 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google Cloud's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distrib",
+        "job_id": "103631747937116870",
+        "key": "103631747937116870",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Global Infrastructure",
+        "title": "Senior Staff Network Engineer, Google Global Infrastructure",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/103631747937116870",
+        "work_type": "Remote",
+        "years": "15+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-12"
