@@ -2863,6 +2863,22 @@
         "years": "2+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210803198",
+        "key": "210803198",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Infrastructure Engineer III - AWS Cloud Infrastructure & SecOps Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803198",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-12"
