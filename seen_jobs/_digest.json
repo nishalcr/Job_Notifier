@@ -2879,6 +2879,24 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1482970387066899",
+        "key": "1482970387066899",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI Research / Artificial Intelligence",
+        "title": "AI Research Scientist, FAIR Security, Privacy, and Reliability",
+        "url": "https://www.metacareers.com/profile/job_details/1482970387066899",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-12"
