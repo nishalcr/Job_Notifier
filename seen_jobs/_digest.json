@@ -2552,6 +2552,23 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Snowflake",
+      "job": {
+        "job_id": "b861ddac-1fc4-4e42-9cde-a81be6f00fe2",
+        "key": "b861ddac-1fc4-4e42-9cde-a81be6f00fe2",
+        "location": "US-WA-Bellevue",
+        "posted": "2026-11-13",
+        "salary": "$236K\u2013$339K",
+        "source_posted": "2026-11-13",
+        "team": "Engineering",
+        "title": "Staff Software engineer - Storage",
+        "url": "https://jobs.ashbyhq.com/snowflake/b861ddac-1fc4-4e42-9cde-a81be6f00fe2",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "snowflake"
     }
   ],
   "last_sent": "2026-11-12"
