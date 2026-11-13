@@ -2400,6 +2400,24 @@
         "years": "5+ yrs"
       },
       "slug": "samsung"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1153298343784841",
+        "key": "1153298343784841",
+        "location": "Bellevue, WA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Menlo Park, CA",
+        "title": "Software Engineer, Container Infrastructure (Technical Leadership)",
+        "url": "https://www.metacareers.com/profile/job_details/1153298343784841",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-12"
