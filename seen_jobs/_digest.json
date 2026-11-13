@@ -39,6 +39,11 @@
       "at": "Nov 13 04:12 PM",
       "company": "Adobe",
       "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
+    },
+    {
+      "at": "Nov 13 04:21 PM",
+      "company": "Disney",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
     }
   ],
   "jobs": [
@@ -2643,6 +2648,56 @@
         "years": "5+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694527-0836",
+        "key": "200694527-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Sr. Software Engineer, Distributed Systems - Platform Apps & Technologies",
+        "url": "https://jobs.apple.com/en-us/details/200694527-0836/sr-software-engineer-distributed-systems-platform-apps-technologies?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694125-0836",
+        "key": "200694125-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Core Audio Software Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200694125-0836/core-audio-software-engineer?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97995",
+        "key": "97995",
+        "location": "Boxborough, Massachusetts",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Fellow Engineering",
+        "url": "https://careers.amd.com/careers-home/jobs/97995",
+        "work_type": "",
+        "years": "15+ yrs"
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-13"
