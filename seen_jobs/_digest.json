@@ -1230,6 +1230,55 @@
         "years": "15+ yrs"
       },
       "slug": "intuit"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806655",
+        "key": "210806655",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Software Engineer III - Python/ AWS/PySpark/Glue",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806655",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "96396",
+        "key": "96396",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Principal Firmware System Test Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/96396",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066670",
+        "key": "1970393557070457",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-13",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-13",
+        "team": "Data Science",
+        "title": "Senior Data & Applied Scientist",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070457",
+        "work_type": "Onsite",
+        "years": "1+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-13"
