@@ -2221,6 +2221,90 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604970",
+        "key": "10604970",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer - ML, Prime Video Personalization, Harmonia Optimizer",
+        "url": "https://www.amazon.jobs/en/jobs/10604970/software-development-engineer-ml-prime-video-personalization-harmonia-optimizer",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1094134",
+        "key": "R1094134",
+        "location": "NY - Work from hom",
+        "posted": "2026-11-13",
+        "salary": "$79K\u2013$159K",
+        "source_posted": "Posted Today",
+        "title": "AI Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/AI-Engineer_R1094134",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "75815615582872262",
+        "key": "75815615582872262",
+        "location": "Kirkland, WA, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Release Channel",
+        "title": "Senior Software Engineer, Release Channel",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/75815615582872262",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Our AI Infrastructure Engineering Support team is dedicated to ensuring our customers get the most out of their Google Cloud hardware investment. As a Customer Quality Engineer (Hardware Engineer), you will be working alongside customers, understanding and improving hardware qual",
+        "job_id": "93097945506685638",
+        "key": "93097945506685638",
+        "location": "Austin, TX, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Cloud AI Infrastructure",
+        "title": "Customer Quality Engineer, Cloud AI Infrastructure",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/93097945506685638",
+        "work_type": "Remote",
+        "years": "4+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97755",
+        "key": "97755",
+        "location": "Austin, Texas",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "High Performance CPU Clock Methodology Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/97755",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-13"
