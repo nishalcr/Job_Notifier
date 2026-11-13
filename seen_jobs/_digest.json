@@ -2586,6 +2586,73 @@
         "years": "10+ yrs"
       },
       "slug": "snowflake"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694842-0836",
+        "key": "200694842-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Software Engineer, Apple Ads",
+        "url": "https://jobs.apple.com/en-us/details/200694842-0836/software-engineer-apple-ads?team=SFTWR",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694852-0836",
+        "key": "200694852-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Machine Learning Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200694852-0836/machine-learning-engineer?team=SFTWR",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200693291-0836",
+        "key": "200693291-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Software Development Engineer, Test Tooling",
+        "url": "https://jobs.apple.com/en-us/details/200693291-0836/software-development-engineer-test-tooling?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005693",
+        "key": "R1005693",
+        "location": "McLean, VA",
+        "posted": "2026-11-13",
+        "salary": "$197K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Full-Stack Engineer 4 (Java, Python, Cloud) (Enterprise Platforms Technology)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Java--Python--Cloud---Enterprise-Platforms-Technology-_R1005693-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-12"
