@@ -2139,6 +2139,22 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604983",
+        "key": "10604983",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Senior SDE, AWS IAM",
+        "url": "https://www.amazon.jobs/en/jobs/10604983/senior-sde-aws-iam",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-13"
