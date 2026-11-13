@@ -2026,6 +2026,22 @@
         "years": ""
       },
       "slug": "ford"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210802451",
+        "key": "210802451",
+        "location": "Wilmington, DE, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Full Stack Lead Software Engineer Java AWS",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802451",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-13"
