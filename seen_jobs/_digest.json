@@ -2569,6 +2569,23 @@
         "years": "10+ yrs"
       },
       "slug": "snowflake"
+    },
+    {
+      "company": "Snowflake",
+      "job": {
+        "job_id": "57131f28-cdf8-4776-aa87-8f9339e494ab",
+        "key": "57131f28-cdf8-4776-aa87-8f9339e494ab",
+        "location": "US-CA-Menlo Park; +1 more",
+        "posted": "2026-11-13",
+        "salary": "$236K\u2013$339K",
+        "source_posted": "2026-11-13",
+        "team": "Engineering",
+        "title": "Staff Software Engineer - Compiler & Spark Runtime",
+        "url": "https://jobs.ashbyhq.com/snowflake/57131f28-cdf8-4776-aa87-8f9339e494ab",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "snowflake"
     }
   ],
   "last_sent": "2026-11-12"
