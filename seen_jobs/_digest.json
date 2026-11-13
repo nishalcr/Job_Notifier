@@ -16,6 +16,38 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R122216",
+        "key": "R122216",
+        "location": "1530 FM 973 Taylor, TX, USA",
+        "posted": "2026-11-13",
+        "salary": "$106K\u2013$145K",
+        "source_posted": "Posted Today",
+        "title": "Analysis Technology Engineer",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Analysis-Technology-Engineer_R122216",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "samsung"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005770",
+        "key": "R1005770",
+        "location": "3 Locations",
+        "posted": "2026-11-13",
+        "salary": "$162K\u2013$201K",
+        "source_posted": "Posted Today",
+        "title": "AI Engineer 3 (AI Foundations)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/AI-Engineer-3--AI-Foundations-_R1005770-1",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-13"
