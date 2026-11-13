@@ -29,6 +29,16 @@
       "at": "Nov 13 03:51 PM",
       "company": "Palo Alto Networks",
       "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
+    },
+    {
+      "at": "Nov 13 04:12 PM",
+      "company": "Red Hat",
+      "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 13 04:12 PM",
+      "company": "Adobe",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
     }
   ],
   "jobs": [
@@ -2582,6 +2592,57 @@
         "years": ""
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694753-3543",
+        "key": "200694753-3543",
+        "location": "San Diego",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Software Engineer - Distributed Data Systems",
+        "url": "https://jobs.apple.com/en-us/details/200694753-3543/software-engineer-distributed-data-systems?team=SFTWR",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694773-0836",
+        "key": "200694773-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Software Development Engineer, Enterprise and Education, CoreOS",
+        "url": "https://jobs.apple.com/en-us/details/200694773-0836/software-development-engineer-enterprise-and-education-coreos?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694630-3543",
+        "key": "200694630-3543",
+        "location": "San Diego",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Senior Software Power Systems Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200694630-3543/senior-software-power-systems-engineer?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-13"
