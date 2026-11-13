@@ -277,6 +277,54 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603921",
+        "key": "10603921",
+        "location": "New York, New York",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Robotics Software Development Engineer, Fauna",
+        "url": "https://www.amazon.jobs/en/jobs/10603921/robotics-software-development-engineer-fauna",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603911",
+        "key": "10603911",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Data Scientist , Leo Customer Terminal",
+        "url": "https://www.amazon.jobs/en/jobs/10603911/data-scientist-leo-customer-terminal",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210805706",
+        "key": "210805706",
+        "location": "Seattle, WA, United States",
+        "posted": "2026-11-13",
+        "salary": "$176K\u2013$260K",
+        "source_posted": "2026-11-13",
+        "title": "Senior Lead Software Engineer - Container Platforms",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805706",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-13"
