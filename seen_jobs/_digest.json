@@ -2653,6 +2653,22 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005416",
+        "key": "R1005416",
+        "location": "Plano, TX",
+        "posted": "2026-11-13",
+        "salary": "$179K\u2013$205K",
+        "source_posted": "Posted Today",
+        "title": "Full-Stack Engineer 4 (Java, Spring Boot, AWS) (Enterprise Platforms Technology)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4--Java--Spring-Boot--AWS---Enterprise-Platforms-Technology-_R1005416-2",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-12"
