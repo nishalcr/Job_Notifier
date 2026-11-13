@@ -2468,6 +2468,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029346",
+        "key": "JR2029346",
+        "location": "US, CA, Remote",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer, Nix Packaging and Release Automation",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Software-Engineer--Nix-Packaging-and-Release-Automation_JR2029346",
+        "work_type": "Remote",
+        "years": "12+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-12"
