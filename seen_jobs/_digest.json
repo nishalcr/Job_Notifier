@@ -856,6 +856,69 @@
         "years": "3+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694844-3337",
+        "key": "200694844-3337",
+        "location": "Seattle",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Senior / Staff ML Engineer, Training Services, Apple Cloud AI",
+        "url": "https://jobs.apple.com/en-us/details/200694844-3337/senior-staff-ml-engineer-training-services-apple-cloud-ai?team=SFTWR",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694569-0836",
+        "key": "200694569-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-13",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Sr. Software Engineer - Distributed Storage",
+        "url": "https://jobs.apple.com/en-us/details/200694569-0836/sr-software-engineer-distributed-storage?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604672",
+        "key": "10604672",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Senior Frontend Engineer, OpenSearch Dashboards Platform Team",
+        "url": "https://www.amazon.jobs/en/jobs/10604672/senior-frontend-engineer-opensearch-dashboards-platform-team",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210805311",
+        "key": "210805311",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Lead Software Engineer - Frontend-Stacks",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805311",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-13"
