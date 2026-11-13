@@ -2845,6 +2845,24 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "139205347142181574",
+        "key": "139205347142181574",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Geo / Computer Vision",
+        "title": "Software Engineer, Geo, Computer Vision",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/139205347142181574",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-12"
