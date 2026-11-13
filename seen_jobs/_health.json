@@ -1,6 +1,28 @@
 {
+  "adobe": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 521"
+  },
+  "cisco": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 521"
+  },
+  "disney": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 521"
+  },
+  "hp": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 521"
+  },
   "nvidia": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Workday API request failed with status 502"
+    "broken_since": "2026-11-13T22:21:01+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Workday API request failed with status 521",
+    "status": "broken"
+  },
+  "redhat": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 521"
   }
 }

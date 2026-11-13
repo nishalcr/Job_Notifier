@@ -1,5 +1,11 @@
 {
-  "issues": [],
+  "issues": [
+    {
+      "at": "Nov 13 03:21 PM",
+      "company": "NVIDIA",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
+    }
+  ],
   "jobs": [
     {
       "company": "JPMorgan Chase",
@@ -2305,6 +2311,119 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200690289-3956",
+        "key": "200690289-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-02",
+        "team": "Software and Services",
+        "title": "Senior Software Engineer - FaceTime and SharePlay, Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200690289-3956/senior-software-engineer-facetime-and-shareplay-vision-products-software?team=SFTWR",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605024",
+        "key": "10605024",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer, PV Ads GEM",
+        "url": "https://www.amazon.jobs/en/jobs/10605024/software-development-engineer-pv-ads-gem",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605034",
+        "key": "10605034",
+        "location": "New York, New York",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Dev Engineer II,  Prime Video Ads",
+        "url": "https://www.amazon.jobs/en/jobs/10605034/software-dev-engineer-ii-prime-video-ads",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10598816",
+        "key": "10598816",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Senior Software Engineer, AI & Strategic Partner Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10598816/senior-software-engineer-ai-strategic-partner-engineering",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602416",
+        "key": "10602416",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Senior Software Engineer, AI & Strategic Partner Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10602416/senior-software-engineer-ai-strategic-partner-engineering",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605025",
+        "key": "10605025",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer II, Amazon Foundational Security Services",
+        "url": "https://www.amazon.jobs/en/jobs/10605025/software-development-engineer-ii-amazon-foundational-security-services",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016288",
+        "key": "26016288",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "AI Engineer III",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016288",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-13"
