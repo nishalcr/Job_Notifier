@@ -1458,6 +1458,40 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Team Earners (drivers and couriers) are an integral part of Uber\u2019s multi sided marketplace. They provide the time and the means to move people and things. Importantly, they enable the connection between the physical and digital world to make the movement happen at the p",
+        "job_id": "304737",
+        "key": "304737",
+        "location": "San Francisco, California; +3 more",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Engineer",
+        "title": "Sr Machine Learning Engineer",
+        "url": "https://jobs.uber.com/en/jobs/304737/",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029610",
+        "key": "JR2029610",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior System Software Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer_JR2029610",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-13"
