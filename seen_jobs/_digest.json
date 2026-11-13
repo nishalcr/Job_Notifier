@@ -521,6 +521,102 @@
         "years": "12+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210804347",
+        "key": "210804347",
+        "location": "Chicago, IL, United States; +3 more",
+        "posted": "2026-11-13",
+        "salary": "$138K\u2013$215K",
+        "source_posted": "2026-11-13",
+        "title": "Lead Cybersecurity Architect, AI/Agentic Security",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804347",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210804350",
+        "key": "210804350",
+        "location": "Chicago, IL, United States; +3 more",
+        "posted": "2026-11-13",
+        "salary": "$138K\u2013$215K",
+        "source_posted": "2026-11-13",
+        "title": "Lead Cybersecurity Architect, AI/Agentic Security",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804350",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "301602",
+        "key": "301602",
+        "location": "Round Rock, TX, United States; +1 more",
+        "posted": "2026-11-13",
+        "salary": "$144K\u2013$198K",
+        "source_posted": "2026-11-13",
+        "title": "Software Senior Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/301602",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "301591",
+        "key": "301591",
+        "location": "Round Rock, TX, United States; +1 more",
+        "posted": "2026-11-13",
+        "salary": "$200K\u2013$275K",
+        "source_posted": "2026-11-13",
+        "title": "Software Senior Principal Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/301591",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74158",
+        "key": "74158",
+        "location": "Palo Alto, CA, United States",
+        "posted": "2026-11-13",
+        "salary": "$150K\u2013$284K",
+        "source_posted": "2026-11-13",
+        "title": "Staff Software Developer in Test \u2013 System V&V",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74158",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74163",
+        "key": "74163",
+        "location": "Palo Alto, CA, United States",
+        "posted": "2026-11-13",
+        "salary": "$139K\u2013$233K",
+        "source_posted": "2026-11-13",
+        "title": "Senior Software Developer in Test \u2013 Inverter",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74163",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-13"
