@@ -457,6 +457,38 @@
         "years": ""
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604591",
+        "key": "10604591",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer, Network Core",
+        "url": "https://www.amazon.jobs/en/jobs/10604591/software-development-engineer-network-core",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74088",
+        "key": "74088",
+        "location": "Allen Park, MI, United States",
+        "posted": "2026-11-13",
+        "salary": "$74K\u2013$166K",
+        "source_posted": "2026-11-13",
+        "title": "Embedded Platform Diagnostics Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74088",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-13"
