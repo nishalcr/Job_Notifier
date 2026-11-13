@@ -2929,6 +2929,40 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Goldman Sachs",
+      "job": {
+        "description": "",
+        "job_id": "182586",
+        "key": "182586",
+        "location": "Dallas, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "The Core Engineering- Software Engineering - Associate - Dallas",
+        "title": "The Core Engineering- Software Engineering - Associate - Dallas",
+        "url": "https://higher.gs.com/roles/182586",
+        "work_type": "Onsite",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "goldman-sachs"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "302550",
+        "key": "302550",
+        "location": "TN, United States",
+        "posted": "2026-11-13",
+        "salary": "$134K\u2013$185K",
+        "source_posted": "2026-11-13",
+        "title": "Principal Engineer, Solutions Architecture",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/302550",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "dell"
     }
   ],
   "last_sent": "2026-11-12"
