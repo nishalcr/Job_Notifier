@@ -2829,6 +2829,22 @@
         "years": "15+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604047",
+        "key": "10604047",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer, Selection Economics Tech",
+        "url": "https://www.amazon.jobs/en/jobs/10604047/software-development-engineer-selection-economics-tech",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-12"
