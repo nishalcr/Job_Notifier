@@ -36,8 +36,10 @@
     "status": "broken"
   },
   "redhat": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Workday API request failed with status 521"
+    "broken_since": "2026-11-13T23:41:38+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Workday API request failed with status 521",
+    "status": "broken"
   },
   "yahoo": {
     "broken_since": "2026-11-13T22:51:23+00:00",

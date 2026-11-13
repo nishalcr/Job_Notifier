@@ -44,6 +44,11 @@
       "at": "Nov 13 04:21 PM",
       "company": "Disney",
       "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
+    },
+    {
+      "at": "Nov 13 04:41 PM",
+      "company": "Red Hat",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
     }
   ],
   "jobs": [
@@ -2813,6 +2818,57 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694233-3956",
+        "key": "200694233-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Sr. Software Engineer, AI & Data Platforms (AiDP)",
+        "url": "https://jobs.apple.com/en-us/details/200694233-3956/sr-software-engineer-ai-data-platforms-aidp?team=SFTWR",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200692913-3956",
+        "key": "200692913-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Sr. Platform Software Engineer, AI & Data Platforms (AiDP)",
+        "url": "https://jobs.apple.com/en-us/details/200692913-3956/sr-platform-software-engineer-ai-data-platforms-aidp?team=SFTWR",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143006",
+        "key": "143006",
+        "location": "Multiple Cities",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data & Analytics",
+        "title": "Senior Forward Deployed Engineer",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143006",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
     }
   ],
   "last_sent": "2026-11-13"
