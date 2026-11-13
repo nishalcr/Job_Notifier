@@ -342,6 +342,39 @@
         "years": "5+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10601917",
+        "key": "10601917",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Sr. Applied Scientist, Sales AI",
+        "url": "https://www.amazon.jobs/en/jobs/10601917/sr-applied-scientist-sales-ai",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066983",
+        "key": "1970393557071353",
+        "location": "Multiple Locations",
+        "posted": "2026-11-13",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-13",
+        "team": "Security Research",
+        "title": "Cybersecurity Infrastructure Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557071353",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-13"

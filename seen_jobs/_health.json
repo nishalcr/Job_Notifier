@@ -1,6 +1,1 @@
-{
-  "cvs": {
-    "consecutive_failures": 1,
-    "last_error": "Timeout on page 1: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.cvshealth.com/us/en/search-results?keywords=software%20development%20engineer\", waiting until \"domcontentloaded\"\n"
-  }
-}
+{}
