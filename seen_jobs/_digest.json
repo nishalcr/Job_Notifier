@@ -2897,6 +2897,38 @@
         "years": ""
       },
       "slug": "meta"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210805710",
+        "key": "210805710",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-13",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-13",
+        "title": "Lead Software Engineer - AWS, Python/Java - AI/ML",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805710",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806831",
+        "key": "210806831",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-13",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-13",
+        "title": "Sr. Lead Software Engineer- Full Stack/Java/Python/AWS/Rea",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806831",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-12"
