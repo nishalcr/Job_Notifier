@@ -2739,6 +2739,60 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "81295718974661318",
+        "key": "81295718974661318",
+        "location": "New York, NY, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "GenAI / Search",
+        "title": "Senior Software Engineer, GenAI, Search",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/81295718974661318",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "A line of code can be many things - an amazing feature, a beautiful UI, a transformative algorithm. The faster this line of code reaches millions of users, the sooner it impacts their lives. As a Software Engineer, Tools and Infrastructure, you will be at the heart of Google\u2019s en",
+        "job_id": "134371292731056838",
+        "key": "134371292731056838",
+        "location": "San Jose, CA, USA; +1 more",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Engineering Productivity",
+        "title": "Senior Software Engineer, Engineering Productivity",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/134371292731056838",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "The Climate and Energy team's mission is to use Google technologies to manage climate change and build a sustainable energy future. We apply different technologies to make transformative, non-incremental advances in global energy systems, including accelerating research into fusi",
+        "job_id": "98942829060858566",
+        "key": "98942829060858566",
+        "location": "Alameda, CA, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Climate and Energy",
+        "title": "Research Scientist, Climate and Energy",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/98942829060858566",
+        "work_type": "Remote",
+        "years": "4+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-12"
