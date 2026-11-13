@@ -1,15 +1,19 @@
 {
-  "adobe": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Workday API request failed with status 521"
-  },
   "cisco": {
-    "consecutive_failures": 2,
+    "broken_since": "2026-11-13T22:41:03+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Workday API request failed with status 521",
+    "status": "broken"
+  },
+  "disney": {
+    "consecutive_failures": 1,
     "last_error": "Error on page 1: Workday API request failed with status 521"
   },
   "hp": {
-    "consecutive_failures": 2,
-    "last_error": "Error on page 1: Workday API request failed with status 521"
+    "broken_since": "2026-11-13T22:41:01+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Workday API request failed with status 521",
+    "status": "broken"
   },
   "nvidia": {
     "broken_since": "2026-11-13T22:21:01+00:00",
@@ -18,15 +22,17 @@
     "status": "broken"
   },
   "paloalto": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Workday API request failed with status 521"
-  },
-  "redhat": {
     "consecutive_failures": 2,
     "last_error": "Error on page 1: Workday API request failed with status 521"
   },
+  "redhat": {
+    "broken_since": "2026-11-13T22:41:30+00:00",
+    "consecutive_failures": 3,
+    "last_error": "Error on page 1: Workday API request failed with status 521",
+    "status": "broken"
+  },
   "yahoo": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_error": "Error on page 1: Workday API request failed with status 521"
   }
 }

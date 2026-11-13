@@ -4,6 +4,21 @@
       "at": "Nov 13 03:21 PM",
       "company": "NVIDIA",
       "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
+    },
+    {
+      "at": "Nov 13 03:41 PM",
+      "company": "HP",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
+    },
+    {
+      "at": "Nov 13 03:41 PM",
+      "company": "Cisco",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
+    },
+    {
+      "at": "Nov 13 03:41 PM",
+      "company": "Red Hat",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
     }
   ],
   "jobs": [
@@ -2424,6 +2439,88 @@
         "years": "4+ yrs"
       },
       "slug": "amex"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605042",
+        "key": "10605042",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Senior Software Engineer, Amazon Foundational Security Services - Identity",
+        "url": "https://www.amazon.jobs/en/jobs/10605042/senior-software-engineer-amazon-foundational-security-services-identity",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605040",
+        "key": "10605040",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Engineer, Amazon Foundational Security Services - Identity",
+        "url": "https://www.amazon.jobs/en/jobs/10605040/software-engineer-amazon-foundational-security-services-identity",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605044",
+        "key": "10605044",
+        "location": "San Luis Obispo, California",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Dev Engineer II, ESCAPE",
+        "url": "https://www.amazon.jobs/en/jobs/10605044/software-dev-engineer-ii-escape",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200065328",
+        "key": "1970393557053366",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-13",
+        "salary": "$120K\u2013$304K",
+        "source_posted": "2026-11-13",
+        "team": "Data Science",
+        "title": "Member of Technical Staff, Data Scientist - ES AI (Engineering System AI) Team",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557053366",
+        "work_type": "Onsite",
+        "years": "1+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200065669",
+        "key": "1970393557054029",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-13",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-13",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557054029",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-13"
