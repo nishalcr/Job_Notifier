@@ -1703,6 +1703,54 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604881",
+        "key": "10604881",
+        "location": "Westborough, Massachusetts",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer, Amazon Robotics",
+        "url": "https://www.amazon.jobs/en/jobs/10604881/software-development-engineer-amazon-robotics",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809011",
+        "key": "210809011",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-13",
+        "salary": "$150K\u2013$200K",
+        "source_posted": "2026-11-13",
+        "title": "Quantitative Trading & Research - Credit & Public Finance Sales - Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809011",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350114",
+        "key": "350114",
+        "location": "West Jordan, UT, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Senior Planning & Deployment Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350114",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-13"
