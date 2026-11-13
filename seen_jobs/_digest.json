@@ -1916,6 +1916,66 @@
         "years": "10+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694982-3401",
+        "key": "200694982-3401",
+        "location": "San Francisco Bay Area",
+        "posted": "2026-11-13",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Sr Software Engineer, Infrastructure Services",
+        "url": "https://jobs.apple.com/en-us/details/200694982-3401/sr-software-engineer-infrastructure-services?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694981-3401",
+        "key": "200694981-3401",
+        "location": "San Francisco Bay Area",
+        "posted": "2026-11-13",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Sr Software Engineer, Infrastructure Services",
+        "url": "https://jobs.apple.com/en-us/details/200694981-3401/sr-software-engineer-infrastructure-services?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604920",
+        "key": "10604920",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer, LEO Pop Control Plane",
+        "url": "https://www.amazon.jobs/en/jobs/10604920/software-development-engineer-leo-pop-control-plane",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604922",
+        "key": "10604922",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer , Leo Regulus",
+        "url": "https://www.amazon.jobs/en/jobs/10604922/software-development-engineer-leo-regulus",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-13"
