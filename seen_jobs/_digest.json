@@ -1492,6 +1492,104 @@
         "years": "3+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10589094",
+        "key": "10589094",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "October 29, 2026",
+        "title": "Software Development Engineer, Last Mile Delivery Prdct&Tech (Level 5), CORTEX - Monitoring & Projections",
+        "url": "https://www.amazon.jobs/en/jobs/10589094/software-development-engineer-last-mile-delivery-prdct-tech-level-5-cortex-monitoring-projections",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10587819",
+        "key": "10587819",
+        "location": "Pittsburgh, Pennsylvania",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "October 23, 2026",
+        "title": "Business Intelligence Engineer, NA RME Strategy",
+        "url": "https://www.amazon.jobs/en/jobs/10587819/business-intelligence-engineer-na-rme-strategy",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "133213970843476678",
+        "key": "133213970843476678",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML / Platforms and Devices",
+        "title": "Senior Software Engineer, AI/ML, Platforms and Devices",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/133213970843476678",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210791686",
+        "key": "210791686",
+        "location": "Tampa, FL, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Fullstack Senior Software Engineer - Java, SpringBoot, React",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791686",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74329",
+        "key": "74329",
+        "location": "Allen Park, MI, United States",
+        "posted": "2026-11-13",
+        "salary": "$74K\u2013$166K",
+        "source_posted": "2026-11-13",
+        "title": "Embedded Platform Integration Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74329",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289178",
+        "key": "JR0289178",
+        "location": "2 Locations",
+        "posted": "2026-11-13",
+        "salary": "$133K\u2013$241K",
+        "source_posted": "Posted Today",
+        "title": "AI Frameworks Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/AI-Frameworks-Engineer_JR0289178",
+        "work_type": "Hybrid",
+        "years": "1+ yrs"
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-13"
