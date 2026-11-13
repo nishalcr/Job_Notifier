@@ -2452,6 +2452,22 @@
         "years": "4+ yrs"
       },
       "slug": "uber"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602771",
+        "key": "10602771",
+        "location": "New York, New York",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Applied Scientist, Sponsored Products and Brands",
+        "url": "https://www.amazon.jobs/en/jobs/10602771/applied-scientist-sponsored-products-and-brands",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-12"
