@@ -1080,6 +1080,156 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "87607328034955974",
+        "key": "87607328034955974",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Platforms Infrastructure Engineering",
+        "title": "Staff Software Engineer, Infrastructure, Platforms Infrastructure Engineering",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/87607328034955974",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "80478094640456390",
+        "key": "80478094640456390",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML / Google Cloud",
+        "title": "Staff Software Engineer, AI/ML, Google Cloud",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/80478094640456390",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1768080781159715",
+        "key": "1768080781159715",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Research / Engineering",
+        "title": "Research Scientist, Central Applied Science",
+        "url": "https://www.metacareers.com/profile/job_details/1768080781159715",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806555",
+        "key": "210806555",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Software Engineer III - Mainframe",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806555",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806588",
+        "key": "210806588",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Software Engineer III - Mainframe",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806588",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808894",
+        "key": "210808894",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-13",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-13",
+        "title": "Software Engineer III-Gen AI/RAG/Python",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808894",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74188",
+        "key": "74188",
+        "location": "United States",
+        "posted": "2026-11-13",
+        "salary": "$142K\u2013$268K",
+        "source_posted": "2026-11-13",
+        "title": "Principal Product & Field Safety Engineer, Ford Energy",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74188",
+        "work_type": "Remote",
+        "years": "12+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103261394672",
+        "key": "103261394672",
+        "location": "San Diego; +more",
+        "posted": "2026-11-13",
+        "salary": "$127K\u2013$172K",
+        "source_posted": "",
+        "title": "Software Engineer",
+        "url": "https://jobs.intuit.com/job/san-diego/software-engineer/27595/103261394672",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103261389648",
+        "key": "103261389648",
+        "location": "Oakland; +more",
+        "posted": "2026-11-13",
+        "salary": "$262K\u2013$354K",
+        "source_posted": "",
+        "title": "Principal Software Engineer, Data Engineering",
+        "url": "https://jobs.intuit.com/job/oakland/principal-software-engineer-data-engineering/27595/103261389648",
+        "work_type": "Hybrid",
+        "years": "15+ yrs"
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-13"
