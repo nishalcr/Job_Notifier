@@ -1,6 +1,6 @@
 {
   "adobe": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_error": "Error on page 1: Workday API request failed with status 521"
   },
   "cisco": {
@@ -8,6 +8,10 @@
     "consecutive_failures": 3,
     "last_error": "Error on page 1: Workday API request failed with status 521",
     "status": "broken"
+  },
+  "disney": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 521"
   },
   "hp": {
     "broken_since": "2026-11-13T22:41:01+00:00",
