@@ -2434,6 +2434,24 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the role and team The Marketplace Segmentation team is at the forefront of optimizing Uber's core rides business by strategically differentiating product offerings to cater to diverse rider needs and market conditions. We build and maintain critical products like UberX Prio",
+        "job_id": "304105",
+        "key": "304105",
+        "location": "San Francisco, California",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "team": "Science",
+        "title": "Senior Scientist - Marketplace Rider Segmentation",
+        "url": "https://jobs.uber.com/en/jobs/304105/",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "uber"
     }
   ],
   "last_sent": "2026-11-12"
