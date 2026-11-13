@@ -165,6 +165,118 @@
         "years": "5+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604195",
+        "key": "10604195",
+        "location": "USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Security Engineer, SBS Pentesting",
+        "url": "https://www.amazon.jobs/en/jobs/10604195/security-engineer-sbs-pentesting",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604198",
+        "key": "10604198",
+        "location": "Austin, Texas",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "SDE II, AVMS",
+        "url": "https://www.amazon.jobs/en/jobs/10604198/sde-ii-avms",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R0976382",
+        "key": "R0976382",
+        "location": "IRL - Galway",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Staff Software Engineer - DevOps, SRE, AIOps",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IRL---Galway/Staff-Software-Engineer---DevOps--SRE--AIOps_R0976382",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368156",
+        "key": "JR368156",
+        "location": "2 Locations",
+        "posted": "2026-11-13",
+        "salary": "$148K\u2013$286K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering - AgentExchange Buyer Experience - LMTS",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineering---AgentExchange-Buyer-Experience---LMTS_JR368156",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2030555",
+        "key": "2030555",
+        "location": "43 Locations",
+        "posted": "2026-11-13",
+        "salary": "$139K\u2013$282K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer \u2013 Splunk Framework & Runtime Services",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Boulder-Colorado-US/Senior-Software-Engineer---Splunk-Framework---Runtime-Services_2030555-1",
+        "work_type": "Remote",
+        "years": "7+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005049",
+        "key": "R1005049",
+        "location": "3 Locations",
+        "posted": "2026-11-13",
+        "salary": "$179K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Network Engineer 4 ((Cloud Operations Resilience Engineering)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Network-Engineer-4---Cloud-Operations-Resilience-Engineering-_R1005049-1",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1004167",
+        "key": "R1004167",
+        "location": "Richmond, VA",
+        "posted": "2026-11-13",
+        "salary": "$179K\u2013$205K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1004167",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-13"
