@@ -1751,6 +1751,38 @@
         "years": "5+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809041",
+        "key": "210809041",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-13",
+        "salary": "$150K\u2013$200K",
+        "source_posted": "2026-11-13",
+        "title": "Quantitative Trading & Research - Cash Equities - Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809041",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103266345328",
+        "key": "103266345328",
+        "location": "New York, New York",
+        "posted": "2026-11-13",
+        "salary": "$202K\u2013$274K",
+        "source_posted": "",
+        "title": "Staff Software Engineer",
+        "url": "https://jobs.intuit.com/job/new-york/staff-software-engineer/27595/103266345328",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-13"
