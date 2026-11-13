@@ -919,6 +919,54 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604684",
+        "key": "10604684",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer, AWS IAM",
+        "url": "https://www.amazon.jobs/en/jobs/10604684/software-development-engineer-aws-iam",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73762",
+        "key": "73762",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-13",
+        "salary": "$87K\u2013$166K",
+        "source_posted": "2026-11-13",
+        "title": "Electromechanical Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73762",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350048",
+        "key": "350048",
+        "location": "Seattle, WA, United States; +3 more",
+        "posted": "2026-11-13",
+        "salary": "$102K\u2013$210K",
+        "source_posted": "2026-11-13",
+        "title": "Principal Network Developer - Seattle or Bay area",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350048",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-13"
