@@ -3013,6 +3013,72 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694621-0836",
+        "key": "200694621-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Sr Software Engineer, Apple Ads",
+        "url": "https://jobs.apple.com/en-us/details/200694621-0836/sr-software-engineer-apple-ads?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808974",
+        "key": "210808974",
+        "location": "Columbus, OH, United States; +2 more",
+        "posted": "2026-11-13",
+        "salary": "$124K\u2013$170K",
+        "source_posted": "2026-11-13",
+        "title": "Data Scientist-Senior Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808974",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "140136",
+        "key": "140136",
+        "location": "Multiple Cities",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Staff Engineer, HashiCorp Vault",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=140136",
+        "work_type": "Hybrid",
+        "years": "15+ yrs"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "72939",
+        "key": "72939",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-13",
+        "salary": "$100K\u2013$193K",
+        "source_posted": "2026-11-13",
+        "title": "AEM Software Developer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72939",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-12"
