@@ -325,6 +325,23 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200693202-3956",
+        "key": "200693202-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "Software Engineer, Infrastructure Applications",
+        "url": "https://jobs.apple.com/en-us/details/200693202-3956/software-engineer-infrastructure-applications?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-13"
