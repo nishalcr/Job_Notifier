@@ -2869,6 +2869,22 @@
         "years": ""
       },
       "slug": "ibm"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605103",
+        "key": "10605103",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Data Scientist, CloudTune",
+        "url": "https://www.amazon.jobs/en/jobs/10605103/data-scientist-cloudtune",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-13"
