@@ -2171,6 +2171,56 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605005",
+        "key": "10605005",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Event Systems Engineer, Event Productions (EP)",
+        "url": "https://www.amazon.jobs/en/jobs/10605005/event-systems-engineer-event-productions-ep",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1725700665844666",
+        "key": "1725700665844666",
+        "location": "Burlingame, CA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / New York, NY / AI Research",
+        "title": "Research Scientist, Neural Interfaces for Wearables",
+        "url": "https://www.metacareers.com/profile/job_details/1725700665844666",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210804550",
+        "key": "210804550",
+        "location": "OH, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Lead Infrastructure Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804550",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-13"
