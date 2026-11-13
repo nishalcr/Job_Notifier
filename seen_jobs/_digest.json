@@ -425,6 +425,38 @@
         "years": "1+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604346",
+        "key": "10604346",
+        "location": "New York, New York",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer II, Drift Defender",
+        "url": "https://www.amazon.jobs/en/jobs/10604346/software-development-engineer-ii-drift-defender",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604407",
+        "key": "10604407",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Salesforce Engineer , Amazon Leo Government",
+        "url": "https://www.amazon.jobs/en/jobs/10604407/salesforce-engineer-amazon-leo-government",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-13"
