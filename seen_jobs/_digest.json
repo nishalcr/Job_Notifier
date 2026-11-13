@@ -3079,6 +3079,86 @@
         "years": "5+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604123",
+        "key": "10604123",
+        "location": "Annapolis Junction, Maryland",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Forensic Security Engineer III, ITI Forensics",
+        "url": "https://www.amazon.jobs/en/jobs/10604123/forensic-security-engineer-iii-iti-forensics",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2029751",
+        "key": "2029751",
+        "location": "3 Locations",
+        "posted": "2026-11-13",
+        "salary": "$94K\u2013$174K",
+        "source_posted": "Posted Today",
+        "title": "Business Analyst",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Durham-North-Carolina-US/Business-Analyst_2029751-1",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210784170",
+        "key": "210784170",
+        "location": "Tampa, FL, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Software Engineer III - Java/AWS/ MQ connectivity",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784170",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210785362",
+        "key": "210785362",
+        "location": "Tampa, FL, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Software Engineer III - Java/AWS/Kafka",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785362",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808631",
+        "key": "210808631",
+        "location": "NY, United States; +1 more",
+        "posted": "2026-11-13",
+        "salary": "$176K\u2013$260K",
+        "source_posted": "2026-11-13",
+        "title": "Sr. Lead Software Engineer \u2014 Trust and Security",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808631",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-12"
