@@ -2793,6 +2793,24 @@
         "years": "4+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "111710358082593478",
+        "key": "111710358082593478",
+        "location": "New York, NY, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Product / Ads Sellside",
+        "title": "Senior Data Scientist, Product, Ads Sellside",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/111710358082593478",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-12"
