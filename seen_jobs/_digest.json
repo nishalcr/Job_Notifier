@@ -1976,6 +1976,56 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604939",
+        "key": "10604939",
+        "location": "Cambridge, Massachusetts",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer, Audible AI Voice Production",
+        "url": "https://www.amazon.jobs/en/jobs/10604939/software-development-engineer-audible-ai-voice-production",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "3272667389591898",
+        "key": "3272667389591898",
+        "location": "Redmond, WA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Burlingame, CA",
+        "title": "AI Engineer, Specialist - VR",
+        "url": "https://www.metacareers.com/profile/job_details/3272667389591898",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73072",
+        "key": "73072",
+        "location": "Redford, MI, United States",
+        "posted": "2026-11-13",
+        "salary": "$116K\u2013$218K",
+        "source_posted": "2026-11-13",
+        "title": "Engineering Lead, CoreMesh Ontology and Knowledge Graph",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73072",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-13"
