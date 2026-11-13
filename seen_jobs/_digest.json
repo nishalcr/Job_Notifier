@@ -967,6 +967,119 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604523",
+        "key": "10604523",
+        "location": "Austin, Texas",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer II \u2014 Regression Infrastructure, Trainium Manufacturing Infrastucture",
+        "url": "https://www.amazon.jobs/en/jobs/10604523/software-development-engineer-ii-regression-infrastructure-trainium-manufacturing-infrastucture",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604691",
+        "key": "10604691",
+        "location": "Pasadena, California",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Applied Scientist II, Safe Autonomy Frontiers (SAF) Lab",
+        "url": "https://www.amazon.jobs/en/jobs/10604691/applied-scientist-ii-safe-autonomy-frontiers-saf-lab",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604692",
+        "key": "10604692",
+        "location": "Pasadena, California",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Research Scientist II, Safe Autonomy Frontiers (SAF) Lab",
+        "url": "https://www.amazon.jobs/en/jobs/10604692/research-scientist-ii-safe-autonomy-frontiers-saf-lab",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210805875",
+        "key": "210805875",
+        "location": "Columbus, OH, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Voice Product Analytics - Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805875",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808982",
+        "key": "210808982",
+        "location": "Columbus, OH, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Sr. Lead Software Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808982",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8384567",
+        "key": "8384567",
+        "location": "na",
+        "posted": "2026-11-13",
+        "salary": "$173K\u2013$260K",
+        "source_posted": "2026-11-13",
+        "title": "Software Engineer, Vulnerability Management",
+        "url": "https://stripe.com/jobs/search?gh_jid=8384567",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "stripe"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200064484",
+        "key": "1970393557050201",
+        "location": "Multiple Locations",
+        "posted": "2026-11-13",
+        "salary": "$106K\u2013$223K",
+        "source_posted": "2026-11-13",
+        "team": "Sales Strategy Enablement",
+        "title": "Business Architect - AI Workforce in SME&C",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557050201",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-13"
