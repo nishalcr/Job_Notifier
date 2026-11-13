@@ -97,6 +97,74 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google Cloud's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distrib",
+        "job_id": "93173330772665030",
+        "key": "93173330772665030",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / AlloyDB",
+        "title": "Senior Software Engineer, Infrastructure, AlloyDB",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/93173330772665030",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "100971067236852422",
+        "key": "100971067236852422",
+        "location": "Boulder, CO, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Search Intelligence",
+        "title": "Software Engineer, Infrastructure, Search Intelligence",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/100971067236852422",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210804903",
+        "key": "210804903",
+        "location": "Charlotte, NC, United States; +1 more",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Software Engineer II - Observability Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804903",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "342795",
+        "key": "342795",
+        "location": "Nashville, TN, United States; +1 more",
+        "posted": "2026-11-13",
+        "salary": "$92K\u2013$210K",
+        "source_posted": "2026-11-13",
+        "title": "Senior Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342795",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-13"
