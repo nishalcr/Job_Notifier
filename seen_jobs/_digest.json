@@ -1590,6 +1590,38 @@
         "years": "1+ yrs"
       },
       "slug": "intel"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2008225",
+        "key": "JR2008225",
+        "location": "2 Locations",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Principal Quantum Error Correction Research Scientist, Applied Research",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Principal-Quantum-Error-Correction-Research-Scientist--Applied-Research_JR2008225",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97925",
+        "key": "97925",
+        "location": "San Jose, California",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "HPC Systems Engineer - AI Workloads",
+        "url": "https://careers.amd.com/careers-home/jobs/97925",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-13"
