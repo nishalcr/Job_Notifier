@@ -617,6 +617,104 @@
         "years": "5+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604643",
+        "key": "10604643",
+        "location": "San Diego, California",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Dev Engineer II, Access Management Services, Amazon Foundational Security Services",
+        "url": "https://www.amazon.jobs/en/jobs/10604643/software-dev-engineer-ii-access-management-services-amazon-foundational-security-services",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1101788",
+        "key": "R1101788",
+        "location": "IL - Work from home",
+        "posted": "2026-11-13",
+        "salary": "$79K\u2013$159K",
+        "source_posted": "Posted Today",
+        "title": "Software Development Engineer (Angular/Java)",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Software-Development-Engineer--Angular-Java-_R1101788",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "301595",
+        "key": "301595",
+        "location": "Round Rock, TX, United States; +1 more",
+        "posted": "2026-11-13",
+        "salary": "$172K\u2013$236K",
+        "source_posted": "2026-11-13",
+        "title": "Software Principal Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/301595",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "DoorDash",
+      "job": {
+        "job_id": "8386082",
+        "key": "8386082",
+        "location": "San Francisco, CA; +6 more",
+        "posted": "2026-11-13",
+        "salary": "$124K\u2013$271K",
+        "source_posted": "2026-11-13",
+        "title": "Data Scientist / Senior Data Scientist",
+        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8386082",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "doordash"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "142980",
+        "key": "142980",
+        "location": "Multiple Cities",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "",
+        "title": "Quantum Software Engineer",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=142980",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066596",
+        "key": "1970393557070305",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-13",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-13",
+        "team": "Software Engineering",
+        "title": "Software Engineer II",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070305",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-13"
