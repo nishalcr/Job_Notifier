@@ -2042,6 +2042,55 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604961",
+        "key": "10604961",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Satellite Terminal System Engineer, Customer Terminal",
+        "url": "https://www.amazon.jobs/en/jobs/10604961/satellite-terminal-system-engineer-customer-terminal",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210803861",
+        "key": "210803861",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Lead Software Engineer - Salesforce- Business Banking",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803861",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067133",
+        "key": "1970393557072863",
+        "location": "Redmond, Washington; +2 more",
+        "posted": "2026-11-13",
+        "salary": "$120K\u2013$304K",
+        "source_posted": "2026-11-13",
+        "team": "Applied Sciences",
+        "title": "Senior/Principal Applied Scientist - CoreAI",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557072863",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-13"
