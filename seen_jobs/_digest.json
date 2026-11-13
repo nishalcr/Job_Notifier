@@ -2685,6 +2685,60 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Be part of a team that pushes boundaries, developing custom silicon solutions that power the future of Google's direct-to-consumer products. You'll contribute to the innovation behind products loved by millions worldwide. Your expertise will shape the next generation of hardware",
+        "job_id": "138698970497983174",
+        "key": "138698970497983174",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Cloud",
+        "title": "Senior Product Quality Engineer, Google Cloud",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/138698970497983174",
+        "work_type": "Remote",
+        "years": "4+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "107943431245832902",
+        "key": "107943431245832902",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Machine Learning Compiler / TPU Scaling",
+        "title": "Software Engineer III, Machine Learning Compiler, TPU Scaling",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/107943431245832902",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "115611425337942726",
+        "key": "115611425337942726",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "",
+        "team": "Search Discover Feed Recommendation",
+        "title": "Staff Software ML Engineer, Search Discover Feed Recommendation",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/115611425337942726",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-12"
