@@ -1687,6 +1687,22 @@
         "years": "6+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604860",
+        "key": "10604860",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Software Development Engineer, Agent Platforms & Services",
+        "url": "https://www.amazon.jobs/en/jobs/10604860/software-development-engineer-agent-platforms-services",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-13"
