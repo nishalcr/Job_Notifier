@@ -1345,6 +1345,86 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604744",
+        "key": "10604744",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Sr. Software Development Engineer, Amazon Quick",
+        "url": "https://www.amazon.jobs/en/jobs/10604744/sr-software-development-engineer-amazon-quick",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10601925",
+        "key": "10601925",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 10, 2026",
+        "title": "Software Development Engineer, Bespoke Solutions; ADC Hardware & Software Team",
+        "url": "https://www.amazon.jobs/en/jobs/10601925/software-development-engineer-bespoke-solutions-adc-hardware-software-team",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1097105",
+        "key": "R1097105",
+        "location": "12 Locations",
+        "posted": "2026-11-13",
+        "salary": "$107K\u2013$261K",
+        "source_posted": "Posted Today",
+        "title": "Medicare Lead Architect",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Medicare-Lead-Architect_R1097105",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "96398",
+        "key": "96398",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "title": "Staff Firmware System Test Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/96398",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Zscaler",
+      "job": {
+        "job_id": "5267237007",
+        "key": "5267237007",
+        "location": "USA - Update Location",
+        "posted": "2026-11-13",
+        "salary": "$180K\u2013$225K",
+        "source_posted": "2026-11-13",
+        "title": "Senior Staff Security Researcher",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5267237007",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "zscaler"
     }
   ],
   "last_sent": "2026-11-13"
