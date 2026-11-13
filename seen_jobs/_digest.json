@@ -2502,6 +2502,56 @@
         "years": "6+ yrs"
       },
       "slug": "uber"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603931",
+        "key": "10603931",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-13",
+        "salary": "",
+        "source_posted": "November 13, 2026",
+        "title": "Sr. Communication Sys Engineer, Modeling and Simulation",
+        "url": "https://www.amazon.jobs/en/jobs/10603931/sr-communication-sys-engineer-modeling-and-simulation",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066783",
+        "key": "1970393557070664",
+        "location": "Redmond, Washington; +2 more",
+        "posted": "2026-11-13",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-13",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer- Substrate SPARTANs",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070664",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200061945",
+        "key": "1970393557040940",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-13",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-13",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer, Full Stack",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557040940",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-12"
