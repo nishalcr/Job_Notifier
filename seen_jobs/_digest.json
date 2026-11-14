@@ -3152,6 +3152,23 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694964-3337",
+        "key": "200694964-3337",
+        "location": "Seattle",
+        "posted": "2026-11-14",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Software and Services",
+        "title": "AIML - Sr. LLM Inference Quality Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200694964-3337/aiml-sr-llm-inference-quality-engineer?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-13"
