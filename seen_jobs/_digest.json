@@ -79,6 +79,11 @@
       "at": "Nov 13 09:41 PM",
       "company": "Paramount",
       "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Paramount search request failed with status 404"
+    },
+    {
+      "at": "Nov 14 12:31 AM",
+      "company": "Samsung",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Expecting value: line 1 column 1 (char 0)"
     }
   ],
   "jobs": [
