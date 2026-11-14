@@ -2935,6 +2935,41 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Role The Marketplace Fares Team powers global fares for all of Uber that\u2019s all riders, drivers, eaters, new initiatives and technical consumers. Tens of billions of dollars in gross bookings flow through the systems and experiences within our responsibility. Our scope a",
+        "job_id": "303472",
+        "key": "303472",
+        "location": "San Francisco, California; +1 more",
+        "posted": "2026-11-14",
+        "salary": "",
+        "source_posted": "2026-11-13",
+        "team": "Engineer",
+        "title": "Software Engineer II (Backend) - Fares Platform",
+        "url": "https://jobs.uber.com/en/jobs/303472/",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066497",
+        "key": "1970393557070151",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-14",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-13",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer - Compute Graph Compiler",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070151",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-13"
