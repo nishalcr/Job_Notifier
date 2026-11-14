@@ -3196,6 +3196,24 @@
         "years": "10+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "2296637507735867",
+        "key": "2296637507735867",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-14",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data Center / Security / Infrastructure",
+        "title": "LINCS Security Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/2296637507735867",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-13"
