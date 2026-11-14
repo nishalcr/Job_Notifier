@@ -104,6 +104,11 @@
       "at": "Nov 14 07:11 AM",
       "company": "Red Hat",
       "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 14 07:41 AM",
+      "company": "Cisco",
+      "message": "Recovered \u2705"
     }
   ],
   "jobs": [
@@ -3288,6 +3293,22 @@
         "years": ""
       },
       "slug": "ibm"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2027857",
+        "key": "2027857",
+        "location": "RTP, North Carolina, US",
+        "posted": "2026-11-14",
+        "salary": "$139K\u2013$282K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer (Hybrid)",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer--Hybrid-_2027857",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-13"
