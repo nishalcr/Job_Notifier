@@ -1,10 +1,4 @@
 {
-  "disney": {
-    "broken_since": "2026-11-13T23:21:08+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Workday API request failed with status 521",
-    "status": "broken"
-  },
   "hp": {
     "broken_since": "2026-11-13T22:41:01+00:00",
     "consecutive_failures": 3,
