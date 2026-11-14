@@ -52,6 +52,38 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210787819",
+        "key": "210787819",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-14",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-14",
+        "title": "Full-Stack Java React Software Engineer III",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787819",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809499",
+        "key": "210809499",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-14",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-14",
+        "title": "Python Software Engineer III",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809499",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-14"
