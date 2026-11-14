@@ -1,5 +1,28 @@
 {
-  "issues": [],
-  "jobs": [],
+  "issues": [
+    {
+      "at": "Nov 14 08:31 AM",
+      "company": "Adobe",
+      "message": "Recovered \u2705"
+    }
+  ],
+  "jobs": [
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605393",
+        "key": "10605393",
+        "location": "Austin, Texas",
+        "posted": "2026-11-14",
+        "salary": "",
+        "source_posted": "November 14, 2026",
+        "title": "Business Intelligence Engineer II, SCOT-FO",
+        "url": "https://www.amazon.jobs/en/jobs/10605393/business-intelligence-engineer-ii-scot-fo",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    }
+  ],
   "last_sent": "2026-11-14"
 }
