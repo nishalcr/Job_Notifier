@@ -3174,6 +3174,23 @@
         "years": "5+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695047-0836",
+        "key": "200695047-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-14",
+        "salary": "",
+        "source_posted": "2026-11-14",
+        "team": "Software and Services",
+        "title": "Staff / Principal ML Infrastructure Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200695047-0836/staff-principal-ml-infrastructure-engineer?team=SFTWR",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-13"
