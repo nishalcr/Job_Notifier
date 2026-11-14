@@ -3101,6 +3101,20 @@
         "years": "7+ yrs"
       },
       "slug": "uber"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695051-1242",
+        "key": "200695051-1242",
+        "location": "Cambridge",
+        "posted": "2026-11-14",
+        "source_posted": "2026-11-14",
+        "team": "Software and Services",
+        "title": "Systems Software Engineer, Platform Architecture",
+        "url": "https://jobs.apple.com/en-us/details/200695051-1242/systems-software-engineer-platform-architecture?team=SFTWR"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-13"
