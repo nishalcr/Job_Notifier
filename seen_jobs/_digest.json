@@ -69,6 +69,11 @@
       "at": "Nov 13 08:21 PM",
       "company": "Oracle",
       "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Oracle API request failed with status 503"
+    },
+    {
+      "at": "Nov 13 08:52 PM",
+      "company": "Oracle",
+      "message": "Recovered \u2705"
     }
   ],
   "jobs": [
