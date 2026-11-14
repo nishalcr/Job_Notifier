@@ -3062,6 +3062,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349590",
+        "key": "349590",
+        "location": "Seattle, WA, United States; +3 more",
+        "posted": "2026-11-14",
+        "salary": "",
+        "source_posted": "2026-11-14",
+        "title": "Senior Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349590",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-13"
