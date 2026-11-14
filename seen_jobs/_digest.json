@@ -59,6 +59,11 @@
       "at": "Nov 13 06:10 PM",
       "company": "CVS Health (Workday)",
       "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
+    },
+    {
+      "at": "Nov 13 06:51 PM",
+      "company": "PayPal",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
     }
   ],
   "jobs": [
