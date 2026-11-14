@@ -3261,6 +3261,23 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143576",
+        "key": "143576",
+        "location": "Tempe, US",
+        "posted": "2026-11-14",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Hybrid Cloud Manage",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143576",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
     }
   ],
   "last_sent": "2026-11-13"
