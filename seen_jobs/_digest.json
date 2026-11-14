@@ -3115,6 +3115,38 @@
         "url": "https://jobs.apple.com/en-us/details/200695051-1242/systems-software-engineer-platform-architecture?team=SFTWR"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350092",
+        "key": "350092",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-14",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-10",
+        "title": "Principal Core Infrastructure Engineer - Physical Networking Automation and Tooling",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350092",
+        "work_type": "",
+        "years": "6\u201310 yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349821",
+        "key": "349821",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-14",
+        "salary": "$126K\u2013$264K",
+        "source_posted": "2026-11-05",
+        "title": "Senior Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349821",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-13"
