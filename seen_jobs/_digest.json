@@ -2970,6 +2970,40 @@
         "years": "6+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694963-0836",
+        "key": "200694963-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-14",
+        "salary": "",
+        "source_posted": "2026-11-14",
+        "team": "Software and Services",
+        "title": "Machine Learning Research Engineer, Fitness Intelligence \u2013 Watch Software",
+        "url": "https://jobs.apple.com/en-us/details/200694963-0836/machine-learning-research-engineer-fitness-intelligence-watch-software?team=SFTWR",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067367",
+        "key": "1970393557073410",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-14",
+        "salary": "$85K\u2013$184K",
+        "source_posted": "2026-11-14",
+        "team": "Software Engineering",
+        "title": "Software Engineer - MBO",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-13"
