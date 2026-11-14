@@ -5,10 +5,6 @@
     "last_error": "Error on page 1: Workday API request failed with status 521",
     "status": "broken"
   },
-  "capitalone": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Workday API request failed with status 502"
-  },
   "cisco": {
     "broken_since": "2026-11-13T22:41:03+00:00",
     "consecutive_failures": 3,
@@ -68,10 +64,6 @@
     "consecutive_failures": 3,
     "last_error": "Error on page 1: Workday API request failed with status 521",
     "status": "broken"
-  },
-  "salesforce": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Workday API request failed with status 502"
   },
   "yahoo": {
     "broken_since": "2026-11-13T22:51:23+00:00",
