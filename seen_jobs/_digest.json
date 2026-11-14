@@ -3245,6 +3245,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605387",
+        "key": "10605387",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-14",
+        "salary": "",
+        "source_posted": "November 14, 2026",
+        "title": "Embedded Sr. Software Development Engineer, Hardware Compute Group",
+        "url": "https://www.amazon.jobs/en/jobs/10605387/embedded-sr-software-development-engineer-hardware-compute-group",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-13"
