@@ -3229,6 +3229,22 @@
         "years": "5+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "348785",
+        "key": "348785",
+        "location": "United States; +6 more",
+        "posted": "2026-11-14",
+        "salary": "$114K\u2013$306K",
+        "source_posted": "2026-10-26",
+        "title": "Lead Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348785",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-13"
