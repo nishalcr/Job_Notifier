@@ -3078,6 +3078,24 @@
         "years": "8+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Team The Uber Mobile Networking team owns the mobile networking stack and its functionality across all Uber apps. Our focus areas include latency and reliability, consumer facing networking APIs, developer experience, and observability. As a Staff Software Engineer on t",
+        "job_id": "304519",
+        "key": "304519",
+        "location": "San Francisco, California; +2 more",
+        "posted": "2026-11-14",
+        "salary": "",
+        "source_posted": "2026-11-14",
+        "team": "Engineer",
+        "title": "Staff Software Engineer - Android, Mobile Networking",
+        "url": "https://jobs.uber.com/en/jobs/304519/",
+        "work_type": "Onsite",
+        "years": "7+ yrs"
+      },
+      "slug": "uber"
     }
   ],
   "last_sent": "2026-11-13"

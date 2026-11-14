@@ -48,7 +48,7 @@
     "status": "broken"
   },
   "paypal": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_error": "Error on page 1: Workday API request failed with status 521"
   },
   "redhat": {
