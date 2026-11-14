@@ -74,6 +74,11 @@
       "at": "Nov 13 08:52 PM",
       "company": "Oracle",
       "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 13 09:41 PM",
+      "company": "Paramount",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Paramount search request failed with status 404"
     }
   ],
   "jobs": [
