@@ -84,6 +84,22 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210777835",
+        "key": "210777835",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-14",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-14",
+        "title": "Python Java AWS Software Engineer III (ML) - Agentic Treasury",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777835",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-14"
