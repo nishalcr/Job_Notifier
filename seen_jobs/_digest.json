@@ -3046,6 +3046,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605142",
+        "key": "10605142",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-14",
+        "salary": "",
+        "source_posted": "November 14, 2026",
+        "title": "Software Development Engineer, AWS",
+        "url": "https://www.amazon.jobs/en/jobs/10605142/software-development-engineer-aws",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-13"
