@@ -100,6 +100,22 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029799",
+        "key": "JR2029799",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-14",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior System Software Engineer, NPI Data Center",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--NPI-Data-Center_JR2029799",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-14"
