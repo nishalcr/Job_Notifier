@@ -23,6 +23,10 @@
     "last_error": "Error on page 1: Workday API request failed with status 521",
     "status": "broken"
   },
+  "intel": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Workday API request failed with status 521"
+  },
   "nvidia": {
     "broken_since": "2026-11-13T22:21:01+00:00",
     "consecutive_failures": 3,
@@ -34,10 +38,6 @@
     "consecutive_failures": 3,
     "last_error": "Error on page 1: Workday API request failed with status 521",
     "status": "broken"
-  },
-  "paypal": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Workday API request failed with status 521"
   },
   "redhat": {
     "broken_since": "2026-11-13T23:41:38+00:00",
