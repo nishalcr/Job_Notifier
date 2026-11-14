@@ -48,7 +48,7 @@
     "status": "broken"
   },
   "paramount": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_error": "Error on page 1: Paramount search request failed with status 404"
   },
   "paypal": {
