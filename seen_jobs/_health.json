@@ -5,6 +5,10 @@
     "last_error": "Error on page 1: Workday API request failed with status 521",
     "status": "broken"
   },
+  "amd": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: AMD API request failed with status 504"
+  },
   "cisco": {
     "broken_since": "2026-11-13T22:41:03+00:00",
     "consecutive_failures": 3,
