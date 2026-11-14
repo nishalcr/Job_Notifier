@@ -41,6 +41,10 @@
     "last_error": "Error on page 1: Workday API request failed with status 521",
     "status": "broken"
   },
+  "oracle": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Oracle API request failed with status 503"
+  },
   "paloalto": {
     "broken_since": "2026-11-13T22:51:31+00:00",
     "consecutive_failures": 3,
