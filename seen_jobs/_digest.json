@@ -84,6 +84,11 @@
       "at": "Nov 14 12:31 AM",
       "company": "Samsung",
       "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "at": "Nov 14 01:21 AM",
+      "company": "Samsung",
+      "message": "Recovered \u2705"
     }
   ],
   "jobs": [
