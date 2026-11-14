@@ -54,6 +54,11 @@
       "at": "Nov 13 06:01 PM",
       "company": "Intel",
       "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
+    },
+    {
+      "at": "Nov 13 06:10 PM",
+      "company": "CVS Health (Workday)",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
     }
   ],
   "jobs": [
@@ -3009,6 +3014,38 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605139",
+        "key": "10605139",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-14",
+        "salary": "",
+        "source_posted": "November 14, 2026",
+        "title": "Business Analyst, Listing Analytics",
+        "url": "https://www.amazon.jobs/en/jobs/10605139/business-analyst-listing-analytics",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350444",
+        "key": "350444",
+        "location": "Seattle, WA, United States; +6 more",
+        "posted": "2026-11-14",
+        "salary": "$102K\u2013$210K",
+        "source_posted": "2026-11-14",
+        "title": "Senior Network Engineer - DR25 Network Engineering team",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350444",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-13"
