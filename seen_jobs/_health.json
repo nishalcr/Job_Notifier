@@ -35,12 +35,6 @@
     "last_error": "Error on page 1: Workday API request failed with status 521",
     "status": "broken"
   },
-  "paloalto": {
-    "broken_since": "2026-11-13T22:51:31+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Workday API request failed with status 521",
-    "status": "broken"
-  },
   "paypal": {
     "broken_since": "2026-11-14T01:51:19+00:00",
     "consecutive_failures": 3,
