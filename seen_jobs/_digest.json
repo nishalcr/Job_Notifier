@@ -49,6 +49,11 @@
       "at": "Nov 13 04:41 PM",
       "company": "Red Hat",
       "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
+    },
+    {
+      "at": "Nov 13 06:01 PM",
+      "company": "Intel",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Workday API request failed with status 521"
     }
   ],
   "jobs": [
