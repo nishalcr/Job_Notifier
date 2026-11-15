@@ -128,6 +128,22 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005736",
+        "key": "R1005736",
+        "location": "2 Locations",
+        "posted": "2026-11-15",
+        "salary": "$197K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "Mobile Engineer 4 (Android)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Mobile-Engineer-4--Android-_R1005736-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-15"
