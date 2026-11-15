@@ -180,6 +180,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605448",
+        "key": "10605448",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-15",
+        "salary": "",
+        "source_posted": "November 15, 2026",
+        "title": "Software Development Engineer, Live and Linear Catalog",
+        "url": "https://www.amazon.jobs/en/jobs/10605448/software-development-engineer-live-and-linear-catalog",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-14"
