@@ -32,6 +32,22 @@
         "years": "8+ yrs"
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "300006",
+        "key": "300006",
+        "location": "VA, United States",
+        "posted": "2026-11-15",
+        "salary": "",
+        "source_posted": "2026-11-15",
+        "title": "Deployment Engineer - Federal Customer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/300006",
+        "work_type": "Onsite",
+        "years": "12+ yrs"
+      },
+      "slug": "dell"
     }
   ],
   "last_sent": "2026-11-15"
