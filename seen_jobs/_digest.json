@@ -48,6 +48,22 @@
         "years": "12+ yrs"
       },
       "slug": "dell"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350081",
+        "key": "350081",
+        "location": "United States",
+        "posted": "2026-11-15",
+        "salary": "$71K\u2013$166K",
+        "source_posted": "2026-11-09",
+        "title": "Oracle Health Federal Testing Senior Integration Architect",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350081",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-15"
