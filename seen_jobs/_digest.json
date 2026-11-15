@@ -96,6 +96,22 @@
         "years": "3+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604856",
+        "key": "10604856",
+        "location": "New York, New York",
+        "posted": "2026-11-15",
+        "salary": "",
+        "source_posted": "November 15, 2026",
+        "title": "Software Development Engineer, Agentic AI, Velocity Labs",
+        "url": "https://www.amazon.jobs/en/jobs/10604856/software-development-engineer-agentic-ai-velocity-labs",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-15"
