@@ -196,6 +196,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605453",
+        "key": "10605453",
+        "location": "New York, New York",
+        "posted": "2026-11-15",
+        "salary": "",
+        "source_posted": "November 15, 2026",
+        "title": "Machine Learning Engineer, CreativeFlux, AI Studios",
+        "url": "https://www.amazon.jobs/en/jobs/10605453/machine-learning-engineer-creativeflux-ai-studios",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-14"
