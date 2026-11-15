@@ -132,6 +132,22 @@
         "years": ""
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604667",
+        "key": "10604667",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-15",
+        "salary": "",
+        "source_posted": "November 15, 2026",
+        "title": "Software Dev Engineer II, ECR - Private",
+        "url": "https://www.amazon.jobs/en/jobs/10604667/software-dev-engineer-ii-ecr-private",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-14"
