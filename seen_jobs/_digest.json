@@ -212,6 +212,38 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2028744",
+        "key": "2028744",
+        "location": "Milpitas, California, US",
+        "posted": "2026-11-15",
+        "salary": "$138K\u2013$256K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2028744",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2028825",
+        "key": "2028825",
+        "location": "Milpitas, California, US",
+        "posted": "2026-11-15",
+        "salary": "$149K\u2013$282K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2028825",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-14"
