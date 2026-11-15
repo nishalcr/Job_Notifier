@@ -1,5 +1,38 @@
 {
   "issues": [],
-  "jobs": [],
+  "jobs": [
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103339974416",
+        "key": "103339974416",
+        "location": "New York, New York",
+        "posted": "2026-11-15",
+        "salary": "",
+        "source_posted": "",
+        "title": "Senior Software Engineer, Agentic Workflows",
+        "url": "https://jobs.intuit.com/job/new-york/senior-software-engineer-agentic-workflows/27595/103339974416",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103339974400",
+        "key": "103339974400",
+        "location": "New York, New York",
+        "posted": "2026-11-15",
+        "salary": "",
+        "source_posted": "",
+        "title": "Staff Software Engineer",
+        "url": "https://jobs.intuit.com/job/new-york/staff-software-engineer/27595/103339974400",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "intuit"
+    }
+  ],
   "last_sent": "2026-11-15"
 }
