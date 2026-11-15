@@ -64,6 +64,22 @@
         "years": "3+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73114",
+        "key": "73114",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-15",
+        "salary": "$100K\u2013$193K",
+        "source_posted": "2026-11-15",
+        "title": "Machine Learning Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73114",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-15"
