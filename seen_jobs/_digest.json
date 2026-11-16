@@ -2500,6 +2500,22 @@
         "years": "8+ yrs"
       },
       "slug": "amd"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "98998",
+        "key": "98998",
+        "location": "Austin, Texas",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Server Systems Security Architect",
+        "url": "https://careers.amd.com/careers-home/jobs/98998",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-16"
