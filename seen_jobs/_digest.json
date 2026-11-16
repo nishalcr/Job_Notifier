@@ -769,6 +769,70 @@
         "years": "2+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10595816",
+        "key": "10595816",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 11, 2026",
+        "title": "Data Scientist, AWS Quick Data",
+        "url": "https://www.amazon.jobs/en/jobs/10595816/data-scientist-aws-quick-data",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10592397",
+        "key": "10592397",
+        "location": "Austin, Texas",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "October 29, 2026",
+        "title": "Software Development Engineer, Privacy, Amazon Privacy",
+        "url": "https://www.amazon.jobs/en/jobs/10592397/software-development-engineer-privacy-amazon-privacy",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R0976399",
+        "key": "R0976399",
+        "location": "IRL - Galway",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer - DevOps & Platform Engineering",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IRL---Galway/Software-Engineer---DevOps---Platform-Engineering_R0976399-1",
+        "work_type": "Hybrid",
+        "years": "1+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "342748",
+        "key": "342748",
+        "location": "Nashville, TN, United States; +1 more",
+        "posted": "2026-11-16",
+        "salary": "$104K\u2013$235K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342748",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-16"
