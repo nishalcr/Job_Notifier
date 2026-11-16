@@ -1224,6 +1224,22 @@
         "years": "10+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606386",
+        "key": "10606386",
+        "location": "Austin, Texas",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Systems Development Engineer, AWS Generative AI & ML Servers",
+        "url": "https://www.amazon.jobs/en/jobs/10606386/systems-development-engineer-aws-generative-ai-ml-servers",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-16"
