@@ -1644,6 +1644,118 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2028885",
+        "key": "2028885",
+        "location": "Milpitas, California, US",
+        "posted": "2026-11-16",
+        "salary": "$138K\u2013$256K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2028885-1",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0138308",
+        "key": "R0138308",
+        "location": "2 Locations",
+        "posted": "2026-11-16",
+        "salary": "$130K\u2013$213K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer, Database & Caching Infra",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Senior-Software-Engineer--Database---Caching-Infra_R0138308",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "paypal"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "98898",
+        "key": "98898",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Sr. Silicon Design Engineer: Hardware-Software Co-Design",
+        "url": "https://careers.amd.com/careers-home/jobs/98898",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Pinterest",
+      "job": {
+        "job_id": "8336944",
+        "key": "8336944",
+        "location": "San Francisco, CA, US; +2 more",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Staff Software Engineer, Product Infrastructure",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8336944",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "pinterest"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "341614",
+        "key": "341614",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-16",
+        "salary": "$92K\u2013$210K",
+        "source_posted": "2026-11-16",
+        "title": "Platform Software Engineer-Agentic AI Project",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/341614",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "346464",
+        "key": "346464",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-16",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Core Infrastructure Engineer-Network Capacity",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346464",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "346463",
+        "key": "346463",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-16",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346463",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-16"
