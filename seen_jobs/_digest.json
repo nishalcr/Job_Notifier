@@ -2015,6 +2015,38 @@
         "years": "12+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10595914",
+        "key": "10595914",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 3, 2026",
+        "title": "Software Development Engineer II",
+        "url": "https://www.amazon.jobs/en/jobs/10595914/software-development-engineer-ii",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "300111",
+        "key": "300111",
+        "location": "TX, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Senior Principal Engineer, Solutions Architecture",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/300111",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "dell"
     }
   ],
   "last_sent": "2026-11-16"
