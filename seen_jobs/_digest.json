@@ -523,6 +523,54 @@
         "years": "12+ yrs"
       },
       "slug": "amd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606166",
+        "key": "10606166",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Applied Scientist II, Seller Fee Science",
+        "url": "https://www.amazon.jobs/en/jobs/10606166/applied-scientist-ii-seller-fee-science",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809114",
+        "key": "210809114",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-16",
+        "salary": "$204K\u2013$285K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Architect- Enterprise Cloud Architecture",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809114",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "91795",
+        "key": "91795",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Gen AI Software Development Eng.",
+        "url": "https://careers.amd.com/careers-home/jobs/91795",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-16"
