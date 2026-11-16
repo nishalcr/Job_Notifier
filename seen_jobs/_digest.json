@@ -1125,6 +1125,105 @@
         "years": "5+ yrs"
       },
       "slug": "snowflake"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695247-3337",
+        "key": "200695247-3337",
+        "location": "Seattle",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "Senior Software Engineer: CloudOS Build Quality and Release",
+        "url": "https://jobs.apple.com/en-us/details/200695247-3337/senior-software-engineer-cloudos-build-quality-and-release?team=SFTWR",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604721",
+        "key": "10604721",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Dev Engineer, Amazon AI at Work",
+        "url": "https://www.amazon.jobs/en/jobs/10604721/software-dev-engineer-amazon-ai-at-work",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604717",
+        "key": "10604717",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Dev Engineer, Amazon AI at Work",
+        "url": "https://www.amazon.jobs/en/jobs/10604717/software-dev-engineer-amazon-ai-at-work",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "4738167219805618",
+        "key": "4738167219805618",
+        "location": "El Paso, TX",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / New Albany, OH / Data Center",
+        "title": "Network Engineer, Foundation & Support",
+        "url": "https://www.metacareers.com/profile/job_details/4738167219805618",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2010381",
+        "key": "2010381",
+        "location": "3 Locations",
+        "posted": "2026-11-16",
+        "salary": "$135K\u2013$235K",
+        "source_posted": "Posted Today",
+        "title": "Enterprise Business Architect -Supply Chain(Remote)",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/E2E-Business-Architect--Remote-_2010381",
+        "work_type": "Remote",
+        "years": "15+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2030322",
+        "key": "2030322",
+        "location": "3 Locations",
+        "posted": "2026-11-16",
+        "salary": "$234K\u2013$384K",
+        "source_posted": "Posted Today",
+        "title": "AI Researcher (Remote)",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Francisco-California-US/AI-Researcher--Remote-_2030322",
+        "work_type": "Remote",
+        "years": "10+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-16"
