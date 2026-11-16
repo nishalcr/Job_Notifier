@@ -2212,6 +2212,52 @@
         "years": ""
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695246-0836",
+        "key": "200695246-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-16",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "Sr. Swift Standard Libraries Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200695246-0836/sr-swift-standard-libraries-engineer?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210776467",
+        "key": "210776467",
+        "location": "Wilmington, DE, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Card Risk Analytics - Consumer & Community Banking - Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776467",
+        "work_type": "Onsite",
+        "years": "1+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "342348",
+        "key": "342348",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-16",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-16",
+        "title": "Senior Software Engineer, Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342348",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-16"
