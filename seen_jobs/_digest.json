@@ -1982,6 +1982,39 @@
         "years": "3+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695275-0836",
+        "key": "200695275-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "Bluetooth/Thread Embedded Software Engineer, Wireless Technologies & Ecosystems",
+        "url": "https://jobs.apple.com/en-us/details/200695275-0836/bluetooth-thread-embedded-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2030261",
+        "key": "2030261",
+        "location": "3 Locations",
+        "posted": "2026-11-16",
+        "salary": "$234K\u2013$384K",
+        "source_posted": "Posted Today",
+        "title": "AI Security Researcher",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Francisco-California-US/AI-Security-Researcher_2030261",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-16"
