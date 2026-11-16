@@ -795,6 +795,70 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289139",
+        "key": "JR0289139",
+        "location": "US, Oregon, Hillsboro",
+        "posted": "2026-11-16",
+        "salary": "$156K\u2013$220K",
+        "source_posted": "Posted Today",
+        "title": "ORAP Module Development Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/ORAP-Module-Development-Engineer_JR0289139",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "intel"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "96156",
+        "key": "96156",
+        "location": "San Jose, California",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "AI/ML SW/HW CO-Design Lead",
+        "url": "https://careers.amd.com/careers-home/jobs/96156",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350002",
+        "key": "350002",
+        "location": "Austin, TX, United States; +2 more",
+        "posted": "2026-11-16",
+        "salary": "$81K\u2013$187K",
+        "source_posted": "2026-11-09",
+        "title": "Oracle Senior Site Reliability Engineer - Sovereign Cloud",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350002",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349999",
+        "key": "349999",
+        "location": "Reston, VA, United States; +2 more",
+        "posted": "2026-11-16",
+        "salary": "$81K\u2013$187K",
+        "source_posted": "2026-11-09",
+        "title": "Senior Site Reliability Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349999",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-15"
