@@ -2631,6 +2631,54 @@
         "years": ""
       },
       "slug": "intel"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "300975",
+        "key": "300975",
+        "location": "Santa Clara, CA, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Technical Staff, Platform Architect",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/300975",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "96100",
+        "key": "96100",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Senior Staff GPU Datacenter Performance Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/96100",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024850",
+        "key": "JR-024850",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-16",
+        "salary": "$178K\u2013$287K",
+        "source_posted": "Posted Today",
+        "title": "Principal Data Warehouse Engineer",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Data-Warehouse-Engineer_JR-024850",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-16"
