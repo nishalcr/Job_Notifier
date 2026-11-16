@@ -345,6 +345,38 @@
         "years": "12+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1069147",
+        "key": "R1069147",
+        "location": "CO - Work from home",
+        "posted": "2026-11-16",
+        "salary": "$118K\u2013$237K",
+        "source_posted": "Posted Today",
+        "title": "Staff Software Development Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CO---Work-from-home/Staff-Software-Development-Engineer_R1069147-1",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "340621",
+        "key": "340621",
+        "location": "United States",
+        "posted": "2026-11-16",
+        "salary": "$97K\u2013$306K",
+        "source_posted": "2026-11-16",
+        "title": "Lead Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340621",
+        "work_type": "",
+        "years": "15+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-16"
