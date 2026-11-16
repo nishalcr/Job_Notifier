@@ -761,6 +761,40 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "83840551522050758",
+        "key": "83840551522050758",
+        "location": "Los Angeles, CA, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Home and Health Infrastructure / Special Projects",
+        "title": "Senior Software Engineer, Home and Health Infrastructure, Special Projects",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/83840551522050758",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350575",
+        "key": "350575",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-16",
+        "salary": "$102K\u2013$210K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Network Developer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350575",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-15"
