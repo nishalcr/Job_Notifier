@@ -404,6 +404,58 @@
         "years": "2+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "134280750525489862",
+        "key": "134280750525489862",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Cloud Quotas",
+        "title": "Senior Software Engineer, Cloud Quotas",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/134280750525489862",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "98251953506525894",
+        "key": "98251953506525894",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Kubernetes Networking",
+        "title": "Senior Software Engineer, Infrastructure, Kubernetes Networking",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/98251953506525894",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029548",
+        "key": "JR2029548",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "System Software Engineer, Video Chips",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Video-Chips_JR2029548",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-15"
