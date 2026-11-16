@@ -176,6 +176,24 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google Cloud's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distrib",
+        "job_id": "116445572411335366",
+        "key": "116445572411335366",
+        "location": "Sunnyvale, CA, USA; +1 more",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Enterprise Sales Systems Architecture / Google Cloud Business Platform Transact",
+        "title": "Staff Software Engineer, Enterprise Sales Systems Architecture, Google Cloud Business Platform Transact",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/116445572411335366",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-15"
