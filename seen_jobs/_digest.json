@@ -880,6 +880,170 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Role As a Staff Software Engineer on Uber\u2019s Code Hosting & Merge team, you will set technical direction across the systems that host, find, and safely merge code for thousands of engineers. You\u2019ll help define how this infrastructure evolves as AI agents become a core pa",
+        "job_id": "304305",
+        "key": "304305",
+        "location": "San Francisco, California; +3 more",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Engineer",
+        "title": "Staff Software Engineer - Code Hosting & Merge",
+        "url": "https://jobs.uber.com/en/jobs/304305/",
+        "work_type": "Onsite",
+        "years": "8+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210779159",
+        "key": "210779159",
+        "location": "Tampa, FL, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Java Backend Software Engineer III",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779159",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210784713",
+        "key": "210784713",
+        "location": "Tampa, FL, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Java Fullstack Software Engineer III - React / Oracle",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784713",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73673",
+        "key": "73673",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-16",
+        "salary": "$65K\u2013$166K",
+        "source_posted": "2026-11-16",
+        "title": "Design & Release Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73673",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73697",
+        "key": "73697",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-16",
+        "salary": "$65K\u2013$166K",
+        "source_posted": "2026-11-16",
+        "title": "Design & Release Engineer -Wheel, Tire, Jack, and Ornamentation (WTJO)",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73697",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066895",
+        "key": "1970393557071144",
+        "location": "Multiple Locations",
+        "posted": "2026-11-16",
+        "salary": "$124K\u2013$232K",
+        "source_posted": "2026-11-16",
+        "team": "Solution Architecture",
+        "title": "AI Workforce Reinvention Architect",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557071144",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067485",
+        "key": "1970393557074051",
+        "location": "New York",
+        "posted": "2026-11-16",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-16",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer - Minecraft",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557074051",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103389133920",
+        "key": "103389133920",
+        "location": "Mountain View; +more",
+        "posted": "2026-11-16",
+        "salary": "$150K\u2013$204K",
+        "source_posted": "",
+        "title": "Senior Fraud & Risk Analyst \u2013 Ops Analytics",
+        "url": "https://jobs.intuit.com/job/mountain-view/senior-fraud-and-risk-analyst-ops-analytics/27595/103389133920",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103389133872",
+        "key": "103389133872",
+        "location": "Mountain View; +more",
+        "posted": "2026-11-16",
+        "salary": "$176K\u2013$238K",
+        "source_posted": "",
+        "title": "Staff Fraud & Risk Analyst \u2013 AI Capabilities & Analytics",
+        "url": "https://jobs.intuit.com/job/mountain-view/staff-fraud-and-risk-analyst-ai-capabilities-and-analytics/27595/103389133872",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103389133840",
+        "key": "103389133840",
+        "location": "Mountain View; +more",
+        "posted": "2026-11-16",
+        "salary": "$162K\u2013$220K",
+        "source_posted": "",
+        "title": "Senior Data Scientist",
+        "url": "https://jobs.intuit.com/job/mountain-view/senior-data-scientist/27595/103389133840",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-16"
