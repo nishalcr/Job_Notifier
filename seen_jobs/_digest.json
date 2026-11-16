@@ -350,6 +350,60 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "121913443736265414",
+        "key": "121913443736265414",
+        "location": "Kirkland, WA, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Site Reliability Engineering / BigQuery",
+        "title": "Staff Software Engineer, Site Reliability Engineering, BigQuery",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/121913443736265414",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google creates products and services that make the world a better place, and gTech\u2019s role is to help bring them to life. gTech Risk helps protect Google and its users by identifying and implementing controls for significant risks. To ensure gTech's security and agility, the team",
+        "job_id": "89793616712475334",
+        "key": "89793616712475334",
+        "location": "Chicago, IL, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "",
+        "title": "AI Solution Security Engineer",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/89793616712475334",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "At Google we work hard to earn our users\u2019 trust every day. Gaining and retaining this trust is critically important to Google\u2019s success. We defend Google's integrity by fighting spam, fraud and abuse, and develop and communicate state-of-the-art product policies. The Trust and Sa",
+        "job_id": "101239257879716550",
+        "key": "101239257879716550",
+        "location": "Seattle, WA, USA; +3 more",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI Answers / Google Search",
+        "title": "Engineering Analyst, AI Answers, Google Search",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/101239257879716550",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-15"
