@@ -409,6 +409,72 @@
         "years": ""
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606081",
+        "key": "10606081",
+        "location": "Cupertino, California",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Development Engineer, Trainium Systems",
+        "url": "https://www.amazon.jobs/en/jobs/10606081/software-development-engineer-trainium-systems",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "125012589057843910",
+        "key": "125012589057843910",
+        "location": "Mountain View, CA, USA; +1 more",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "",
+        "title": "Senior Software Engineer",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/125012589057843910",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030024",
+        "key": "JR2030024",
+        "location": "6 Locations",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Math Libraries Engineer \u2013 AI and HPC",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Math-Libraries-Engineer---AI-and-HPC_JR2030024",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0137237",
+        "key": "R0137237",
+        "location": "3 Locations",
+        "posted": "2026-11-16",
+        "salary": "$113K\u2013$137K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer - Recent Graduate",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0137237",
+        "work_type": "Hybrid",
+        "years": "1+ yrs"
+      },
+      "slug": "paypal"
     }
   ],
   "last_sent": "2026-11-16"
