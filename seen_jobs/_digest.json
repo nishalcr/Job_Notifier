@@ -718,6 +718,57 @@
         "years": "8+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695206-0836",
+        "key": "200695206-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "Software Development Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200695206-0836/software-development-engineer?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200693159-2926",
+        "key": "200693159-2926",
+        "location": "Pittsburgh",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "Software Engineer, Freeform Application",
+        "url": "https://jobs.apple.com/en-us/details/200693159-2926/software-engineer-freeform-application?team=SFTWR",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200693159-3673",
+        "key": "200693159-3673",
+        "location": "Vancouver",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "Software Engineer, Freeform Application",
+        "url": "https://jobs.apple.com/en-us/details/200693159-3673/software-engineer-freeform-application?team=SFTWR",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-16"
