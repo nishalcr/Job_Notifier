@@ -571,6 +571,22 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606181",
+        "key": "10606181",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Systems Engineer, Relay Product and Tech",
+        "url": "https://www.amazon.jobs/en/jobs/10606181/systems-engineer-relay-product-and-tech",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-16"
