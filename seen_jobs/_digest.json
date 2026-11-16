@@ -562,6 +562,22 @@
         "years": "2+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605748",
+        "key": "10605748",
+        "location": "North Reading, Massachusetts",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Firmware Engineer, Amazon Robotics",
+        "url": "https://www.amazon.jobs/en/jobs/10605748/firmware-engineer-amazon-robotics",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-15"
