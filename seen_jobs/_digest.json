@@ -2111,6 +2111,40 @@
         "years": "5+ yrs"
       },
       "slug": "paypal"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "28977971385164064",
+        "key": "28977971385164064",
+        "location": "Sunnyvale, CA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Burlingame, CA / AR/VR",
+        "title": "Camera Perception Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/28977971385164064",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2030857",
+        "key": "2030857",
+        "location": "San Jose, California, US",
+        "posted": "2026-11-16",
+        "salary": "$264K\u2013$431K",
+        "source_posted": "Posted Today",
+        "title": "Principal Machine Learning Engineer - CX",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Principal-Machine-Learning-Engineer---CX_2030857",
+        "work_type": "Hybrid",
+        "years": "14+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-16"
