@@ -1256,6 +1256,40 @@
         "years": "5+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066862",
+        "key": "1970393557070793",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-16",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-16",
+        "team": "Software Engineering",
+        "title": "Software Engineer II",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070793",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066443",
+        "key": "1970393557070044",
+        "location": "Redmond, Washington; +2 more",
+        "posted": "2026-11-16",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-16",
+        "team": "Software Engineering",
+        "title": "Software Engineer II - CTJ - Poly",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070044",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-16"
