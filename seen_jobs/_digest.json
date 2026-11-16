@@ -544,6 +544,24 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Make Google Cloud \u201cThe Most Trusted Cloud for AI\u201d through building of privacy-enforcing systems and scaled privacy and controls, tools, and features that mitigate Cloud\u2019s top privacy risks at scale, and enable revenue-generation and verifiable trust. In this role, you\u2019re curious",
+        "job_id": "73310700461531846",
+        "key": "73310700461531846",
+        "location": "San Francisco, CA, USA; +3 more",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Cloud Applied Privacy Engineering Solutions",
+        "title": "Privacy Engineer, Cloud Applied Privacy Engineering Solutions",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/73310700461531846",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-15"
