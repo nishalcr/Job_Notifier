@@ -2516,6 +2516,121 @@
         "years": "8+ yrs"
       },
       "slug": "amd"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695197-0240",
+        "key": "200695197-0240",
+        "location": "Austin Metro Area",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "Retail Network Engineer, Infrastructure Services",
+        "url": "https://jobs.apple.com/en-us/details/200695197-0240/retail-network-engineer-infrastructure-services?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695044-0157",
+        "key": "200695044-0157",
+        "location": "Austin",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "Sr. Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
+        "url": "https://jobs.apple.com/en-us/details/200695044-0157/sr-software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695044-3956",
+        "key": "200695044-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "Sr. Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
+        "url": "https://jobs.apple.com/en-us/details/200695044-3956/sr-software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606509",
+        "key": "10606509",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Senior Software Development Engineer, AWS EC2 Hyperplane",
+        "url": "https://www.amazon.jobs/en/jobs/10606509/senior-software-development-engineer-aws-ec2-hyperplane",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2027246",
+        "key": "2027246",
+        "location": "2 Locations",
+        "posted": "2026-11-16",
+        "salary": "$149K\u2013$282K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer | Secure Workload (remote/hybrid)",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Senior-Software-Engineer---Secure-Workload--remote-hybrid-_2027246",
+        "work_type": "Remote",
+        "years": "7+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210793237",
+        "key": "210793237",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Lead Software Engineer - Java/Python",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793237",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289103",
+        "key": "JR0289103",
+        "location": "US, New Mexico, Albuquerque",
+        "posted": "2026-11-16",
+        "salary": "$76K\u2013$171K",
+        "source_posted": "Posted Today",
+        "title": "NM Cross Module Support (CMS) Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/NM-Cross-Module-Support--CMS--Engineer_JR0289103",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-16"
