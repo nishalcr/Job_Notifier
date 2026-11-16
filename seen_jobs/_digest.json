@@ -491,6 +491,38 @@
         "years": "8+ yrs"
       },
       "slug": "amd"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74189",
+        "key": "74189",
+        "location": "Palo Alto, CA, United States",
+        "posted": "2026-11-16",
+        "salary": "$150K\u2013$284K",
+        "source_posted": "2026-11-16",
+        "title": "Staff Android Framework Developer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74189",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "84941",
+        "key": "84941",
+        "location": "San Jose, California",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Principal Modeling Architect - DC GPU",
+        "url": "https://careers.amd.com/careers-home/jobs/84941",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-16"
