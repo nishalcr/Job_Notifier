@@ -1,5 +1,38 @@
 {
   "issues": [],
-  "jobs": [],
+  "jobs": [
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "302093",
+        "key": "302093",
+        "location": "Austin, TX, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Applied Data Scientist, User Insights",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/302093",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005264",
+        "key": "R1005264",
+        "location": "2 Locations",
+        "posted": "2026-11-16",
+        "salary": "$245K\u2013$307K",
+        "source_posted": "Posted Today",
+        "title": "Staff Full-Stack Engineer",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Staff-Full-Stack-Engineer_R1005264-1",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "capitalone"
+    }
+  ],
   "last_sent": "2026-11-16"
 }
