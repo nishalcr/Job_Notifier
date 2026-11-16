@@ -2392,6 +2392,114 @@
         "years": "6+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694951-3577",
+        "key": "200694951-3577",
+        "location": "San Francisco",
+        "posted": "2026-11-16",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "AR/VR Software Engineer, Spatial Experiences - Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200694951-3577/ar-vr-software-engineer-spatial-experiences-vision-products-software?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694951-3956",
+        "key": "200694951-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-16",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "AR/VR Software Engineer, Spatial Experiences - Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200694951-3956/ar-vr-software-engineer-spatial-experiences-vision-products-software?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210801807",
+        "key": "210801807",
+        "location": "Houston, TX, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Lead Software Engineer - Data Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801807",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210804732",
+        "key": "210804732",
+        "location": "Chicago, IL, United States",
+        "posted": "2026-11-16",
+        "salary": "$100K\u2013$125K",
+        "source_posted": "2026-11-16",
+        "title": "Site Reliability Engineer II-Production Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804732",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809327",
+        "key": "210809327",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-16",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-16",
+        "title": "Lead Software Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809327",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809528",
+        "key": "210809528",
+        "location": "Palo Alto, CA, United States",
+        "posted": "2026-11-16",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-16",
+        "title": "Software Engineer III",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809528",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97980",
+        "key": "97980",
+        "location": "Austin, Texas",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Principal, Server Systems Security Architect",
+        "url": "https://careers.amd.com/careers-home/jobs/97980",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-16"
