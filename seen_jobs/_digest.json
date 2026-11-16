@@ -2324,6 +2324,74 @@
         "years": "1+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606680",
+        "key": "10606680",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Development Engineer, Neuron Developer Experiences Team",
+        "url": "https://www.amazon.jobs/en/jobs/10606680/software-development-engineer-neuron-developer-experiences-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1117494364144809",
+        "key": "1117494364144809",
+        "location": "Bellevue, WA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Menlo Park, CA",
+        "title": "Performance & Capacity Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1117494364144809",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067564",
+        "key": "1970393557074534",
+        "location": "Multiple Locations",
+        "posted": "2026-11-16",
+        "salary": "$85K\u2013$184K",
+        "source_posted": "2026-11-16",
+        "team": "Software Engineering",
+        "title": "Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557074534",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067394",
+        "key": "1970393557073450",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-16",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-16",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073450",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-16"
