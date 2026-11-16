@@ -456,6 +456,60 @@
         "years": "3+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "82334529829642950",
+        "key": "82334529829642950",
+        "location": "San Francisco, CA, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Security and Privacy",
+        "title": "Senior Software Engineer, Infrastructure, Google Cloud Security and Privacy",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/82334529829642950",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "129423932787696326",
+        "key": "129423932787696326",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML Recommendations Systems / Google Play",
+        "title": "Senior Software Engineer, AI/ML Recommendations Systems, Google Play",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/129423932787696326",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software developers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for",
+        "job_id": "128268689664287430",
+        "key": "128268689664287430",
+        "location": "San Jose, CA, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Core Developer",
+        "title": "Staff Software Engineer, Core Developer",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/128268689664287430",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-15"
