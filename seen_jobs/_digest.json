@@ -2711,6 +2711,39 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604747",
+        "key": "10604747",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Systems Engineer , Amazon Leo",
+        "url": "https://www.amazon.jobs/en/jobs/10604747/systems-engineer-amazon-leo",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200065379",
+        "key": "1970393557053468",
+        "location": "Multiple Locations",
+        "posted": "2026-11-16",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-16",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer - MAIA System Infrastructure",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557053468",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-16"
