@@ -1044,6 +1044,87 @@
         "years": "5+ yrs"
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604137",
+        "key": "10604137",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Dev Engineer, Amazon AI at Work",
+        "url": "https://www.amazon.jobs/en/jobs/10604137/software-dev-engineer-amazon-ai-at-work",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030014",
+        "key": "JR2030014",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Machine Learning Graphics Engineer, AI for Experiences",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Graphics-Engineer--AI-for-Experiences_JR2030014-1",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029413",
+        "key": "JR2029413",
+        "location": "2 Locations",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Deep Learning Scientist, AI Safety",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Scientist--AI-Safety_JR2029413",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2030323",
+        "key": "2030323",
+        "location": "3 Locations",
+        "posted": "2026-11-16",
+        "salary": "$198K\u2013$323K",
+        "source_posted": "Posted Today",
+        "title": "AI Researcher (Remote)",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Francisco-California-US/AI-Researcher--Remote-_2030323",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Snowflake",
+      "job": {
+        "job_id": "829e9786-6661-4134-b7cd-aef3bed75c1c",
+        "key": "829e9786-6661-4134-b7cd-aef3bed75c1c",
+        "location": "US-CA-Menlo Park",
+        "posted": "2026-11-16",
+        "salary": "$200K\u2013$288K",
+        "source_posted": "2026-11-16",
+        "team": "Engineering",
+        "title": "Senior Software Engineer - Elastic Global Services",
+        "url": "https://jobs.ashbyhq.com/snowflake/829e9786-6661-4134-b7cd-aef3bed75c1c",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "snowflake"
     }
   ],
   "last_sent": "2026-11-16"
