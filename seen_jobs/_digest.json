@@ -833,6 +833,53 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200693162-0836",
+        "key": "200693162-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-16",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "Application Software Engineer, Productivity Apps",
+        "url": "https://jobs.apple.com/en-us/details/200693162-0836/application-software-engineer-productivity-apps?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200693162-2926",
+        "key": "200693162-2926",
+        "location": "Pittsburgh",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "Application Software Engineer, Productivity Apps",
+        "url": "https://jobs.apple.com/en-us/details/200693162-2926/application-software-engineer-productivity-apps?team=SFTWR",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210785588",
+        "key": "210785588",
+        "location": "Tampa, FL, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Java Full Stack Software Engineer III - React / Kubernetes",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785588",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-16"
