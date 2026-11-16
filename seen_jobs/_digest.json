@@ -1290,6 +1290,150 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695213-0836",
+        "key": "200695213-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-16",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "iOS Software Engineer - Video Applications",
+        "url": "https://jobs.apple.com/en-us/details/200695213-0836/ios-software-engineer-video-applications?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695213-3673",
+        "key": "200695213-3673",
+        "location": "Vancouver",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "iOS Software Engineer - Video Applications",
+        "url": "https://jobs.apple.com/en-us/details/200695213-3673/ios-software-engineer-video-applications?team=SFTWR",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606475",
+        "key": "10606475",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Amazon Dedicated Cloud Engineer, ADC DCOSE SysDE, ADC DCOSE SysDE",
+        "url": "https://www.amazon.jobs/en/jobs/10606475/amazon-dedicated-cloud-engineer-adc-dcose-sysde-adc-dcose-sysde",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606474",
+        "key": "10606474",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Development Engineer II",
+        "url": "https://www.amazon.jobs/en/jobs/10606474/software-development-engineer-ii",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1100672",
+        "key": "R1100672",
+        "location": "2 Locations",
+        "posted": "2026-11-16",
+        "salary": "$144K\u2013$288K",
+        "source_posted": "Posted Today",
+        "title": "Principal Software Development Engineer - Medicare Technology",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Principal-Software-Development-Engineer---Medicare-Technology_R1100672",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210804899",
+        "key": "210804899",
+        "location": "Seattle, WA, United States; +2 more",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Data and Analytics Product Delivery Team - Analytics Solutions Senior Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804899",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806933",
+        "key": "210806933",
+        "location": "Columbus, OH, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Quant Analytics Associate Senior",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806933",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74276",
+        "key": "74276",
+        "location": "Palo Alto, CA, United States",
+        "posted": "2026-11-16",
+        "salary": "$139K\u2013$233K",
+        "source_posted": "2026-11-16",
+        "title": "Senior Software Stability & Performance Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74276",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067417",
+        "key": "1970393557073488",
+        "location": "Redmond, Washington; +1 more",
+        "posted": "2026-11-16",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-16",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer - CoreAI",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073488",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-16"
