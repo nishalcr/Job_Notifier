@@ -281,6 +281,38 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1102592",
+        "key": "R1102592",
+        "location": "CT - Work from home",
+        "posted": "2026-11-16",
+        "salary": "$107K\u2013$261K",
+        "source_posted": "Posted Today",
+        "title": "Lead Application Architect - Digital & AI",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Work-from-home/Lead-Application-Architect---Digital---AI_R1102592",
+        "work_type": "Remote",
+        "years": "10\u201312 yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210790492",
+        "key": "210790492",
+        "location": "Chicago, IL, United States",
+        "posted": "2026-11-16",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-16",
+        "title": "Lead Software Engineer - Reference Data Engineering",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790492",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-16"
