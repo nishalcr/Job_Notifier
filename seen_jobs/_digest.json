@@ -578,6 +578,42 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "143282246063661766",
+        "key": "143282246063661766",
+        "location": "Los Angeles, CA, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Home and Health Infrastructure / Special Projects",
+        "title": "Software Engineer, Home and Health Infrastructure, Special Projects",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/143282246063661766",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "83681294134715078",
+        "key": "83681294134715078",
+        "location": "Atlanta, GA, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Tech Lead / Full Stack",
+        "title": "Staff Software Engineer, Tech Lead, Full Stack",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/83681294134715078",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-15"
