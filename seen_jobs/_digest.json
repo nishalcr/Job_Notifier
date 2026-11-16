@@ -280,6 +280,60 @@
         "years": "10+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "This team establishes the standards for evaluating and improving agentic AI systems within the cloud ecosystem. The mission centers on building infrastructure, benchmarks, and automated pipelines to measure and enhance the quality of next-generation AI agents. This involves devel",
+        "job_id": "114224284045320902",
+        "key": "114224284045320902",
+        "location": "New York, NY, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML GenAI / Google Cloud",
+        "title": "[T] Software Engineer III, AI/ML GenAI, Google Cloud",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/114224284045320902",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "73447795817620166",
+        "key": "73447795817620166",
+        "location": "New York, NY, USA; +1 more",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Cloud",
+        "title": "Staff Software Engineer, Google Cloud",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/73447795817620166",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "139532018059748038",
+        "key": "139532018059748038",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Search Ads",
+        "title": "Senior Research Data Scientist, Search Ads",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/139532018059748038",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-15"
