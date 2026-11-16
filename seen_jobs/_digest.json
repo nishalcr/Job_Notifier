@@ -2047,6 +2047,70 @@
         "years": "7+ yrs"
       },
       "slug": "dell"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029873",
+        "key": "JR2029873",
+        "location": "2 Locations",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Workload Optimization Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Software-Workload-Optimization-Engineer_JR2029873",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2029792",
+        "key": "2029792",
+        "location": "2 Locations",
+        "posted": "2026-11-16",
+        "salary": "$133K\u2013$259K",
+        "source_posted": "Posted Today",
+        "title": "OptoMechanical Product Engineer",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Allentown-Pennsylvania-US/OptoMechanical-Product-Engineer_2029792",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139050",
+        "key": "R0139050",
+        "location": "San Jose, California, United States of America",
+        "posted": "2026-11-16",
+        "salary": "$196K\u2013$292K",
+        "source_posted": "Posted Today",
+        "title": "Staff Machine Learning Engineer",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Machine-Learning-Engineer_R0139050",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "paypal"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139036",
+        "key": "R0139036",
+        "location": "San Jose, California, United States of America",
+        "posted": "2026-11-16",
+        "salary": "$196K\u2013$292K",
+        "source_posted": "Posted Today",
+        "title": "Staff Machine Learning Engineer",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Machine-Learning-Engineer_R0139036",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "paypal"
     }
   ],
   "last_sent": "2026-11-16"
