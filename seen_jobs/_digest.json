@@ -215,6 +215,72 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Goldman Sachs",
+      "job": {
+        "description": "",
+        "job_id": "184980",
+        "key": "184980",
+        "location": "New York, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "he Core Engineering- Software Engineering - Associate - New York",
+        "title": "he Core Engineering- Software Engineering - Associate - New York",
+        "url": "https://higher.gs.com/roles/184980",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "goldman-sachs"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R117348",
+        "key": "R117348",
+        "location": "1530 FM 973 Taylor, TX, USA",
+        "posted": "2026-11-16",
+        "salary": "$76K\u2013$145K",
+        "source_posted": "Posted Today",
+        "title": "Surface Atom Probe Tomography (APT) Engineer",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Surface-Atom-Probe-Tomography--APT--Engineer_R117348",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "samsung"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210807712",
+        "key": "210807712",
+        "location": "Boston, MA, United States",
+        "posted": "2026-11-16",
+        "salary": "$91K\u2013$132K",
+        "source_posted": "2026-11-16",
+        "title": "Customer Success Senior Associate Performance & Risk Analytics",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807712",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808278",
+        "key": "210808278",
+        "location": "Chicago, IL, United States",
+        "posted": "2026-11-16",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-16",
+        "title": "Lead Software Engineer (Python, AWS, Spark/Flink) \u2013 Digital Personalization & Insights",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808278",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-16"
