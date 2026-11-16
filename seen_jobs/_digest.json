@@ -1869,6 +1869,73 @@
         "years": ""
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606564",
+        "key": "10606564",
+        "location": "Westborough, Massachusetts",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Senior Robotics SW Engineer , Velocity",
+        "url": "https://www.amazon.jobs/en/jobs/10606564/senior-robotics-sw-engineer-velocity",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10594817",
+        "key": "10594817",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 2, 2026",
+        "title": "Software Development Engineer II, Amazon Pharmacy, Amazon Pharmacy",
+        "url": "https://www.amazon.jobs/en/jobs/10594817/software-development-engineer-ii-amazon-pharmacy-amazon-pharmacy",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1177583138161589",
+        "key": "1177583138161589",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Research / Engineering",
+        "title": "Software Engineer, Systems ML: PyTorch Distributed",
+        "url": "https://www.metacareers.com/profile/job_details/1177583138161589",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Snowflake",
+      "job": {
+        "job_id": "850fe52e-5137-4fbb-966a-ef8e89cf6245",
+        "key": "850fe52e-5137-4fbb-966a-ef8e89cf6245",
+        "location": "US-CA-Menlo Park; +1 more",
+        "posted": "2026-11-16",
+        "salary": "$160K\u2013$230K",
+        "source_posted": "2026-11-16",
+        "team": "Engineering",
+        "title": "Principal Software Engineer (Outer Loop), Engineering Systems",
+        "url": "https://jobs.ashbyhq.com/snowflake/850fe52e-5137-4fbb-966a-ef8e89cf6245",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "snowflake"
     }
   ],
   "last_sent": "2026-11-16"
