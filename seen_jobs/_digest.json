@@ -32,6 +32,137 @@
         "years": "7+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605882",
+        "key": "10605882",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Security Engineer II, AWS Cloud Security Response",
+        "url": "https://www.amazon.jobs/en/jobs/10605882/security-engineer-ii-aws-cloud-security-response",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605886",
+        "key": "10605886",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Senior Security Engineer, AWS Vulnerability Management, AWS Vulnerability Management - Host OS and Third Party Software",
+        "url": "https://www.amazon.jobs/en/jobs/10605886/senior-security-engineer-aws-vulnerability-management-aws-vulnerability-management-host-os-and-third-party-software",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1004534",
+        "key": "R1004534",
+        "location": "McLean, VA",
+        "posted": "2026-11-16",
+        "salary": "$197K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1004534-3",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066496",
+        "key": "1970393557070150",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-16",
+        "salary": "$102K\u2013$261K",
+        "source_posted": "2026-11-16",
+        "team": "Software Engineering",
+        "title": "Software Engineer II & Senior Software Engineer - (CoreAI Speech, Translation, and Data Platforms)",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070150",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200063859",
+        "key": "1970393557047354",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-16",
+        "salary": "$143K\u2013$331K",
+        "source_posted": "2026-11-16",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer (CoreAI Speech, Translation, and Data Platforms)",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557047354",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200065296",
+        "key": "1970393557053269",
+        "location": "Multiple Locations",
+        "posted": "2026-11-16",
+        "salary": "$166K\u2013$331K",
+        "source_posted": "2026-11-16",
+        "team": "Software Engineering",
+        "title": "Technical Architect, Health Life Sciences (HLS)",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557053269",
+        "work_type": "Onsite",
+        "years": "8+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350115",
+        "key": "350115",
+        "location": "Red Oak, TX, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Principal Planning & Deployment Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350115",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350116",
+        "key": "350116",
+        "location": "Red Oak, TX, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Principal Planning & Deployment Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350116",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-16"
