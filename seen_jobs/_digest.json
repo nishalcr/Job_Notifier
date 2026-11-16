@@ -696,6 +696,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809007",
+        "key": "210809007",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-16",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-16",
+        "title": "Lead Software Engineer- Gen AI/Python/AWS",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809007",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-15"
