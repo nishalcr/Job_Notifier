@@ -2679,6 +2679,22 @@
         "years": "8+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349661",
+        "key": "349661",
+        "location": "United States; +1 more",
+        "posted": "2026-11-16",
+        "salary": "$135K\u2013$306K",
+        "source_posted": "2026-11-04",
+        "title": "Lead Principal Security Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349661",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-16"
