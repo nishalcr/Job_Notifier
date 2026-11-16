@@ -1936,6 +1936,52 @@
         "years": "12+ yrs"
       },
       "slug": "snowflake"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695298-3337",
+        "key": "200695298-3337",
+        "location": "Seattle",
+        "posted": "2026-11-16",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "AI Applied Scientist, AI Evaluation Science",
+        "url": "https://jobs.apple.com/en-us/details/200695298-3337/ai-applied-scientist-ai-evaluation-science?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73620",
+        "key": "73620",
+        "location": "Allen Park, MI, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "OWS Business Analyst",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73620",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73985",
+        "key": "73985",
+        "location": "Allen Park, MI, United States",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Ford Racing Vehicle Energy Management Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73985",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-16"
