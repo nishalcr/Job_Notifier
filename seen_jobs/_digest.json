@@ -528,6 +528,22 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10599162",
+        "key": "10599162",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Development Engineer, Network Fabric Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10599162/software-development-engineer-network-fabric-engineering",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-15"
