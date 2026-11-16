@@ -614,6 +614,38 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029711",
+        "key": "JR2029711",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Firmware System Integration Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Firmware-System-Integration-Engineer_JR2029711-1",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029849",
+        "key": "JR2029849",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Cloud Platform Engineer - AI Education Systems",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Cloud-Platform-Engineer---AI-Education-Systems_JR2029849",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-15"
