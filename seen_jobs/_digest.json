@@ -2145,6 +2145,73 @@
         "years": "14+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694096-0836",
+        "key": "200694096-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "Senior Software Engineer, Apple Ads",
+        "url": "https://jobs.apple.com/en-us/details/200694096-0836/senior-software-engineer-apple-ads?team=SFTWR",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695312-3337",
+        "key": "200695312-3337",
+        "location": "Seattle",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "Senior Software Engineer, System Performance",
+        "url": "https://jobs.apple.com/en-us/details/200695312-3337/senior-software-engineer-system-performance?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606633",
+        "key": "10606633",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Application Security Engineer, Leo Proactive Security, Leo Security - METALS",
+        "url": "https://www.amazon.jobs/en/jobs/10606633/application-security-engineer-leo-proactive-security-leo-security-metals",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200064847",
+        "key": "1970393557051130",
+        "location": "Redmond, Washington; +3 more",
+        "posted": "2026-11-16",
+        "salary": "$86K\u2013$187K",
+        "source_posted": "2026-11-16",
+        "team": "Business Planning",
+        "title": "Business Planner, Azure Container Services and Developer Innovation",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557051130",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-16"
