@@ -163,6 +163,58 @@
         "years": "5+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "As a Quantum Device Design Infrastructure Engineer, you will support the Quantum AI device layout and simulation infrastructure to enable platform scaling and achieve key Quantum AI (QAI) milestones. You will collaborate closely with foundries and foundry integration teams to exp",
+        "job_id": "140698496817603270",
+        "key": "140698496817603270",
+        "location": "Goleta, CA, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Quantum AI",
+        "title": "Quantum Device Design Infrastructure Engineer, Quantum AI",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/140698496817603270",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google is proud to boast a network that provides service to millions of Internet users around the world. The Network Engineering team is responsible for operating that network reliably and at scale. As a member of the team, you have a direct impact on design and feature enhanceme",
+        "job_id": "112093602309382854",
+        "key": "112093602309382854",
+        "location": "Austin, TX, USA; +1 more",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Enterprise Network",
+        "title": "Staff Network Engineer, Google Enterprise Network",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/112093602309382854",
+        "work_type": "Remote",
+        "years": "10+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806902",
+        "key": "210806902",
+        "location": "NJ, United States; +3 more",
+        "posted": "2026-11-16",
+        "salary": "$147K\u2013$190K",
+        "source_posted": "2026-11-16",
+        "title": "Lead Infrastructure Engineer \u2013 Network Access Control (NAC)",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806902",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-16"
