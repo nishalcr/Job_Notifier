@@ -246,6 +246,22 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809525",
+        "key": "210809525",
+        "location": "Jersey City, NJ, United States; +1 more",
+        "posted": "2026-11-16",
+        "salary": "$138K\u2013$195K",
+        "source_posted": "2026-11-16",
+        "title": "Applied AI ML Senior Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809525",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-15"
