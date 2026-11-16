@@ -262,6 +262,24 @@
         "years": "2+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "76226536578917062",
+        "key": "76226536578917062",
+        "location": "Seattle, WA, USA; +6 more",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Cloud",
+        "title": "Principal Architect, Google Cloud",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/76226536578917062",
+        "work_type": "Remote",
+        "years": "10+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-15"
