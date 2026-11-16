@@ -587,6 +587,40 @@
         "years": "2+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606194",
+        "key": "10606194",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Development Engineer II, Leo Space Engineering Applications",
+        "url": "https://www.amazon.jobs/en/jobs/10606194/software-development-engineer-ii-leo-space-engineering-applications",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "142922533962687174",
+        "key": "142922533962687174",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "Kernel Virtualization",
+        "title": "Staff Software Engineer, Kernel Virtualization",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/142922533962687174",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-16"
