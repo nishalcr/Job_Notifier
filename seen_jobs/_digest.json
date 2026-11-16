@@ -160,6 +160,22 @@
         "years": "5+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210796019",
+        "key": "210796019",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-16",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-16",
+        "title": "Java Software Engineer III",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796019",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-15"
