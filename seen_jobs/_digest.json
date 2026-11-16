@@ -475,6 +475,22 @@
         "years": "1+ yrs"
       },
       "slug": "paypal"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97477",
+        "key": "97477",
+        "location": "Austin, Texas",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Senior HPC Systems Engineer \u2013 GPU Infrastructure",
+        "url": "https://careers.amd.com/careers-home/jobs/97477",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-16"
