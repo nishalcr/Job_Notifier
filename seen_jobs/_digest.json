@@ -1434,6 +1434,88 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606491",
+        "key": "10606491",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Dev Engineer - Test, Amazon Leo",
+        "url": "https://www.amazon.jobs/en/jobs/10606491/software-dev-engineer-test-amazon-leo",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1662494832247659",
+        "key": "1662494832247659",
+        "location": "Austin, TX",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Seattle, WA",
+        "title": "Business Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1662494832247659",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR367800",
+        "key": "JR367800",
+        "location": "3 Locations",
+        "posted": "2026-11-16",
+        "salary": "$218K\u2013$401K",
+        "source_posted": "Posted Today",
+        "title": "Senior Staff Software Engineer, Android",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Senior-Staff-Software-Engineer--Android_JR367800-1",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73152",
+        "key": "73152",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-16",
+        "salary": "$74K\u2013$166K",
+        "source_posted": "2026-11-16",
+        "title": "Vehicle Safety and Compliance Integration Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73152",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350709",
+        "key": "350709",
+        "location": "United States",
+        "posted": "2026-11-16",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Backend Developer \u2013 Clinical Applications",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350709",
+        "work_type": "",
+        "years": "7\u20139 yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-16"
