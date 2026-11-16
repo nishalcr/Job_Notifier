@@ -1756,6 +1756,103 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695284-3337",
+        "key": "200695284-3337",
+        "location": "Seattle",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "team": "Software and Services",
+        "title": "AI Measurement Scientist, AI Evaluation Platform",
+        "url": "https://jobs.apple.com/en-us/details/200695284-3337/ai-measurement-scientist-ai-evaluation-platform?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606546",
+        "key": "10606546",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Developer Engineer, AWS Security, Audit Management Platform (AMP)",
+        "url": "https://www.amazon.jobs/en/jobs/10606546/software-developer-engineer-aws-security-audit-management-platform-amp",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606549",
+        "key": "10606549",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Data Scientist, Multi Channel Fulfillment",
+        "url": "https://www.amazon.jobs/en/jobs/10606549/data-scientist-multi-channel-fulfillment",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603389",
+        "key": "10603389",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 12, 2026",
+        "title": "Forward Deployed Engineer (FDE), AWS Forward Deployed Engineering, US Government",
+        "url": "https://www.amazon.jobs/en/jobs/10603389/forward-deployed-engineer-fde-aws-forward-deployed-engineering-us-government",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10594196",
+        "key": "10594196",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 2, 2026",
+        "title": "Software Development Engineer, Amazon Customer Service",
+        "url": "https://www.amazon.jobs/en/jobs/10594196/software-development-engineer-amazon-customer-service",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "346876",
+        "key": "346876",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-16",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Core Infrastructure Engineer-Network Capacity",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346876",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-16"
