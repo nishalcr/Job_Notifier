@@ -1516,6 +1516,134 @@
         "years": "7\u20139 yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606506",
+        "key": "10606506",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Sr. Software Dev Engineer, Amazon Leo Customer Terminal Software",
+        "url": "https://www.amazon.jobs/en/jobs/10606506/sr-software-dev-engineer-amazon-leo-customer-terminal-software",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606504",
+        "key": "10606504",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Dev Engineer, Amazon Leo Customer Terminal Software",
+        "url": "https://www.amazon.jobs/en/jobs/10606504/software-dev-engineer-amazon-leo-customer-terminal-software",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606502",
+        "key": "10606502",
+        "location": "Austin, Texas",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Dev Engineer, Amazon Leo Customer Terminal Software",
+        "url": "https://www.amazon.jobs/en/jobs/10606502/software-dev-engineer-amazon-leo-customer-terminal-software",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606501",
+        "key": "10606501",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Dev Engineer, Amazon Leo Customer Terminal Software",
+        "url": "https://www.amazon.jobs/en/jobs/10606501/software-dev-engineer-amazon-leo-customer-terminal-software",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606503",
+        "key": "10606503",
+        "location": "Austin, Texas",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Dev Engineer, Amazon Leo Customer Terminal Software",
+        "url": "https://www.amazon.jobs/en/jobs/10606503/software-dev-engineer-amazon-leo-customer-terminal-software",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606492",
+        "key": "10606492",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Sr. Software Dev Engineer, Amazon Leo Customer Terminal Software",
+        "url": "https://www.amazon.jobs/en/jobs/10606492/sr-software-dev-engineer-amazon-leo-customer-terminal-software",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606507",
+        "key": "10606507",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Development Engineer II, AWS DynamoDB",
+        "url": "https://www.amazon.jobs/en/jobs/10606507/software-development-engineer-ii-aws-dynamodb",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606497",
+        "key": "10606497",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Software Development Engineer, Transactional Services (Database & Distributed Systems)",
+        "url": "https://www.amazon.jobs/en/jobs/10606497/software-development-engineer-transactional-services-database-distributed-systems",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-16"
