@@ -377,6 +377,38 @@
         "years": "15+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1097980",
+        "key": "R1097980",
+        "location": "49 Locations",
+        "posted": "2026-11-16",
+        "salary": "$107K\u2013$284K",
+        "source_posted": "Posted Today",
+        "title": "Staff Software Development Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/GA---Work-from-home/Staff-Software-Development-Engineer_R1097980-1",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809323",
+        "key": "210809323",
+        "location": "Plano, TX, United States; +1 more",
+        "posted": "2026-11-16",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "CCB Applied AI/ML Scientist",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809323",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-16"
