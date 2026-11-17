@@ -2890,6 +2890,150 @@
         "url": "https://jobs.apple.com/en-us/details/200694660-3956/content-developer-retail-marcom-engineering?team=SFTWR"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603780",
+        "key": "10603780",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Senior SAP Basis Administrator, Amazon Leo Enterprise Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10603780/senior-sap-basis-administrator-amazon-leo-enterprise-engineering",
+        "work_type": "Hybrid",
+        "years": "8\u201310 yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10585283",
+        "key": "10585283",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "October 21, 2026",
+        "title": "Software Development Engineer, AWS Central Economics",
+        "url": "https://www.amazon.jobs/en/jobs/10585283/software-development-engineer-aws-central-economics",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139028",
+        "key": "R0139028",
+        "location": "San Jose, California, United States of America",
+        "posted": "2026-11-17",
+        "salary": "$160K\u2013$236K",
+        "source_posted": "Posted Today",
+        "title": "Sr Machine Learning Engineer",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0139028",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "paypal"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139029",
+        "key": "R0139029",
+        "location": "San Jose, California, United States of America",
+        "posted": "2026-11-17",
+        "salary": "$196K\u2013$292K",
+        "source_posted": "Posted Today",
+        "title": "Staff Machine Learning Engineer",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Machine-Learning-Engineer_R0139029",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "paypal"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350817",
+        "key": "350817",
+        "location": "Reston, VA, United States; +2 more",
+        "posted": "2026-11-17",
+        "salary": "$111K\u2013$235K",
+        "source_posted": "2026-11-17",
+        "title": "Senior Principal Site Reliability Engineer - US Top Secret Clearance",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350817",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350750",
+        "key": "350750",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-17",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-17",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350750",
+        "work_type": "",
+        "years": "6\u201310 yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350822",
+        "key": "350822",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-17",
+        "salary": "$146K\u2013$306K",
+        "source_posted": "2026-11-17",
+        "title": "Lead Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350822",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350130",
+        "key": "350130",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-17",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-10",
+        "title": "Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350130",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349578",
+        "key": "349578",
+        "location": "Nashville, TN, United States; +1 more",
+        "posted": "2026-11-17",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-03",
+        "title": "Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349578",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-17"
