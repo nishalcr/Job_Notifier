@@ -84,6 +84,38 @@
         "years": "3+ yrs"
       },
       "slug": "netflix"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607008",
+        "key": "10607008",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Data Engineer, Applied AI Solutions",
+        "url": "https://www.amazon.jobs/en/jobs/10607008/data-engineer-applied-ai-solutions",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029988",
+        "key": "JR2029988",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Architect, AI Security",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Architect--AI-Security_JR2029988",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-17"
