@@ -582,6 +582,89 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2023350",
+        "key": "2023350",
+        "location": "Milpitas, California, US",
+        "posted": "2026-11-17",
+        "salary": "$138K\u2013$256K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer, Hybrid, Milpitas, CA",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Software-Engineer--Hybrid--Milpitas--CA_2023350",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005227",
+        "key": "R1005227",
+        "location": "McLean, VA",
+        "posted": "2026-11-17",
+        "salary": "$162K\u2013$185K",
+        "source_posted": "Posted Today",
+        "title": "Principal Quantitative Analyst - Model Risk Office",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Quantitative-Analyst---Model-Risk-Office_R1005227",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066202",
+        "key": "1970393557055771",
+        "location": "Redmond, Washington; +2 more",
+        "posted": "2026-11-17",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-17",
+        "team": "Applied Sciences",
+        "title": "Principal Applied Scientist",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557055771",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067154",
+        "key": "1970393557072939",
+        "location": "West Lafayette, Indiana",
+        "posted": "2026-11-17",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-17",
+        "team": "Quantum Engineering",
+        "title": "Quantum Measurement Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557072939",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200052791",
+        "key": "1970393556984019",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-17",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-17",
+        "team": "Software Engineering",
+        "title": "Software Engineer II",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556984019",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-17"
