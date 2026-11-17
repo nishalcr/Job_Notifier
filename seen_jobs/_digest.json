@@ -294,6 +294,150 @@
         "years": "9+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR367393",
+        "key": "JR367393",
+        "location": "New York - New York",
+        "posted": "2026-11-17",
+        "salary": "$172K\u2013$286K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/New-York---New-York/Software-Engineer_JR367393",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR359263",
+        "key": "JR359263",
+        "location": "11 Locations",
+        "posted": "2026-11-17",
+        "salary": "$148K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "Sr. Agentic Developer",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Virginia---Washington-DC-Metro---Remote/Sr-Agentic-Developer_JR359263",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006014",
+        "key": "R1006014",
+        "location": "3 Locations",
+        "posted": "2026-11-17",
+        "salary": "$136K\u2013$169K",
+        "source_posted": "Posted Today",
+        "title": "Principal Data Scientist",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Data-Scientist_R1006014-2",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024781",
+        "key": "JR-024781",
+        "location": "Santa Clara, United States of America",
+        "posted": "2026-11-17",
+        "salary": "$178K\u2013$287K",
+        "source_posted": "Posted Today",
+        "title": "Sr Principal DevOps Engineer",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Santa-Clara-United-States-of-America/Sr-Principal-DevOps-Engineer_JR-024781",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "paloalto"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024956",
+        "key": "JR-024956",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-17",
+        "salary": "$156K\u2013$253K",
+        "source_posted": "Posted Today",
+        "title": "Principal Software Engineer (Data Platform - SRE/DataOps)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Software-Engineer--Data-Platform---SRE-DataOps-_JR-024956",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "paloalto"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024668",
+        "key": "JR-024668",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-17",
+        "salary": "$135K\u2013$218K",
+        "source_posted": "Posted Today",
+        "title": "Sr Staff Engineer Software \u2014 SaaS Security Posture Management (SSPM)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Sr-Staff-Engineer-Software---SaaS-Security-Posture-Management--SSPM-_JR-024668",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "paloalto"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024667",
+        "key": "JR-024667",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-17",
+        "salary": "$112K\u2013$180K",
+        "source_posted": "Posted Today",
+        "title": "Staff Engineer Software \u2014 SaaS Security Posture Management (SSPM)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Staff-Engineer-Software---SaaS-Security-Posture-Management--SSPM-_JR-024667",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "paloalto"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024669",
+        "key": "JR-024669",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-17",
+        "salary": "$156K\u2013$253K",
+        "source_posted": "Posted Today",
+        "title": "Principal Engineer Software \u2014 SaaS Security Posture Management (SSPM)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Engineer-Software---SaaS-Security-Posture-Management--SSPM-_JR-024669",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "paloalto"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-023639",
+        "key": "JR-023639",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-17",
+        "salary": "$156K\u2013$253K",
+        "source_posted": "Posted Today",
+        "title": "Principal Engineer Software (Cortex SSPM)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Engineer-Software--Cortex-SSPM-_JR-023639",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-17"
