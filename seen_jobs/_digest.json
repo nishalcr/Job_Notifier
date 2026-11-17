@@ -3150,6 +3150,22 @@
         "years": "3+ yrs"
       },
       "slug": "paypal"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10601001",
+        "key": "10601001",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Applied Scientist, AWS Identity Threat",
+        "url": "https://www.amazon.jobs/en/jobs/10601001/applied-scientist-aws-identity-threat",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-16"
