@@ -2744,6 +2744,38 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "99000",
+        "key": "99000",
+        "location": "San Francisco, California",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-16",
+        "title": "Performance Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/99000",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Zscaler",
+      "job": {
+        "job_id": "5283492007",
+        "key": "5283492007",
+        "location": "Santa Clara, California, USA",
+        "posted": "2026-11-17",
+        "salary": "$186K\u2013$265K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Software Development Engineer",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283492007",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "zscaler"
     }
   ],
   "last_sent": "2026-11-16"
