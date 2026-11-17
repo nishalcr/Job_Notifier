@@ -1842,6 +1842,56 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607548",
+        "key": "10607548",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer, Network Monitoring and Remediation (NMR)",
+        "url": "https://www.amazon.jobs/en/jobs/10607548/software-development-engineer-network-monitoring-and-remediation-nmr",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067055",
+        "key": "1970393557072549",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-17",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-17",
+        "team": "Software Engineering",
+        "title": "Software Engineer II - XBOX",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557072549",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066212",
+        "key": "1970393557055896",
+        "location": "Multiple Locations",
+        "posted": "2026-11-17",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-17",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557055896",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-17"
