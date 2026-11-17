@@ -3501,6 +3501,24 @@
         "years": "8+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "141444309298619078",
+        "key": "141444309298619078",
+        "location": "Sunnyvale, CA, USA; +1 more",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Distributed Cloud AI Storage",
+        "title": "Staff Software Engineer, Google Distributed Cloud AI Storage",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/141444309298619078",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-16"
