@@ -2988,6 +2988,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10605020",
+        "key": "10605020",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Research Scientist, Special Projects",
+        "url": "https://www.amazon.jobs/en/jobs/10605020/research-scientist-special-projects",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-16"
