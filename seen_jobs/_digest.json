@@ -3118,6 +3118,22 @@
         "years": "8+ yrs"
       },
       "slug": "uber"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606813",
+        "key": "10606813",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Senior ML Applied Scientist , Frontier AI Startup Team",
+        "url": "https://www.amazon.jobs/en/jobs/10606813/senior-ml-applied-scientist-frontier-ai-startup-team",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-16"
