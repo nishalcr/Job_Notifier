@@ -2781,6 +2781,38 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607665",
+        "key": "10607665",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer II, Amazon, Partner Tech Amazon Ads",
+        "url": "https://www.amazon.jobs/en/jobs/10607665/software-development-engineer-ii-amazon-partner-tech-amazon-ads",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "300953",
+        "key": "300953",
+        "location": "Santa Clara, CA, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Technical Staff, Storage Architect",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/300953",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "dell"
     }
   ],
   "last_sent": "2026-11-17"
