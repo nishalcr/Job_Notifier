@@ -3734,6 +3734,38 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210807772",
+        "key": "210807772",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-17",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-17",
+        "title": "Mainframe developer/Software Engineer III",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807772",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005203",
+        "key": "R1005203",
+        "location": "2 Locations",
+        "posted": "2026-11-17",
+        "salary": "$179K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1005203",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-16"
