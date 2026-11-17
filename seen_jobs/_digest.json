@@ -957,6 +957,38 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289212",
+        "key": "JR0289212",
+        "location": "US, Oregon, Hillsboro",
+        "posted": "2026-11-17",
+        "salary": "$142K\u2013$200K",
+        "source_posted": "Posted Today",
+        "title": "Datacenter Power Delivery Pathfinding Researcher",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Datacenter-Power-Delivery-Pathfinding-Researcher_JR0289212",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "intel"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024673",
+        "key": "JR-024673",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-17",
+        "salary": "$184K\u2013$297K",
+        "source_posted": "Posted Today",
+        "title": "Sr Principal / Architect Engineer Software \u2014 SaaS Security Posture Management (SSPM)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Sr-Principal---Architect-Engineer-Software---SaaS-Security-Posture-Management--SSPM-_JR-024673",
+        "work_type": "",
+        "years": "14+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-17"
