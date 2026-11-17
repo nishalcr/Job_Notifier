@@ -3217,6 +3217,24 @@
         "years": "6+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1743817316836705",
+        "key": "1743817316836705",
+        "location": "Papillion, NE",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Aurora, IL",
+        "title": "Network Engineer, Deployment & Support",
+        "url": "https://www.metacareers.com/profile/job_details/1743817316836705",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-16"
