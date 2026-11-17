@@ -2813,6 +2813,69 @@
         "years": "10+ yrs"
       },
       "slug": "dell"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694955-0365",
+        "key": "200694955-0365",
+        "location": "Boulder",
+        "posted": "2026-11-17",
+        "source_posted": "2026-11-14",
+        "team": "Software and Services",
+        "title": "Senior AR/VR Software Engineer - UI Frameworks, Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200694955-0365/senior-ar-vr-software-engineer-ui-frameworks-vision-products-software?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694955-3956",
+        "key": "200694955-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-14",
+        "team": "Software and Services",
+        "title": "Senior AR/VR Software Engineer - UI Frameworks, Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200694955-3956/senior-ar-vr-software-engineer-ui-frameworks-vision-products-software?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607674",
+        "key": "10607674",
+        "location": "New York, New York",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Business Intelligence Engineer, Advertising Services Finance Analytics",
+        "url": "https://www.amazon.jobs/en/jobs/10607674/business-intelligence-engineer-advertising-services-finance-analytics",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2025638",
+        "key": "JR2025638",
+        "location": "4 Locations",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Full-Stack Engineer - DL Automation Platform",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Full-Stack-Engineer---DL-Automation-Platform_JR2025638",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-17"
