@@ -3182,6 +3182,23 @@
         "years": "3+ yrs"
       },
       "slug": "intel"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200656816-0157",
+        "key": "200656816-0157",
+        "location": "Austin",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Senior Software Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200656816-0157/senior-software-engineer?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-16"
