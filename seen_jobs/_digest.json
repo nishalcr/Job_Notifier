@@ -794,6 +794,136 @@
         "years": "3+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607218",
+        "key": "10607218",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer, VirtSat Team",
+        "url": "https://www.amazon.jobs/en/jobs/10607218/software-development-engineer-virtsat-team",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607210",
+        "key": "10607210",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer, Checkout Engineering Excellence Team",
+        "url": "https://www.amazon.jobs/en/jobs/10607210/software-development-engineer-checkout-engineering-excellence-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10584066",
+        "key": "10584066",
+        "location": "New York, New York",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer, Ads AI Core Infrastructure (ACI), Ads AI Core Infrastructure",
+        "url": "https://www.amazon.jobs/en/jobs/10584066/software-development-engineer-ads-ai-core-infrastructure-aci-ads-ai-core-infrastructure",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "125165077576721094",
+        "key": "125165077576721094",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Core Compute Analytics",
+        "title": "Software Engineer III, Infrastructure, Core Compute Analytics",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/125165077576721094",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029921",
+        "key": "JR2029921",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer, SimTech",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--SimTech_JR2029921",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005590",
+        "key": "R1005590",
+        "location": "Plano, TX",
+        "posted": "2026-11-17",
+        "salary": "$179K\u2013$205K",
+        "source_posted": "Posted Today",
+        "title": "Data Engineer 4, Real-time Data Platform",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Data-Engineer-4--Real-time-Data-Platform_R1005590-2",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005583",
+        "key": "R1005583",
+        "location": "Plano, TX",
+        "posted": "2026-11-17",
+        "salary": "$179K\u2013$205K",
+        "source_posted": "Posted Today",
+        "title": "Data Engineer 4, Auto Data Platforms",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Data-Engineer-4--Auto-Data-Platforms_R1005583-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016352",
+        "key": "26016352",
+        "location": "Phoenix, AZ, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Site Reliability Engineer III",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016352",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-17"
