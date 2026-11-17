@@ -196,6 +196,56 @@
         "years": "2+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "Senior Software Engineer Data Infrastructure, Mobility Simulation and Planning About the role and team How can Uber plan pricing and incentives to meet financial goals while keeping its marketplace healthy and growing? That\u2019s the challenge our Mobility Simulation and Planning (MS",
+        "job_id": "304218",
+        "key": "304218",
+        "location": "San Francisco, California; +3 more",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-12",
+        "team": "Engineer",
+        "title": "Sr Software Engineer - Data Infrastructure",
+        "url": "https://jobs.uber.com/en/jobs/304218/",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "296327",
+        "key": "296327",
+        "location": "Round Rock, TX, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Senior Advisor, Cybersecurity Engineering & Operations",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/296327",
+        "work_type": "Hybrid",
+        "years": "8\u201310 yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73832",
+        "key": "73832",
+        "location": "United States",
+        "posted": "2026-11-17",
+        "salary": "$115K\u2013$193K",
+        "source_posted": "2026-11-17",
+        "title": "Network Security Engineering Enterprise Architect",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73832",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-17"
