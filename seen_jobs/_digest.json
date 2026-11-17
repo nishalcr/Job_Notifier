@@ -1371,6 +1371,86 @@
         "years": "6+ yrs"
       },
       "slug": "intel"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606046",
+        "key": "10606046",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer II- GENAI/ML, Amazon Catalog services team",
+        "url": "https://www.amazon.jobs/en/jobs/10606046/software-development-engineer-ii-genai-ml-amazon-catalog-services-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368538",
+        "key": "JR368538",
+        "location": "2 Locations",
+        "posted": "2026-11-17",
+        "salary": "$148K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "MuleSoft Compliance Engineer",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Washington---Bellevue/MuleSoft-Compliance-Engineer_JR368538-1",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368397",
+        "key": "JR368397",
+        "location": "2 Locations",
+        "posted": "2026-11-17",
+        "salary": "$148K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "Production Support Engineering SMTS",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Production-Support-Engineering-SMTS_JR368397-1",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97274",
+        "key": "97274",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "GPU Kernel Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/97274",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97273",
+        "key": "97273",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "GPU Kernel Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/97273",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-17"
