@@ -2776,6 +2776,37 @@
         "years": ""
       },
       "slug": "zscaler"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695237-3337",
+        "key": "200695237-3337",
+        "location": "Seattle",
+        "posted": "2026-11-17",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Software Engineer, Application Developer Experience",
+        "url": "https://jobs.apple.com/en-us/details/200695237-3337/software-engineer-application-developer-experience?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200063549",
+        "key": "1970393557045945",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-17",
+        "salary": "$166K\u2013$331K",
+        "source_posted": "2026-11-16",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557045945",
+        "work_type": "Onsite",
+        "years": "8+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-16"
