@@ -2221,6 +2221,54 @@
         "years": "15+ yrs"
       },
       "slug": "dell"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10598167",
+        "key": "10598167",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 5, 2026",
+        "title": "Software Developer Engineer, Last Mile",
+        "url": "https://www.amazon.jobs/en/jobs/10598167/software-developer-engineer-last-mile",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R122245",
+        "key": "R122245",
+        "location": "1530 FM 973 Taylor, TX, USA",
+        "posted": "2026-11-17",
+        "salary": "$106K\u2013$145K",
+        "source_posted": "Posted Today",
+        "title": "Infra Cost Data Analyst",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Infra-Cost-Data-Analyst_R122245",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "samsung"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024990",
+        "key": "JR-024990",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-17",
+        "salary": "$190K\u2013$308K",
+        "source_posted": "Posted Today",
+        "title": "Principal AI Scientist - Enterprise AI",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-AI-Scientist---Enterprise-AI_JR-024990",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-17"
