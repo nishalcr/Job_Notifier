@@ -3337,6 +3337,60 @@
         "years": ""
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "A line of code can be many things - an amazing feature, a beautiful UI, a transformative algorithm. The faster this line of code reaches millions of users, the sooner it impacts their lives. As a Software Engineer, Tools and Infrastructure, you will be at the heart of Google\u2019s en",
+        "job_id": "74439795824042694",
+        "key": "74439795824042694",
+        "location": "Seattle, WA, USA",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "Engineering Productivity / Google Cloud Business Platform",
+        "title": "Senior Software Engineer, Engineering Productivity, Google Cloud Business Platform",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/74439795824042694",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "A line of code can be many things - an amazing feature, a beautiful UI, a transformative algorithm. The faster this line of code reaches millions of users, the sooner it impacts their lives. As a Software Engineer, Tools and Infrastructure, you will be at the heart of Google\u2019s en",
+        "job_id": "125949716562092742",
+        "key": "125949716562092742",
+        "location": "Seattle, WA, USA",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "Engineering Productivity / Google Cloud Business Platform",
+        "title": "Software Engineer III, Engineering Productivity, Google Cloud Business Platform",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/125949716562092742",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google Cloud provides organizations with leading infrastructure, platform capabilities and industry solutions. We deliver enterprise-grade cloud solutions that leverage Google\u2019s technology to help companies operate more efficiently and adapt to changing needs, giving customers a",
+        "job_id": "139741990420914886",
+        "key": "139741990420914886",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Cloud",
+        "title": "Senior Business Data Scientist, Google Cloud",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/139741990420914886",
+        "work_type": "Remote",
+        "years": "4+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-16"
