@@ -3572,6 +3572,86 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606953",
+        "key": "10606953",
+        "location": "New York, New York",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Senior Applied Scientist, Prime Video - Ads Science",
+        "url": "https://www.amazon.jobs/en/jobs/10606953/senior-applied-scientist-prime-video-ads-science",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368091",
+        "key": "JR368091",
+        "location": "3 Locations",
+        "posted": "2026-11-17",
+        "salary": "$197K\u2013$314K",
+        "source_posted": "Posted Today",
+        "title": "Staff Security Software Engineer, SecOps - Slack",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Staff-Security-Software-Engineer--SecOps---Slack_JR368091-1",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210790526",
+        "key": "210790526",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-17",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-17",
+        "title": "AWS Software Engineer II - Full Stack/Java/React",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790526",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005951",
+        "key": "R1005951",
+        "location": "3 Locations",
+        "posted": "2026-11-17",
+        "salary": "$179K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1005951-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005890",
+        "key": "R1005890",
+        "location": "3 Locations",
+        "posted": "2026-11-17",
+        "salary": "$179K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1005890-1",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-16"
