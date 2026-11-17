@@ -3048,6 +3048,22 @@
         "url": "https://jobs.apple.com/en-us/details/200695556-0836/senior-machine-learning-engineer-conversational-ai-services-special-projects?team=SFTWR"
       },
       "slug": "apple"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "99727",
+        "key": "99727",
+        "location": "San Jose, California",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "ML Compiler Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/99727",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-17"
