@@ -3235,6 +3235,24 @@
         "years": "5+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "75377129486721734",
+        "key": "75377129486721734",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "XProf SOC Architect / Performance",
+        "title": "Senior Software Engineer, XProf SOC Architect, Performance",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/75377129486721734",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-16"
