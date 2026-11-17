@@ -164,6 +164,38 @@
         "years": "10+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808835",
+        "key": "210808835",
+        "location": "Jersey City, NJ, United States; +1 more",
+        "posted": "2026-11-17",
+        "salary": "$138K\u2013$195K",
+        "source_posted": "2026-11-17",
+        "title": "Senior Associate- Applied AI/ML",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808835",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350771",
+        "key": "350771",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Software Developer 3",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350771",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-17"
