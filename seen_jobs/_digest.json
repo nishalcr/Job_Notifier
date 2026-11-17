@@ -2366,6 +2366,118 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695484-0836",
+        "key": "200695484-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-17",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Software Development Engineer - Location Technologies, Sensing & Connectivity",
+        "url": "https://jobs.apple.com/en-us/details/200695484-0836/software-development-engineer-location-technologies-sensing-connectivity?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "102776873351553734",
+        "key": "102776873351553734",
+        "location": "Kirkland, WA, USA",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "BigQuery Data Protection",
+        "title": "Senior Software Engineer, BigQuery Data Protection",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/102776873351553734",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029932",
+        "key": "JR2029932",
+        "location": "3 Locations",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Deep Learning Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Engineer_JR2029932",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030034",
+        "key": "JR2030034",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Systems Software Engineer - Autonomous Vehicles",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles_JR2030034",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030038",
+        "key": "JR2030038",
+        "location": "4 Locations",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Systems Safety Engineer - Autonomous Vehicles",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Safety-Engineer---Autonomous-Vehicles_JR2030038",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2028908",
+        "key": "2028908",
+        "location": "3 Locations",
+        "posted": "2026-11-17",
+        "salary": "$149K\u2013$282K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Development Engineer in Test (SDET), San-Francisco, CA, OR Milpitas, CA, Hybrid",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Francisco-California-US/Senior-Software-Development-Engineer-in-Test--SDET---San-Francisco--CA--OR-Milpitas--CA--Hybrid_2028908-1",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350524",
+        "key": "350524",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Senior Network Services Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350524",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-17"
