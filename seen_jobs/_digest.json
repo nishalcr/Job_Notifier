@@ -2120,6 +2120,57 @@
         "years": "5+ yrs"
       },
       "slug": "intel"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695530-0836",
+        "key": "200695530-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Senior Data Engineer - Business & Education",
+        "url": "https://jobs.apple.com/en-us/details/200695530-0836/senior-data-engineer-business-education?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695530-3337",
+        "key": "200695530-3337",
+        "location": "Seattle",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Senior Data Engineer - Business & Education",
+        "url": "https://jobs.apple.com/en-us/details/200695530-3337/senior-data-engineer-business-education?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200691337-3956",
+        "key": "200691337-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-10-27",
+        "team": "Software and Services",
+        "title": "Sr. Software Engineer - Business Process Reengineering (BPR) and Sales Engineering",
+        "url": "https://jobs.apple.com/en-us/details/200691337-3956/sr-software-engineer-business-process-reengineering-bpr-and-sales-engineering?team=SFTWR",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-17"
