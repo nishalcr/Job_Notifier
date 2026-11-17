@@ -3652,6 +3652,22 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2031139",
+        "key": "2031139",
+        "location": "11 Locations",
+        "posted": "2026-11-17",
+        "salary": "$152K\u2013$308K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering Technical Lead - IAM Platform / Identity Fabric",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Ann-Arbor-Michigan-US/Software-Engineering-Technical-Lead---IAM-Platform---Identity-Fabric_2031139",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-16"
