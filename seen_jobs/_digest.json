@@ -3253,6 +3253,38 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "HP",
+      "job": {
+        "job_id": "3168347",
+        "key": "3168347",
+        "location": "2 Locations",
+        "posted": "2026-11-17",
+        "salary": "$147K\u2013$237K",
+        "source_posted": "Posted Today",
+        "title": "[Agentic AI] Senior Software Engineer, AI Memory Systems & Resource Management",
+        "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/XMLNAME--Agentic-AI--Senior-Software-Engineer--AI-Memory-Systems---Resource-Management_3168347-1",
+        "work_type": "Hybrid",
+        "years": "12+ yrs"
+      },
+      "slug": "hp"
+    },
+    {
+      "company": "HP",
+      "job": {
+        "job_id": "3168421",
+        "key": "3168421",
+        "location": "2 Locations",
+        "posted": "2026-11-17",
+        "salary": "$131K\u2013$211K",
+        "source_posted": "Posted Today",
+        "title": "[Agentic AI] Senior Agentic AI Systems Engineer \u2013 Runtime Frameworks & Resource Intelligence",
+        "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/XMLNAME--Agentic-AI--Senior-Agentic-AI-Systems-Engineer---Runtime-Frameworks---Resource-Intelligence_3168421-1",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "hp"
     }
   ],
   "last_sent": "2026-11-16"
