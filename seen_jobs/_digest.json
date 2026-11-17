@@ -2171,6 +2171,56 @@
         "years": "8+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607602",
+        "key": "10607602",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Senior Software Development Engineer, Proactive Security - Devices",
+        "url": "https://www.amazon.jobs/en/jobs/10607602/senior-software-development-engineer-proactive-security-devices",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google Cloud's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distrib",
+        "job_id": "81598080377332422",
+        "key": "81598080377332422",
+        "location": "Sunnyvale, CA, USA; +1 more",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI Agent Architecture",
+        "title": "Software Engineer III, AI Agent Architecture",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/81598080377332422",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "302215",
+        "key": "302215",
+        "location": "Santa Clara, CA, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Technical Staff, AI Architect",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/302215",
+        "work_type": "Hybrid",
+        "years": "15+ yrs"
+      },
+      "slug": "dell"
     }
   ],
   "last_sent": "2026-11-17"
