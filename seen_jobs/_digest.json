@@ -2007,6 +2007,87 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210790035",
+        "key": "210790035",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-17",
+        "salary": "$86K\u2013$130K",
+        "source_posted": "2026-11-17",
+        "title": "Wealth Management Quant Analytics Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790035",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74172",
+        "key": "74172",
+        "location": "Palo Alto, CA, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Design Industrialization Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74172",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74180",
+        "key": "74180",
+        "location": "Long Beach, CA, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Sr. Staff Business Architect",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74180",
+        "work_type": "Hybrid",
+        "years": "14+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Red Hat",
+      "job": {
+        "job_id": "R-060575",
+        "key": "R-060575",
+        "location": "Remote US NC",
+        "posted": "2026-11-17",
+        "salary": "$136K\u2013$196K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer",
+        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Remote-US-NC/Senior-Software-Engineer_R-060575",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "redhat"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067053",
+        "key": "1970393557072536",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-17",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-17",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer - XBOX",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557072536",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-17"
