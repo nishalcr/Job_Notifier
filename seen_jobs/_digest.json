@@ -246,6 +246,54 @@
         "years": "3+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10601368",
+        "key": "10601368",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Research Scientist, TechOps",
+        "url": "https://www.amazon.jobs/en/jobs/10601368/research-scientist-techops",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806193",
+        "key": "210806193",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-17",
+        "salary": "$200K\u2013$285K",
+        "source_posted": "2026-11-17",
+        "title": "Global Research \u2013 Agentic AI & Data Science Lead \u2013 Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806193",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006013",
+        "key": "R1006013",
+        "location": "3 Locations",
+        "posted": "2026-11-17",
+        "salary": "$315K\u2013$392K",
+        "source_posted": "Posted Today",
+        "title": "Senior Staff Data Engineer",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Staff-Data-Engineer_R1006013-1",
+        "work_type": "Hybrid",
+        "years": "9+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-17"
