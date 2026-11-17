@@ -470,6 +470,70 @@
         "years": "5+ yrs"
       },
       "slug": "zscaler"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10592971",
+        "key": "10592971",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 5, 2026",
+        "title": "Sr Software Development Engineer, Amazon Quick",
+        "url": "https://www.amazon.jobs/en/jobs/10592971/sr-software-development-engineer-amazon-quick",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2025635",
+        "key": "2025635",
+        "location": "49 Locations",
+        "posted": "2026-11-17",
+        "salary": "$102K\u2013$174K",
+        "source_posted": "Posted Today",
+        "title": "Data Analyst",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Data-Analyst_2025635-1",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005999",
+        "key": "R1005999",
+        "location": "McLean, VA",
+        "posted": "2026-11-17",
+        "salary": "$197K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1005999-2",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024885",
+        "key": "JR-024885",
+        "location": "Office - USA - UT",
+        "posted": "2026-11-17",
+        "salary": "$137K\u2013$221K",
+        "source_posted": "Posted Today",
+        "title": "Senior Staff Software Development Engineer in Test (SDET)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---UT/Senior-Staff-Software-Development-Engineer-in-Test--SDET-_JR-024885",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-17"
