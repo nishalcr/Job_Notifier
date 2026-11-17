@@ -1762,6 +1762,86 @@
         "years": "6\u20138 yrs"
       },
       "slug": "netflix"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607436",
+        "key": "10607436",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Data Scientist II, PXT Central Science",
+        "url": "https://www.amazon.jobs/en/jobs/10607436/data-scientist-ii-pxt-central-science",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607536",
+        "key": "10607536",
+        "location": "Cambridge, Massachusetts",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer",
+        "url": "https://www.amazon.jobs/en/jobs/10607536/software-development-engineer",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210801788",
+        "key": "210801788",
+        "location": "Columbus, OH, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Sr. Lead Infrastructure Engineer - Mainframe and Midrange Storage Storage",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801788",
+        "work_type": "Onsite",
+        "years": "7+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74543",
+        "key": "74543",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-17",
+        "salary": "$147K\u2013$193K",
+        "source_posted": "2026-11-17",
+        "title": "Software Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74543",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349899",
+        "key": "349899",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-17",
+        "salary": "$96K\u2013$210K",
+        "source_posted": "2026-11-06",
+        "title": "Software Developer 3",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349899",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-17"
