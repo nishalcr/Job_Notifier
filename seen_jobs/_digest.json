@@ -1192,6 +1192,38 @@
         "years": "7+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607408",
+        "key": "10607408",
+        "location": "New York, New York",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Senior Software Development Engineer, Specialist AI Tooling, AWS Specialist Technology Team (STT)",
+        "url": "https://www.amazon.jobs/en/jobs/10607408/senior-software-development-engineer-specialist-ai-tooling-aws-specialist-technology-team-stt",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809806",
+        "key": "210809806",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-17",
+        "salary": "$147K\u2013$190K",
+        "source_posted": "2026-11-17",
+        "title": "Lead Infrastructure Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809806",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-17"
