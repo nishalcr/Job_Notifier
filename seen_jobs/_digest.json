@@ -1583,6 +1583,38 @@
         "years": "5+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289226",
+        "key": "JR0289226",
+        "location": "US, Oregon, Hillsboro",
+        "posted": "2026-11-17",
+        "salary": "$156K\u2013$220K",
+        "source_posted": "Posted Today",
+        "title": "Transistor Reliability and Quality Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Transistor-Reliability-and-Quality-Engineer_JR0289226",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "intel"
+    },
+    {
+      "company": "Zscaler",
+      "job": {
+        "job_id": "5279083007",
+        "key": "5279083007",
+        "location": "Santa Clara, California, USA",
+        "posted": "2026-11-17",
+        "salary": "$186K\u2013$265K",
+        "source_posted": "2026-11-17",
+        "title": "Principal Software Development Engineer",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5279083007",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "zscaler"
     }
   ],
   "last_sent": "2026-11-17"
