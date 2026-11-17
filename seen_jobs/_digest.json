@@ -1681,6 +1681,87 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607531",
+        "key": "10607531",
+        "location": "Pasadena, California",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Applied Scientist, Quantum Device Integration, Amazon's Center for Quantum Computing, Device Team",
+        "url": "https://www.amazon.jobs/en/jobs/10607531/applied-scientist-quantum-device-integration-amazon-s-center-for-quantum-computing-device-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607514",
+        "key": "10607514",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Senior Software Development Engineer, Flight Computer System",
+        "url": "https://www.amazon.jobs/en/jobs/10607514/senior-software-development-engineer-flight-computer-system",
+        "work_type": "",
+        "years": "20+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607515",
+        "key": "10607515",
+        "location": "New York, New York",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer, Sponsored Products",
+        "url": "https://www.amazon.jobs/en/jobs/10607515/software-development-engineer-sponsored-products",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005718",
+        "key": "R1005718",
+        "location": "2 Locations",
+        "posted": "2026-11-17",
+        "salary": "$209K\u2013$262K",
+        "source_posted": "Posted Today",
+        "title": "Full Stack Engineer 5 (Java AWS)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-Stack-Engineer-5--Java-AWS-_R1005718-1",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Netflix",
+      "job": {
+        "job_id": "JR43704",
+        "key": "790319560051",
+        "location": "Remote, United States",
+        "posted": "2026-11-17",
+        "salary": "$388K\u2013$619K",
+        "source_posted": "",
+        "team": "Engineering",
+        "title": "Software Engineer 5 - Search & Voice Systems",
+        "url": "https://explore.jobs.netflix.net/careers/job/790319560051",
+        "work_type": "Remote",
+        "years": "6\u20138 yrs"
+      },
+      "slug": "netflix"
     }
   ],
   "last_sent": "2026-11-17"
