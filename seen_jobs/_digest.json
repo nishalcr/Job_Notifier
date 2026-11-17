@@ -2874,6 +2874,22 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2031768",
+        "key": "2031768",
+        "location": "2 Locations",
+        "posted": "2026-11-17",
+        "salary": "$178K\u2013$356K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering Technical Leader \u2013 Secure Workload",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Baton-Rouge-Louisiana-US/Software-Engineering-Technical-Leader---Secure-Workload_2031768",
+        "work_type": "Hybrid",
+        "years": "12+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-16"
