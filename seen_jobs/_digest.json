@@ -2269,6 +2269,103 @@
         "years": "10+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695220-3543",
+        "key": "200695220-3543",
+        "location": "San Diego",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Machine Learning Engineer Platform - iCloud Mail Intelligence",
+        "url": "https://jobs.apple.com/en-us/details/200695220-3543/machine-learning-engineer-platform-icloud-mail-intelligence?team=SFTWR",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695296-0157",
+        "key": "200695296-0157",
+        "location": "Austin",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Site Reliability Engineer \u2014 Info Apps",
+        "url": "https://jobs.apple.com/en-us/details/200695296-0157/site-reliability-engineer-info-apps?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695296-0836",
+        "key": "200695296-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-17",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Site Reliability Engineer \u2014 Info Apps",
+        "url": "https://jobs.apple.com/en-us/details/200695296-0836/site-reliability-engineer-info-apps?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695296-3543",
+        "key": "200695296-3543",
+        "location": "San Diego",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Site Reliability Engineer \u2014 Info Apps",
+        "url": "https://jobs.apple.com/en-us/details/200695296-3543/site-reliability-engineer-info-apps?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR365282",
+        "key": "JR365282",
+        "location": "2 Locations",
+        "posted": "2026-11-17",
+        "salary": "$172K\u2013$286K",
+        "source_posted": "Posted Today",
+        "title": "Knowledge Architect (Taxonomy & Ontology)",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Knowledge-Architect--Taxonomy---Ontology-_JR365282",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210807979",
+        "key": "210807979",
+        "location": "Chicago, IL, United States; +2 more",
+        "posted": "2026-11-17",
+        "salary": "$84K\u2013$125K",
+        "source_posted": "2026-11-17",
+        "title": "Migration Data Analytics Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807979",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-17"
