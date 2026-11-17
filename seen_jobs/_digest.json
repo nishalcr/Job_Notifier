@@ -3199,6 +3199,24 @@
         "years": "5+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1119258647405056",
+        "key": "1119258647405056",
+        "location": "Ashburn, VA",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Austin, TX",
+        "title": "Network Engineer, Engineering R&D Environments",
+        "url": "https://www.metacareers.com/profile/job_details/1119258647405056",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-16"
