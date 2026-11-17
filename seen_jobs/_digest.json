@@ -1305,6 +1305,72 @@
         "years": "10+ yrs"
       },
       "slug": "hp"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google\u2019s Global Partnerships team powers extraordinary user experiences through partnerships that solve users\u2019 needs, advance goals, and further our mission. Our team provides meaningful solutions \u2014 from helping publishers and developers expand through monetization solutions, to",
+        "job_id": "124508669134938822",
+        "key": "124508669134938822",
+        "location": "Mountain View, CA, USA; +3 more",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "Global Partnerships",
+        "title": "Marketing Data Analyst, Global Partnerships",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/124508669134938822",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210807563",
+        "key": "210807563",
+        "location": "NY, United States",
+        "posted": "2026-11-17",
+        "salary": "$176K\u2013$260K",
+        "source_posted": "2026-11-17",
+        "title": "Sr Lead Software Engineer- Commodities- Python",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807563",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "302551",
+        "key": "302551",
+        "location": "FL, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Federal Enterprise Architect - Edge",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/302551",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289362",
+        "key": "JR0289362",
+        "location": "2 Locations",
+        "posted": "2026-11-17",
+        "salary": "$150K\u2013$285K",
+        "source_posted": "Posted Today",
+        "title": "Active Directory Architect",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Active-Directory-Architect_JR0289362",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-17"
