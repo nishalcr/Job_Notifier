@@ -3301,6 +3301,42 @@
         "years": "3+ yrs"
       },
       "slug": "intel"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "118842473400148678",
+        "key": "118842473400148678",
+        "location": "New York, NY, USA; +1 more",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure",
+        "title": "Staff Software Engineer, Infrastructure",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/118842473400148678",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "As an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scient",
+        "job_id": "141343429106770630",
+        "key": "141343429106770630",
+        "location": "Goleta, CA, USA",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "Error Correction Experiments / Quantum AI",
+        "title": "Research Scientist, Error Correction Experiments, Quantum AI",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/141343429106770630",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-16"
