@@ -3134,6 +3134,22 @@
         "years": "6+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0137289",
+        "key": "R0137289",
+        "location": "2 Locations",
+        "posted": "2026-11-17",
+        "salary": "$130K\u2013$213K",
+        "source_posted": "Posted Today",
+        "title": "Sr Software Engineer, Venmo Platform",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer--Venmo-Platform_R0137289",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "paypal"
     }
   ],
   "last_sent": "2026-11-16"
