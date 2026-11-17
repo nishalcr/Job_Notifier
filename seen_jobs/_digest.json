@@ -2676,6 +2676,111 @@
         "years": "10+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607646",
+        "key": "10607646",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer, AWS Managed Prometheus",
+        "url": "https://www.amazon.jobs/en/jobs/10607646/software-development-engineer-aws-managed-prometheus",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "100597091549487814",
+        "key": "100597091549487814",
+        "location": "Kirkland, WA, USA",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "Security/Privacy / Google Cloud Security and Privacy",
+        "title": "Senior Software Engineer, Security/Privacy, Google Cloud Security and Privacy",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/100597091549487814",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's leadership team hand-picks thorny business challenges, and members of BizOps work in small teams to find solutions. As part of this team you fully immerse yourself in data collection, draw insight from analysis, and then zoom out to develop compelling, synthesized recomm",
+        "job_id": "112627947780612806",
+        "key": "112627947780612806",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "gUP Analytics",
+        "title": "Business Data Scientist, gUP Analytics",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/112627947780612806",
+        "work_type": "Remote",
+        "years": "3+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "83493088667804358",
+        "key": "83493088667804358",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "Embedded Systems/Firmware / Google Cloud Platforms",
+        "title": "Senior Software Engineer, Embedded Systems/Firmware, Google Cloud Platforms",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/83493088667804358",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "121215133593543366",
+        "key": "121215133593543366",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML GenAI / Google Workspace",
+        "title": "Software Engineer III, AI/ML GenAI, Google Workspace",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/121215133593543366",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066214",
+        "key": "1970393557055912",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-17",
+        "salary": "$102K\u2013$261K",
+        "source_posted": "2026-11-17",
+        "team": "Software Engineering",
+        "title": "Software Engineer II & Senior Software Engineer - AI Training Systems (CoreAI)",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557055912",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-17"
