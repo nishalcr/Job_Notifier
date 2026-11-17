@@ -2922,6 +2922,40 @@
         "years": "8\u201310 yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695285-3956",
+        "key": "200695285-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Senior Software Engineer, Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200695285-3956/senior-software-engineer-vision-products-software?team=SFTWR",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200693792-0836",
+        "key": "200693792-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Xcode Source Editor Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200693792-0836/xcode-source-editor-engineer?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-16"
