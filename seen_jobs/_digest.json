@@ -1224,6 +1224,54 @@
         "years": ""
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016027",
+        "key": "26016027",
+        "location": "Sunrise, FL, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Quality Engineer II",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016027",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "amex"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016028",
+        "key": "26016028",
+        "location": "Sunrise, FL, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Quality Engineer II",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016028",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "amex"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8379544",
+        "key": "8379544",
+        "location": "US",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Technical Operations Engineer, Revenue",
+        "url": "https://stripe.com/jobs/search?gh_jid=8379544",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "stripe"
     }
   ],
   "last_sent": "2026-11-17"
