@@ -989,6 +989,82 @@
         "years": "14+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200672384-0836",
+        "key": "200672384-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-17",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Staff Software Engineer, Retail & Marcom Engineering",
+        "url": "https://jobs.apple.com/en-us/details/200672384-0836/staff-software-engineer-retail-marcom-engineering?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200672384-3956",
+        "key": "200672384-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-17",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Staff Software Engineer, Retail & Marcom Engineering",
+        "url": "https://jobs.apple.com/en-us/details/200672384-3956/staff-software-engineer-retail-marcom-engineering?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210805861",
+        "key": "210805861",
+        "location": "Austin, TX, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Software Engineer II - Java Fullstack / AWS",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805861",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809775",
+        "key": "210809775",
+        "location": "Columbus, OH, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Principal Software Engineer - Java",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809775",
+        "work_type": "Onsite",
+        "years": "10+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810008",
+        "key": "210810008",
+        "location": "Seattle, WA, United States",
+        "posted": "2026-11-17",
+        "salary": "$204K\u2013$285K",
+        "source_posted": "2026-11-17",
+        "title": "Principal Software Engineer-VPC",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810008",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-17"
