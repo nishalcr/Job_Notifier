@@ -3068,6 +3068,38 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350323",
+        "key": "350323",
+        "location": "United States",
+        "posted": "2026-11-17",
+        "salary": "$74K\u2013$148K",
+        "source_posted": "2026-11-12",
+        "title": "Marketing Technology Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350323",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349015",
+        "key": "349015",
+        "location": "Kansas City, MO, United States; +2 more",
+        "posted": "2026-11-17",
+        "salary": "$74K\u2013$148K",
+        "source_posted": "2026-10-27",
+        "title": "Application Software Engineer 2",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349015",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-16"
