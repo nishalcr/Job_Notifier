@@ -116,6 +116,22 @@
         "years": "12+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005780",
+        "key": "R1005780",
+        "location": "3 Locations",
+        "posted": "2026-11-17",
+        "salary": "$315K\u2013$392K",
+        "source_posted": "Posted Today",
+        "title": "Senior Staff Data Engineer",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Staff-Data-Engineer_R1005780-1",
+        "work_type": "Hybrid",
+        "years": "9+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-17"
