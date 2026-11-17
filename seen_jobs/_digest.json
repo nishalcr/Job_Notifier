@@ -924,6 +924,39 @@
         "years": ""
       },
       "slug": "amex"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10593590",
+        "key": "10593590",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 2, 2026",
+        "title": "Software Development Engineer II, Frontier AI - Data Tranformation",
+        "url": "https://www.amazon.jobs/en/jobs/10593590/software-development-engineer-ii-frontier-ai-data-tranformation",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066566",
+        "key": "1970393557070264",
+        "location": "Redmond, Washington; +2 more",
+        "posted": "2026-11-17",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-17",
+        "team": "Reliability Engineering",
+        "title": "Senior Quality Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070264",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-17"
