@@ -1082,6 +1082,116 @@
         "years": "6+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695466-3543",
+        "key": "200695466-3543",
+        "location": "San Diego",
+        "posted": "2026-11-17",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Quality Engineer - Health Software",
+        "url": "https://jobs.apple.com/en-us/details/200695466-3543/quality-engineer-health-software?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695466-3956",
+        "key": "200695466-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-17",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Quality Engineer - Health Software",
+        "url": "https://jobs.apple.com/en-us/details/200695466-3956/quality-engineer-health-software?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10591685",
+        "key": "10591685",
+        "location": "New York, New York",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Sr Applied Scientist, FAIM (Full Funnel Agentic Intelligence and Models)",
+        "url": "https://www.amazon.jobs/en/jobs/10591685/sr-applied-scientist-faim-full-funnel-agentic-intelligence-and-models",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR367916",
+        "key": "JR367916",
+        "location": "3 Locations",
+        "posted": "2026-11-17",
+        "salary": "$167K\u2013$268K",
+        "source_posted": "Posted Today",
+        "title": "Senior Performance Engineer",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Senior-Performance-Engineer_JR367916",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368561",
+        "key": "JR368561",
+        "location": "4 Locations",
+        "posted": "2026-11-17",
+        "salary": "$197K\u2013$345K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering, AI Systems PMTS",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineering--AI-Systems-PMTS_JR368561",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066242",
+        "key": "1970393557055973",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-17",
+        "salary": "$102K\u2013$261K",
+        "source_posted": "2026-11-17",
+        "team": "Software Engineering",
+        "title": "Software Engineer II & Senior Software Engineer - AI Inference and Serving (CoreAI)",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557055973",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067704",
+        "key": "1970393557074928",
+        "location": "Mountain View, California; +2 more",
+        "posted": "2026-11-17",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-17",
+        "team": "Hardware Engineering",
+        "title": "Principal AI Performance Architect",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557074928",
+        "work_type": "Onsite",
+        "years": "7+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-17"
