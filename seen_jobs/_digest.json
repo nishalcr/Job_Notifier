@@ -2890,6 +2890,38 @@
         "years": "12+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606772",
+        "key": "10606772",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Security Engineer II, Security Incident Response Team (SIRT)",
+        "url": "https://www.amazon.jobs/en/jobs/10606772/security-engineer-ii-security-incident-response-team-sirt",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "337145",
+        "key": "337145",
+        "location": "Houston, TX, United States; +2 more",
+        "posted": "2026-11-17",
+        "salary": "$102K\u2013$210K",
+        "source_posted": "2026-11-17",
+        "title": "Lead Principal Supply Chain Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337145",
+        "work_type": "",
+        "years": "8\u201310 yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-16"
