@@ -3166,6 +3166,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289161",
+        "key": "JR0289161",
+        "location": "US, California, Santa Clara",
+        "posted": "2026-11-17",
+        "salary": "$150K\u2013$211K",
+        "source_posted": "Posted Today",
+        "title": "GPU Compiler Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/GPU-Compiler-Engineer_JR0289161",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-16"
