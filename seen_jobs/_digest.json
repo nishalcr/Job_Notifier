@@ -132,6 +132,38 @@
         "years": "9+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "HP",
+      "job": {
+        "job_id": "3171247",
+        "key": "3171247",
+        "location": "San Francisco, California, United States of America",
+        "posted": "2026-11-17",
+        "salary": "$150K\u2013$240K",
+        "source_posted": "Posted Today",
+        "title": "Senior Privacy Engineer",
+        "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Senior-Privacy-Engineer_3171247-2",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "hp"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210784072",
+        "key": "210784072",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-17",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-17",
+        "title": "Lead Software Engineer - Data Platform & Entitlements",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784072",
+        "work_type": "Onsite",
+        "years": "10+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-17"
