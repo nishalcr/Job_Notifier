@@ -1272,6 +1272,39 @@
         "years": ""
       },
       "slug": "stripe"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695462-3337",
+        "key": "200695462-3337",
+        "location": "Seattle",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Software Development Engineer, Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200695462-3337/software-development-engineer-vision-products-software?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "HP",
+      "job": {
+        "job_id": "3170985",
+        "key": "3170985",
+        "location": "2 Locations",
+        "posted": "2026-11-17",
+        "salary": "$147K\u2013$231K",
+        "source_posted": "Posted Today",
+        "title": "AI Architect - Enterprise Products and Platform",
+        "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/AI-Architect---Enterprise-Products-and-Platform_3170985-1",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "hp"
     }
   ],
   "last_sent": "2026-11-17"
