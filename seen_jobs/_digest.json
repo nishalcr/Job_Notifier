@@ -438,6 +438,38 @@
         "years": ""
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606657",
+        "key": "10606657",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Senior Software Development Engineer, Route 53 Propagation",
+        "url": "https://www.amazon.jobs/en/jobs/10606657/senior-software-development-engineer-route-53-propagation",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Zscaler",
+      "job": {
+        "job_id": "5219189007",
+        "key": "5219189007",
+        "location": "Santa Clara, California, USA",
+        "posted": "2026-11-17",
+        "salary": "$152K\u2013$190K",
+        "source_posted": "2026-11-17",
+        "title": "Staff Software Development Engineer- AI Security (Go/Rust/Python)",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5219189007",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "zscaler"
     }
   ],
   "last_sent": "2026-11-17"
