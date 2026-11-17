@@ -2088,6 +2088,38 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2027974",
+        "key": "2027974",
+        "location": "Durham, North Carolina, US",
+        "posted": "2026-11-17",
+        "salary": "$129K\u2013$256K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Durham-North-Carolina-US/Software-Engineer_2027974-1",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289160",
+        "key": "JR0289160",
+        "location": "US, California, Folsom",
+        "posted": "2026-11-17",
+        "salary": "$150K\u2013$211K",
+        "source_posted": "Posted Today",
+        "title": "GPU Compiler Software Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Compiler-Software-Engineer_JR0289160",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-17"
