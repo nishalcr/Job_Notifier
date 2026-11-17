@@ -3100,6 +3100,24 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Role Uber is launching AV Labs to accelerate the autonomous technology ecosystem. We're building out a high velocity team of multi disciplinary experts to turn real world operations into high quality data for our autonomous partners. This team is focused on the hardest",
+        "job_id": "304864",
+        "key": "304864",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "team": "Engineer",
+        "title": "Sr. Staff Machine Learning Engineer - AV Labs",
+        "url": "https://jobs.uber.com/en/jobs/304864/",
+        "work_type": "Onsite",
+        "years": "8+ yrs"
+      },
+      "slug": "uber"
     }
   ],
   "last_sent": "2026-11-16"
