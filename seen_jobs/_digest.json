@@ -3391,6 +3391,22 @@
         "years": "4+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R0976406",
+        "key": "R0976406",
+        "location": "IRL - Galway",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IRL---Galway/Software-Engineer_R0976406",
+        "work_type": "Hybrid",
+        "years": "1+ yrs"
+      },
+      "slug": "cvs_wd"
     }
   ],
   "last_sent": "2026-11-16"
