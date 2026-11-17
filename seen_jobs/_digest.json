@@ -3004,6 +3004,54 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604857",
+        "key": "10604857",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Research Scientist, Special Projects",
+        "url": "https://www.amazon.jobs/en/jobs/10604857/research-scientist-special-projects",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604851",
+        "key": "10604851",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Research Scientist, Special Projects",
+        "url": "https://www.amazon.jobs/en/jobs/10604851/research-scientist-special-projects",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "342751",
+        "key": "342751",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-17",
+        "salary": "$92K\u2013$210K",
+        "source_posted": "2026-11-17",
+        "title": "Senior Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342751",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-16"
