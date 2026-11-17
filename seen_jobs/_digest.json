@@ -67,6 +67,23 @@
         "years": "15+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Netflix",
+      "job": {
+        "job_id": "JR43668",
+        "key": "790319538405",
+        "location": "Los Gatos,California,United States of America",
+        "posted": "2026-11-17",
+        "salary": "$388K\u2013$558K",
+        "source_posted": "",
+        "team": "Engineering",
+        "title": "Software Engineering 5 - Ads Finance",
+        "url": "https://explore.jobs.netflix.net/careers/job/790319538405",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "netflix"
     }
   ],
   "last_sent": "2026-11-17"
