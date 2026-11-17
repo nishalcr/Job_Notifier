@@ -2625,6 +2625,57 @@
         "years": "3+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "Staff Machine Learning Engineer, Marketplace Planning & Intelligence About the Role How should Uber price trips and invest in promotions and incentives, in hundreds of cities every week, to hit its growth and revenue goals while keeping the marketplace healthy? That is the questi",
+        "job_id": "304221",
+        "key": "304221",
+        "location": "Sunnyvale, California; +1 more",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "team": "Engineer",
+        "title": "Staff Software Engineer - Engineer",
+        "url": "https://jobs.uber.com/en/jobs/304221/",
+        "work_type": "Onsite",
+        "years": "8+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067764",
+        "key": "1970393557075051",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-17",
+        "salary": "$143K\u2013$331K",
+        "source_posted": "2026-11-17",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer - AI Training Systems (CoreAI)",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075051",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024577",
+        "key": "JR-024577",
+        "location": "Santa Clara, United States of America",
+        "posted": "2026-11-17",
+        "salary": "$190K\u2013$308K",
+        "source_posted": "Posted Today",
+        "title": "Sr Principal Machine Learning Engineer (Advanced Threat Protection)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Santa-Clara-United-States-of-America/Sr-Principal-Machine-Learning-Engineer--Advanced-Threat-Protection-_JR-024577",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-17"
