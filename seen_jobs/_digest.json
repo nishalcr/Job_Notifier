@@ -3285,6 +3285,22 @@
         "years": "8+ yrs"
       },
       "slug": "hp"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289213",
+        "key": "JR0289213",
+        "location": "US, Oregon, Hillsboro",
+        "posted": "2026-11-17",
+        "salary": "$129K\u2013$182K",
+        "source_posted": "Posted Today",
+        "title": "Cloud Software Development Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Cloud-Software-Development-Engineer_JR0289213",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-16"
