@@ -1,5 +1,11 @@
 {
-  "issues": [],
+  "issues": [
+    {
+      "at": "Nov 17 04:02 AM",
+      "company": "Spotify",
+      "message": "Broken for 3 consecutive runs. Last error: Timeout on page 1: APIRequestContext.get: Timeout 30000ms exceeded.\nCall log:\n  - \u2192 GET https://api.lever.co/v0/postings/spotify?mode=json\n    - user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36\n    - accept: */*\n    - accept-encoding: gzip,deflate,br\n"
+    }
+  ],
   "jobs": [
     {
       "company": "Dell",
