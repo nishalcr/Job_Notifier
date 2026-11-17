@@ -3443,6 +3443,24 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "108376222215348934",
+        "key": "108376222215348934",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "",
+        "team": "Kernel Security",
+        "title": "Staff Software Engineer, Kernel Security",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/108376222215348934",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-16"
