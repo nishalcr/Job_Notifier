@@ -3668,6 +3668,22 @@
         "years": "8+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210797597",
+        "key": "210797597",
+        "location": "Tampa, FL, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Software Engineer III - Java/Kafka/Cloud",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797597",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-16"
