@@ -3540,6 +3540,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809819",
+        "key": "210809819",
+        "location": "Wilmington, DE, United States",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "title": "Lead Software Engineer Java AWS",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809819",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-16"
