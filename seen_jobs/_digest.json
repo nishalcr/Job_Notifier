@@ -3034,6 +3034,20 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695556-0836",
+        "key": "200695556-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-17",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Senior Machine Learning Engineer, Conversational AI - Services Special Projects",
+        "url": "https://jobs.apple.com/en-us/details/200695556-0836/senior-machine-learning-engineer-conversational-ai-services-special-projects?team=SFTWR"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-17"
