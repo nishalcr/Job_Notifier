@@ -534,6 +534,54 @@
         "years": "6+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607165",
+        "key": "10607165",
+        "location": "New York, New York",
+        "posted": "2026-11-17",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer, Measurement, AdTech, and Data Science (MADS) - Performance Measurement",
+        "url": "https://www.amazon.jobs/en/jobs/10607165/software-development-engineer-measurement-adtech-and-data-science-mads-performance-measurement",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73951",
+        "key": "73951",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-17",
+        "salary": "$87K\u2013$166K",
+        "source_posted": "2026-11-17",
+        "title": "Resident Engineer, Supplier Quality",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73951",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350034",
+        "key": "350034",
+        "location": "United States; +2 more",
+        "posted": "2026-11-17",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-09",
+        "title": "Senior Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350034",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-17"
