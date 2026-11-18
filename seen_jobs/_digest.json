@@ -3403,6 +3403,23 @@
         "years": "8+ yrs"
       },
       "slug": "salesforce"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200065323",
+        "key": "1970393557053360",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-18",
+        "salary": "$102K\u2013$261K",
+        "source_posted": "2026-11-18",
+        "team": "Software Engineering",
+        "title": "Member of Technical Staff, Software Engineer - ESAI (AI / Agentic Developer Productivity)",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557053360",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-17"
