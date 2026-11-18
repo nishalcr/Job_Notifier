@@ -228,6 +228,91 @@
         "years": "8+ yrs"
       },
       "slug": "cvs_wd"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695064-3956",
+        "key": "200695064-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Software Engineer (HANA), AI & Data Platforms (AiDP)",
+        "url": "https://jobs.apple.com/en-us/details/200695064-3956/software-engineer-hana-ai-data-platforms-aidp?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607584",
+        "key": "10607584",
+        "location": "Minneapolis, Minnesota",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer, AWS",
+        "url": "https://www.amazon.jobs/en/jobs/10607584/software-development-engineer-aws",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "gTech Ads is responsible for all support and media and technical services for customers big and small across our entire Ad products stack. We help our customers get the most out of our Ad and Publisher products and guide them when they need help. We provide a range of services fr",
+        "job_id": "73329546778026694",
+        "key": "73329546778026694",
+        "location": "New York, NY, USA; +3 more",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "gTech Ads LCS",
+        "title": "Product Deployment Engineer, gTech Ads LCS",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/73329546778026694",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "111735487936242374",
+        "key": "111735487936242374",
+        "location": "San Jose, CA, USA; +1 more",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Connectivity / Android microXR",
+        "title": "Software Engineer III, Connectivity, Android microXR",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/111735487936242374",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "DoorDash",
+      "job": {
+        "job_id": "8399363",
+        "key": "8399363",
+        "location": "San Francisco, CA; +2 more",
+        "posted": "2026-11-18",
+        "salary": "$137K\u2013$299K",
+        "source_posted": "2026-11-18",
+        "title": "Senior Machine Learning Scientist, Applied Causal Inference",
+        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8399363",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "doordash"
     }
   ],
   "last_sent": "2026-11-18"
