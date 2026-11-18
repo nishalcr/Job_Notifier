@@ -409,6 +409,75 @@
         "years": "3\u20137 yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200690201-3956",
+        "key": "200690201-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Sr. Software Engineer (Build & Release), AI & Data Platforms (AiDP)",
+        "url": "https://jobs.apple.com/en-us/details/200690201-3956/sr-software-engineer-build-release-ai-data-platforms-aidp?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1104122",
+        "key": "R1104122",
+        "location": "TX - Work from home",
+        "posted": "2026-11-18",
+        "salary": "$93K\u2013$185K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Development Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Software-Development-Engineer_R1104122",
+        "work_type": "Remote",
+        "years": "5\u20137 yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "109355045262107334",
+        "key": "109355045262107334",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Platforms Infrastructure Engineering",
+        "title": "Staff Software Engineer, Infrastructure, Platforms Infrastructure Engineering",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/109355045262107334",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "120123662144545478",
+        "key": "120123662144545478",
+        "location": "Sunnyvale, CA, USA; +1 more",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Compute",
+        "title": "Staff Software Engineer, Infrastructure, Google Cloud Compute",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/120123662144545478",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-18"
