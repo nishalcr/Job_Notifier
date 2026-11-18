@@ -3845,6 +3845,22 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Adobe",
+      "job": {
+        "job_id": "R173448",
+        "key": "R173448",
+        "location": "2 Locations",
+        "posted": "2026-11-18",
+        "salary": "$174K\u2013$331K",
+        "source_posted": "Posted Today",
+        "title": "System Architect, 3P Integrations, Agentic Product",
+        "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/System-Architect--3P-Integrations--Agentic-Product_R173448",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "adobe"
     }
   ],
   "last_sent": "2026-11-17"
