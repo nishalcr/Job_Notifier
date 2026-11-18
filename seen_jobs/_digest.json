@@ -2330,6 +2330,55 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695608-0836",
+        "key": "200695608-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Senior Machine Learning Engineer, Multimodal Intelligence for Apple Pencil",
+        "url": "https://jobs.apple.com/en-us/details/200695608-0836/senior-machine-learning-engineer-multimodal-intelligence-for-apple-pencil?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606508",
+        "key": "10606508",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Sr. Software Development Engineer, EC2 Blackfoot Peering Team",
+        "url": "https://www.amazon.jobs/en/jobs/10606508/sr-software-development-engineer-ec2-blackfoot-peering-team",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73848",
+        "key": "73848",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-18",
+        "salary": "$85K\u2013$150K",
+        "source_posted": "2026-11-18",
+        "title": "Connected Vehicle Quality Data Engineer \u2013 Early Warning & Detection",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73848",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-18"
