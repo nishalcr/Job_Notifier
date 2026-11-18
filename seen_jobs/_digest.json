@@ -3861,6 +3861,24 @@
         "years": ""
       },
       "slug": "adobe"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "78701554432910022",
+        "key": "78701554432910022",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Cloud Service Mesh",
+        "title": "Senior Software Engineer, Cloud Service Mesh",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/78701554432910022",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-17"
