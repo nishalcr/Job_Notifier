@@ -313,6 +313,54 @@
         "years": "5+ yrs"
       },
       "slug": "doordash"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10596898",
+        "key": "10596898",
+        "location": "San Francisco, California",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Applied Scientist, Superconducting Qubit Devices and Scaling Architectures, Amazon Center for Quantum Computing, Physical Design and Simulation-Enabling Technologies Team",
+        "url": "https://www.amazon.jobs/en/jobs/10596898/applied-scientist-superconducting-qubit-devices-and-scaling-architectures-amazon-center-for-quantum-computing-physical-design-and-simulation-enabling-technologies-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74250",
+        "key": "74250",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-18",
+        "salary": "$87K\u2013$145K",
+        "source_posted": "2026-11-18",
+        "title": "WCCA Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74250",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1000374",
+        "key": "R1000374",
+        "location": "3 Locations",
+        "posted": "2026-11-18",
+        "salary": "$101K\u2013$127K",
+        "source_posted": "Posted Today",
+        "title": "Senior Data Analyst - Enterprise Services",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Data-Analyst---Enterprise-Services_R1000374-2",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-18"
