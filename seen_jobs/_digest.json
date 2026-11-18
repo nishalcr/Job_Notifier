@@ -3191,6 +3191,38 @@
         "years": "10+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607522",
+        "key": "10607522",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "SDE-II, Air Safety  & Gateway Optimization",
+        "url": "https://www.amazon.jobs/en/jobs/10607522/sde-ii-air-safety-gateway-optimization",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603759",
+        "key": "10603759",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer II, EC2 Core Platform",
+        "url": "https://www.amazon.jobs/en/jobs/10603759/software-development-engineer-ii-ec2-core-platform",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-17"
