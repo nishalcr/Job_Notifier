@@ -2064,6 +2064,54 @@
         "years": "3+ yrs"
       },
       "slug": "paypal"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2031833",
+        "key": "2031833",
+        "location": "Seattle, Washington, US",
+        "posted": "2026-11-18",
+        "salary": "$241K\u2013$417K",
+        "source_posted": "Posted Today",
+        "title": "Principal Software Engineer - AI/Security Platform",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Seattle-Washington-US/Principal-Software-Engineer---AI-Security-Platform_2031833",
+        "work_type": "Hybrid",
+        "years": "15+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Paramount",
+      "job": {
+        "job_id": "1452027600",
+        "key": "1452027600",
+        "location": "Los Angeles, CA",
+        "posted": "2026-11-18",
+        "salary": "$139K\u2013$209K",
+        "source_posted": "Nov 18, 2026",
+        "title": "Lead Data Engineer",
+        "url": "https://careers.paramount.com/job/Los-Angeles-Lead-Data-Engineer-CA-90038/1452027600/",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "paramount"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350812",
+        "key": "350812",
+        "location": "Houston, TX, United States; +2 more",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "title": "Principal Application Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350812",
+        "work_type": "Onsite",
+        "years": "11+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-18"
