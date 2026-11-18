@@ -705,6 +705,137 @@
         "years": ""
       },
       "slug": "snowflake"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695686-3956",
+        "key": "200695686-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Site Reliability Engineer \u2014 Corporate Email Services",
+        "url": "https://jobs.apple.com/en-us/details/200695686-3956/site-reliability-engineer-corporate-email-services?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608155",
+        "key": "10608155",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Amazon Dedicated Cloud Engineer, Region Reliability Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10608155/amazon-dedicated-cloud-engineer-region-reliability-engineering",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608278",
+        "key": "10608278",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer",
+        "url": "https://www.amazon.jobs/en/jobs/10608278/software-development-engineer",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608273",
+        "key": "10608273",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Senior Software Development Engineer, Sr. SDE, Amazon Private Brands - Discovery",
+        "url": "https://www.amazon.jobs/en/jobs/10608273/senior-software-development-engineer-sr-sde-amazon-private-brands-discovery",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1434154382200527",
+        "key": "1434154382200527",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI Research / Research / Artificial Intelligence",
+        "title": "Research Scientist, PAR Safety",
+        "url": "https://www.metacareers.com/profile/job_details/1434154382200527",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2031695",
+        "key": "2031695",
+        "location": "44 Locations",
+        "posted": "2026-11-18",
+        "salary": "$152K\u2013$308K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Boulder-Colorado-US/Software-Engineering-Technical-Leader_2031695",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "300910",
+        "key": "300910",
+        "location": "Round Rock, TX, United States",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "title": "Technical Staff, Storage Architect",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/300910",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006057",
+        "key": "R1006057",
+        "location": "4 Locations",
+        "posted": "2026-11-18",
+        "salary": "$119K\u2013$164K",
+        "source_posted": "Posted Today",
+        "title": "Integration Engineer 3",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Integration-Engineer-3_R1006057-1",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-18"
