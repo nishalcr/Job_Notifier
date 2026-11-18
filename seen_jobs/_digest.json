@@ -2498,6 +2498,151 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067557",
+        "key": "1970393557074518",
+        "location": "Redmond, Washington; +2 more",
+        "posted": "2026-11-18",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-18",
+        "team": "Hardware Engineering",
+        "title": "Senior System Engineer - Networking",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557074518",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350905",
+        "key": "350905",
+        "location": "United States",
+        "posted": "2026-11-18",
+        "salary": "$88K\u2013$210K",
+        "source_posted": "2026-11-18",
+        "title": "Senior Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350905",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350911",
+        "key": "350911",
+        "location": "Pleasanton, CA, United States; +1 more",
+        "posted": "2026-11-18",
+        "salary": "$164K\u2013$355K",
+        "source_posted": "2026-11-18",
+        "title": "Platform Software Engineering Architect",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350911",
+        "work_type": "Hybrid",
+        "years": "8\u201310 yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350419",
+        "key": "350419",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-18",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-12",
+        "title": "Senior Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350419",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350089",
+        "key": "350089",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-18",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-10",
+        "title": "Senior Core Infrastructure Engineer - Customer Cloud Connectivity",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350089",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350238",
+        "key": "350238",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-18",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-10",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350238",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350240",
+        "key": "350240",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-18",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-10",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350240",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350239",
+        "key": "350239",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-18",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-10",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350239",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "348879",
+        "key": "348879",
+        "location": "United States",
+        "posted": "2026-11-18",
+        "salary": "$102K\u2013$210K",
+        "source_posted": "2026-10-27",
+        "title": "Principal Network Developer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348879",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-18"
