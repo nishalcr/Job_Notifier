@@ -1611,6 +1611,103 @@
         "years": "8+ yrs"
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603958",
+        "key": "10603958",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Sr Forward Deployed Engineer, Forward Deployment Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10603958/sr-forward-deployed-engineer-forward-deployment-engineering",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1077063",
+        "key": "R1077063",
+        "location": "CT - Hartford",
+        "posted": "2026-11-18",
+        "salary": "$79K\u2013$159K",
+        "source_posted": "Posted Today",
+        "title": "Software Development Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Software-Development-Engineer_R1077063",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210784266",
+        "key": "210784266",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "title": "Software Engineer III - Databricks/Snowflake/AWS",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784266",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067736",
+        "key": "1970393557075013",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-18",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-18",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075013",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024835",
+        "key": "JR-024835",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-18",
+        "salary": "$184K\u2013$297K",
+        "source_posted": "Posted Today",
+        "title": "Sr Principal Engineer Software  (Large-scale Systems)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Sr-Principal-Engineer-Software---Large-scale-Systems-_JR-024835",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "paloalto"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350003",
+        "key": "350003",
+        "location": "Reston, VA, United States; +1 more",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-09",
+        "title": "Oracle Senior Site Reliability Engineer - Sovereign Cloud",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350003",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-18"
