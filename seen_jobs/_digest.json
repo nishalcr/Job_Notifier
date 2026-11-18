@@ -361,6 +361,54 @@
         "years": "2+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2028421",
+        "key": "2028421",
+        "location": "52 Locations",
+        "posted": "2026-11-18",
+        "salary": "$241K\u2013$417K",
+        "source_posted": "Posted Today",
+        "title": "Principal Software Engineer, Applied AI \u2013 Splunk Observability Cloud",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Seattle-Washington-US/Principal-Software-Engineer--Applied-AI---Splunk-Observability-Cloud_2028421",
+        "work_type": "Hybrid",
+        "years": "12+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-025027",
+        "key": "JR-025027",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-18",
+        "salary": "$112K\u2013$180K",
+        "source_posted": "Posted Today",
+        "title": "Early in Career - AI Test Engineer",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Early-in-Career---AI-Test-Engineer_JR-025027",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "paloalto"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350842",
+        "key": "350842",
+        "location": "United States",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "title": "Senior Application Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350842",
+        "work_type": "",
+        "years": "3\u20137 yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-18"
