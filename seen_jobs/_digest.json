@@ -1416,6 +1416,56 @@
         "years": "3+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607729",
+        "key": "10607729",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Senior Software Development Engineer, Amazon Leo - Deployment & Release Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10607729/senior-software-development-engineer-amazon-leo-deployment-release-engineering",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608631",
+        "key": "10608631",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer II, Amazon Fuse",
+        "url": "https://www.amazon.jobs/en/jobs/10608631/software-development-engineer-ii-amazon-fuse",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1344195470393456",
+        "key": "1344195470393456",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Engineering",
+        "title": "Software Engineer, Machine Learning - Search Algorithm, Standalone Apps Team",
+        "url": "https://www.metacareers.com/profile/job_details/1344195470393456",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-18"
