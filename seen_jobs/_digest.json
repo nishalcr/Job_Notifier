@@ -3933,6 +3933,24 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "133208468990370502",
+        "key": "133208468990370502",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data Infrastructure AI Agent",
+        "title": "Senior Staff Software Engineer, Data Infrastructure AI Agent",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/133208468990370502",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-17"
