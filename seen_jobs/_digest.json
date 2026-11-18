@@ -3599,6 +3599,39 @@
         "years": "8+ yrs"
       },
       "slug": "uber"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200685118-0240",
+        "key": "200685118-0240",
+        "location": "Austin Metro Area",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Senior Software Engineer, Capacity Planning",
+        "url": "https://jobs.apple.com/en-us/details/200685118-0240/senior-software-engineer-capacity-planning?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2032332",
+        "key": "2032332",
+        "location": "2 Locations",
+        "posted": "2026-11-18",
+        "salary": "$112K\u2013$203K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer II (Full Time) \u2013 United States CX Engineering",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-II--Full-Time----United-States-CX-Engineering_2032332",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-17"
