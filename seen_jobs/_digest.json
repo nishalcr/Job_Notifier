@@ -1466,6 +1466,151 @@
         "years": "12+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603957",
+        "key": "10603957",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Forward Deployed Engineer, AWS Forward Deployed Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10603957/forward-deployed-engineer-aws-forward-deployed-engineering",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2026945",
+        "key": "2026945",
+        "location": "San Jose, California, US",
+        "posted": "2026-11-18",
+        "salary": "$138K\u2013$256K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer - Silicon One SDK",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer---Silicon-One-SDK_2026945",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210775087",
+        "key": "210775087",
+        "location": "Wilmington, DE, United States",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "title": "AWS Lead Software Engineer -Java/Full Stack",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775087",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066220",
+        "key": "1970393557055918",
+        "location": "Multiple Locations",
+        "posted": "2026-11-18",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-18",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557055918",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350862",
+        "key": "350862",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-18",
+        "salary": "$100K\u2013$210K",
+        "source_posted": "2026-11-18",
+        "title": "Principal Application Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350862",
+        "work_type": "",
+        "years": "11+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350571",
+        "key": "350571",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-18",
+        "salary": "$102K\u2013$210K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Network Developer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350571",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350706",
+        "key": "350706",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-18",
+        "salary": "$91K\u2013$187K",
+        "source_posted": "2026-11-16",
+        "title": "Senior Network Developer - Network Region Build (NRB)",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350706",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103481541936",
+        "key": "103481541936",
+        "location": "Mountain View, California",
+        "posted": "2026-11-18",
+        "salary": "$202K\u2013$274K",
+        "source_posted": "",
+        "title": "Staff Software Engineer",
+        "url": "https://jobs.intuit.com/job/mountain-view/staff-software-engineer/27595/103481541936",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103481541904",
+        "key": "103481541904",
+        "location": "Mountain View, California",
+        "posted": "2026-11-18",
+        "salary": "$202K\u2013$274K",
+        "source_posted": "",
+        "title": "Staff Software Engineer - Mid Market Verticals",
+        "url": "https://jobs.intuit.com/job/mountain-view/staff-software-engineer-mid-market-verticals/27595/103481541904",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-18"
