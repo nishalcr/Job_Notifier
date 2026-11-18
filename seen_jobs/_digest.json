@@ -196,6 +196,38 @@
         "years": ""
       },
       "slug": "dell"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10599446",
+        "key": "10599446",
+        "location": "Wilmington, Massachusetts",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Sr. System Development Engineer",
+        "url": "https://www.amazon.jobs/en/jobs/10599446/sr-system-development-engineer",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1094447",
+        "key": "R1094447",
+        "location": "10 Locations",
+        "posted": "2026-11-18",
+        "salary": "$118K\u2013$284K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer - Conversational AI",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Work-from-home/Senior-Software-Engineer---Conversational-AI_R1094447",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "cvs_wd"
     }
   ],
   "last_sent": "2026-11-18"
