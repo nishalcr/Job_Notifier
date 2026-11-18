@@ -3320,6 +3320,57 @@
         "years": "8+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694166-0836",
+        "key": "200694166-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Swift Software Engineer, Productivity Apps",
+        "url": "https://jobs.apple.com/en-us/details/200694166-0836/swift-software-engineer-productivity-apps?team=SFTWR",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694166-2926",
+        "key": "200694166-2926",
+        "location": "Pittsburgh",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Swift Software Engineer, Productivity Apps",
+        "url": "https://jobs.apple.com/en-us/details/200694166-2926/swift-software-engineer-productivity-apps?team=SFTWR",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694166-3673",
+        "key": "200694166-3673",
+        "location": "Vancouver",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Swift Software Engineer, Productivity Apps",
+        "url": "https://jobs.apple.com/en-us/details/200694166-3673/swift-software-engineer-productivity-apps?team=SFTWR",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-17"
