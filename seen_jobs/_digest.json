@@ -901,6 +901,54 @@
         "years": "2+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10596537",
+        "key": "10596537",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Systems Development Engineer, Region Services Corporate Infrastructure (Vector) Team",
+        "url": "https://www.amazon.jobs/en/jobs/10596537/systems-development-engineer-region-services-corporate-infrastructure-vector-team",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808578",
+        "key": "210808578",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "title": "Software Engineer III",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808578",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103475659792",
+        "key": "103475659792",
+        "location": "Culver City; +more",
+        "posted": "2026-11-18",
+        "salary": "$102K\u2013$138K",
+        "source_posted": "",
+        "title": "Senior Staff Data Analyst",
+        "url": "https://jobs.intuit.com/job/culver-city/senior-staff-data-analyst/27595/103475659792",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-18"
