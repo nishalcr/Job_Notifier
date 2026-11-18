@@ -3777,6 +3777,22 @@
         "years": "5+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73986",
+        "key": "73986",
+        "location": "United States",
+        "posted": "2026-11-18",
+        "salary": "$100K\u2013$193K",
+        "source_posted": "2026-11-18",
+        "title": "Cyber Security Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73986",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-17"
