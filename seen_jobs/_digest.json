@@ -3143,6 +3143,22 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10591618",
+        "key": "10591618",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Senior Software Development Engineer, AWS EC2 Nitro Team",
+        "url": "https://www.amazon.jobs/en/jobs/10591618/senior-software-development-engineer-aws-ec2-nitro-team",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-17"
