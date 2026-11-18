@@ -3371,6 +3371,38 @@
         "years": "4+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368536",
+        "key": "JR368536",
+        "location": "2 Locations",
+        "posted": "2026-11-18",
+        "salary": "$197K\u2013$345K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering PMTS",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineering-PMTS_JR368536-1",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368519",
+        "key": "JR368519",
+        "location": "2 Locations",
+        "posted": "2026-11-18",
+        "salary": "$172K\u2013$286K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering LMTS",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Washington---Bellevue/Software-Engineering-LMTS_JR368519-1",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "salesforce"
     }
   ],
   "last_sent": "2026-11-17"
