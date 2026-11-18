@@ -868,6 +868,23 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067594",
+        "key": "1970393557074615",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-18",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-18",
+        "team": "Security Operations Engineering",
+        "title": "Senior Security Operations Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557074615",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-18"
