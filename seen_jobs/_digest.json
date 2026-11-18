@@ -1137,6 +1137,57 @@
         "years": "8+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695672-3956",
+        "key": "200695672-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Software Engineer (Observability Solutions) - Enterprise Technology Services",
+        "url": "https://jobs.apple.com/en-us/details/200695672-3956/software-engineer-observability-solutions-enterprise-technology-services?team=SFTWR",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607953",
+        "key": "10607953",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer, Amazon Customer Service",
+        "url": "https://www.amazon.jobs/en/jobs/10607953/software-development-engineer-amazon-customer-service",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Goldman Sachs",
+      "job": {
+        "description": "",
+        "job_id": "174505",
+        "key": "174505",
+        "location": "Salt Lake City, United States",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "The Core Engineering, Associate, Software Engineering, SLC",
+        "title": "The Core Engineering, Associate, Software Engineering, SLC",
+        "url": "https://higher.gs.com/roles/174505",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "goldman-sachs"
     }
   ],
   "last_sent": "2026-11-18"
