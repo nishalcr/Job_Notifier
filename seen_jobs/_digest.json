@@ -1236,6 +1236,105 @@
         "years": "5+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368712",
+        "key": "JR368712",
+        "location": "6 Locations",
+        "posted": "2026-11-18",
+        "salary": "$172K\u2013$286K",
+        "source_posted": "Posted Today",
+        "title": "M&A Security Integration Engineer - LMTS",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/M-A-Security-Integration-Engineer---LMTS_JR368712",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029815",
+        "key": "JR2029815",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Data Analytics Security Administrator",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Analytics-Security-Administrator_JR2029815",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030275",
+        "key": "JR2030275",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Automation and Tools Development Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Automation-and-Tools-Development-Engineer_JR2030275-1",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067263",
+        "key": "1970393557073195",
+        "location": "Redmond, Washington; +2 more",
+        "posted": "2026-11-18",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-18",
+        "team": "Applied Sciences",
+        "title": "Senior Applied Scientist",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073195",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066691",
+        "key": "1970393557070491",
+        "location": "Reston, Virginia; +1 more",
+        "posted": "2026-11-18",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-18",
+        "team": "Software Engineering",
+        "title": "Software Engineer - CTJ - POLY",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070491",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066779",
+        "key": "1970393557070658",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-18",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-18",
+        "team": "Firmware Engineering",
+        "title": "Senior Firmware Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070658",
+        "work_type": "Onsite",
+        "years": "1+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-18"
