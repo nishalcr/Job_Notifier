@@ -979,6 +979,36 @@
         "years": ""
       },
       "slug": "godaddy"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695575-0836",
+        "key": "200695575-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-18",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
+        "url": "https://jobs.apple.com/en-us/details/200695575-0836/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006109",
+        "key": "R1006109",
+        "location": "San Jose, CA",
+        "posted": "2026-11-18",
+        "salary": "$215K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "AI Engineer 4 (AI Platforms)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/AI-Engineer-4--AI-Platforms-_R1006109-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-18"
