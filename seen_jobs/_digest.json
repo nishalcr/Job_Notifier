@@ -1335,6 +1335,87 @@
         "years": "1+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608596",
+        "key": "10608596",
+        "location": "Cupertino, California",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "PD Engineer, Annapurna Labs",
+        "url": "https://www.amazon.jobs/en/jobs/10608596/pd-engineer-annapurna-labs",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10604852",
+        "key": "10604852",
+        "location": "Boston, Massachusetts",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Senior Forward Deployed Engineer, AWS Forward Deployed Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10604852/senior-forward-deployed-engineer-aws-forward-deployed-engineering",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Paramount",
+      "job": {
+        "job_id": "1451959100",
+        "key": "1451959100",
+        "location": "Los Angeles, CA",
+        "posted": "2026-11-18",
+        "salary": "$157K\u2013$235K",
+        "source_posted": "Nov 18, 2026",
+        "title": "Lead ML Engineer",
+        "url": "https://careers.paramount.com/job/Los-Angeles-Lead-ML-Engineer-CA-90038/1451959100/",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "paramount"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74625",
+        "key": "74625",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-18",
+        "salary": "$147K\u2013$179K",
+        "source_posted": "2026-11-18",
+        "title": "Lead Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74625",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067418",
+        "key": "1970393557073493",
+        "location": "Redmond, Washington; +2 more",
+        "posted": "2026-11-18",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-18",
+        "team": "Hardware Engineering",
+        "title": "Senior System Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073493",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-18"
