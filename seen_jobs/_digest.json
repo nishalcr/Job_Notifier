@@ -1922,6 +1922,67 @@
         "years": "11+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006141",
+        "key": "R1006141",
+        "location": "3 Locations",
+        "posted": "2026-11-18",
+        "salary": "$101K\u2013$138K",
+        "source_posted": "Posted Today",
+        "title": "Sr. Business Analyst- Business Cards and Payments",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Business-Analyst--Business-Cards-and-Payments_R1006141-1",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006117",
+        "key": "R1006117",
+        "location": "McLean, VA",
+        "posted": "2026-11-18",
+        "salary": "$197K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4 (Typescript, Vue, AWS)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Typescript--Vue--AWS-_R1006117-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Databricks",
+      "job": {
+        "job_id": "8950673002",
+        "key": "8950673002",
+        "location": "Mountain View, California",
+        "posted": "2026-11-18",
+        "source_posted": "2026-11-18",
+        "title": "Staff Software Engineer - Threat and Abuse Defense",
+        "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8950673002"
+      },
+      "slug": "databricks"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-025040",
+        "key": "JR-025040",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-18",
+        "salary": "$172K\u2013$278K",
+        "source_posted": "Posted Today",
+        "title": "Principal AI Researcher (Prisma AIRS)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-AI-Researcher--Prisma-AIRS-_JR-025040",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-18"
