@@ -3713,6 +3713,70 @@
         "years": "10+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030091",
+        "key": "JR2030091",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Compiler Engineer, Network Programmability",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer--Network-Programmability_JR2030091",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030158",
+        "key": "JR2030158",
+        "location": "2 Locations",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer, Collective Communication and Network Performance",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Collective-Communication-and-Network-Performance_JR2030158",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030090",
+        "key": "JR2030090",
+        "location": "6 Locations",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior AI Research Engineer, Agentic Systems Intelligence",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Research-Engineer--Agentic-Systems-Intelligence_JR2030090",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029296",
+        "key": "JR2029296",
+        "location": "3 Locations",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer, Developer Tools for Cloud",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Remote/Senior-Software-Engineer--Developer-Tools-for-Cloud_JR2029296",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-17"
