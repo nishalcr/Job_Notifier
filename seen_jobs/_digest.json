@@ -3159,6 +3159,22 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103445640608",
+        "key": "103445640608",
+        "location": "New York; +more",
+        "posted": "2026-11-18",
+        "salary": "$151K\u2013$222K",
+        "source_posted": "",
+        "title": "Money Sales Analytics & Performance",
+        "url": "https://jobs.intuit.com/job/new-york/money-sales-analytics-and-performance/27595/103445640608",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-17"
