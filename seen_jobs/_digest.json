@@ -3420,6 +3420,131 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695239-0365",
+        "key": "200695239-0365",
+        "location": "Boulder",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Software Engineer - Frameworks - Video Applications",
+        "url": "https://jobs.apple.com/en-us/details/200695239-0365/software-engineer-frameworks-video-applications?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695239-0670",
+        "key": "200695239-0670",
+        "location": "Culver City",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Software Engineer - Frameworks - Video Applications",
+        "url": "https://jobs.apple.com/en-us/details/200695239-0670/software-engineer-frameworks-video-applications?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695239-0836",
+        "key": "200695239-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Software Engineer - Frameworks - Video Applications",
+        "url": "https://jobs.apple.com/en-us/details/200695239-0836/software-engineer-frameworks-video-applications?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695239-3543",
+        "key": "200695239-3543",
+        "location": "San Diego",
+        "posted": "2026-11-18",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Software Engineer - Frameworks - Video Applications",
+        "url": "https://jobs.apple.com/en-us/details/200695239-3543/software-engineer-frameworks-video-applications?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695239-3337",
+        "key": "200695239-3337",
+        "location": "Seattle",
+        "posted": "2026-11-18",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Software Engineer - Frameworks - Video Applications",
+        "url": "https://jobs.apple.com/en-us/details/200695239-3337/software-engineer-frameworks-video-applications?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695239-3673",
+        "key": "200695239-3673",
+        "location": "Vancouver",
+        "posted": "2026-11-18",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Software Engineer - Frameworks - Video Applications",
+        "url": "https://jobs.apple.com/en-us/details/200695239-3673/software-engineer-frameworks-video-applications?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350037",
+        "key": "350037",
+        "location": "Austin, TX, United States; +1 more",
+        "posted": "2026-11-18",
+        "salary": "$146K\u2013$306K",
+        "source_posted": "2026-11-09",
+        "title": "Lead Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350037",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350039",
+        "key": "350039",
+        "location": "Austin, TX, United States; +1 more",
+        "posted": "2026-11-18",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-09",
+        "title": "Senior Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350039",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-17"
