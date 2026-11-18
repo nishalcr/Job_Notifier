@@ -4095,6 +4095,22 @@
         "years": "7+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74584",
+        "key": "74584",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-18",
+        "salary": "$132K\u2013$187K",
+        "source_posted": "2026-11-18",
+        "title": "Data Analyst",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74584",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-17"
