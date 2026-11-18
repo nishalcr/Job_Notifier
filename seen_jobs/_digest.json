@@ -4145,6 +4145,22 @@
         "years": "5+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024851",
+        "key": "JR-024851",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-18",
+        "salary": "$133K\u2013$214K",
+        "source_posted": "Posted Today",
+        "title": "Senior Database DevOps Engineer",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Senior-Database-DevOps-Engineer_JR-024851",
+        "work_type": "",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-17"
