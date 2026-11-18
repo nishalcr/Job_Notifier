@@ -112,6 +112,58 @@
         "years": ""
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "2076926089596128",
+        "key": "2076926089596128",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Seattle, WA",
+        "title": "Performance & Capacity Engineer - Capacity Planning Optimization(Technical Leadership)",
+        "url": "https://www.metacareers.com/profile/job_details/2076926089596128",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066835",
+        "key": "1970393557070775",
+        "location": "Reston, Virginia",
+        "posted": "2026-11-18",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-18",
+        "team": "Service Engineering",
+        "title": "Senior Critical Environment Platform Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070775",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066517",
+        "key": "1970393557070190",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-18",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-18",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070190",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-18"
