@@ -4161,6 +4161,22 @@
         "years": "3\u20135 yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10596736",
+        "key": "10596736",
+        "location": "New York, New York",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 4, 2026",
+        "title": "Data Engineer II, APM Insights",
+        "url": "https://www.amazon.jobs/en/jobs/10596736/data-engineer-ii-apm-insights",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-17"
