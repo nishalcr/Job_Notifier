@@ -1983,6 +1983,87 @@
         "years": "10+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695799-3760",
+        "key": "200695799-3760",
+        "location": "Santa Clara",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Senior/Staff Machine Learning Engineer, Search & Knowledge Platforms",
+        "url": "https://jobs.apple.com/en-us/details/200695799-3760/senior-staff-machine-learning-engineer-search-knowledge-platforms?team=SFTWR",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607759",
+        "key": "10607759",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer, Luna SIPS",
+        "url": "https://www.amazon.jobs/en/jobs/10607759/software-development-engineer-luna-sips",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73891",
+        "key": "73891",
+        "location": "Redford, MI, United States; +1 more",
+        "posted": "2026-11-18",
+        "salary": "$85K\u2013$193K",
+        "source_posted": "2026-11-18",
+        "title": "Full-Stack Mobile AI Engineer, InZone",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73891",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74060",
+        "key": "74060",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-18",
+        "salary": "$84K\u2013$166K",
+        "source_posted": "2026-11-18",
+        "title": "Product Development - Engineer Welding",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74060",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139103",
+        "key": "R0139103",
+        "location": "San Jose, California, United States of America",
+        "posted": "2026-11-18",
+        "salary": "$109K\u2013$156K",
+        "source_posted": "Posted Today",
+        "title": "Sr Analyst, Data Analytics",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Data-Analytics_R0139103-1",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "paypal"
     }
   ],
   "last_sent": "2026-11-18"
