@@ -949,6 +949,36 @@
         "years": "8+ yrs"
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200691424-0836",
+        "key": "200691424-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-18",
+        "source_posted": "2026-11-05",
+        "team": "Software and Services",
+        "title": "Senior Security Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200691424-0836/senior-security-engineer?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "GoDaddy",
+      "job": {
+        "job_id": "8204467003",
+        "key": "8204467003",
+        "location": "United States",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "title": "Senior Security Engineer - CTI",
+        "url": "https://careers.godaddy/jobs?gh_jid=8204467003",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "godaddy"
     }
   ],
   "last_sent": "2026-11-18"
