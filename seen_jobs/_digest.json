@@ -3175,6 +3175,22 @@
         "years": ""
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607745",
+        "key": "10607745",
+        "location": "Palo Alto, California",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Principal Applied Scientist, Ads Trust Science, Ads Trust Science",
+        "url": "https://www.amazon.jobs/en/jobs/10607745/principal-applied-scientist-ads-trust-science-ads-trust-science",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-17"
