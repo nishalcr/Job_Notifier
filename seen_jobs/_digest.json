@@ -2112,6 +2112,224 @@
         "years": "11+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608802",
+        "key": "10608802",
+        "location": "New York, New York",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Robotics Software Development Engineer, Fauna",
+        "url": "https://www.amazon.jobs/en/jobs/10608802/robotics-software-development-engineer-fauna",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608807",
+        "key": "10608807",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Sr. Data Scientist , Amazon Leo Networking Software",
+        "url": "https://www.amazon.jobs/en/jobs/10608807/sr-data-scientist-amazon-leo-networking-software",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608809",
+        "key": "10608809",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Senior Software Development Engineer, AWS Keyspaces (NoSQL Cassandra compatible database)",
+        "url": "https://www.amazon.jobs/en/jobs/10608809/senior-software-development-engineer-aws-keyspaces-nosql-cassandra-compatible-database",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606635",
+        "key": "10606635",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer II, Amazon Leo Fulfillment Technology",
+        "url": "https://www.amazon.jobs/en/jobs/10606635/software-development-engineer-ii-amazon-leo-fulfillment-technology",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608825",
+        "key": "10608825",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Control Engineer, AFT- Inbound, Inbound HW AFT",
+        "url": "https://www.amazon.jobs/en/jobs/10608825/control-engineer-aft-inbound-inbound-hw-aft",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608822",
+        "key": "10608822",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Sr. SDE, Alexa for Shopping",
+        "url": "https://www.amazon.jobs/en/jobs/10608822/sr-sde-alexa-for-shopping",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google Cloud's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distrib",
+        "job_id": "92143977435669190",
+        "key": "92143977435669190",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Developer Experiences",
+        "title": "Senior Staff Software Engineer, Developer Experiences",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/92143977435669190",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "109187507177824966",
+        "key": "109187507177824966",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Merchant Shopping Growth and Insights AI/ML",
+        "title": "Staff Software Engineer, Merchant Shopping Growth and Insights AI/ML",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/109187507177824966",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "130842388686873286",
+        "key": "130842388686873286",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "",
+        "title": "Platform Software Technical Lead",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/130842388686873286",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "88414433994252998",
+        "key": "88414433994252998",
+        "location": "Mountain View, CA, USA; +1 more",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Ads Platform Agentic Experiences",
+        "title": "Senior Staff Software Engineer, Ads Platform Agentic Experiences",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/88414433994252998",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "97418334714110662",
+        "key": "97418334714110662",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Server System Software / Platforms Infrastructure",
+        "title": "Staff Software Engineer, Server System Software, Platforms Infrastructure",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/97418334714110662",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74242",
+        "key": "74242",
+        "location": "Redford, MI, United States; +1 more",
+        "posted": "2026-11-18",
+        "salary": "$74K\u2013$193K",
+        "source_posted": "2026-11-18",
+        "title": "Full Stack AI Software Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74242",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350855",
+        "key": "350855",
+        "location": "Pleasanton, CA, United States; +1 more",
+        "posted": "2026-11-18",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-18",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350855",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-18"
