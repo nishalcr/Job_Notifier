@@ -574,6 +574,56 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1845141720022019",
+        "key": "1845141720022019",
+        "location": "Bellevue, WA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Redmond, WA",
+        "title": "Research Scientist, Applied AI - AI Specialist",
+        "url": "https://www.metacareers.com/profile/job_details/1845141720022019",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R122209",
+        "key": "R122209",
+        "location": "12100 Samsung Blvd, Austin, TX, USA",
+        "posted": "2026-11-18",
+        "salary": "$95K\u2013$120K",
+        "source_posted": "Posted Today",
+        "title": "CSA Project Engineer",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/CSA-Project-Engineer_R122209",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "samsung"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74073",
+        "key": "74073",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-18",
+        "salary": "$100K\u2013$193K",
+        "source_posted": "2026-11-18",
+        "title": "Platform Software Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74073",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-18"
