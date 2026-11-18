@@ -2379,6 +2379,55 @@
         "years": "5+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695812-0836",
+        "key": "200695812-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "AIML - Senior Privacy & Regulatory Compliance Engineer, Evaluation",
+        "url": "https://jobs.apple.com/en-us/details/200695812-0836/aiml-senior-privacy-regulatory-compliance-engineer-evaluation?team=SFTWR",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608840",
+        "key": "10608840",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer, Leo Ignition",
+        "url": "https://www.amazon.jobs/en/jobs/10608840/software-development-engineer-leo-ignition",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350885",
+        "key": "350885",
+        "location": "Nashville, TN, United States; +1 more",
+        "posted": "2026-11-18",
+        "salary": "$97K\u2013$306K",
+        "source_posted": "2026-11-18",
+        "title": "Lead Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350885",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-18"
