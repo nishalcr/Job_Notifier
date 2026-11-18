@@ -3632,6 +3632,23 @@
         "years": "2+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694196-0365",
+        "key": "200694196-0365",
+        "location": "Boulder",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Senior Software Engineer, Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200694196-0365/senior-software-engineer-vision-products-software?team=SFTWR",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-17"
