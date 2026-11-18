@@ -1740,6 +1740,55 @@
         "years": ""
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200674464-0836",
+        "key": "200674464-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Software Engineer, App Store Frameworks",
+        "url": "https://jobs.apple.com/en-us/details/200674464-0836/software-engineer-app-store-frameworks?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608537",
+        "key": "10608537",
+        "location": "Minneapolis, Minnesota",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Senior System Development Engineer, STRADA",
+        "url": "https://www.amazon.jobs/en/jobs/10608537/senior-system-development-engineer-strada",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74117",
+        "key": "74117",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-18",
+        "salary": "$87K\u2013$166K",
+        "source_posted": "2026-11-18",
+        "title": "Test Engineer, Power Conversion Charging System",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74117",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-18"
