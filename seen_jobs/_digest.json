@@ -164,6 +164,38 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "302145",
+        "key": "302145",
+        "location": "Franklin, MA, United States",
+        "posted": "2026-11-18",
+        "salary": "$140K\u2013$165K",
+        "source_posted": "2026-11-18",
+        "title": "Test Principal Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/302145",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "302144",
+        "key": "302144",
+        "location": "Franklin, MA, United States",
+        "posted": "2026-11-18",
+        "salary": "$115K\u2013$135K",
+        "source_posted": "2026-11-18",
+        "title": "Test Senior Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/302144",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "dell"
     }
   ],
   "last_sent": "2026-11-18"
