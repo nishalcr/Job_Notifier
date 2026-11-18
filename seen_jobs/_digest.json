@@ -526,6 +526,54 @@
         "years": "1+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608214",
+        "key": "10608214",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Security Engineer I, Security Incident Response Team (SIRT)",
+        "url": "https://www.amazon.jobs/en/jobs/10608214/security-engineer-i-security-incident-response-team-sirt",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608212",
+        "key": "10608212",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Security Engineer I, Security Incident Response Team (SIRT)",
+        "url": "https://www.amazon.jobs/en/jobs/10608212/security-engineer-i-security-incident-response-team-sirt",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608183",
+        "key": "10608183",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer, AWS DevOps Agent",
+        "url": "https://www.amazon.jobs/en/jobs/10608183/software-development-engineer-aws-devops-agent",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-18"
