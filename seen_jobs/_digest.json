@@ -478,6 +478,54 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608182",
+        "key": "10608182",
+        "location": "Austin, Texas",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer, Workshop Studio",
+        "url": "https://www.amazon.jobs/en/jobs/10608182/software-development-engineer-workshop-studio",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R122075",
+        "key": "R122075",
+        "location": "1530 FM 973 Taylor, TX, USA",
+        "posted": "2026-11-18",
+        "salary": "$106K\u2013$145K",
+        "source_posted": "Posted Today",
+        "title": "THU Service Architect Engineer",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/THU-Service-Architect-Engineer_R122075",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "samsung"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810053",
+        "key": "210810053",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "title": "Data Scientist Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810053",
+        "work_type": "Onsite",
+        "years": "1+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-18"
