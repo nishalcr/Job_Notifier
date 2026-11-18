@@ -3545,6 +3545,60 @@
         "years": "6+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the role and team Uber AI Solutions (UAIS) is a startup inside Uber, building the data and evaluation infrastructure behind the next generation of AI. The models making headlines are only as good as the data and feedback they learn from, and that is the work we do. We are a",
+        "job_id": "304981",
+        "key": "304981",
+        "location": "San Francisco, California",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Engineer",
+        "title": "Staff MLE",
+        "url": "https://jobs.uber.com/en/jobs/304981/",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the role and team Uber AI Solutions (UAIS) is a startup inside Uber, building the data and evaluation infrastructure behind the next generation of AI. The models making headlines are only as good as the data and feedback they learn from, and that is the work we do. We are a",
+        "job_id": "304979",
+        "key": "304979",
+        "location": "San Francisco, California",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Engineer",
+        "title": "Sr Staff MLE",
+        "url": "https://jobs.uber.com/en/jobs/304979/",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Role and Team Core Build is Uber\u2019s centralized build platform team. We own the common build substrate\u2014Bazel, Gazelle, build rules, client side remote build caching and execution, and the shared build/test CI pipelines\u2014across Uber\u2019s Java, Android, iOS monorepos. Our visi",
+        "job_id": "304849",
+        "key": "304849",
+        "location": "San Francisco, California; +3 more",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Engineer",
+        "title": "Staff Software Engineer: iOS (Core Build)",
+        "url": "https://jobs.uber.com/en/jobs/304849/",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "uber"
     }
   ],
   "last_sent": "2026-11-17"
