@@ -1,5 +1,102 @@
 {
   "issues": [],
-  "jobs": [],
+  "jobs": [
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1084008",
+        "key": "R1084008",
+        "location": "CT - Work from home",
+        "posted": "2026-11-18",
+        "salary": "$130K\u2013$261K",
+        "source_posted": "Posted Today",
+        "title": "Lead Architect",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Work-from-home/Lead-Architect_R1084008-1",
+        "work_type": "Remote",
+        "years": "10+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210752951",
+        "key": "210752951",
+        "location": "Wilmington, DE, United States",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "title": "Software Engineer III - Performance Engineering",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752951",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210800153",
+        "key": "210800153",
+        "location": "Wilmington, DE, United States",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "title": "Software Engineer III - Performance Testing",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800153",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210807003",
+        "key": "210807003",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-18",
+        "salary": "$119K\u2013$160K",
+        "source_posted": "2026-11-18",
+        "title": "Data Engineer III-Python/SQL/Snowflake",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807003",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210807009",
+        "key": "210807009",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-18",
+        "salary": "$147K\u2013$190K",
+        "source_posted": "2026-11-18",
+        "title": "Lead Data Engineer-Python/SQL/Snowflake",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807009",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006047",
+        "key": "R1006047",
+        "location": "3 Locations",
+        "posted": "2026-11-18",
+        "salary": "$101K\u2013$127K",
+        "source_posted": "Posted Today",
+        "title": "Senior Associate, Product Management - Digital Information Exchange, AI and Analytics",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Product-Management---Digital-Information-Exchange--AI-and-Analytics_R1006047-2",
+        "work_type": "Hybrid",
+        "years": "1+ yrs"
+      },
+      "slug": "capitalone"
+    }
+  ],
   "last_sent": "2026-11-18"
 }
