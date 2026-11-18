@@ -1009,6 +1009,69 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695755-0836",
+        "key": "200695755-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-18",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "AIML - Sr. Software Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200695755-0836/aiml-sr-software-engineer?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608480",
+        "key": "10608480",
+        "location": "Denver, Colorado",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer, Region Reliability Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10608480/software-development-engineer-region-reliability-engineering",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26011281",
+        "key": "26011281",
+        "location": "Phoenix, AZ, United States",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "title": "Software Engineer I - Vertx, Spring, Spring Boot, RESTful micro services, Ignite - GMNST",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011281",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "amex"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200043746",
+        "key": "1970393556938118",
+        "location": "Redmond, Washington; +2 more",
+        "posted": "2026-11-18",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-18",
+        "team": "Hardware Engineering",
+        "title": "Senior AI Network Systems Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556938118",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-18"
