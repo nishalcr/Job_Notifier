@@ -3879,6 +3879,60 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "138588379385078470",
+        "key": "138588379385078470",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Platforms",
+        "title": "Software Engineer III, Infrastructure, Google Cloud Platforms",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/138588379385078470",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Internal Audit\u2018s mission is to focus on reducing risk across Alphabet. We do this by monitoring the risk environment across Alphabet and providing insights to enable effective risk management. We work closely with teams and leadership to achieve a strong control environment that",
+        "job_id": "73608341695144646",
+        "key": "73608341695144646",
+        "location": "Sunnyvale, CA, USA; +1 more",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Internal Audit",
+        "title": "Business Data Scientist, Internal Audit",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/73608341695144646",
+        "work_type": "Remote",
+        "years": "3+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "105645086871560902",
+        "key": "105645086871560902",
+        "location": "Mountain View, CA, USA; +1 more",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Mobile (iOS) / Search",
+        "title": "Staff Software Engineer, Mobile (iOS), Search",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/105645086871560902",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-17"
