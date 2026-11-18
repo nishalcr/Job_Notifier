@@ -1088,6 +1088,55 @@
         "years": "5+ yrs"
       },
       "slug": "amd"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695596-3401",
+        "key": "200695596-3401",
+        "location": "San Francisco Bay Area",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "ISE, Incubation - Software Development Engineer - Proactive",
+        "url": "https://jobs.apple.com/en-us/details/200695596-3401/ise-incubation-software-development-engineer-proactive?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608505",
+        "key": "10608505",
+        "location": "Austin, Texas",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Senior Applied Scientist, Secure Third Party Tools (S3T)",
+        "url": "https://www.amazon.jobs/en/jobs/10608505/senior-applied-scientist-secure-third-party-tools-s3t",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029324",
+        "key": "JR2029324",
+        "location": "2 Locations",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Deep Learning Scientist, AI Security",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Scientist--AI-Security_JR2029324",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-18"
