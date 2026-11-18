@@ -3064,6 +3064,85 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695546-3337",
+        "key": "200695546-3337",
+        "location": "Seattle",
+        "posted": "2026-11-18",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Security Site Reliability Engineer - Apple Service Engineering",
+        "url": "https://jobs.apple.com/en-us/details/200695546-3337/security-site-reliability-engineer-apple-service-engineering?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607712",
+        "key": "10607712",
+        "location": "Irvine, California",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer, Devices Software & Services",
+        "url": "https://www.amazon.jobs/en/jobs/10607712/software-development-engineer-devices-software-services",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607713",
+        "key": "10607713",
+        "location": "Irvine, California",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer, Devices Software & Services",
+        "url": "https://www.amazon.jobs/en/jobs/10607713/software-development-engineer-devices-software-services",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368548",
+        "key": "JR368548",
+        "location": "3 Locations",
+        "posted": "2026-11-18",
+        "salary": "$197K\u2013$345K",
+        "source_posted": "Posted Today",
+        "title": "Compliance Engineer",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Washington---Bellevue/Compliance-Engineer_JR368548-1",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200055415",
+        "key": "1970393556995354",
+        "location": "Redmond, Washington; +2 more",
+        "posted": "2026-11-18",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-17",
+        "team": "Software Engineering",
+        "title": "Software Engineer II - CTJ - Poly",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556995354",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-17"
