@@ -4059,6 +4059,42 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Site Reliability Engineering (SRE) combines software and systems engineering to build and run large-scale, massively distributed, fault-tolerant systems. SRE ensures that Google Cloud's services\u2014both our internally critical and our externally-visible systems\u2014have reliability, upt",
+        "job_id": "117698414371578566",
+        "key": "117698414371578566",
+        "location": "San Francisco, CA, USA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Site Reliability Engineering / Traffic Sessions",
+        "title": "Staff Software Engineer, Site Reliability Engineering, Traffic Sessions",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/117698414371578566",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "The Cloud GTM Applied AI team is the internal AI innovation factory driving transformation within Google Cloud's Go-To-Market (GTM) organization. We are pioneering a new era of intelligent business operations by rapidly incubating, developing, and scaling AI solutions that redefi",
+        "job_id": "123412370142700230",
+        "key": "123412370142700230",
+        "location": "Austin, TX, USA; +4 more",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Cloud",
+        "title": "Go-to-Market Applied AI Architect, Google Cloud",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/123412370142700230",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-17"
