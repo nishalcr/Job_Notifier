@@ -96,6 +96,22 @@
         "years": "1+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608079",
+        "key": "10608079",
+        "location": "Pasadena, California",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Applied Scientist, Simulation Methods and Tools, Amazon Center for Quantum Computing",
+        "url": "https://www.amazon.jobs/en/jobs/10608079/applied-scientist-simulation-methods-and-tools-amazon-center-for-quantum-computing",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-18"
