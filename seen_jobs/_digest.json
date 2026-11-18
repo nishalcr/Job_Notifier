@@ -640,6 +640,71 @@
         "years": "8+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607741",
+        "key": "10607741",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Dev Engineer - AWS Glacier",
+        "url": "https://www.amazon.jobs/en/jobs/10607741/software-dev-engineer-aws-glacier",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289281",
+        "key": "JR0289281",
+        "location": "US, Arizona, Phoenix",
+        "posted": "2026-11-18",
+        "salary": "$115K\u2013$220K",
+        "source_posted": "Posted Today",
+        "title": "Test Module Development Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Test-Module-Development-Engineer_JR0289281",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "intel"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005206",
+        "key": "R1005206",
+        "location": "2 Locations",
+        "posted": "2026-11-18",
+        "salary": "$209K\u2013$238K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 5",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Wilmington-DE/Full-stack-Engineer-5_R1005206-1",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Snowflake",
+      "job": {
+        "job_id": "196f1cca-6ee6-4023-b2e7-9f8ba18d1dae",
+        "key": "196f1cca-6ee6-4023-b2e7-9f8ba18d1dae",
+        "location": "US-WA-Bellevue",
+        "posted": "2026-11-18",
+        "salary": "$160K\u2013$230K",
+        "source_posted": "2026-11-18",
+        "team": "Global Support",
+        "title": "Software Engineer - Customer Experience Engineering",
+        "url": "https://jobs.ashbyhq.com/snowflake/196f1cca-6ee6-4023-b2e7-9f8ba18d1dae",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "snowflake"
     }
   ],
   "last_sent": "2026-11-18"
