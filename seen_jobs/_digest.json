@@ -4023,6 +4023,42 @@
         "years": ""
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "116289733817967302",
+        "key": "116289733817967302",
+        "location": "New York, NY, USA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI and Generative Web Experiences / Google Workspace Editors",
+        "title": "Software Engineer, AI and Generative Web Experiences, Google Workspace Editors",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/116289733817967302",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "126946200514372294",
+        "key": "126946200514372294",
+        "location": "Kirkland, WA, USA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Trust and Safety / Responsible AI",
+        "title": "Senior Software Engineer, Trust and Safety, Responsible AI",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/126946200514372294",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-17"
