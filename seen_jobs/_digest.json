@@ -624,6 +624,22 @@
         "years": "5+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005467",
+        "key": "R1005467",
+        "location": "3 Locations",
+        "posted": "2026-11-18",
+        "salary": "$245K\u2013$307K",
+        "source_posted": "Posted Today",
+        "title": "Staff Cloud Engineer, Cloud Asset Intelligence",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Staff-Cloud-Engineer--Cloud-Asset-Intelligence_R1005467-1",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-18"
