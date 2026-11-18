@@ -4111,6 +4111,40 @@
         "years": "5+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695636-3543",
+        "key": "200695636-3543",
+        "location": "San Diego",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Software Engineer, Satellite Operations",
+        "url": "https://jobs.apple.com/en-us/details/200695636-3543/software-engineer-satellite-operations?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695636-3749",
+        "key": "200695636-3749",
+        "location": "San Jose",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "team": "Software and Services",
+        "title": "Software Engineer, Satellite Operations",
+        "url": "https://jobs.apple.com/en-us/details/200695636-3749/software-engineer-satellite-operations?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-17"
