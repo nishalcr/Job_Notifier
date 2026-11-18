@@ -3304,6 +3304,22 @@
         "years": ""
       },
       "slug": "zscaler"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "344970",
+        "key": "344970",
+        "location": "United States",
+        "posted": "2026-11-18",
+        "salary": "$87K\u2013$187K",
+        "source_posted": "2026-11-18",
+        "title": "APEX Developer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344970",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-17"
