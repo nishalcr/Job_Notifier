@@ -3223,6 +3223,87 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607764",
+        "key": "10607764",
+        "location": "Austin, Texas",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer, ROBOTICS -  2027",
+        "url": "https://www.amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027",
+        "work_type": "",
+        "years": "18+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10603760",
+        "key": "10603760",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer II, EC2 Core Platform",
+        "url": "https://www.amazon.jobs/en/jobs/10603760/software-development-engineer-ii-ec2-core-platform",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2023982",
+        "key": "JR2023982",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Development Engineer in Test",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test_JR2023982",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Netflix",
+      "job": {
+        "job_id": "JR43711",
+        "key": "790319562368",
+        "location": "Los Angeles,California,United States of America",
+        "posted": "2026-11-18",
+        "salary": "$294K\u2013$470K",
+        "source_posted": "",
+        "team": "Data & Insights",
+        "title": "Playtest L5 Researcher",
+        "url": "https://explore.jobs.netflix.net/careers/job/790319562368",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "netflix"
+    },
+    {
+      "company": "Zscaler",
+      "job": {
+        "job_id": "5277461007",
+        "key": "5277461007",
+        "location": "Remote - USA; +1 more",
+        "posted": "2026-11-18",
+        "salary": "$212K\u2013$265K",
+        "source_posted": "2026-11-17",
+        "title": "Principal Site Reliability Engineer",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5277461007",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "zscaler"
     }
   ],
   "last_sent": "2026-11-17"
