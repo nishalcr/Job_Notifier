@@ -1708,6 +1708,22 @@
         "years": "3+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74114",
+        "key": "74114",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-18",
+        "salary": "$87K\u2013$166K",
+        "source_posted": "2026-11-18",
+        "title": "Engineer, Conductive Charging D&R",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74114",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-18"
