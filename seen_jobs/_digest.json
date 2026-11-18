@@ -1188,6 +1188,54 @@
         "years": "3+ yrs"
       },
       "slug": "goldman-sachs"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608172",
+        "key": "10608172",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Applied Scientist , Amazon Customer Service",
+        "url": "https://www.amazon.jobs/en/jobs/10608172/applied-scientist-amazon-customer-service",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210803885",
+        "key": "210803885",
+        "location": "NY, United States; +1 more",
+        "posted": "2026-11-18",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-18",
+        "title": "Software Engineer III - Fullstack, Java, AWS",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803885",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73540",
+        "key": "73540",
+        "location": "United States",
+        "posted": "2026-11-18",
+        "salary": "$65K\u2013$166K",
+        "source_posted": "2026-11-18",
+        "title": "Senior Database Reliability and Automation Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73540",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-18"
