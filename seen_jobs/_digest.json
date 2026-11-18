@@ -885,6 +885,22 @@
         "years": "3+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006102",
+        "key": "R1006102",
+        "location": "2 Locations",
+        "posted": "2026-11-18",
+        "salary": "$136K\u2013$169K",
+        "source_posted": "Posted Today",
+        "title": "Senior Data Scientist",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Data-Scientist_R1006102-1",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-18"
