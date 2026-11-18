@@ -2428,6 +2428,76 @@
         "years": "10+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "136617023755952838",
+        "key": "136617023755952838",
+        "location": "New York, NY, USA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML GenAI / Google Workspace",
+        "title": "Senior Software Engineer, AI/ML GenAI, Google Workspace",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/136617023755952838",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "102138538132153030",
+        "key": "102138538132153030",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Geo",
+        "title": "Software Engineer III, Infrastructure, Geo",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/102138538132153030",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "123736245036556998",
+        "key": "123736245036556998",
+        "location": "Kirkland, WA, USA; +1 more",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML / Google Cloud Compute Infrastructure",
+        "title": "Software Engineer III, AI/ML, Google Cloud Compute Infrastructure",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/123736245036556998",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806284",
+        "key": "210806284",
+        "location": "Houston, TX, United States",
+        "posted": "2026-11-18",
+        "salary": "",
+        "source_posted": "2026-11-18",
+        "title": "Lead Software Engineer - Software Architect / AI Supply Chain / Java",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806284",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-18"
