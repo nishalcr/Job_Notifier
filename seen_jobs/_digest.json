@@ -2452,6 +2452,40 @@
         "years": ""
       },
       "slug": "pinterest"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Site Reliability Engineering (SRE) combines software and systems engineering to build and run large-scale, massively distributed, fault-tolerant systems. SRE ensures that Google Cloud's services\u2014both our internally critical and our externally-visible systems\u2014have reliability, upt",
+        "job_id": "77011089664942790",
+        "key": "77011089664942790",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Site Reliability Engineering / Search ML",
+        "title": "Staff Software Engineer, Site Reliability Engineering, Search ML",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/77011089664942790",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97906",
+        "key": "97906",
+        "location": "Austin, Texas",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Linux Kernel SW Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/97906",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-19"
