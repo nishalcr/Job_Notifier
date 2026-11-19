@@ -2178,6 +2178,87 @@
         "years": "3+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609827",
+        "key": "10609827",
+        "location": "Westborough, Massachusetts",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Data Scientist, Amazon Robotics (AR) Sortation",
+        "url": "https://www.amazon.jobs/en/jobs/10609827/data-scientist-amazon-robotics-ar-sortation",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810792",
+        "key": "210810792",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-19",
+        "salary": "$176K\u2013$260K",
+        "source_posted": "2026-11-19",
+        "title": "Data Domain Architect - Operations",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810792",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067689",
+        "key": "1970393557074866",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-19",
+        "team": "Software Engineering",
+        "title": "Software Engineer II",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557074866",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-021355",
+        "key": "JR-021355",
+        "location": "4 Locations",
+        "posted": "2026-11-19",
+        "salary": "$178K\u2013$244K",
+        "source_posted": "Posted Today",
+        "title": "District Systems Engineer",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/San-Francisco-United-States-of-America/District-Systems-Engineer_JR-021355-1",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "paloalto"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024685",
+        "key": "JR-024685",
+        "location": "Santa Clara, United States of America",
+        "posted": "2026-11-19",
+        "salary": "$124K\u2013$201K",
+        "source_posted": "Posted Today",
+        "title": "Staff Software Engineer - AI",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Santa-Clara-United-States-of-America/Staff-Software-Engineer---AI_JR-024685-1",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-19"
