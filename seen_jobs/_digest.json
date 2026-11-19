@@ -3470,6 +3470,22 @@
         "years": ""
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029878",
+        "key": "JR2029878",
+        "location": "3 Locations",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Site Reliability Engineer \u2013 Distributed Storage",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---Distributed-Storage_JR2029878",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-18"
