@@ -458,6 +458,22 @@
         "years": ""
       },
       "slug": "pinterest"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609453",
+        "key": "10609453",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Sr Software Development Engineer, Piezo",
+        "url": "https://www.amazon.jobs/en/jobs/10609453/sr-software-development-engineer-piezo",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-19"
