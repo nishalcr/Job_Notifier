@@ -3063,6 +3063,22 @@
         "years": "6+ yrs"
       },
       "slug": "intel"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609074",
+        "key": "10609074",
+        "location": "Jessup, Maryland",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Sr Forward Deployed Engineer (FDE), AWS Forward Deployed Engineering, US Government",
+        "url": "https://www.amazon.jobs/en/jobs/10609074/sr-forward-deployed-engineer-fde-aws-forward-deployed-engineering-us-government",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-18"
