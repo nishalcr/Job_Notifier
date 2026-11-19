@@ -1703,6 +1703,71 @@
         "years": "8+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609756",
+        "key": "10609756",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer II",
+        "url": "https://www.amazon.jobs/en/jobs/10609756/software-development-engineer-ii",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016666",
+        "key": "26016666",
+        "location": "Phoenix, AZ, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Senior Associate - Tech Ops Engineering",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016666",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "amex"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067919",
+        "key": "1970393557075456",
+        "location": "Multiple Locations; +2 more",
+        "posted": "2026-11-19",
+        "salary": "$85K\u2013$184K",
+        "source_posted": "2026-11-19",
+        "team": "Software Engineering",
+        "title": "Software Engineer- CTJ- Poly",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075456",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351007",
+        "key": "351007",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-19",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-19",
+        "title": "Principal Software Engineer, OpenSearch Platform",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351007",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-19"
