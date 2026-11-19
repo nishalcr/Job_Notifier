@@ -2709,6 +2709,70 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608872",
+        "key": "10608872",
+        "location": "New York, New York",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Applied Scientist II, AGI/AI Security",
+        "url": "https://www.amazon.jobs/en/jobs/10608872/applied-scientist-ii-agi-ai-security",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608873",
+        "key": "10608873",
+        "location": "Austin, Texas",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Security Engineer,AWS Security",
+        "url": "https://www.amazon.jobs/en/jobs/10608873/security-engineer-aws-security",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2032282",
+        "key": "2032282",
+        "location": "2 Locations",
+        "posted": "2026-11-19",
+        "salary": "$234K\u2013$384K",
+        "source_posted": "Posted Today",
+        "title": "Senior Lead AI Researcher , AISWP (Hybrid)",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Senior-Lead-AI-Researcher---AISWP--Hybrid-_2032282",
+        "work_type": "Hybrid",
+        "years": "12+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2032175",
+        "key": "2032175",
+        "location": "Milpitas, California, US",
+        "posted": "2026-11-19",
+        "salary": "$234K\u2013$384K",
+        "source_posted": "Posted Today",
+        "title": "Senior Lead Machine Learning Engineer , AI Defense (Hybrid)",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Senior-Lead-Machine-Learning-Engineer---AI-Defense--Hybrid-_2032175",
+        "work_type": "Hybrid",
+        "years": "12+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-18"
