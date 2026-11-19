@@ -2519,6 +2519,42 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "Overview The Fulfillment Platform supports business verticals at Uber to develop their trip fulfillment flow and seamlessly integrate pricing, matching, dynamics and other marketplace capabilities into their product. We support Uber Rider businesses (pool, airports, hourly rental",
+        "job_id": "304922",
+        "key": "304922",
+        "location": "Sunnyvale, California; +1 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "team": "Engineer",
+        "title": "Software Engineer II - Backend",
+        "url": "https://jobs.uber.com/en/jobs/304922/",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "Software Engineer II | Global Intelligence, Data Platform About the team Global Intelligence helps Uber understand competitive landscapes and marketplace dynamics across Mobility and Delivery. We partner with scientists, analysts, and business stakeholders to transform complex da",
+        "job_id": "304972",
+        "key": "304972",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "team": "Engineer",
+        "title": "Software Engineer II - Data Engineering",
+        "url": "https://jobs.uber.com/en/jobs/304972/",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "uber"
     }
   ],
   "last_sent": "2026-11-19"
