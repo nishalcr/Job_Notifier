@@ -2918,6 +2918,38 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607758",
+        "key": "10607758",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Engineer I, Commerce",
+        "url": "https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce",
+        "work_type": "Hybrid",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608880",
+        "key": "10608880",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Amazon MSK",
+        "url": "https://www.amazon.jobs/en/jobs/10608880/software-development-engineer-amazon-msk",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-18"
