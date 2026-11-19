@@ -2805,6 +2805,70 @@
         "years": "5+ yrs"
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608181",
+        "key": "10608181",
+        "location": "New York, New York",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Sr. Applied Scientist, Amazon Connect Talent",
+        "url": "https://www.amazon.jobs/en/jobs/10608181/sr-applied-scientist-amazon-connect-talent",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030246",
+        "key": "JR2030246",
+        "location": "3 Locations",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Hypervisor and RTOS Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Hypervisor-and-RTOS-Engineer_JR2030246",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016351",
+        "key": "26016351",
+        "location": "Phoenix, AZ, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Site Reliability Engineer II",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016351",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "amex"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016715",
+        "key": "26016715",
+        "location": "Phoenix, AZ, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Senior Infrastructure Engineer II",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016715",
+        "work_type": "Hybrid",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-18"
