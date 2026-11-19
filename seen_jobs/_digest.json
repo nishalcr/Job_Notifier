@@ -2259,6 +2259,38 @@
         "years": "4+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R122329",
+        "key": "R122329",
+        "location": "1530 FM 973 Taylor, TX, USA",
+        "posted": "2026-11-19",
+        "salary": "$95K\u2013$120K",
+        "source_posted": "Posted Today",
+        "title": "Quality Engineer, Infra Quality Assurance (IQA)",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Quality-Engineer--Infra-Quality-Assurance--IQA-_R122329-1",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "samsung"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810234",
+        "key": "210810234",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-19",
+        "salary": "$86K\u2013$123K",
+        "source_posted": "2026-11-19",
+        "title": "Senior Associate, Sales Reporting and Analytics - Chase Media Solutions",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810234",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-19"
