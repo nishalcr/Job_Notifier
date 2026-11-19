@@ -2503,6 +2503,22 @@
         "years": "3+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609930",
+        "key": "10609930",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Amazon Quick",
+        "url": "https://www.amazon.jobs/en/jobs/10609930/software-development-engineer-amazon-quick",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-19"
