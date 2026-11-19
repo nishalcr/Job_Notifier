@@ -2677,6 +2677,38 @@
         "years": "3+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606738",
+        "key": "10606738",
+        "location": "New York, New York",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer, Robot Data Platform , Fauna",
+        "url": "https://www.amazon.jobs/en/jobs/10606738/software-development-engineer-robot-data-platform-fauna",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608866",
+        "key": "10608866",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer II, AWS Proactive Security / AWS Piezo, AWS Proactive Security - AWS Piezo",
+        "url": "https://www.amazon.jobs/en/jobs/10608866/software-development-engineer-ii-aws-proactive-security-aws-piezo-aws-proactive-security-aws-piezo",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-18"
