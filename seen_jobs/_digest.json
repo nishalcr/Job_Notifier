@@ -2701,6 +2701,39 @@
         "years": "7+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696084-3543",
+        "key": "200696084-3543",
+        "location": "San Diego",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "team": "Software and Services",
+        "title": "Senior Software Engineer, Development Engineering Workflows, Core OS",
+        "url": "https://jobs.apple.com/en-us/details/200696084-3543/senior-software-engineer-development-engineering-workflows-core-os?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368687",
+        "key": "JR368687",
+        "location": "California - San Francisco",
+        "posted": "2026-11-19",
+        "salary": "$117K\u2013$194K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer Infrastructure and Distributed Systems",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineer-Infrastructure-and-Distributed-Systems_JR368687",
+        "work_type": "Hybrid",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "salesforce"
     }
   ],
   "last_sent": "2026-11-19"
