@@ -2291,6 +2291,70 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809029",
+        "key": "210809029",
+        "location": "Chicago, IL, United States; +2 more",
+        "posted": "2026-11-19",
+        "salary": "$85K\u2013$155K",
+        "source_posted": "2026-11-19",
+        "title": "Auto Risk Data and Reporting Strategic Analytics - Consumer & Community Banking - Senior Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809029",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74631",
+        "key": "74631",
+        "location": "Glendale, KY, United States",
+        "posted": "2026-11-19",
+        "salary": "$87K\u2013$166K",
+        "source_posted": "2026-11-19",
+        "title": "Cyber Operations Engineer, Ford Energy",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74631",
+        "work_type": "Hybrid",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "98436",
+        "key": "98436",
+        "location": "San Jose, California",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "SMTS Network Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/98436",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "100350",
+        "key": "100350",
+        "location": "Arizona",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Embedded Systems Architect \u2013 Aerospace & Defense",
+        "url": "https://careers.amd.com/careers-home/jobs/100350",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-19"
