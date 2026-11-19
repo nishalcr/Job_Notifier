@@ -474,6 +474,39 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016565",
+        "key": "26016565",
+        "location": "Phoenix, AZ, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Infrastructure Engineer II",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016565",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "amex"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067823",
+        "key": "1970393557075150",
+        "location": "Santa Barbara, California",
+        "posted": "2026-11-19",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-19",
+        "team": "Quantum Software Engineering",
+        "title": "Senior Quantum Architect",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075150",
+        "work_type": "Onsite",
+        "years": "1+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-19"
