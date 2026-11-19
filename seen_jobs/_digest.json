@@ -2404,6 +2404,54 @@
         "years": "8+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609075",
+        "key": "10609075",
+        "location": "New York, New York",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Senior Forward Deployed Engineer, Forward Deployment Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10609075/senior-forward-deployed-engineer-forward-deployment-engineering",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2032578",
+        "key": "2032578",
+        "location": "3 Locations",
+        "posted": "2026-11-19",
+        "salary": "$149K\u2013$243K",
+        "source_posted": "Posted Today",
+        "title": "AI Research Scientist II (Full Time) \u2013 United States",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Francisco-California-US/AI-Research-Scientist-II--Full-Time----United-States_2032578",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Pinterest",
+      "job": {
+        "job_id": "8354411",
+        "key": "8354411",
+        "location": "San Francisco, CA, US; +1 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Staff Machine Learning Engineer, Ads Lightweight Ranking",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8354411",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "pinterest"
     }
   ],
   "last_sent": "2026-11-19"
