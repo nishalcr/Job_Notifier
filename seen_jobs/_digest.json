@@ -2372,6 +2372,38 @@
         "years": "3+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607394",
+        "key": "10607394",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer, Emerging Markets Outbound Tech",
+        "url": "https://www.amazon.jobs/en/jobs/10607394/software-development-engineer-emerging-markets-outbound-tech",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006281",
+        "key": "R1006281",
+        "location": "6 Locations",
+        "posted": "2026-11-19",
+        "salary": "$245K\u2013$335K",
+        "source_posted": "Posted Today",
+        "title": "Staff AI Engineer (Remote Eligible)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Staff-AI-Engineer--Remote-Eligible-_R1006281",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-19"
