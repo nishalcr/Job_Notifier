@@ -128,6 +128,40 @@
         "years": "3+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "112546205963035334",
+        "key": "112546205963035334",
+        "location": "New York, NY, USA; +2 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Verification Engineering",
+        "title": "Staff Software Engineer, Verification Engineering",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/112546205963035334",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210785901",
+        "key": "210785901",
+        "location": "Chicago, IL, United States",
+        "posted": "2026-11-19",
+        "salary": "$138K\u2013$235K",
+        "source_posted": "2026-11-19",
+        "title": "Corporate Technology - AI ML Lead",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785901",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-19"
