@@ -3772,6 +3772,38 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "96921",
+        "key": "96921",
+        "location": "San Jose, California",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "HPC & AI Infrastructure Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/96921",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016711",
+        "key": "26016711",
+        "location": "Sunrise, FL, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Sr Software Engineer I - Enterprise Architecture",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016711",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-18"
