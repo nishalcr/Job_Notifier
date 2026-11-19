@@ -1848,6 +1848,90 @@
         "years": "12+ yrs"
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "109319139335512774",
+        "key": "109319139335512774",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Image Search Modeling",
+        "title": "Machine Leaning Engineer, Google Image Search Modeling",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/109319139335512774",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "90108472175010502",
+        "key": "90108472175010502",
+        "location": "San Jose, CA, USA; +2 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Engineering Productivity",
+        "title": "Software Engineer, Engineering Productivity",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/90108472175010502",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139047",
+        "key": "R0139047",
+        "location": "2 Locations",
+        "posted": "2026-11-19",
+        "salary": "$118K\u2013$192K",
+        "source_posted": "Posted Today",
+        "title": "Sr Data Engineer",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Data-Engineer_R0139047-1",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "paypal"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139044",
+        "key": "R0139044",
+        "location": "2 Locations",
+        "posted": "2026-11-19",
+        "salary": "$160K\u2013$262K",
+        "source_posted": "Posted Today",
+        "title": "Staff Software Engineer",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0139044-1",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "paypal"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "95727",
+        "key": "95727",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Product Application Engineer - AI Networking Systems(RDMA, CCL, NIC)",
+        "url": "https://careers.amd.com/careers-home/jobs/95727",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-19"
