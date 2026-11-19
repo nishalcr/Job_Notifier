@@ -3538,6 +3538,24 @@
         "years": "10+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "As an Embedded Software Engineer, you will develop low-level software for electronics that control and readout our future quantum computers. You will collaborate with electrical engineers and FPGA/ASIC designers to bring custom hardware to life, ensuring drivers exploit full perf",
+        "job_id": "123094508203057862",
+        "key": "123094508203057862",
+        "location": "Goleta, CA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Quantum Control / Quantum AI",
+        "title": "Embedded Software Engineer, Quantum Control, Quantum AI",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/123094508203057862",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-18"
