@@ -1168,6 +1168,54 @@
         "years": "10+ yrs"
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609627",
+        "key": "10609627",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Sr. Applied Scientist, Amazon Leo, Amazon Leo Networking Software",
+        "url": "https://www.amazon.jobs/en/jobs/10609627/sr-applied-scientist-amazon-leo-amazon-leo-networking-software",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0138248",
+        "key": "R0138248",
+        "location": "2 Locations",
+        "posted": "2026-11-19",
+        "salary": "$130K\u2013$213K",
+        "source_posted": "Posted Today",
+        "title": "Senior Fullstack Engineer, Finance Technology",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Senior-Fullstack-Engineer--Finance-Technology_R0138248",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "paypal"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350589",
+        "key": "350589",
+        "location": "Seattle, WA, United States; +5 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Lead Principal Network Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350589",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-19"
