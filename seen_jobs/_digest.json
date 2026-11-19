@@ -16,6 +16,54 @@
         "years": "10+ yrs"
       },
       "slug": "adobe"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R122350",
+        "key": "R122350",
+        "location": "1530 FM 973 Taylor, TX, USA",
+        "posted": "2026-11-19",
+        "salary": "$95K\u2013$120K",
+        "source_posted": "Posted Today",
+        "title": "HVAC Operations Engineer",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/HVAC-Operations-Engineer_R122350",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "samsung"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R122349",
+        "key": "R122349",
+        "location": "1530 FM 973 Taylor, TX, USA",
+        "posted": "2026-11-19",
+        "salary": "$95K\u2013$120K",
+        "source_posted": "Posted Today",
+        "title": "HVAC Operations Engineer",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/HVAC-Operations-Engineer_R122349-1",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "samsung"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006080",
+        "key": "R1006080",
+        "location": "5 Locations",
+        "posted": "2026-11-19",
+        "salary": "$286K\u2013$392K",
+        "source_posted": "Posted Today",
+        "title": "Senior Staff Full-stack Engineer - Global Payment Network",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Staff-Full-stack-Engineer---Global-Payment-Network_R1006080-1",
+        "work_type": "Hybrid",
+        "years": "9+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-19"
