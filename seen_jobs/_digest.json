@@ -2998,6 +2998,55 @@
         "years": "2+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695823-0836",
+        "key": "200695823-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "team": "Software and Services",
+        "title": "Senior Applied AI Engineer - Proactive",
+        "url": "https://jobs.apple.com/en-us/details/200695823-0836/senior-applied-ai-engineer-proactive?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350560",
+        "key": "350560",
+        "location": "Seattle, WA, United States",
+        "posted": "2026-11-19",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-13",
+        "title": "Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350560",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "348508",
+        "key": "348508",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-19",
+        "salary": "$146K\u2013$306K",
+        "source_posted": "2026-10-22",
+        "title": "Product Management Architect",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348508",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-18"
