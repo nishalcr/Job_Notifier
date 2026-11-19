@@ -3658,6 +3658,54 @@
         "years": "6+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210801089",
+        "key": "210801089",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Software Engineer III - Data Engineering",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801089",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810432",
+        "key": "210810432",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-19",
+        "salary": "$90K\u2013$160K",
+        "source_posted": "2026-11-19",
+        "title": "Quantitative Trading & Research - United States - 2027 ReEntry Program",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810432",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810481",
+        "key": "210810481",
+        "location": "Austin, TX, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Software Engineer II",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810481",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-18"
