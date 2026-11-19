@@ -3486,6 +3486,42 @@
         "years": "8+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Trust and Safety team members are tasked with identifying and taking on the biggest problems that test the safety and integrity of our products. They use technical know-how, excellent problem-solving skills, user insights, and proactive communication to protect users and our part",
+        "job_id": "118661277319865030",
+        "key": "118661277319865030",
+        "location": "Seattle, WA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Trust and Safety / Payments",
+        "title": "Engineering Analyst, Trust and Safety, Payments",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/118661277319865030",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "On this team, you're a big-picture thinker and strategic leader. You will work globally and cross-functionally with Google engineers and product managers to identify and fight abuse and fraud cases at Google speed, in order to ensure a safe and secure Payments ecosystem for our u",
+        "job_id": "103582025100731078",
+        "key": "103582025100731078",
+        "location": "Seattle, WA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Enterprise Payments",
+        "title": "Engineering Analyst, Enterprise Payments",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/103582025100731078",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-18"
