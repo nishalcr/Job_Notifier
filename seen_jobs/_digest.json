@@ -3047,6 +3047,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289031",
+        "key": "JR0289031",
+        "location": "US, Oregon, Hillsboro",
+        "posted": "2026-11-19",
+        "salary": "$156K\u2013$255K",
+        "source_posted": "Posted Today",
+        "title": "Module Development Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Development-Engineer_JR0289031",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-18"
