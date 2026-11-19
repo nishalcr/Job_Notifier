@@ -3112,6 +3112,52 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695785-3956",
+        "key": "200695785-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-19",
+        "source_posted": "2026-11-19",
+        "team": "Software and Services",
+        "title": "Tools and Automation Engineer, Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200695785-3956/tools-and-automation-engineer-vision-products-software?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10598937",
+        "key": "10598937",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer - AWS OpenSearch, OpenSearch Platform Team",
+        "url": "https://www.amazon.jobs/en/jobs/10598937/software-development-engineer-aws-opensearch-opensearch-platform-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350141",
+        "key": "350141",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-19",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-10",
+        "title": "Principal Systems Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350141",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-18"
