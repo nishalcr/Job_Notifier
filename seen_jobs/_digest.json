@@ -667,6 +667,39 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1104154",
+        "key": "R1104154",
+        "location": "6 Locations",
+        "posted": "2026-11-19",
+        "salary": "$144K\u2013$288K",
+        "source_posted": "Posted Today",
+        "title": "Principal Search AI Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Work-from-home/Principal-Search-AI-Engineer_R1104154",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Netflix",
+      "job": {
+        "job_id": "JR43491",
+        "key": "790319420361",
+        "location": "Remote, United States",
+        "posted": "2026-11-19",
+        "salary": "$425K\u2013$670K",
+        "source_posted": "",
+        "team": "Data & Insights",
+        "title": "Analytics Engineer 6 - Demand Science, Ads DSE",
+        "url": "https://explore.jobs.netflix.net/careers/job/790319420361",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "netflix"
     }
   ],
   "last_sent": "2026-11-19"
