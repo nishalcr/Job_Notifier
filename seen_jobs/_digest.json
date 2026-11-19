@@ -3332,6 +3332,22 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350836",
+        "key": "350836",
+        "location": "Nashville, TN, United States; +1 more",
+        "posted": "2026-11-19",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-17",
+        "title": "Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350836",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-18"
