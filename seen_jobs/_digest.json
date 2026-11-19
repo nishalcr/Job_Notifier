@@ -3348,6 +3348,78 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "The Ads in AI Experiences team is responsible for one of the highest-priority initiatives at Google: reinventing Search Ads for the AI era (AI Overview, AI Mode). We are building the tech stack, the user experience, and the business model simultaneously. Our mission is to ensure",
+        "job_id": "81800149998674630",
+        "key": "81800149998674630",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Search Ads",
+        "title": "Staff Research Data Scientist, Search Ads",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/81800149998674630",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Help serve Google's worldwide user base of more than a billion people. Data Scientists provide quantitative support, market understanding and a strategic perspective to our partners throughout the organization. As a data-loving member of the team, you serve as an analytics expert",
+        "job_id": "119436982773260998",
+        "key": "119436982773260998",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Product / Geo Analytics",
+        "title": "Senior Data Scientist, Product, Geo Analytics",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/119436982773260998",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "85710013347046086",
+        "key": "85710013347046086",
+        "location": "Mountain View, CA, USA; +1 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Automatic Prompt Optimization / AI Answers Quality",
+        "title": "Software Engineer, Automatic Prompt Optimization, AI Answers Quality",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/85710013347046086",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "124279231981986502",
+        "key": "124279231981986502",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Full Stack / Forecasting and Projections",
+        "title": "Senior Software Engineer, Full Stack, Forecasting and Projections",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/124279231981986502",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-18"
