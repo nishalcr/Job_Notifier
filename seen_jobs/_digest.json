@@ -1784,6 +1784,70 @@
         "years": "2+ yrs"
       },
       "slug": "intel"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210783551",
+        "key": "210783551",
+        "location": "Jersey City, NJ, United States; +1 more",
+        "posted": "2026-11-19",
+        "salary": "$147K\u2013$190K",
+        "source_posted": "2026-11-19",
+        "title": "Lead Infrastructure Engineer \u2014 On Prem OpenShift Platform",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783551",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289280",
+        "key": "JR0289280",
+        "location": "US, Oregon, Hillsboro",
+        "posted": "2026-11-19",
+        "salary": "$115K\u2013$189K",
+        "source_posted": "Posted Today",
+        "title": "Laser Module Development Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Laser-Module-Development-Engineer_JR0289280",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "intel"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350980",
+        "key": "350980",
+        "location": "United States; +7 more",
+        "posted": "2026-11-19",
+        "salary": "$85K\u2013$210K",
+        "source_posted": "2026-11-19",
+        "title": "Principal Site Reliability Engineer - Oracle Health (US REMOTE)",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350980",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103528683696",
+        "key": "103528683696",
+        "location": "Mountain View, California",
+        "posted": "2026-11-19",
+        "salary": "$262K\u2013$354K",
+        "source_posted": "",
+        "title": "Principal Engineer \u2014 Money Agent (Money-In & Money-Out Connectivity)",
+        "url": "https://jobs.intuit.com/job/mountain-view/principal-engineer-money-agent-money-in-and-money-out-connectivity/27595/103528683696",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-19"
