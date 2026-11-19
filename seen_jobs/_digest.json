@@ -1216,6 +1216,54 @@
         "years": "10+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609661",
+        "key": "10609661",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Autonomous AI Security",
+        "url": "https://www.amazon.jobs/en/jobs/10609661/software-development-engineer-autonomous-ai-security",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609666",
+        "key": "10609666",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Neuron Developer Experiences Team",
+        "url": "https://www.amazon.jobs/en/jobs/10609666/software-development-engineer-neuron-developer-experiences-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73965",
+        "key": "73965",
+        "location": "Palo Alto, CA, United States; +1 more",
+        "posted": "2026-11-19",
+        "salary": "$85K\u2013$193K",
+        "source_posted": "2026-11-19",
+        "title": "Full-Stack Mobile AI Engineer, InZone",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73965",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-19"
