@@ -3588,6 +3588,42 @@
         "years": "2+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "In this role you will be a central interface with foundries and processor development teams, focusing on superconducting wafer and advanced backend, 2.5D/3D integration processes. You will collaborate closely with processor and hardware teams to identify new foundry capabilities",
+        "job_id": "119259411645375174",
+        "key": "119259411645375174",
+        "location": "Goleta, CA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Quantum AI",
+        "title": "Foundry Integration Engineer, Quantum AI",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/119259411645375174",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "131230894248600262",
+        "key": "131230894248600262",
+        "location": "Kirkland, WA, USA; +2 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Full Stack / Gemini Enterprise",
+        "title": "Senior Software Engineer, Full Stack, Gemini Enterprise",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/131230894248600262",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-18"
