@@ -1637,6 +1637,72 @@
         "years": "7+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609667",
+        "key": "10609667",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Applied Scientist, Amazon Ads, CreativeX",
+        "url": "https://www.amazon.jobs/en/jobs/10609667/applied-scientist-amazon-ads-creativex",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608170",
+        "key": "10608170",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Dev Engineer II, Amazon OpenSearch",
+        "url": "https://www.amazon.jobs/en/jobs/10608170/software-dev-engineer-ii-amazon-opensearch",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1860326902051467",
+        "key": "1860326902051467",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / AI Infrastructure / Network Engineering",
+        "title": "Software Engineer, Embedded Systems Security",
+        "url": "https://www.metacareers.com/profile/job_details/1860326902051467",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006142",
+        "key": "R1006142",
+        "location": "6 Locations",
+        "posted": "2026-11-19",
+        "salary": "$245K\u2013$335K",
+        "source_posted": "Posted Today",
+        "title": "Staff AI Engineer (Remote Eligible)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Staff-AI-Engineer--Remote-Eligible-_R1006142-1",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-19"
