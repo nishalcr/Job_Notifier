@@ -3706,6 +3706,38 @@
         "years": "2+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210807258",
+        "key": "210807258",
+        "location": "Plano, TX, United States; +2 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Lead Infrastructure Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807258",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74661",
+        "key": "74661",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-19",
+        "salary": "$155K\u2013$200K",
+        "source_posted": "2026-11-19",
+        "title": "Lead Software Engineer - Technical Anchor",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74661",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-18"
