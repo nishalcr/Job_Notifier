@@ -3624,6 +3624,22 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016215",
+        "key": "26016215",
+        "location": "New York, NY, United States; +1 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Generative AI Research Scientist - Tech R&D",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016215",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-18"
