@@ -2555,6 +2555,152 @@
         "years": "3+ yrs"
       },
       "slug": "uber"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609630",
+        "key": "10609630",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Senior Software Development Engineer, Amazon Leo, Amazon Leo Networking Software",
+        "url": "https://www.amazon.jobs/en/jobs/10609630/senior-software-development-engineer-amazon-leo-amazon-leo-networking-software",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609631",
+        "key": "10609631",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer,  Leo NOC and Leo Incident Management",
+        "url": "https://www.amazon.jobs/en/jobs/10609631/software-development-engineer-leo-noc-and-leo-incident-management",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609629",
+        "key": "10609629",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Amazon Leo, Amazon Leo Networking Software",
+        "url": "https://www.amazon.jobs/en/jobs/10609629/software-development-engineer-amazon-leo-amazon-leo-networking-software",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1105424948927978",
+        "key": "1105424948927978",
+        "location": "Bellevue, WA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Menlo Park, CA",
+        "title": "Backend Engineer, Central Integrity",
+        "url": "https://www.metacareers.com/profile/job_details/1105424948927978",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351020",
+        "key": "351020",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-19",
+        "salary": "$83K\u2013$166K",
+        "source_posted": "2026-11-19",
+        "title": "Senior Network Services Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351020",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350966",
+        "key": "350966",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-19",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-19",
+        "title": "Senior Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350966",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350844",
+        "key": "350844",
+        "location": "United States",
+        "posted": "2026-11-19",
+        "salary": "$114K\u2013$235K",
+        "source_posted": "2026-11-18",
+        "title": "Senior Principal Application Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350844",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350153",
+        "key": "350153",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-19",
+        "salary": "$102K\u2013$210K",
+        "source_posted": "2026-11-10",
+        "title": "Principal Network Developer - Network Reliability",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350153",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350161",
+        "key": "350161",
+        "location": "Seattle, WA, United States; +4 more",
+        "posted": "2026-11-19",
+        "salary": "$102K\u2013$210K",
+        "source_posted": "2026-11-10",
+        "title": "Principal Network Developer - Network Reliability",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350161",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-19"
