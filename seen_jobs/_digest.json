@@ -1311,6 +1311,54 @@
         "years": "5+ yrs"
       },
       "slug": "intel"
+    },
+    {
+      "company": "Reddit",
+      "job": {
+        "job_id": "8368600",
+        "key": "8368600",
+        "location": "Remote - United States",
+        "posted": "2026-11-19",
+        "salary": "$266K\u2013$372K",
+        "source_posted": "2026-11-19",
+        "title": "Senior Staff Machine Learning Engineer, Ads Ranking",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8368600",
+        "work_type": "Remote",
+        "years": "9+ yrs"
+      },
+      "slug": "reddit"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006228",
+        "key": "R1006228",
+        "location": "Plano, TX",
+        "posted": "2026-11-19",
+        "salary": "$147K\u2013$168K",
+        "source_posted": "Posted Today",
+        "title": "Principal Associate, Data Scientist (Deep Learning)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Principal-Associate--Data-Scientist--Deep-Learning-_R1006228-1",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350692",
+        "key": "350692",
+        "location": "Reston, VA, United States; +1 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Cloud Adoption Engineer- Cloud Activation and Migrations",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350692",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-19"
