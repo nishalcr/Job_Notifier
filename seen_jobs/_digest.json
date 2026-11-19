@@ -1472,6 +1472,171 @@
         "years": "8+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695261-0836",
+        "key": "200695261-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "team": "Software and Services",
+        "title": "Software Engineer - iCloud",
+        "url": "https://jobs.apple.com/en-us/details/200695261-0836/software-engineer-icloud?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695274-0836",
+        "key": "200695274-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "team": "Software and Services",
+        "title": "Software Engineer, Data Quality Tools & Automation \u2014 AIML Data Operations",
+        "url": "https://jobs.apple.com/en-us/details/200695274-0836/software-engineer-data-quality-tools-automation-aiml-data-operations?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607407",
+        "key": "10607407",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Ads AI Core Infra",
+        "url": "https://www.amazon.jobs/en/jobs/10607407/software-development-engineer-ads-ai-core-infra",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210805010",
+        "key": "210805010",
+        "location": "Jersey City, NJ, United States; +2 more",
+        "posted": "2026-11-19",
+        "salary": "$176K\u2013$260K",
+        "source_posted": "2026-11-19",
+        "title": "Sr Lead eSoftware Engineer- UI Developer FICC Electronic Trading",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805010",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806456",
+        "key": "210806456",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-19",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-19",
+        "title": "Software Engineer III : Mainframe",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806456",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Yahoo",
+      "job": {
+        "job_id": "JR0027223",
+        "key": "JR0027223",
+        "location": "United States of America",
+        "posted": "2026-11-19",
+        "salary": "$128K\u2013$267K",
+        "source_posted": "Posted Today",
+        "title": "Senior Data Scientist - Yahoo Mail",
+        "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Senior-Data-Scientist---Yahoo-Mail_JR0027223",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "yahoo"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067880",
+        "key": "1970393557075227",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "$85K\u2013$184K",
+        "source_posted": "2026-11-19",
+        "team": "Service Engineering",
+        "title": "Platform Service Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075227",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067879",
+        "key": "1970393557075226",
+        "location": "Reston, Virginia",
+        "posted": "2026-11-19",
+        "salary": "$85K\u2013$184K",
+        "source_posted": "2026-11-19",
+        "team": "Service Engineering",
+        "title": "Platform Service Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075226",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067734",
+        "key": "1970393557075007",
+        "location": "Redmond, Washington; +1 more",
+        "posted": "2026-11-19",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-19",
+        "team": "Security Operations Engineering",
+        "title": "Senior Security Operations Engineer - Security Data, Risk Reduction & Response",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075007",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351003",
+        "key": "351003",
+        "location": "Austin, TX, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Software Developer 4",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351003",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-19"
