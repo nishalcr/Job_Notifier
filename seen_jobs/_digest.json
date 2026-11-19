@@ -603,6 +603,70 @@
         "years": "12+ yrs"
       },
       "slug": "amex"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609538",
+        "key": "10609538",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Data Engineer II, Global Logistics, Exports",
+        "url": "https://www.amazon.jobs/en/jobs/10609538/data-engineer-ii-global-logistics-exports",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10587938",
+        "key": "10587938",
+        "location": "Jersey City, New Jersey",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer , FinTech",
+        "url": "https://www.amazon.jobs/en/jobs/10587938/software-development-engineer-fintech",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "HP",
+      "job": {
+        "job_id": "3171077",
+        "key": "3171077",
+        "location": "Corvallis, Oregon, United States of America",
+        "posted": "2026-11-19",
+        "salary": "$93K\u2013$144K",
+        "source_posted": "Posted Today",
+        "title": "Test & Integration Engineer - Liquid Cooling Solutions",
+        "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Test---Integration-Engineer---Liquid-Cooling-Solutions_3171077-1",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "hp"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006149",
+        "key": "R1006149",
+        "location": "3 Locations",
+        "posted": "2026-11-19",
+        "salary": "$197K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4, Enterprise Data Tech",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Full-stack-Engineer-4--Enterprise-Data-Tech_R1006149-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-19"
