@@ -212,6 +212,23 @@
         "years": "12+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200694762-3401",
+        "key": "200694762-3401",
+        "location": "San Francisco Bay Area",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "team": "Software and Services",
+        "title": "Senior Site Reliability Engineer, Infrastructure Services",
+        "url": "https://jobs.apple.com/en-us/details/200694762-3401/senior-site-reliability-engineer-infrastructure-services?team=SFTWR",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-19"
