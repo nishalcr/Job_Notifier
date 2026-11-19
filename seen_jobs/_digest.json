@@ -3158,6 +3158,20 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695877-0157",
+        "key": "200695877-0157",
+        "location": "Austin",
+        "posted": "2026-11-19",
+        "source_posted": "2026-11-19",
+        "team": "Software and Services",
+        "title": "Software Development Engineer in Test, Security Server Application, Join Mobile Engineering Team",
+        "url": "https://jobs.apple.com/en-us/details/200695877-0157/software-development-engineer-in-test-security-server-application-join-mobile-engineering-team?team=SFTWR"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-18"
