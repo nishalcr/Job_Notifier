@@ -768,6 +768,134 @@
         "years": "4+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608502",
+        "key": "10608502",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Leo Telemetry Platform",
+        "url": "https://www.amazon.jobs/en/jobs/10608502/software-development-engineer-leo-telemetry-platform",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608498",
+        "key": "10608498",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Leo Telemetry Platform",
+        "url": "https://www.amazon.jobs/en/jobs/10608498/software-development-engineer-leo-telemetry-platform",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608497",
+        "key": "10608497",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Leo Telemetry Platform",
+        "url": "https://www.amazon.jobs/en/jobs/10608497/software-development-engineer-leo-telemetry-platform",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608496",
+        "key": "10608496",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Leo Telemetry Platform",
+        "url": "https://www.amazon.jobs/en/jobs/10608496/software-development-engineer-leo-telemetry-platform",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608491",
+        "key": "10608491",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Leo Telemetry Platform",
+        "url": "https://www.amazon.jobs/en/jobs/10608491/software-development-engineer-leo-telemetry-platform",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609577",
+        "key": "10609577",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Security Engineer I, Stores Security- Healthcare Security",
+        "url": "https://www.amazon.jobs/en/jobs/10609577/security-engineer-i-stores-security-healthcare-security",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2028901",
+        "key": "JR2028901",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "System Software Engineer - Autonomous Vehicles",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Autonomous-Vehicles_JR2028901",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "301651",
+        "key": "301651",
+        "location": "Santa Clara, CA, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Firmware Principal Engineer \u2013 System Development",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/301651",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "dell"
     }
   ],
   "last_sent": "2026-11-19"
