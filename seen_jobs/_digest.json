@@ -2950,6 +2950,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607721",
+        "key": "10607721",
+        "location": "San Francisco, California",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Engineer II, Fintech",
+        "url": "https://www.amazon.jobs/en/jobs/10607721/software-engineer-ii-fintech",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-18"
