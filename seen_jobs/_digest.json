@@ -3436,6 +3436,24 @@
         "years": "5+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "We engineer the end-to-end lifecycle of Trust & Safety data, maintaining the production data marts that serve as our definitive single source of truth. We go beyond traditional data engineering by building intelligent DE agents and operationalizing robust, scalable pipelines. As",
+        "job_id": "98235649810670278",
+        "key": "98235649810670278",
+        "location": "Washington D.C., DC, USA; +1 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "RT&amp;S Data Engineering / Tech and Data Enablement (English)",
+        "title": "Senior Data Engineer, RT&amp;S Data Engineering, Tech and Data Enablement (English)",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/98235649810670278",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-18"
