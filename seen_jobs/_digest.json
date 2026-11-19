@@ -1932,6 +1932,87 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609772",
+        "key": "10609772",
+        "location": "Culver City, California",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Creator Marketplace",
+        "url": "https://www.amazon.jobs/en/jobs/10609772/software-development-engineer-creator-marketplace",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609773",
+        "key": "10609773",
+        "location": "Culver City, California",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Creator Marketplace",
+        "url": "https://www.amazon.jobs/en/jobs/10609773/software-development-engineer-creator-marketplace",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368968",
+        "key": "JR368968",
+        "location": "California - San Francisco",
+        "posted": "2026-11-19",
+        "salary": "$218K\u2013$401K",
+        "source_posted": "Posted Today",
+        "title": "Experience Design Architect, Experience Strategy & Studio",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Experience-Design-Architect--Experience-Strategy---Studio_JR368968",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139045",
+        "key": "R0139045",
+        "location": "2 Locations",
+        "posted": "2026-11-19",
+        "salary": "$145K\u2013$236K",
+        "source_posted": "Posted Today",
+        "title": "Staff Data Engineer",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Data-Engineer_R0139045-1",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "paypal"
+    },
+    {
+      "company": "Netflix",
+      "job": {
+        "job_id": "JR43763",
+        "key": "790319610169",
+        "location": "Remote, United States",
+        "posted": "2026-11-19",
+        "salary": "$500K\u2013$860K",
+        "source_posted": "",
+        "team": "Data & Insights",
+        "title": "Software Engineer 5, AI Observability",
+        "url": "https://explore.jobs.netflix.net/careers/job/790319610169",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "netflix"
     }
   ],
   "last_sent": "2026-11-19"
