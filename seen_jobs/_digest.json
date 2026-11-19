@@ -2869,6 +2869,55 @@
         "years": "3\u20135 yrs"
       },
       "slug": "amex"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607724",
+        "key": "10607724",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Engineer, Commerce",
+        "url": "https://www.amazon.jobs/en/jobs/10607724/software-engineer-commerce",
+        "work_type": "Hybrid",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10600442",
+        "key": "10600442",
+        "location": "Cupertino, California",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Sr System Development Engineer, Mfg Bring Up and Test, Mainstream Compute",
+        "url": "https://www.amazon.jobs/en/jobs/10600442/sr-system-development-engineer-mfg-bring-up-and-test-mainstream-compute",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067264",
+        "key": "1970393557073197",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-19",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer- Copilot, Agents, and Platforms",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073197",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-18"
