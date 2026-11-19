@@ -2355,6 +2355,23 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696004-0836",
+        "key": "200696004-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "team": "Software and Services",
+        "title": "Creative Intelligence & Aesthetics - Machine Learning Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200696004-0836/creative-intelligence-aesthetics-machine-learning-engineer?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-19"
