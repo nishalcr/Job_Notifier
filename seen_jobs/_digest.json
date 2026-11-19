@@ -1264,6 +1264,53 @@
         "years": ""
       },
       "slug": "ford"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695937-3543",
+        "key": "200695937-3543",
+        "location": "San Diego",
+        "posted": "2026-11-19",
+        "source_posted": "2026-11-19",
+        "team": "Software and Services",
+        "title": "Backend Software Engineer - Developer Publications",
+        "url": "https://jobs.apple.com/en-us/details/200695937-3543/backend-software-engineer-developer-publications?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695936-3543",
+        "key": "200695936-3543",
+        "location": "San Diego",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "team": "Software and Services",
+        "title": "Full Stack Software Engineer - Developer Publications",
+        "url": "https://jobs.apple.com/en-us/details/200695936-3543/full-stack-software-engineer-developer-publications?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0286580",
+        "key": "JR0286580",
+        "location": "2 Locations",
+        "posted": "2026-11-19",
+        "salary": "$195K\u2013$276K",
+        "source_posted": "Posted Today",
+        "title": "Senior GPU Performance Software Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-GPU-Performance-Software-Engineer_JR0286580",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-19"
