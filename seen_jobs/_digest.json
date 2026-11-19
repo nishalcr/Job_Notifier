@@ -3096,6 +3096,22 @@
         "years": "2+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350142",
+        "key": "350142",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-19",
+        "salary": "$146K\u2013$306K",
+        "source_posted": "2026-11-10",
+        "title": "Lead Principal Systems Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350142",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-18"
