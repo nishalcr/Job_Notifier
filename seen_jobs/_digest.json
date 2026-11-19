@@ -1,5 +1,22 @@
 {
   "issues": [],
-  "jobs": [],
+  "jobs": [
+    {
+      "company": "Adobe",
+      "job": {
+        "job_id": "R173566",
+        "key": "R173566",
+        "location": "6 Locations",
+        "posted": "2026-11-19",
+        "salary": "$125K\u2013$248K",
+        "source_posted": "Posted Today",
+        "title": "Business Process Architect",
+        "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Business-Process-Architect_R173566-1",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "adobe"
+    }
+  ],
   "last_sent": "2026-11-19"
 }
