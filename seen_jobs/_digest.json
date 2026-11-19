@@ -3804,6 +3804,58 @@
         "years": "6+ yrs"
       },
       "slug": "amex"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "2078851143518368",
+        "key": "2078851143518368",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Engineering",
+        "title": "Machine Learning Engineer (Technical Leadership), WhatsApp",
+        "url": "https://www.metacareers.com/profile/job_details/2078851143518368",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "29030081546642214",
+        "key": "29030081546642214",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "WhatsApp / Engineering",
+        "title": "iOS Engineer, WhatsApp",
+        "url": "https://www.metacareers.com/profile/job_details/29030081546642214",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808050",
+        "key": "210808050",
+        "location": "NY, United States",
+        "posted": "2026-11-19",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-19",
+        "title": "Lead Software Engineer- Python Full Stack",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808050",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-18"
