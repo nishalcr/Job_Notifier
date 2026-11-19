@@ -3260,6 +3260,24 @@
         "years": "5+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google Workspace is a smart, simple, and secure suite of productivity apps\u2014including Gmail, Docs, Drive, Calendar, Sheets, Meet, and Chat. Designed to simplify workflows and boost team productivity, Workspace features real-time collaboration at its core, allowing information to f",
+        "job_id": "93983288590246598",
+        "key": "93983288590246598",
+        "location": "Sunnyvale, CA, USA; +2 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Workspace Monetization",
+        "title": "Staff Product Data Scientist, Workspace Monetization",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/93983288590246598",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-18"
