@@ -64,6 +64,70 @@
         "years": "9+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "D10052",
+        "key": "D10052",
+        "location": "Round Rock, TX, United States",
+        "posted": "2026-11-19",
+        "salary": "$78K\u2013$89K",
+        "source_posted": "2026-11-19",
+        "title": "Quality Engineer 1",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/D10052",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016655",
+        "key": "26016655",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Senior Analyst, Data Science",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016655",
+        "work_type": "Hybrid",
+        "years": "2\u20133 yrs"
+      },
+      "slug": "amex"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "345063",
+        "key": "345063",
+        "location": "United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Systems Engineer - Clinical Imaging, PACS Implementation",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345063",
+        "work_type": "Remote",
+        "years": "3+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "345061",
+        "key": "345061",
+        "location": "United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Systems Engineer - Clinical Imaging, PACS Implementation",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345061",
+        "work_type": "Remote",
+        "years": "3+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-19"
