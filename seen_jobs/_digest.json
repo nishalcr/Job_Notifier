@@ -700,6 +700,74 @@
         "years": ""
       },
       "slug": "netflix"
+    },
+    {
+      "company": "Goldman Sachs",
+      "job": {
+        "description": "",
+        "job_id": "189471",
+        "key": "189471",
+        "location": "Dallas, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "HCM\u2013Dallas-Associate, Data Analytics & Reporting-10327376",
+        "title": "HCM\u2013Dallas-Associate, Data Analytics & Reporting-10327376",
+        "url": "https://higher.gs.com/roles/189471",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "goldman-sachs"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "980479324710261",
+        "key": "980479324710261",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "WhatsApp / Engineering",
+        "title": "Android Engineer, WhatsApp",
+        "url": "https://www.metacareers.com/profile/job_details/980479324710261",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016580",
+        "key": "26016580",
+        "location": "Phoenix, AZ, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Cybersecurity Engineer \u2013 Full Stack IAM & Mainframe Security Modernization",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016580",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "amex"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024556",
+        "key": "JR-024556",
+        "location": "14 Locations",
+        "posted": "2026-11-19",
+        "salary": "$112K\u2013$180K",
+        "source_posted": "Posted Today",
+        "title": "Staff Escalation Engineer Software",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Boston-United-States-of-America/Staff-Escalation-Engineer-Software_JR-024556",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-19"
