@@ -2966,6 +2966,38 @@
         "years": "4+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608536",
+        "key": "10608536",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 18, 2026",
+        "title": "Software Development Engineer - Test, Amazon Fuse and MBD",
+        "url": "https://www.amazon.jobs/en/jobs/10608536/software-development-engineer-test-amazon-fuse-and-mbd",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10600445",
+        "key": "10600445",
+        "location": "Cupertino, California",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "System Development Engineer, Mfg Bring Up and Test, AWS Mainstream Compute",
+        "url": "https://www.amazon.jobs/en/jobs/10600445/system-development-engineer-mfg-bring-up-and-test-aws-mainstream-compute",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-18"
