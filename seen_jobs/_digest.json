@@ -3556,6 +3556,38 @@
         "years": "2+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005832",
+        "key": "R1005832",
+        "location": "2 Locations",
+        "posted": "2026-11-19",
+        "salary": "$179K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4 (Python/Java/AWS)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Python-Java-AWS-_R1005832-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005852",
+        "key": "R1005852",
+        "location": "McLean, VA",
+        "posted": "2026-11-19",
+        "salary": "$111K\u2013$127K",
+        "source_posted": "Posted Today",
+        "title": "Integrations Engineer 2",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Integrations-Engineer-2_R1005852-1",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-18"
