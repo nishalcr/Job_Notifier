@@ -2029,6 +2029,91 @@
         "years": "4+ yrs"
       },
       "slug": "samsung"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "107644583126409926",
+        "key": "107644583126409926",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / NetInfra Drain",
+        "title": "Staff Software Engineer, Infrastructure, NetInfra Drain",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/107644583126409926",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Site Reliability Engineering (SRE) combines software and systems engineering to build and run large-scale, massively distributed, fault-tolerant systems. SRE ensures that Google Cloud's services\u2014both our internally critical and our externally-visible systems\u2014have reliability, upt",
+        "job_id": "113854624800088774",
+        "key": "113854624800088774",
+        "location": "New York, NY, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Site Reliability Engineering / Caching SRE",
+        "title": "Staff Software Engineer, Site Reliability Engineering, Caching SRE",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/113854624800088774",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810978",
+        "key": "210810978",
+        "location": "Houston, TX, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Infrastructure Team - Lead Infrastructure Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810978",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006183",
+        "key": "R1006183",
+        "location": "San Jose, CA",
+        "posted": "2026-11-19",
+        "salary": "$251K\u2013$286K",
+        "source_posted": "Posted Today",
+        "title": "Full-Stack Engineer 5 (Cloud Operations Resilience Engineering)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/Full-Stack-Engineer-5--Cloud-Operations-Resilience-Engineering-_R1006183-1",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Atlassian",
+      "job": {
+        "job_id": "27296",
+        "key": "27296",
+        "location": "San Francisco, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Sales",
+        "title": "Customer Success Architect (AI SDLC)",
+        "url": "https://careers-americas.icims.com/jobs/27296/customer-success-architect-%28ai-sdlc%29/job",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "atlassian"
     }
   ],
   "last_sent": "2026-11-19"
