@@ -295,6 +295,56 @@
         "years": "2+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10589130",
+        "key": "10589130",
+        "location": "New York, New York",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Robotics/AI Motor Control Scientist, Fauna",
+        "url": "https://www.amazon.jobs/en/jobs/10589130/robotics-ai-motor-control-scientist-fauna",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "913369835101676",
+        "key": "913369835101676",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Engineering",
+        "title": "Full Stack Engineer, WhatsApp",
+        "url": "https://www.metacareers.com/profile/job_details/913369835101676",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74636",
+        "key": "74636",
+        "location": "Allen Park, MI, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Vehicle Access System Engineering - Early Career Program, Advanced EV",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74636",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-19"
