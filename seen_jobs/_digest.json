@@ -507,6 +507,102 @@
         "years": "1+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609514",
+        "key": "10609514",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Senior Applied Scientist, Fauna",
+        "url": "https://www.amazon.jobs/en/jobs/10609514/senior-applied-scientist-fauna",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609517",
+        "key": "10609517",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Systems Engineer, Special",
+        "url": "https://www.amazon.jobs/en/jobs/10609517/systems-engineer-special",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10587951",
+        "key": "10587951",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer , FinTech Entity Data Service",
+        "url": "https://www.amazon.jobs/en/jobs/10587951/software-development-engineer-fintech-entity-data-service",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "296583",
+        "key": "296583",
+        "location": "Franklin, MA, United States",
+        "posted": "2026-11-19",
+        "salary": "$69K\u2013$95K",
+        "source_posted": "2026-11-19",
+        "title": "Test Engineer 1 (2nd Shift)",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/296583",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "301843",
+        "key": "301843",
+        "location": "Santa Clara, CA, United States; +1 more",
+        "posted": "2026-11-19",
+        "salary": "$198K\u2013$272K",
+        "source_posted": "2026-11-19",
+        "title": "Senior Principal Systems Development Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/301843",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26011207",
+        "key": "26011207",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Sr Staff Software Engineer",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011207",
+        "work_type": "Hybrid",
+        "years": "12+ yrs"
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-19"
