@@ -2789,6 +2789,22 @@
         "years": ""
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103491865376",
+        "key": "103491865376",
+        "location": "San Diego; +more",
+        "posted": "2026-11-19",
+        "salary": "$186K\u2013$251K",
+        "source_posted": "",
+        "title": "Staff Data Scientist - Turbotax Product",
+        "url": "https://jobs.intuit.com/job/san-diego/staff-data-scientist-turbotax-product/27595/103491865376",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-18"
