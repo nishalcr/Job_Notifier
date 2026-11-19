@@ -3738,6 +3738,40 @@
         "years": "10+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google Cloud's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distrib",
+        "job_id": "75734144348234438",
+        "key": "75734144348234438",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML / Workspace Intelligence",
+        "title": "Senior Software Engineer, AI/ML, Workspace Intelligence",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/75734144348234438",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809995",
+        "key": "210809995",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Data Scientist [Multiple Positions Available]",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809995",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-18"
