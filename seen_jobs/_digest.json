@@ -3079,6 +3079,23 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695814-0157",
+        "key": "200695814-0157",
+        "location": "Austin",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "team": "Software and Services",
+        "title": "Software Engineer, Enterprise Technology Services (IdMS)",
+        "url": "https://jobs.apple.com/en-us/details/200695814-0157/software-engineer-enterprise-technology-services-idms?team=SFTWR",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-18"
