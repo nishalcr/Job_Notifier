@@ -345,6 +345,23 @@
         "years": ""
       },
       "slug": "ford"
+    },
+    {
+      "company": "Spotify",
+      "job": {
+        "job_id": "ced2c220-6b5c-4e74-8e06-37d50985097c",
+        "key": "ced2c220-6b5c-4e74-8e06-37d50985097c",
+        "location": "New York, NY; +1 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-05",
+        "team": "Platform",
+        "title": "Backend Engineer - Data Infrastructure",
+        "url": "https://jobs.lever.co/spotify/ced2c220-6b5c-4e74-8e06-37d50985097c",
+        "work_type": "Remote",
+        "years": "3+ yrs"
+      },
+      "slug": "spotify"
     }
   ],
   "last_sent": "2026-11-19"
