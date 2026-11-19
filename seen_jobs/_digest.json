@@ -162,6 +162,56 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609394",
+        "key": "10609394",
+        "location": "Austin, Texas",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Business Intelligence Engineer III, AMZL ORBIT",
+        "url": "https://www.amazon.jobs/en/jobs/10609394/business-intelligence-engineer-iii-amzl-orbit",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609395",
+        "key": "10609395",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Principal Applied Scientist, Agentic Outbound Communications Marketplace",
+        "url": "https://www.amazon.jobs/en/jobs/10609395/principal-applied-scientist-agentic-outbound-communications-marketplace",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1734756811407923",
+        "key": "1734756811407923",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Engineering",
+        "title": "Android Engineer (Technical Leadership), WhatsApp",
+        "url": "https://www.metacareers.com/profile/job_details/1734756811407923",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-19"
