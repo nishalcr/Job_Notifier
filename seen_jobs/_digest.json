@@ -362,6 +362,102 @@
         "years": "3+ yrs"
       },
       "slug": "spotify"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609439",
+        "key": "10609439",
+        "location": "Detroit, Michigan",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Dev Engineer, Business Data Technologies",
+        "url": "https://www.amazon.jobs/en/jobs/10609439/software-dev-engineer-business-data-technologies",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808767",
+        "key": "210808767",
+        "location": "New York, NY, United States; +2 more",
+        "posted": "2026-11-19",
+        "salary": "$176K\u2013$260K",
+        "source_posted": "2026-11-19",
+        "title": "Senior Lead Software Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808767",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809056",
+        "key": "210809056",
+        "location": "NY, United States",
+        "posted": "2026-11-19",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-19",
+        "title": "Lead Cloud Platform Engineering-Python / AWS",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809056",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "72116",
+        "key": "72116",
+        "location": "Allen Park, MI, United States",
+        "posted": "2026-11-19",
+        "salary": "$87K\u2013$166K",
+        "source_posted": "2026-11-19",
+        "title": "Ford Racing Ongoing Production Development (OPD) / Total Value Management (TVM) Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72116",
+        "work_type": "Hybrid",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73962",
+        "key": "73962",
+        "location": "Allen Park, MI, United States",
+        "posted": "2026-11-19",
+        "salary": "$99K\u2013$166K",
+        "source_posted": "2026-11-19",
+        "title": "Commodity Benchmarking Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73962",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Pinterest",
+      "job": {
+        "job_id": "8346516",
+        "key": "8346516",
+        "location": "San Francisco, CA, US; +1 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Staff Machine Learning Engineer, Homefeed & Search Quality",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8346516",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "pinterest"
     }
   ],
   "last_sent": "2026-11-19"
