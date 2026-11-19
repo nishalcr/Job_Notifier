@@ -896,6 +896,278 @@
         "years": "8+ yrs"
       },
       "slug": "dell"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609588",
+        "key": "10609588",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer II, Managed Operations (MO)",
+        "url": "https://www.amazon.jobs/en/jobs/10609588/software-development-engineer-ii-managed-operations-mo",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607438",
+        "key": "10607438",
+        "location": "New York, New York",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Specialist AI Tooling, Specialist Technology Team, AWS Specialist Technology Team (STT)",
+        "url": "https://www.amazon.jobs/en/jobs/10607438/software-development-engineer-specialist-ai-tooling-specialist-technology-team-aws-specialist-technology-team-stt",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210778172",
+        "key": "210778172",
+        "location": "Tampa, FL, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Full Stack Software Engineer II - Java/React/AWS",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778172",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210789997",
+        "key": "210789997",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-19",
+        "salary": "$124K\u2013$170K",
+        "source_posted": "2026-11-19",
+        "title": "Data Science Senior Associate - Wealth Management",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789997",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210803366",
+        "key": "210803366",
+        "location": "Wilmington, DE, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Lead Architect",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803366",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210807043",
+        "key": "210807043",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Lead SRE - Azure and GCP Platforms",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807043",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808500",
+        "key": "210808500",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Lead SRE - Azure and GCP Platforms",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808500",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103523578368",
+        "key": "103523578368",
+        "location": "Mountain View, California",
+        "posted": "2026-11-19",
+        "salary": "$262K\u2013$354K",
+        "source_posted": "",
+        "title": "Principal Engineer \u2014 Money Out (Bill Pay & Credit Card)",
+        "url": "https://jobs.intuit.com/job/mountain-view/principal-engineer-money-out-bill-pay-and-credit-card/27595/103523578368",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103523578304",
+        "key": "103523578304",
+        "location": "Mountain View, California",
+        "posted": "2026-11-19",
+        "salary": "$262K\u2013$354K",
+        "source_posted": "",
+        "title": "Principal Engineer \u2014 Money In (Invoicing, Payments & Capital)",
+        "url": "https://jobs.intuit.com/job/mountain-view/principal-engineer-money-in-invoicing-payments-and-capital/27595/103523578304",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103523578144",
+        "key": "103523578144",
+        "location": "Mountain View; +more",
+        "posted": "2026-11-19",
+        "salary": "$212K\u2013$306K",
+        "source_posted": "",
+        "title": "Senior Staff AI Scientist",
+        "url": "https://jobs.intuit.com/job/mountain-view/senior-staff-ai-scientist/27595/103523578144",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103523578064",
+        "key": "103523578064",
+        "location": "New York, New York",
+        "posted": "2026-11-19",
+        "salary": "$202K\u2013$274K",
+        "source_posted": "",
+        "title": "Staff Software Engineer",
+        "url": "https://jobs.intuit.com/job/new-york/staff-software-engineer/27595/103523578064",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103523578000",
+        "key": "103523578000",
+        "location": "New York, New York",
+        "posted": "2026-11-19",
+        "salary": "$202K\u2013$274K",
+        "source_posted": "",
+        "title": "Staff Software Engineer",
+        "url": "https://jobs.intuit.com/job/new-york/staff-software-engineer/27595/103523578000",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103523577968",
+        "key": "103523577968",
+        "location": "Mountain View; +more",
+        "posted": "2026-11-19",
+        "salary": "$166K\u2013$244K",
+        "source_posted": "",
+        "title": "Senior AI Scientist",
+        "url": "https://jobs.intuit.com/job/mountain-view/senior-ai-scientist/27595/103523577968",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103523577936",
+        "key": "103523577936",
+        "location": "Mountain View; +more",
+        "posted": "2026-11-19",
+        "salary": "$192K\u2013$284K",
+        "source_posted": "",
+        "title": "Staff AI Scientist",
+        "url": "https://jobs.intuit.com/job/mountain-view/staff-ai-scientist/27595/103523577936",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103523577904",
+        "key": "103523577904",
+        "location": "Mountain View; +more",
+        "posted": "2026-11-19",
+        "salary": "$146K\u2013$214K",
+        "source_posted": "",
+        "title": "AI Scientist 2",
+        "url": "https://jobs.intuit.com/job/mountain-view/ai-scientist-2/27595/103523577904",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103523577824",
+        "key": "103523577824",
+        "location": "Mountain View, California",
+        "posted": "2026-11-19",
+        "salary": "$220K\u2013$298K",
+        "source_posted": "",
+        "title": "Senior Staff Engineer - Mid Market",
+        "url": "https://jobs.intuit.com/job/mountain-view/senior-staff-engineer-mid-market/27595/103523577824",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103523577776",
+        "key": "103523577776",
+        "location": "Mountain View; +more",
+        "posted": "2026-11-19",
+        "salary": "$262K\u2013$354K",
+        "source_posted": "",
+        "title": "Principal Engineer - Credit Karma",
+        "url": "https://jobs.intuit.com/job/mountain-view/principal-engineer-credit-karma/27595/103523577776",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-19"
