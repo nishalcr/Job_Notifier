@@ -3172,6 +3172,22 @@
         "url": "https://jobs.apple.com/en-us/details/200695877-0157/software-development-engineer-in-test-security-server-application-join-mobile-engineering-team?team=SFTWR"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606423",
+        "key": "10606423",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Sr Applied Scientist, Amazon Ads CreativeX, Ads CreativeX",
+        "url": "https://www.amazon.jobs/en/jobs/10606423/sr-applied-scientist-amazon-ads-creativex-ads-creativex",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-18"
