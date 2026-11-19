@@ -1408,6 +1408,70 @@
         "years": ""
       },
       "slug": "pinterest"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609713",
+        "key": "10609713",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Applied Scientist, Selling Partner Support Engagement",
+        "url": "https://www.amazon.jobs/en/jobs/10609713/applied-scientist-selling-partner-support-engagement",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609710",
+        "key": "10609710",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer, Amazon Fulfillment Technologies",
+        "url": "https://www.amazon.jobs/en/jobs/10609710/software-development-engineer-amazon-fulfillment-technologies",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74178",
+        "key": "74178",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-19",
+        "salary": "$65K\u2013$166K",
+        "source_posted": "2026-11-19",
+        "title": "Chassis Systems Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74178",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006134",
+        "key": "R1006134",
+        "location": "6 Locations",
+        "posted": "2026-11-19",
+        "salary": "$245K\u2013$335K",
+        "source_posted": "Posted Today",
+        "title": "Staff AI Engineer (Remote Eligible)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Staff-AI-Engineer--Remote-Eligible-_R1006134-1",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-19"
