@@ -2114,6 +2114,70 @@
         "years": ""
       },
       "slug": "atlassian"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609809",
+        "key": "10609809",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Dev Engineer, Amazon Leo",
+        "url": "https://www.amazon.jobs/en/jobs/10609809/software-dev-engineer-amazon-leo",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609808",
+        "key": "10609808",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Dev Engineer II, Amazon Leo",
+        "url": "https://www.amazon.jobs/en/jobs/10609808/software-dev-engineer-ii-amazon-leo",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810700",
+        "key": "210810700",
+        "location": "Palo Alto, CA, United States",
+        "posted": "2026-11-19",
+        "salary": "$138K\u2013$195K",
+        "source_posted": "2026-11-19",
+        "title": "Machine Learning Engineer \u2013 Digital Intelligence",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810700",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "71259",
+        "key": "71259",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-19",
+        "salary": "$84K\u2013$166K",
+        "source_posted": "2026-11-19",
+        "title": "ADAS Feature Systems Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71259",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-19"
