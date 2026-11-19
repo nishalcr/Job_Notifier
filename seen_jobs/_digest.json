@@ -3188,6 +3188,60 @@
         "years": "6+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "91662494421918406",
+        "key": "91662494421918406",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Gemini App / Growth and Discovery",
+        "title": "Software Engineer, Gemini App, Growth and Discovery",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/91662494421918406",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "95069880956396230",
+        "key": "95069880956396230",
+        "location": "San Jose, CA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML / GenAI",
+        "title": "Senior Software Engineer, AI/ML, GenAI, Core",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/95069880956396230",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "84092356864680646",
+        "key": "84092356864680646",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML / Ask Advisor",
+        "title": "Senior Software Engineer, AI/ML, Ask Advisor",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/84092356864680646",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-18"
