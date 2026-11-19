@@ -3278,6 +3278,60 @@
         "years": "10+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "81681952498688710",
+        "key": "81681952498688710",
+        "location": "Chicago, IL, USA; +1 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Generative AI / Google Cloud",
+        "title": "Forward Deployed Engineer III, Generative AI, Google Cloud, Healthcare",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/81681952498688710",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "101666675845145286",
+        "key": "101666675845145286",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Consumer Shopping",
+        "title": "Senior Software Engineer, Infrastructure, Consumer Shopping",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/101666675845145286",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "In most instances, this position requires in-person interviews as part of the hiring process. This role may also be located in our Playa Vista, CA campus. Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for empl",
+        "job_id": "79156374289687238",
+        "key": "79156374289687238",
+        "location": "San Francisco, CA, USA; +9 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "",
+        "team": "Applied AI / Google Cloud",
+        "title": "Forward Deployed Engineer IV, Applied AI, Google Cloud",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/79156374289687238",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-18"
