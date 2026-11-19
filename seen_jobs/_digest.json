@@ -1359,6 +1359,55 @@
         "years": "8+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26015802",
+        "key": "26015802",
+        "location": "New York, NY, United States; +1 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Staff AI Engineer",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015802",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "amex"
+    },
+    {
+      "company": "Netflix",
+      "job": {
+        "job_id": "JR43761",
+        "key": "790319609003",
+        "location": "Remote, United States",
+        "posted": "2026-11-19",
+        "salary": "$175K\u2013$285K",
+        "source_posted": "",
+        "team": "Data & Insights",
+        "title": "Talent Analytics Researcher",
+        "url": "https://explore.jobs.netflix.net/careers/job/790319609003",
+        "work_type": "Remote",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "netflix"
+    },
+    {
+      "company": "Pinterest",
+      "job": {
+        "job_id": "8402791",
+        "key": "8402791",
+        "location": "New York, NY, US; +1 more",
+        "posted": "2026-11-19",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Sr. Counsel - Product, Engineering & AI",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8402791",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "pinterest"
     }
   ],
   "last_sent": "2026-11-19"
