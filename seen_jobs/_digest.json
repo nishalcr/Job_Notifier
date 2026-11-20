@@ -11257,6 +11257,121 @@
         "years": "1+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695965-0836",
+        "key": "200695965-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Engineer, Evolve - an Apple Services Rotation Program | Engineering New Grads",
+        "url": "https://jobs.apple.com/en-us/details/200695965-0836/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695965-2459",
+        "key": "200695965-2459",
+        "location": "New York City",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Engineer, Evolve - an Apple Services Rotation Program | Engineering New Grads",
+        "url": "https://jobs.apple.com/en-us/details/200695965-2459/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695965-3337",
+        "key": "200695965-3337",
+        "location": "Seattle",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Engineer, Evolve - an Apple Services Rotation Program | Engineering New Grads",
+        "url": "https://jobs.apple.com/en-us/details/200695965-3337/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610535",
+        "key": "10610535",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Sr. Software Development Engineer, Amazon Leo Government, ALG Software",
+        "url": "https://www.amazon.jobs/en/jobs/10610535/sr-software-development-engineer-amazon-leo-government-alg-software",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1021618",
+        "key": "R1021618",
+        "location": "TX - Work from home",
+        "posted": "2026-11-20",
+        "salary": "$93K\u2013$185K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Development Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Sr-Software-Development-Engineer_R1021618",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2023611",
+        "key": "JR2023611",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Foundry Development Engineer, Memory",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Foundry-Development-Engineer--Memory_JR2023611",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2024261",
+        "key": "JR2024261",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Physical Failure Analysis Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Failure-Analysis-Engineer_JR2024261-1",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-20"
