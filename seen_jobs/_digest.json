@@ -180,6 +180,1207 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145795",
+        "key": "145795",
+        "location": "Philadelphia, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-Generalist",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145795",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144385",
+        "key": "144385",
+        "location": "Austin, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144385",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "142935",
+        "key": "142935",
+        "location": "Annapolis Junction, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data & Analytics",
+        "title": "Sr Research Scientist \u2013 High Performance Computing (TS/SCI with Full Scope Poly)",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=142935",
+        "work_type": "Hybrid",
+        "years": "12+ yrs"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143890",
+        "key": "143890",
+        "location": "Dallas, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-PeopleSoft",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143890",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143637",
+        "key": "143637",
+        "location": "Tempe, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Hybrid Cloud Manage",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143637",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143605",
+        "key": "143605",
+        "location": "TUCSON, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-IT Automation",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143605",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143983",
+        "key": "143983",
+        "location": "Tempe, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-Hybrid Cloud Manage",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143983",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144455",
+        "key": "144455",
+        "location": "Dallas, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Quality Engineer-User Experience & Accessibility",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144455",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143998",
+        "key": "143998",
+        "location": "CORAL GABLES, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-DevOps",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143998",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144386",
+        "key": "144386",
+        "location": "Dallas, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144386",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143622",
+        "key": "143622",
+        "location": "Columbus, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143622",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143842",
+        "key": "143842",
+        "location": "TUCSON, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143842",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143881",
+        "key": "143881",
+        "location": "Dallas, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-RDBMS",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143881",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144952",
+        "key": "144952",
+        "location": "San Francisco, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-zOS",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144952",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145172",
+        "key": "145172",
+        "location": "San Francisco, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-zOS",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145172",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145022",
+        "key": "145022",
+        "location": "Dallas, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-Microservices",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145022",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145127",
+        "key": "145127",
+        "location": "Dallas, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-Cloud Integration",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145127",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145091",
+        "key": "145091",
+        "location": "Chicago, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Data Engineer-Data Integration",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145091",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145104",
+        "key": "145104",
+        "location": "Dallas, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Process Management (BPM)",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145104",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145196",
+        "key": "145196",
+        "location": "PARAMUS, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Hybrid Cloud Manage",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145196",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144169",
+        "key": "144169",
+        "location": "Austin, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data & Analytics",
+        "title": "Data Engineer-Data Platforms",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144169",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144367",
+        "key": "144367",
+        "location": "Austin, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data & Analytics",
+        "title": "Data Engineer-Business Intelligence",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144367",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145212",
+        "key": "145212",
+        "location": "San Francisco, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data & Analytics",
+        "title": "Business Analyst-ADM",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145212",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144962",
+        "key": "144962",
+        "location": "PARAMUS, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-Hybrid Cloud Manage",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144962",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144997",
+        "key": "144997",
+        "location": "Dallas, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Azure Cloud FullStack",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144997",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144023",
+        "key": "144023",
+        "location": "Dallas, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Data Engineer-Data Modeling",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144023",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144404",
+        "key": "144404",
+        "location": "Austin, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data & Analytics",
+        "title": "Application Developer-Google Cloud FullStack",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144404",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145017",
+        "key": "145017",
+        "location": "JEFFERSON CITY, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Cloud FullStack",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145017",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144957",
+        "key": "144957",
+        "location": "PARAMUS, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144957",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144399",
+        "key": "144399",
+        "location": "No City, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Hybrid Cloud Manage",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144399",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144984",
+        "key": "144984",
+        "location": "Dallas, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-Quality Engineering",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144984",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145156",
+        "key": "145156",
+        "location": "PARAMUS, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145156",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145199",
+        "key": "145199",
+        "location": "San Francisco, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-zOS",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145199"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145192",
+        "key": "145192",
+        "location": "San Francisco, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-zOS",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145192"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "140644",
+        "key": "140644",
+        "location": "Multiple Cities",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Confluent - Senior Principal Engineer",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=140644"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143782",
+        "key": "143782",
+        "location": "Tempe, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143782"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144986",
+        "key": "144986",
+        "location": "PARAMUS, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Hybrid Cloud Manage",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144986"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145005",
+        "key": "145005",
+        "location": "PARAMUS, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Cloud FullStack",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145005"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144982",
+        "key": "144982",
+        "location": "PARAMUS, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-AWS Cloud",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144982"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144044",
+        "key": "144044",
+        "location": "Tempe, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144044"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145026",
+        "key": "145026",
+        "location": "San Francisco, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-DevOps",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145026"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144332",
+        "key": "144332",
+        "location": "Austin, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Data Engineer-Business Intelligence",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144332"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143984",
+        "key": "143984",
+        "location": "Richardson, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Cloud Integration",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143984"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143702",
+        "key": "143702",
+        "location": "Richardson, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Hybrid Cloud Manage",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143702"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144248",
+        "key": "144248",
+        "location": "No City, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144248"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143827",
+        "key": "143827",
+        "location": "PARAMUS, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143827"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144136",
+        "key": "144136",
+        "location": "Brookhaven, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-zOS",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144136"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144450",
+        "key": "144450",
+        "location": "No City, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Business Analyst-ADM",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144450"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144412",
+        "key": "144412",
+        "location": "PARAMUS, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-zOS",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144412"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144103",
+        "key": "144103",
+        "location": "Herndon, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-zOS",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144103"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144306",
+        "key": "144306",
+        "location": "Brookhaven, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144306"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144032",
+        "key": "144032",
+        "location": "PARAMUS, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144032"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143673",
+        "key": "143673",
+        "location": "No City, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Security",
+        "title": "Application Architect-Quality Engineering",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143673"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143697",
+        "key": "143697",
+        "location": "Dallas, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Infrastructure & Technology",
+        "title": "Application Architect-Salesforce",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143697"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143787",
+        "key": "143787",
+        "location": "Brookhaven, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Quality Engineer-Performance & Resilience Management",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143787"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143794",
+        "key": "143794",
+        "location": "Richardson, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Cloud Integration",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143794"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143981",
+        "key": "143981",
+        "location": "No City, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Microsoft Analytics",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143981"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143661",
+        "key": "143661",
+        "location": "No City, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Data Engineer-Business Intelligence",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143661"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143649",
+        "key": "143649",
+        "location": "Chicago, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Mainframe Modernization",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143649"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144374",
+        "key": "144374",
+        "location": "Armonk, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-zOS",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144374"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143922",
+        "key": "143922",
+        "location": "ALEXANDRIA, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Data Engineer-Data Integration",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143922"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143877",
+        "key": "143877",
+        "location": "Herndon, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-Hybrid Cloud Manage",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143877"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143872",
+        "key": "143872",
+        "location": "No City, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-SAP ABAP HANA",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143872"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144271",
+        "key": "144271",
+        "location": "LOWELL, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-Cloud Integration",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144271"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143750",
+        "key": "143750",
+        "location": "No City, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-EAI",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143750"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143712",
+        "key": "143712",
+        "location": "Houston, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Data & Analytics",
+        "title": "Data Scientist-Advanced Analytics",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143712"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143607",
+        "key": "143607",
+        "location": "Brookhaven, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Cloud Integration",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143607"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143928",
+        "key": "143928",
+        "location": "No City, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143928"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144192",
+        "key": "144192",
+        "location": "LOWELL, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-Hybrid Cloud Manage",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144192"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144116",
+        "key": "144116",
+        "location": "Brookhaven, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144116"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143783",
+        "key": "143783",
+        "location": "Brookhaven, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Quality Engineer-Test Management",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143783"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143566",
+        "key": "143566",
+        "location": "Herndon, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-zOS",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143566"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "142586",
+        "key": "142586",
+        "location": "WASHINGTON, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Data & Analytics",
+        "title": "RPA/Automation Architect",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=142586"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143863",
+        "key": "143863",
+        "location": "No City, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-RDBMS",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143863"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143865",
+        "key": "143865",
+        "location": "PARAMUS, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143865"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144325",
+        "key": "144325",
+        "location": "Brookhaven, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-Microservices",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144325"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144267",
+        "key": "144267",
+        "location": "Brookhaven, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144267"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "143838",
+        "key": "143838",
+        "location": "No City, US",
+        "posted": "2026-11-20",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Data Engineer-Enterprise Content Management",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143838"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006176",
+        "key": "R1006176",
+        "location": "4 Locations",
+        "posted": "2026-11-20",
+        "source_posted": "Posted Today",
+        "title": "Workday Integration Engineer 4 (HCM)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Workday-Integration-Engineer-4--HCM-_R1006176"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-20"
