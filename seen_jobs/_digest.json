@@ -3688,6 +3688,42 @@
         "years": "6+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "As a Generative AI (GenAI) Forward Deployed Engineer (FDE) at Google Cloud, you are an embedded builder who bridges the gap between frontier AI products and production-grade reality within customers. Unlike traditional advisory roles, you will function as an innovator-builder, mo",
+        "job_id": "100362242737742534",
+        "key": "100362242737742534",
+        "location": "New York, NY, USA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Generative AI and Security / Google Cloud",
+        "title": "Forward Deployed Engineer IV, Generative AI and Security, Google Cloud",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/100362242737742534",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1691589682565164",
+        "key": "1691589682565164",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Engineering",
+        "title": "Backend Engineer, WhatsApp",
+        "url": "https://www.metacareers.com/profile/job_details/1691589682565164",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-19"
