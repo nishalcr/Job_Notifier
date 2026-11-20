@@ -9641,6 +9641,72 @@
         "years": "3\u20135 yrs"
       },
       "slug": "zscaler"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695921-0836",
+        "key": "200695921-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Sr Software Engineer - LLM Evaluation and Test Infrastructure",
+        "url": "https://jobs.apple.com/en-us/details/200695921-0836/sr-software-engineer-llm-evaluation-and-test-infrastructure?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610482",
+        "key": "10610482",
+        "location": "New York, New York",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Applied Scientist, Advertiser Growth Engine",
+        "url": "https://www.amazon.jobs/en/jobs/10610482/applied-scientist-advertiser-growth-engine",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R0976391",
+        "key": "R0976391",
+        "location": "IRL - Galway",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer - DevOps and Observability",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IRL---Galway/Senior-Software-Engineer---DevOps-and-Observability_R0976391",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200043556",
+        "key": "1970393556937128",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-20",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-20",
+        "team": "Software Engineering",
+        "title": "Principal Cybersecurity Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556937128",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-20"
