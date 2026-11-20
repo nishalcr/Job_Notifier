@@ -3756,6 +3756,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006179",
+        "key": "R1006179",
+        "location": "3 Locations",
+        "posted": "2026-11-20",
+        "salary": "$179K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Site Reliability Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Wilmington-DE/Site-Reliability-Engineer-4_R1006179-1",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-19"
