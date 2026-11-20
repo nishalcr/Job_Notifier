@@ -3570,6 +3570,22 @@
         "years": "8+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1102020",
+        "key": "R1102020",
+        "location": "3 Locations",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Workday Security Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IRL---Galway/Senior-Workday-Security-Engineer_R1102020",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cvs_wd"
     }
   ],
   "last_sent": "2026-11-19"
