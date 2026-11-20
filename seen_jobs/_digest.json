@@ -3152,6 +3152,54 @@
         "years": ""
       },
       "slug": "apple"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806005",
+        "key": "210806005",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-20",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-20",
+        "title": "Software Engineer III - Salesforce",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806005",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806044",
+        "key": "210806044",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-20",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-20",
+        "title": "Software Engineer III - Selenium Automation",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806044",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808727",
+        "key": "210808727",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-20",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-20",
+        "title": "Software Engineer III- Mainframe",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808727",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-19"
