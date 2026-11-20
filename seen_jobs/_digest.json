@@ -116,6 +116,38 @@
         "years": "3\u20135 yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350673",
+        "key": "350673",
+        "location": "Reston, VA, United States; +1 more",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Cloud Adoption Engineer - Security and ATO Process",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350673",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "339199",
+        "key": "339199",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-20",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-20",
+        "title": "Senior Core Infrastructure Engineer, Fast Connect",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/339199",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
