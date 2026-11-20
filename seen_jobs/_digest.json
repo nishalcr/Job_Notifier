@@ -3772,6 +3772,22 @@
         "years": "8+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610234",
+        "key": "10610234",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Amazon Technologies Systems Engineer, Reliability Engineering Team",
+        "url": "https://www.amazon.jobs/en/jobs/10610234/amazon-technologies-systems-engineer-reliability-engineering-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-19"
