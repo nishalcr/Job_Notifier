@@ -52,6 +52,70 @@
         "years": "8+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Samsung",
+      "job": {
+        "job_id": "R122139",
+        "key": "R122139",
+        "location": "6555 Excellence Way, Plano, TX, USA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Software Developer Engineer",
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Software-Developer-Engineer_R122139",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "samsung"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "296668",
+        "key": "296668",
+        "location": "Mclean, VA, United States",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Systems Engineer \u2013 Research Infrastructure & Lab Platforms",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/296668",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73611",
+        "key": "73611",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-20",
+        "salary": "$100K\u2013$170K",
+        "source_posted": "2026-11-20",
+        "title": "ADAS Systems Engineer for Perception",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73611",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74634",
+        "key": "74634",
+        "location": "Glendale, KY, United States",
+        "posted": "2026-11-20",
+        "salary": "$87K\u2013$166K",
+        "source_posted": "2026-11-20",
+        "title": "Security Engineer (TVM), Ford Energy",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74634",
+        "work_type": "Onsite",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-20"
