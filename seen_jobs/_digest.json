@@ -9988,6 +9988,135 @@
         "years": "10+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695285-2605",
+        "key": "200695285-2605",
+        "location": "Los Angeles",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-17",
+        "team": "Software and Services",
+        "title": "Senior Software Engineer, Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200695285-2605/senior-software-engineer-vision-products-software?team=SFTWR",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610592",
+        "key": "10610592",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Applied Scientist, Amazon Leo Satellite Build Systems",
+        "url": "https://www.amazon.jobs/en/jobs/10610592/applied-scientist-amazon-leo-satellite-build-systems",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10592729",
+        "key": "10592729",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Software Development Engineer II, Amazon Leo",
+        "url": "https://www.amazon.jobs/en/jobs/10592729/software-development-engineer-ii-amazon-leo",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210807023",
+        "key": "210807023",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-20",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-20",
+        "title": "Lead Software Engineer- AI Engineer (AI Tool & Framework Development)",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807023",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "101936",
+        "key": "101936",
+        "location": "San Francisco, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Performance Engineer (Inference, Training & GPU)",
+        "url": "https://careers.amd.com/careers-home/jobs/101936",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "101935",
+        "key": "101935",
+        "location": "San Francisco, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Research Scientist (Generative Modeling)",
+        "url": "https://careers.amd.com/careers-home/jobs/101935",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97765",
+        "key": "97765",
+        "location": "San Jose, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Systems Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/97765",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "101934",
+        "key": "101934",
+        "location": "San Francisco, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Research Engineer / Scientist (Robot Learning)",
+        "url": "https://careers.amd.com/careers-home/jobs/101934",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-20"
