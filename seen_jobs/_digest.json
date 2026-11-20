@@ -10117,6 +10117,119 @@
         "years": "6+ yrs"
       },
       "slug": "amd"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210803468",
+        "key": "210803468",
+        "location": "Chicago, IL, United States",
+        "posted": "2026-11-20",
+        "salary": "$114K\u2013$155K",
+        "source_posted": "2026-11-20",
+        "title": "Software Engineer III - DevOps/Release Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803468",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210807022",
+        "key": "210807022",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-20",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-20",
+        "title": "Lead Software Engineer (AWS + Distributed)",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807022",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "101938",
+        "key": "101938",
+        "location": "San Francisco, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Research Engineer / Scientist (SLAM)",
+        "url": "https://careers.amd.com/careers-home/jobs/101938",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "101937",
+        "key": "101937",
+        "location": "San Francisco, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Rendering Systems Engineer - Simulation & Synthetic Data",
+        "url": "https://careers.amd.com/careers-home/jobs/101937",
+        "work_type": "",
+        "years": "3\u20134 yrs"
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006346",
+        "key": "R1006346",
+        "location": "6 Locations",
+        "posted": "2026-11-20",
+        "salary": "$119K\u2013$164K",
+        "source_posted": "Posted Today",
+        "title": "Workday Integration Engineer 3 (Finance)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Workday-Integration-Engineer-3--Finance-_R1006346-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016566",
+        "key": "26016566",
+        "location": "Phoenix, AZ, United States",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Sr Infrastructure Engineer II",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016566",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "amex"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067246",
+        "key": "1970393557073116",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-20",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-20",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer, Minecraft",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073116",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-20"
