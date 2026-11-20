@@ -10604,6 +10604,22 @@
         "years": ""
       },
       "slug": "stripe"
+    },
+    {
+      "company": "Reddit",
+      "job": {
+        "job_id": "8399817",
+        "key": "8399817",
+        "location": "Remote - United States",
+        "posted": "2026-11-20",
+        "salary": "$269K\u2013$401K",
+        "source_posted": "2026-11-20",
+        "title": "Principal Engineer, Security",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8399817",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "reddit"
     }
   ],
   "last_sent": "2026-11-20"
