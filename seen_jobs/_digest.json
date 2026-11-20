@@ -10932,6 +10932,39 @@
         "years": ""
       },
       "slug": "adobe"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696331-3543",
+        "key": "200696331-3543",
+        "location": "San Diego",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Wireless Intelligence Software Engineer, Wireless Technologies & Ecosystems",
+        "url": "https://jobs.apple.com/en-us/details/200696331-3543/wireless-intelligence-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "300703",
+        "key": "300703",
+        "location": "Round Rock, TX, United States",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Principal Systems Development Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/300703",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "dell"
     }
   ],
   "last_sent": "2026-11-20"
