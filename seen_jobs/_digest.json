@@ -3740,6 +3740,22 @@
         "years": "8+ yrs"
       },
       "slug": "amd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607195",
+        "key": "10607195",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Software Development Engineer, Agentic AI",
+        "url": "https://www.amazon.jobs/en/jobs/10607195/software-development-engineer-agentic-ai",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-19"
