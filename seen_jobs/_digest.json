@@ -11566,6 +11566,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351086",
+        "key": "351086",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-20",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-20",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351086",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
