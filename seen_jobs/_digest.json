@@ -3724,6 +3724,22 @@
         "years": "8+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97224",
+        "key": "97224",
+        "location": "San Jose, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Senior DevOps Engineer \u2013 Cloud & Infrastructure",
+        "url": "https://careers.amd.com/careers-home/jobs/97224",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-19"
