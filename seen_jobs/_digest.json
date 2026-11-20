@@ -10620,6 +10620,54 @@
         "years": ""
       },
       "slug": "reddit"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210777552",
+        "key": "210777552",
+        "location": "Houston, TX, United States",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Lead Software Engineer - Java/Python, SQL, Databricks",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777552",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74340",
+        "key": "74340",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-20",
+        "salary": "$65K\u2013$166K",
+        "source_posted": "2026-11-20",
+        "title": "Exterior Body Design and Release Engineer - Exterior Ornamentation",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74340",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26017022",
+        "key": "26017022",
+        "location": "Phoenix, AZ, United States; +2 more",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "AI Engineer III - Core Technologies",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017022",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-20"
