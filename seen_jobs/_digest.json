@@ -3536,6 +3536,24 @@
         "years": "10+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "95288546331370182",
+        "key": "95288546331370182",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Search App Growth",
+        "title": "Senior Product Data Scientist, Search App Growth",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/95288546331370182",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-19"
