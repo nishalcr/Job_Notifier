@@ -9573,6 +9573,74 @@
         "years": ""
       },
       "slug": "ibm"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "120440080975176390",
+        "key": "120440080975176390",
+        "location": "New York, NY, USA; +1 more",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML GenAI / Google Workspace",
+        "title": "Staff Software Engineer, AI/ML GenAI, Google Workspace",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/120440080975176390",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "As an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scient",
+        "job_id": "73304017492419270",
+        "key": "73304017492419270",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Research",
+        "title": "Senior Staff Research Scientist, Google Research",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/73304017492419270",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74134",
+        "key": "74134",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-20",
+        "salary": "$65K\u2013$166K",
+        "source_posted": "2026-11-20",
+        "title": "Full-Stack Software Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74134",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Zscaler",
+      "job": {
+        "job_id": "5303574007",
+        "key": "5303574007",
+        "location": "Santa Clara, California, USA",
+        "posted": "2026-11-20",
+        "salary": "$152K\u2013$190K",
+        "source_posted": "2026-11-20",
+        "title": "Staff Production Engineer",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5303574007",
+        "work_type": "Hybrid",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "zscaler"
     }
   ],
   "last_sent": "2026-11-20"
