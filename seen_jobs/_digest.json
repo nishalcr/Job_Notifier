@@ -10524,6 +10524,86 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610709",
+        "key": "10610709",
+        "location": "San Francisco, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Security Engineer, Leo Security",
+        "url": "https://www.amazon.jobs/en/jobs/10610709/security-engineer-leo-security",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610705",
+        "key": "10610705",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Software Development Engineer II, TopHat",
+        "url": "https://www.amazon.jobs/en/jobs/10610705/software-development-engineer-ii-tophat",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610702",
+        "key": "10610702",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Software Development Engineer II, Amazon Teams",
+        "url": "https://www.amazon.jobs/en/jobs/10610702/software-development-engineer-ii-amazon-teams",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1109422",
+        "key": "R1109422",
+        "location": "GA - Work from home",
+        "posted": "2026-11-20",
+        "salary": "$107K\u2013$213K",
+        "source_posted": "Posted Today",
+        "title": "Staff AI Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/GA---Work-from-home/Staff-AI-Engineer_R1109422",
+        "work_type": "Remote",
+        "years": "4+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8323907",
+        "key": "8323907",
+        "location": "N/A",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Staff Data Scientist, Fraud",
+        "url": "https://stripe.com/jobs/search?gh_jid=8323907",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "stripe"
     }
   ],
   "last_sent": "2026-11-20"
