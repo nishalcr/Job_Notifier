@@ -11550,6 +11550,22 @@
         "years": "10+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607608",
+        "key": "10607608",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Software Development Engineer, Network Operations",
+        "url": "https://www.amazon.jobs/en/jobs/10607608/software-development-engineer-network-operations",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-20"
