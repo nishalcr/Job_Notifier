@@ -9459,6 +9459,54 @@
         "years": "4+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "99756",
+        "key": "99756",
+        "location": "San Jose, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Software Engineer, Devops Platform Engineering",
+        "url": "https://careers.amd.com/careers-home/jobs/99756",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Zscaler",
+      "job": {
+        "job_id": "5283494007",
+        "key": "5283494007",
+        "location": "Santa Clara, California, USA",
+        "posted": "2026-11-20",
+        "salary": "$102K\u2013$145K",
+        "source_posted": "2026-11-20",
+        "title": "Software Development Engineer",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "zscaler"
+    },
+    {
+      "company": "Zscaler",
+      "job": {
+        "job_id": "5283490007",
+        "key": "5283490007",
+        "location": "Santa Clara, California, USA",
+        "posted": "2026-11-20",
+        "salary": "$116K\u2013$165K",
+        "source_posted": "2026-11-20",
+        "title": "Sr. Software Development Engineer",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283490007",
+        "work_type": "Hybrid",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "zscaler"
     }
   ],
   "last_sent": "2026-11-20"
