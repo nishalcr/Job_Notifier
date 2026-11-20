@@ -3554,6 +3554,22 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030272",
+        "key": "JR2030272",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior DevOps and Infrastructure Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DevOps-and-Infrastructure-Engineer_JR2030272",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-19"
