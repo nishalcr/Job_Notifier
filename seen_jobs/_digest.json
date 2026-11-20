@@ -9772,6 +9772,72 @@
         "years": "8+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696080-0836",
+        "key": "200696080-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "On-Device ML Compiler Engineer, Model Compilation",
+        "url": "https://jobs.apple.com/en-us/details/200696080-0836/on-device-ml-compiler-engineer-model-compilation?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696253-0836",
+        "key": "200696253-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Finder Files Senior Software Engineer, UI Architect",
+        "url": "https://jobs.apple.com/en-us/details/200696253-0836/finder-files-senior-software-engineer-ui-architect?team=SFTWR",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810882",
+        "key": "210810882",
+        "location": "Jersey City, NJ, United States; +1 more",
+        "posted": "2026-11-20",
+        "salary": "$109K\u2013$165K",
+        "source_posted": "2026-11-20",
+        "title": "Data Owner Associate Senior - Data Analytics - Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810882",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "94320",
+        "key": "94320",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Advanced PPA Methodology Development Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/94320",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-20"
