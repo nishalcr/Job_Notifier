@@ -10230,6 +10230,57 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695896-0836",
+        "key": "200695896-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Systems Software Engineer, Platform Architecture",
+        "url": "https://jobs.apple.com/en-us/details/200695896-0836/systems-software-engineer-platform-architecture?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067911",
+        "key": "1970393557075442",
+        "location": "Multiple Locations; +1 more",
+        "posted": "2026-11-20",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-20",
+        "team": "Sourcing Engineering",
+        "title": "Sourcing Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075442",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067961",
+        "key": "1970393557075513",
+        "location": "Multiple Locations",
+        "posted": "2026-11-20",
+        "salary": "$106K\u2013$223K",
+        "source_posted": "2026-11-20",
+        "team": "Business Strategy",
+        "title": "Business Architect - Cloud & AI Channel Partner",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075513",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-20"
