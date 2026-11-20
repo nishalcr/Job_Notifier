@@ -9524,6 +9524,55 @@
         "years": "2+ yrs"
       },
       "slug": "ibm"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610458",
+        "key": "10610458",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Senior Business Intelligence Engineer, Prime Air",
+        "url": "https://www.amazon.jobs/en/jobs/10610458/senior-business-intelligence-engineer-prime-air",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR367226",
+        "key": "JR367226",
+        "location": "2 Locations",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Principal Architect Evangelist",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Georgia---Atlanta/Principal-Architect-Evangelist_JR367226",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145656",
+        "key": "145656",
+        "location": "Multiple Cities",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Confluent - Senior Software Engineer",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145656",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
     }
   ],
   "last_sent": "2026-11-20"
