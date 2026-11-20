@@ -3484,6 +3484,22 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0288203",
+        "key": "JR0288203",
+        "location": "US, California, Folsom",
+        "posted": "2026-11-20",
+        "salary": "$142K\u2013$232K",
+        "source_posted": "Posted Today",
+        "title": "GPU Performance Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Performance-Engineer_JR0288203",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-19"
