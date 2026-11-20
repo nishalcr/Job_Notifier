@@ -3379,6 +3379,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610081",
+        "key": "10610081",
+        "location": "Wilmington, Massachusetts",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Sr. Applied Scientist, Foundation Model",
+        "url": "https://www.amazon.jobs/en/jobs/10610081/sr-applied-scientist-foundation-model",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-19"
