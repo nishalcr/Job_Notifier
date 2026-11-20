@@ -9395,6 +9395,38 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610402",
+        "key": "10610402",
+        "location": "San Francisco, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Sr. Software Dev Engineer, Amazon Interactive Video Service (IVS)",
+        "url": "https://www.amazon.jobs/en/jobs/10610402/sr-software-dev-engineer-amazon-interactive-video-service-ivs",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610404",
+        "key": "10610404",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Software Development Engineer II, Security Products",
+        "url": "https://www.amazon.jobs/en/jobs/10610404/software-development-engineer-ii-security-products",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-20"
