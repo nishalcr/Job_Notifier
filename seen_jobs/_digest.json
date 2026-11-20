@@ -3200,6 +3200,22 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610055",
+        "key": "10610055",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Data Scientist II, Demand Enablement, Product Analytics and Operations, Ads Technology",
+        "url": "https://www.amazon.jobs/en/jobs/10610055/data-scientist-ii-demand-enablement-product-analytics-and-operations-ads-technology",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-19"
