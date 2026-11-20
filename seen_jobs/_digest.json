@@ -10361,6 +10361,56 @@
         "years": "3+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1007263232436217",
+        "key": "1007263232436217",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Engineering",
+        "title": "Full Stack Engineer, Central Integrity",
+        "url": "https://www.metacareers.com/profile/job_details/1007263232436217",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368185",
+        "key": "JR368185",
+        "location": "Indiana - Remote",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Data + AI Practice D360 Product Architect",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Indiana---Remote/Data---AI-Practice-D360-Product-Architect_JR368185",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808030",
+        "key": "210808030",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Infrastructure Engineer III",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808030",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-20"
