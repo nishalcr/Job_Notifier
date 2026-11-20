@@ -3037,6 +3037,70 @@
         "years": ""
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2025805",
+        "key": "JR2025805",
+        "location": "6 Locations",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Automation Infrastructure Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Automation-Infrastructure-Engineer_JR2025805",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350883",
+        "key": "350883",
+        "location": "United States",
+        "posted": "2026-11-20",
+        "salary": "$88K\u2013$210K",
+        "source_posted": "2026-11-18",
+        "title": "Senior Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350883",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350892",
+        "key": "350892",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-20",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-18",
+        "title": "Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350892",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350931",
+        "key": "350931",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-20",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-18",
+        "title": "Senior Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350931",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-19"
