@@ -3216,6 +3216,38 @@
         "years": "2+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610060",
+        "key": "10610060",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Data Scientist, NA Operations",
+        "url": "https://www.amazon.jobs/en/jobs/10610060/data-scientist-na-operations",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610063",
+        "key": "10610063",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Software Development Engineer II, Amazon Inspector Security Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10610063/software-development-engineer-ii-amazon-inspector-security-engineering",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-19"
