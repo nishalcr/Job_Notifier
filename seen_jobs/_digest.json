@@ -9330,6 +9330,71 @@
         "years": "2+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695579-0157",
+        "key": "200695579-0157",
+        "location": "Austin",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Core Firmware Quality Engineer, Core OS",
+        "url": "https://jobs.apple.com/en-us/details/200695579-0157/core-firmware-quality-engineer-core-os?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610393",
+        "key": "10610393",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Data Engineer II, Veritas, Security Tools Foundation",
+        "url": "https://www.amazon.jobs/en/jobs/10610393/data-engineer-ii-veritas-security-tools-foundation",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2013302",
+        "key": "JR2013302",
+        "location": "2 Locations",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior System Software Engineer, GPU Performance Profiling",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-System-Software-Engineer--GPU-Performance-Profiling_JR2013302",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210789609",
+        "key": "210789609",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-20",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-20",
+        "title": "Python / Agentic AI Software Engineer III",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789609",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-20"
