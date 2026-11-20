@@ -3604,6 +3604,58 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610150",
+        "key": "10610150",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Research Scientist, Special Projects",
+        "url": "https://www.amazon.jobs/en/jobs/10610150/research-scientist-special-projects",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "121738947804963526",
+        "key": "121738947804963526",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Continuous Fleet Transformation and Optimization",
+        "title": "Staff Software Engineer, Continuous Fleet Transformation and Optimization",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/121738947804963526",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Our Security team works to create and maintain the safest operating environment for Google's users and developers. Security Engineers work with network equipment and actively monitor our systems for attacks and intrusions. In this role, you will also work with software engineers",
+        "job_id": "143507628767486662",
+        "key": "143507628767486662",
+        "location": "Sunnyvale, CA, USA; +2 more",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Cloud VRP",
+        "title": "Senior Security Engineer, Google Cloud VRP",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/143507628767486662",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-19"
