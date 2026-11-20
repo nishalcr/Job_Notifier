@@ -3266,6 +3266,37 @@
         "years": "5+ yrs"
       },
       "slug": "uber"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695841-0365",
+        "key": "200695841-0365",
+        "location": "Boulder",
+        "posted": "2026-11-20",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "AR/VR Software Engineer - Spatial System UI, Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200695841-0365/ar-vr-software-engineer-spatial-system-ui-vision-products-software?team=SFTWR"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695841-3956",
+        "key": "200695841-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "AR/VR Software Engineer - Spatial System UI, Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200695841-3956/ar-vr-software-engineer-spatial-system-ui-vision-products-software?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-19"
