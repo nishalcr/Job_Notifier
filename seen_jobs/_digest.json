@@ -9838,6 +9838,58 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610549",
+        "key": "10610549",
+        "location": "San Francisco, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Sr. Software Dev Engineer, Amazon Interactive Video Service (IVS)",
+        "url": "https://www.amazon.jobs/en/jobs/10610549/sr-software-dev-engineer-amazon-interactive-video-service-ivs",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1169647092254330",
+        "key": "1169647092254330",
+        "location": "Burlingame, CA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Facebook Reality Labs / Engineering",
+        "title": "Software Engineer, Audio",
+        "url": "https://www.metacareers.com/profile/job_details/1169647092254330",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1494676229143581",
+        "key": "1494676229143581",
+        "location": "Redmond, WA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Burlingame, CA / Security",
+        "title": "Product Security Engineer \u2013 Wearables (Meta Reality Labs)",
+        "url": "https://www.metacareers.com/profile/job_details/1494676229143581",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-20"
