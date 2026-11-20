@@ -3248,6 +3248,24 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Team The Uber Eats Delivery Search team builds large scale machine learning systems that help consumers discover relevant merchants, products, and items across Uber Eats. We are transforming Search through two major initiatives: Search as an LLM (SaaL), evolving traditi",
+        "job_id": "304801",
+        "key": "304801",
+        "location": "Sunnyvale, California; +2 more",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Engineer",
+        "title": "Senior Machine Learning Engineer",
+        "url": "https://jobs.uber.com/en/jobs/304801/",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "uber"
     }
   ],
   "last_sent": "2026-11-19"
