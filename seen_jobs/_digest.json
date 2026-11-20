@@ -11486,6 +11486,70 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607027",
+        "key": "10607027",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer, Amazon Customer Service",
+        "url": "https://www.amazon.jobs/en/jobs/10607027/software-development-engineer-amazon-customer-service",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607203",
+        "key": "10607203",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Development Engineer, Amazon Customer Service",
+        "url": "https://www.amazon.jobs/en/jobs/10607203/software-development-engineer-amazon-customer-service",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74358",
+        "key": "74358",
+        "location": "United States",
+        "posted": "2026-11-20",
+        "salary": "$99K\u2013$166K",
+        "source_posted": "2026-11-20",
+        "title": "Product Analyst",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74358",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350903",
+        "key": "350903",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Lead Principal Application Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350903",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
