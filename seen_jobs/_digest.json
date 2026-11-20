@@ -11143,6 +11143,22 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "348909",
+        "key": "348909",
+        "location": "Nashville, TN, United States; +1 more",
+        "posted": "2026-11-20",
+        "salary": "$146K\u2013$306K",
+        "source_posted": "2026-11-20",
+        "title": "Lead Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348909",
+        "work_type": "",
+        "years": "15+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
