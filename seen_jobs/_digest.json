@@ -3118,6 +3118,40 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200693165-3673",
+        "key": "200693165-3673",
+        "location": "Vancouver",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Software Engineer, Productivity Apps",
+        "url": "https://jobs.apple.com/en-us/details/200693165-3673/software-engineer-productivity-apps?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696111-0836",
+        "key": "200696111-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Senior Software Engineer, Payments",
+        "url": "https://jobs.apple.com/en-us/details/200696111-0836/senior-software-engineer-payments?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-19"
