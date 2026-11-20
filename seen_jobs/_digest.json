@@ -11582,6 +11582,38 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610821",
+        "key": "10610821",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Sr. Systems Dev Engineer, Production Automation, Amazon Leo",
+        "url": "https://www.amazon.jobs/en/jobs/10610821/sr-systems-dev-engineer-production-automation-amazon-leo",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2032564",
+        "key": "2032564",
+        "location": "San Francisco, California, US",
+        "posted": "2026-11-20",
+        "salary": "$192K\u2013$356K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering Technical Leader, Forward Deployment Engineer",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Francisco-California-US/Software-Engineering-Technical-Leader--Forward-Deployment-Engineer_2032564-1",
+        "work_type": "Hybrid",
+        "years": "12+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-20"
