@@ -9739,6 +9739,39 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067559",
+        "key": "1970393557074525",
+        "location": "Multiple Locations",
+        "posted": "2026-11-20",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-20",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557074525",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350672",
+        "key": "350672",
+        "location": "Reston, VA, United States; +1 more",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Cloud Adoption Engineer-Networking",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350672",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
