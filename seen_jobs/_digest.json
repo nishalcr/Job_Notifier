@@ -3331,6 +3331,22 @@
         "years": ""
       },
       "slug": "apple"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368525",
+        "key": "JR368525",
+        "location": "2 Locations",
+        "posted": "2026-11-20",
+        "salary": "$218K\u2013$401K",
+        "source_posted": "Posted Today",
+        "title": "User Interface/User Experience Architect",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/User-Interface-User-Experience-Architect_JR368525-1",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "salesforce"
     }
   ],
   "last_sent": "2026-11-19"
