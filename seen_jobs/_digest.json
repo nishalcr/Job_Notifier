@@ -11224,6 +11224,39 @@
         "years": "6+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210811399",
+        "key": "210811399",
+        "location": "Jersey City, NJ, United States; +2 more",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Data Domain Architect, Senior Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811399",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066848",
+        "key": "1970393557070765",
+        "location": "Multiple Locations",
+        "posted": "2026-11-20",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-20",
+        "team": "Security Operations Engineering",
+        "title": "Security Operations Engineer II, Detection and Response",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070765",
+        "work_type": "Remote",
+        "years": "1+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-20"
