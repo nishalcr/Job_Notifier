@@ -9707,6 +9707,38 @@
         "years": "6+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809337",
+        "key": "210809337",
+        "location": "GA, United States",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Security Engineer II",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809337",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "342720",
+        "key": "342720",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-20",
+        "salary": "$92K\u2013$210K",
+        "source_posted": "2026-11-20",
+        "title": "Senior Platform Software Engineer, AI",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342720",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
