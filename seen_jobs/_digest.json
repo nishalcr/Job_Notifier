@@ -3021,6 +3021,22 @@
         "years": "8+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2028650",
+        "key": "JR2028650",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "GPU Firmware Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Firmware-Engineer_JR2028650",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-19"
