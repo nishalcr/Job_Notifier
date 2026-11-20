@@ -10281,6 +10281,86 @@
         "years": "3+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610662",
+        "key": "10610662",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Applied Scientist II, Sponsored Products and Brands - Advertiser Growth - Cross-border Seller Experience (CBSX)",
+        "url": "https://www.amazon.jobs/en/jobs/10610662/applied-scientist-ii-sponsored-products-and-brands-advertiser-growth-cross-border-seller-experience-cbsx",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610664",
+        "key": "10610664",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Applied Scientist III, Sponsored Products and Brands",
+        "url": "https://www.amazon.jobs/en/jobs/10610664/applied-scientist-iii-sponsored-products-and-brands",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2029619",
+        "key": "2029619",
+        "location": "San Jose, California, US",
+        "posted": "2026-11-20",
+        "salary": "$120K\u2013$194K",
+        "source_posted": "Posted Today",
+        "title": "Laboratory Engineer",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Laboratory-Engineer_2029619",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210791869",
+        "key": "210791869",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Full-stack Java & React Software Engineer III",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791869",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74469",
+        "key": "74469",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-20",
+        "salary": "$87K\u2013$145K",
+        "source_posted": "2026-11-20",
+        "title": "ADAS Surround View Camera Feature Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74469",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-20"
