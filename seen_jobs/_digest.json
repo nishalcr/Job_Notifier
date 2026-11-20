@@ -10965,6 +10965,104 @@
         "years": ""
       },
       "slug": "dell"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696363-0836",
+        "key": "200696363-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Software Quality Engineer, Sensing & Connectivity",
+        "url": "https://jobs.apple.com/en-us/details/200696363-0836/software-quality-engineer-sensing-connectivity?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R0925209",
+        "key": "R0925209",
+        "location": "AZ - Scottsdale",
+        "posted": "2026-11-20",
+        "salary": "$175K\u2013$335K",
+        "source_posted": "Posted Today",
+        "title": "Distinguished Engineer, Exposure Management",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Distinguished-Engineer--Exposure-Management_R0925209",
+        "work_type": "Hybrid",
+        "years": "15+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368923",
+        "key": "JR368923",
+        "location": "California - San Francisco",
+        "posted": "2026-11-20",
+        "salary": "$197K\u2013$345K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering PMTS",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineering-PMTS_JR368923",
+        "work_type": "Hybrid",
+        "years": "12+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR367056",
+        "key": "JR367056",
+        "location": "Texas - Dallas",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering MTS",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Texas---Dallas/Software-Engineering-MTS_JR367056",
+        "work_type": "",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97838",
+        "key": "97838",
+        "location": "Secaucus, New Jersey",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Customer Quality Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/97838",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Cerebras",
+      "job": {
+        "job_id": "a3f0196e-3ca9-40ca-a3d6-b0c4611b15b6",
+        "key": "a3f0196e-3ca9-40ca-a3d6-b0c4611b15b6",
+        "location": "Sunnyvale, CA",
+        "posted": "2026-11-20",
+        "salary": "$175K\u2013$250K",
+        "source_posted": "2026-11-20",
+        "team": "Quality & Reliability",
+        "title": "Senior Product Quality Engineer",
+        "url": "https://jobs.ashbyhq.com/cerebras/a3f0196e-3ca9-40ca-a3d6-b0c4611b15b6",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "cerebras"
     }
   ],
   "last_sent": "2026-11-20"
