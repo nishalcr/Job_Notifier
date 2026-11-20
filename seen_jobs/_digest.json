@@ -9314,6 +9314,22 @@
         "years": "10+ yrs"
       },
       "slug": "zscaler"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73707",
+        "key": "73707",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-20",
+        "salary": "$87K\u2013$145K",
+        "source_posted": "2026-11-20",
+        "title": "Research Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73707",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-20"
