@@ -3414,6 +3414,60 @@
         "years": "5+ yrs"
       },
       "slug": "cvs"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "101915577789883078",
+        "key": "101915577789883078",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Cloud Confidential Computing",
+        "title": "Staff Software Engineer, Cloud Confidential Computing",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/101915577789883078",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "At Google, we \"Focus on the user and all else will follow.\" Our UX Engineers are versatile and passionate about pushing technology forward, comfortable working across discipline lines to develop products used by millions. You will join our multi-disciplinary UX team, collaboratin",
+        "job_id": "90526836349379270",
+        "key": "90526836349379270",
+        "location": "Mountain View, CA, USA; +2 more",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Search Design System",
+        "title": "Staff UX Engineer, Search Design System",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/90526836349379270",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google Search is the world's most trusted and knowledgeable health companion, activating seamless care-paths for every Health Journey. Health is one of Alphabet's top priorities, and this is a high-visibility role focused on evaluations, metrics, and user insights for AI answers",
+        "job_id": "93174460349063878",
+        "key": "93174460349063878",
+        "location": "Mountain View, CA, USA; +1 more",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "",
+        "title": "Research Data Scientist",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/93174460349063878",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-19"
