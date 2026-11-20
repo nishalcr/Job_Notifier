@@ -2734,6 +2734,58 @@
         "years": "3\u20135 yrs"
       },
       "slug": "salesforce"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "96841881383510726",
+        "key": "96841881383510726",
+        "location": "Cambridge, MA, USA; +1 more",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Search",
+        "title": "Software Engineer III, Infrastructure, Search",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/96841881383510726",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Role Uber is launching AV Labs to accelerate the autonomous technology ecosystem. We\u2019re building out a high velocity team of multi disciplinary experts to turn real world operations into high quality data for our autonomous partners. This team will be focused on the har",
+        "job_id": "305152",
+        "key": "305152",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "team": "Engineer",
+        "title": "Sr Software Engineer - AV Labs",
+        "url": "https://jobs.uber.com/en/jobs/305152/",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024677",
+        "key": "JR-024677",
+        "location": "3 Locations",
+        "posted": "2026-11-20",
+        "salary": "$184K\u2013$297K",
+        "source_posted": "Posted Today",
+        "title": "Sr Principal Software Engineer - Network Security - PanOS",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/San-Jose-United-States-of-America/Sr-Principal-Engineer-Software_JR-024677",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-19"
