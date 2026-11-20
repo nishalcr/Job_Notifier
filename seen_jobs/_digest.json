@@ -10767,6 +10767,105 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696297-0836",
+        "key": "200696297-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Firmware Security Researcher, SEAR",
+        "url": "https://jobs.apple.com/en-us/details/200696297-0836/firmware-security-researcher-sear?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610735",
+        "key": "10610735",
+        "location": "Austin, Texas",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "System Development Engineer, Tactical Automation Group (TAG)",
+        "url": "https://www.amazon.jobs/en/jobs/10610735/system-development-engineer-tactical-automation-group-tag",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610733",
+        "key": "10610733",
+        "location": "Cupertino, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Embedded SDE II, Hardware Engineering Services",
+        "url": "https://www.amazon.jobs/en/jobs/10610733/embedded-sde-ii-hardware-engineering-services",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1525571325609177",
+        "key": "1525571325609177",
+        "location": "Sunnyvale, CA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Facebook Reality Labs / Analytics / Data Science",
+        "title": "Senior Data Architect - Supply Chain",
+        "url": "https://www.metacareers.com/profile/job_details/1525571325609177",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97994",
+        "key": "97994",
+        "location": "Austin, Texas",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Sr. Product SCAN Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/97994",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "342894",
+        "key": "342894",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-20",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-20",
+        "title": "Senior Software Engineer, Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342894",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
