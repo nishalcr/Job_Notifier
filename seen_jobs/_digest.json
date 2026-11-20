@@ -3672,6 +3672,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2031347",
+        "key": "2031347",
+        "location": "San Jose, California, US",
+        "posted": "2026-11-20",
+        "salary": "$181K\u2013$297K",
+        "source_posted": "Posted Today",
+        "title": "AI Engineer - CX",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/AI-Engineer---CX_2031347-1",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-19"
