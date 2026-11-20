@@ -3468,6 +3468,22 @@
         "years": "3+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610098",
+        "key": "10610098",
+        "location": "Northridge, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Sr. Embedded Software Dev Engineer, Amazon Leo for Government - Flight Software Team",
+        "url": "https://www.amazon.jobs/en/jobs/10610098/sr-embedded-software-dev-engineer-amazon-leo-for-government-flight-software-team",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-19"
