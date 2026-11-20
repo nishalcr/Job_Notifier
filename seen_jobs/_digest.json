@@ -2786,6 +2786,38 @@
         "years": ""
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609976",
+        "key": "10609976",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Sr. Applied Scientist, AWS Applied AI Solutions - Life Sciences",
+        "url": "https://www.amazon.jobs/en/jobs/10609976/sr-applied-scientist-aws-applied-ai-solutions-life-sciences",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74444",
+        "key": "74444",
+        "location": "Palo Alto, CA, United States",
+        "posted": "2026-11-20",
+        "salary": "$167K\u2013$317K",
+        "source_posted": "2026-11-20",
+        "title": "Senior Staff Android App Developer \u2014 Android Automotive OS Applications",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74444",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-19"
