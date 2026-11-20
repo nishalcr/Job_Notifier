@@ -10476,6 +10476,54 @@
         "years": "5+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609076",
+        "key": "10609076",
+        "location": "New York, New York",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Senior Forward Deployed Engineer, Forward Deployment Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10609076/senior-forward-deployed-engineer-forward-deployment-engineering",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609078",
+        "key": "10609078",
+        "location": "New York, New York",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Senior Forward Deployed Engineer, Forward Deployment Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10609078/senior-forward-deployed-engineer-forward-deployment-engineering",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350845",
+        "key": "350845",
+        "location": "United States",
+        "posted": "2026-11-20",
+        "salary": "$105K\u2013$264K",
+        "source_posted": "2026-11-18",
+        "title": "Lead Principal Application Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350845",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
