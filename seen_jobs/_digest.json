@@ -9281,6 +9281,39 @@
         "years": ""
       },
       "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144028",
+        "key": "144028",
+        "location": "Albany, US",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-zOS",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144028",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "Zscaler",
+      "job": {
+        "job_id": "5303529007",
+        "key": "5303529007",
+        "location": "Santa Clara, California, USA",
+        "posted": "2026-11-20",
+        "salary": "$212K\u2013$265K",
+        "source_posted": "2026-11-20",
+        "title": "Principal Production Engineer",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5303529007",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "zscaler"
     }
   ],
   "last_sent": "2026-11-20"
