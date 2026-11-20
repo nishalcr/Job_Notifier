@@ -3363,6 +3363,22 @@
         "years": "5+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609923",
+        "key": "10609923",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Quality Assurance Engineer, Amazon Leo Console",
+        "url": "https://www.amazon.jobs/en/jobs/10609923/quality-assurance-engineer-amazon-leo-console",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-19"
