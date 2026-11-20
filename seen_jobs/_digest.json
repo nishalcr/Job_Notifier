@@ -10459,6 +10459,23 @@
         "years": "3+ yrs"
       },
       "slug": "paypal"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200695981-3956",
+        "key": "200695981-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Software Development Engineer \u2013 Apps, Identity Management Services",
+        "url": "https://jobs.apple.com/en-us/details/200695981-3956/software-development-engineer-apps-identity-management-services?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-20"
