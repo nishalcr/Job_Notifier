@@ -10668,6 +10668,105 @@
         "years": "2+ yrs"
       },
       "slug": "amex"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696342-0836",
+        "key": "200696342-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "IOS SPRINGBOARD ENGINEER- LOCK SCREEN",
+        "url": "https://jobs.apple.com/en-us/details/200696342-0836/ios-springboard-engineer-lock-screen?team=SFTWR",
+        "work_type": "",
+        "years": "8\u201310 yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610730",
+        "key": "10610730",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Senior Applied Scientist , Sponsored Products",
+        "url": "https://www.amazon.jobs/en/jobs/10610730/senior-applied-scientist-sponsored-products",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606381",
+        "key": "10606381",
+        "location": "San Diego, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Business Analyst I, Payment Risk",
+        "url": "https://www.amazon.jobs/en/jobs/10606381/business-analyst-i-payment-risk",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610729",
+        "key": "10610729",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Applied Scientist , Sponsored Products",
+        "url": "https://www.amazon.jobs/en/jobs/10610729/applied-scientist-sponsored-products",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Role Uber One is Uber's flagship membership program, serving more than 50 million members globally across Mobility, Delivery, Grocery, and other Uber experiences. Membership combines savings, benefits, priority experiences, and exclusive offerings while driving engageme",
+        "job_id": "305229",
+        "key": "305229",
+        "location": "San Francisco, California; +1 more",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Engineer",
+        "title": "Machine Learning Engineer II",
+        "url": "https://jobs.uber.com/en/jobs/305229/",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808902",
+        "key": "210808902",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Lead Infrastructure Engineer - Mainframe MQ & IIB Admin",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808902",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-20"
