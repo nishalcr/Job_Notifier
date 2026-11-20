@@ -11372,6 +11372,120 @@
         "years": "5+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696308-2605",
+        "key": "200696308-2605",
+        "location": "Los Angeles",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Senior Graphics Software Engineer, Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200696308-2605/senior-graphics-software-engineer-vision-products-software?team=SFTWR",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610818",
+        "key": "10610818",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Data Scientist II, Region Flexibility",
+        "url": "https://www.amazon.jobs/en/jobs/10610818/data-scientist-ii-region-flexibility",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR359080",
+        "key": "JR359080",
+        "location": "Washington - Bellevue",
+        "posted": "2026-11-20",
+        "salary": "$148K\u2013$224K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering SMTS",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Washington---Bellevue/Software-Engineering-SMTS_JR359080",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR365811",
+        "key": "JR365811",
+        "location": "Texas - Dallas",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering SMTS",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Texas---Dallas/Software-Engineering-SMTS_JR365811",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368586",
+        "key": "JR368586",
+        "location": "Indiana - Indianapolis",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Member Technical Staff",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Indiana---Indianapolis/Senior-Member-Technical-Staff_JR368586",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067828",
+        "key": "1970393557075165",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-20",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-20",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075165",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "345371",
+        "key": "345371",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-20",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-20",
+        "title": "Senior Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345371",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
