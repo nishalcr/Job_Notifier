@@ -10866,6 +10866,72 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696349-0157",
+        "key": "200696349-0157",
+        "location": "Austin",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "HW/SW Interface Software Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200696349-0157/hw-sw-interface-software-engineer?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696349-0836",
+        "key": "200696349-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "HW/SW Interface Software Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200696349-0836/hw-sw-interface-software-engineer?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809573",
+        "key": "210809573",
+        "location": "Columbus, OH, United States",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Lead Software Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809573",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Adobe",
+      "job": {
+        "job_id": "R173581",
+        "key": "R173581",
+        "location": "San Jose",
+        "posted": "2026-11-20",
+        "salary": "$121K\u2013$239K",
+        "source_posted": "Posted Today",
+        "title": "2027 University Graduate - Applied Scientist",
+        "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Applied-Scientist_R173581",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "adobe"
     }
   ],
   "last_sent": "2026-11-20"
