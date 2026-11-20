@@ -11159,6 +11159,71 @@
         "years": "15+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610799",
+        "key": "10610799",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Salesforce Security Engineer, Salesforce Success Central",
+        "url": "https://www.amazon.jobs/en/jobs/10610799/salesforce-security-engineer-salesforce-success-central",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610805",
+        "key": "10610805",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Principal Applied Scientist, Supply Tech - Advertising",
+        "url": "https://www.amazon.jobs/en/jobs/10610805/principal-applied-scientist-supply-tech-advertising",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74235",
+        "key": "74235",
+        "location": "Louisville, KY, United States",
+        "posted": "2026-11-20",
+        "salary": "$74K\u2013$154K",
+        "source_posted": "2026-11-20",
+        "title": "Underbody Plant Vehicle Team Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74235",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200066797",
+        "key": "1970393557070697",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-20",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-20",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070697",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-20"
