@@ -3586,6 +3586,24 @@
         "years": "5+ yrs"
       },
       "slug": "cvs_wd"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "96186847331263174",
+        "key": "96186847331263174",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Agent Registry",
+        "title": "Senior Staff Software Engineer, Agent Registry",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/96186847331263174",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-19"
