@@ -4,6 +4,11 @@
       "at": "Nov 19 06:16 PM",
       "company": "Apple",
       "message": "Broken for 3 consecutive runs. Last error: Timeout on page 1: APIRequestContext.get: Timeout 30000ms exceeded.\nCall log:\n  - \u2192 GET https://jobs.apple.com/en-us/search?location=united-states-USA&team=apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT&page=1\n    - user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36\n    - accept: */*\n    - accept-encoding: gzip,deflate,br\n"
+    },
+    {
+      "at": "Nov 19 06:44 PM",
+      "company": "Apple",
+      "message": "Recovered \u2705"
     }
   ],
   "jobs": [
@@ -2968,6 +2973,22 @@
         "years": "5+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2015003",
+        "key": "JR2015003",
+        "location": "2 Locations",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Platform Performance Architect, GeForce Now",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Platform-Performance-Architect--GeForce-Now_JR2015003-1",
+        "work_type": "",
+        "years": "14+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-19"
