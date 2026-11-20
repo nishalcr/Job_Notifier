@@ -2818,6 +2818,70 @@
         "years": "5+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "73927",
+        "key": "73927",
+        "location": "Cary, NC, United States",
+        "posted": "2026-11-20",
+        "salary": "$85K\u2013$143K",
+        "source_posted": "2026-11-20",
+        "title": "Software Development Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73927",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Zscaler",
+      "job": {
+        "job_id": "5302790007",
+        "key": "5302790007",
+        "location": "USA - Update Location",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-19",
+        "title": "Information Security Engineer",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5302790007",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "zscaler"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103537127760",
+        "key": "103537127760",
+        "location": "Charlotte, North Carolina",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "title": "Senior AI Scientist \u2014 Credit Karma (Partner Decision Science)",
+        "url": "https://jobs.intuit.com/job/charlotte/senior-ai-scientist-credit-karma-partner-decision-science/27595/103537127760",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103537113696",
+        "key": "103537113696",
+        "location": "Mountain View, California",
+        "posted": "2026-11-20",
+        "salary": "$158K\u2013$214K",
+        "source_posted": "",
+        "title": "Senior AI Scientist, Consumer and Lending Fraud",
+        "url": "https://jobs.intuit.com/job/mountain-view/senior-ai-scientist-consumer-and-lending-fraud/27595/103537113696",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-19"
