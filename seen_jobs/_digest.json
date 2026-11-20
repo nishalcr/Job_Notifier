@@ -148,6 +148,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610303",
+        "key": "10610303",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Senior Software Development Engineer III, Secure Connection Services (SCS)",
+        "url": "https://www.amazon.jobs/en/jobs/10610303/senior-software-development-engineer-iii-secure-connection-services-scs",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-20"
