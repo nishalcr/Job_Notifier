@@ -1,5 +1,40 @@
 {
   "issues": [],
-  "jobs": [],
+  "jobs": [
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google Cloud\u2019s mission is to make every business successful through AI by combining cutting-edge technology, infrastructure, and talent. AI/ML software engineers in Cloud bridge the gap between pioneering models and a massive product vehicle reaching billions. Our talent density",
+        "job_id": "84139154828337862",
+        "key": "84139154828337862",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI Transformation / Google Cloud Business Platforms",
+        "title": "Staff Software Engineer, AI Transformation, Google Cloud Business Platforms",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/84139154828337862",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351046",
+        "key": "351046",
+        "location": "Austin, TX, United States",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Software Developer 5",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351046",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "oracle"
+    }
+  ],
   "last_sent": "2026-11-20"
 }
