@@ -9890,6 +9890,104 @@
         "years": "8+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610208",
+        "key": "10610208",
+        "location": "New York, New York",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Embedded Software Engineer , Fauna",
+        "url": "https://www.amazon.jobs/en/jobs/10610208/embedded-software-engineer-fauna",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610551",
+        "key": "10610551",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Software Dev Engineer, Antenna Calibration, Amazon Leo",
+        "url": "https://www.amazon.jobs/en/jobs/10610551/software-dev-engineer-antenna-calibration-amazon-leo",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610555",
+        "key": "10610555",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "System Development Engineer II, ISAP SafeGuard",
+        "url": "https://www.amazon.jobs/en/jobs/10610555/system-development-engineer-ii-isap-safeguard",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10597152",
+        "key": "10597152",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 10, 2026",
+        "title": "SDE, AWS OpenSearch Service, Opensearch",
+        "url": "https://www.amazon.jobs/en/jobs/10597152/sde-aws-opensearch-service-opensearch",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1108425",
+        "key": "R1108425",
+        "location": "CT - Hartford",
+        "posted": "2026-11-20",
+        "salary": "$79K\u2013$159K",
+        "source_posted": "Posted Today",
+        "title": "Software Development - Data Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Software-Development---Data-Engineer_R1108425-1",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "913291185113227",
+        "key": "913291185113227",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / New York, NY",
+        "title": "Lead, Product Content Engineering",
+        "url": "https://www.metacareers.com/profile/job_details/913291185113227",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-20"
