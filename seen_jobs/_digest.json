@@ -2898,6 +2898,38 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97710",
+        "key": "97710",
+        "location": "San Jose, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "title": "Senior Software Engineer - Efficient GenAI Models",
+        "url": "https://careers.amd.com/careers-home/jobs/97710",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8404115",
+        "key": "8404115",
+        "location": "na",
+        "posted": "2026-11-20",
+        "salary": "$224K\u2013$336K",
+        "source_posted": "2026-11-19",
+        "title": "Staff Software Engineer, Mobile Development Productivity",
+        "url": "https://stripe.com/jobs/search?gh_jid=8404115",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "stripe"
     }
   ],
   "last_sent": "2026-11-19"
