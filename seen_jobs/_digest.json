@@ -2989,6 +2989,38 @@
         "years": "14+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602770",
+        "key": "10602770",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Senior Software Development Engineer, Amazon Quick",
+        "url": "https://www.amazon.jobs/en/jobs/10602770/senior-software-development-engineer-amazon-quick",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2028599",
+        "key": "2028599",
+        "location": "51 Locations",
+        "posted": "2026-11-20",
+        "salary": "$166K\u2013$308K",
+        "source_posted": "Posted Today",
+        "title": "Senior GRC Engineer - Isovalent",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/New-York-New-York-US/Senior-GRC-Engineer---Isovalent_2028599",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-19"
