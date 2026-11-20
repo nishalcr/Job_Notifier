@@ -9507,6 +9507,23 @@
         "years": "3\u20135 yrs"
       },
       "slug": "zscaler"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "142624",
+        "key": "142624",
+        "location": "Multiple Cities",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Sr Data Engineer (TS/SCI)",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=142624",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "ibm"
     }
   ],
   "last_sent": "2026-11-20"
