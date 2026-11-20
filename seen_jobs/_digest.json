@@ -10411,6 +10411,54 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610684",
+        "key": "10610684",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Software Development Engineer II, FleetWatch Team",
+        "url": "https://www.amazon.jobs/en/jobs/10610684/software-development-engineer-ii-fleetwatch-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610681",
+        "key": "10610681",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Research Scientist, Autonomous Materials Discovery Lab, Materials Innovation, WW Sustainability",
+        "url": "https://www.amazon.jobs/en/jobs/10610681/research-scientist-autonomous-materials-discovery-lab-materials-innovation-ww-sustainability",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139039",
+        "key": "R0139039",
+        "location": "San Jose, California, United States of America",
+        "posted": "2026-11-20",
+        "salary": "$160K\u2013$236K",
+        "source_posted": "Posted Today",
+        "title": "Sr. Machine Learning Engineer",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0139039-1",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "paypal"
     }
   ],
   "last_sent": "2026-11-20"
