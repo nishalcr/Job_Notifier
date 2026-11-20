@@ -164,6 +164,22 @@
         "years": "8+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "346795",
+        "key": "346795",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-20",
+        "salary": "$92K\u2013$210K",
+        "source_posted": "2026-11-20",
+        "title": "Senior Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346795",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
