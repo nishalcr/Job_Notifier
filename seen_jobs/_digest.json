@@ -2952,6 +2952,22 @@
         "years": "12+ yrs"
       },
       "slug": "intel"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2030430",
+        "key": "2030430",
+        "location": "14 Locations",
+        "posted": "2026-11-20",
+        "salary": "$138K\u2013$256K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer_2030430",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-19"
