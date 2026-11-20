@@ -34,6 +34,24 @@
         "years": "5+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1651595593038147",
+        "key": "1651595593038147",
+        "location": "Denver, CO",
+        "posted": "2026-11-20",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Menlo Park, CA",
+        "title": "Production Network Engineer, Design",
+        "url": "https://www.metacareers.com/profile/job_details/1651595593038147",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-20"
