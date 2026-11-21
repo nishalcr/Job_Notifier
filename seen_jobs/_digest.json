@@ -12307,6 +12307,54 @@
         "years": "10+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351070",
+        "key": "351070",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-21",
+        "salary": "$88K\u2013$210K",
+        "source_posted": "2026-11-20",
+        "title": "Senior Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351070",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351098",
+        "key": "351098",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-21",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-20",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351098",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351099",
+        "key": "351099",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-21",
+        "salary": "$88K\u2013$210K",
+        "source_posted": "2026-11-20",
+        "title": "Senior Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351099",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
