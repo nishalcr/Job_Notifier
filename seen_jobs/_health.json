@@ -1,14 +1,1 @@
-{
-  "amex": {
-    "broken_since": "2026-11-21T03:21:33+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Oracle API request failed with status 503",
-    "status": "broken"
-  },
-  "jpmc": {
-    "broken_since": "2026-11-21T03:21:13+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Oracle API request failed with status 503",
-    "status": "broken"
-  }
-}
+{}
