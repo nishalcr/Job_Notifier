@@ -11847,6 +11847,23 @@
         "years": "8+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696408-0836",
+        "key": "200696408-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "2026-11-21",
+        "team": "Software and Services",
+        "title": "Software Development Engineer - Test",
+        "url": "https://jobs.apple.com/en-us/details/200696408-0836/software-development-engineer-test?team=SFTWR",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-20"
