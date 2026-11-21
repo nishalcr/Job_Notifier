@@ -11894,6 +11894,22 @@
         "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8951023002"
       },
       "slug": "databricks"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610933",
+        "key": "10610933",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "November 21, 2026",
+        "title": "Software Dev Engineer in Test , Amazon Leo Payload",
+        "url": "https://www.amazon.jobs/en/jobs/10610933/software-dev-engineer-in-test-amazon-leo-payload",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-20"
