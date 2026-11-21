@@ -59,6 +59,22 @@
         "years": "5+ yrs"
       },
       "slug": "dell"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350663",
+        "key": "350663",
+        "location": "Reston, VA, United States; +1 more",
+        "posted": "2026-11-21",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350663",
+        "work_type": "",
+        "years": "11+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-21"
