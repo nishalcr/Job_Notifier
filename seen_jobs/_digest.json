@@ -11799,6 +11799,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610908",
+        "key": "10610908",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "November 21, 2026",
+        "title": "Principal Engineer - Leo Flight Dynamics , Amazon Leo",
+        "url": "https://www.amazon.jobs/en/jobs/10610908/principal-engineer-leo-flight-dynamics-amazon-leo",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-20"
