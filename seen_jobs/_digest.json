@@ -75,6 +75,22 @@
         "years": "11+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103614654848",
+        "key": "103614654848",
+        "location": "Mountain View; +more",
+        "posted": "2026-11-21",
+        "salary": "$140K\u2013$190K",
+        "source_posted": "",
+        "title": "Software Engineer 2: AI Builder",
+        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-2-ai-builder/27595/103614654848",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-21"
