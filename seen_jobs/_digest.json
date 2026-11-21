@@ -11647,6 +11647,40 @@
         "years": ""
       },
       "slug": "ibm"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696365-0836",
+        "key": "200696365-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "Software Engineer, Photos QA Tools",
+        "url": "https://jobs.apple.com/en-us/details/200696365-0836/software-engineer-photos-qa-tools?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696358-0157",
+        "key": "200696358-0157",
+        "location": "Austin",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Software and Services",
+        "title": "IOS SOFTWARE ENGINEER - System Experience Widgets & Live Activities",
+        "url": "https://jobs.apple.com/en-us/details/200696358-0157/ios-software-engineer-system-experience-widgets-live-activities?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-20"
