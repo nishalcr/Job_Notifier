@@ -1,4 +1,8 @@
 {
+  "atlassian": {
+    "consecutive_failures": 1,
+    "last_error": "No jobs extracted. The page structure may have changed."
+  },
   "cvs_wd": {
     "broken_since": "2026-11-21T07:31:28+00:00",
     "consecutive_failures": 3,
