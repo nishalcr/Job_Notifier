@@ -11942,6 +11942,119 @@
         "years": "3+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067404",
+        "key": "1970393557073471",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-21",
+        "salary": "$120K\u2013$304K",
+        "source_posted": "2026-11-21",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer - Backend",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073471",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350929",
+        "key": "350929",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-21",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-18",
+        "title": "Senior Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350929",
+        "work_type": "",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350944",
+        "key": "350944",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-21",
+        "salary": "$101K\u2013$235K",
+        "source_posted": "2026-11-18",
+        "title": "Principal Security Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350944",
+        "work_type": "",
+        "years": "11+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350604",
+        "key": "350604",
+        "location": "Seattle, WA, United States; +3 more",
+        "posted": "2026-11-21",
+        "salary": "$114K\u2013$306K",
+        "source_posted": "2026-11-16",
+        "title": "Lead Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350604",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350606",
+        "key": "350606",
+        "location": "Seattle, WA, United States; +3 more",
+        "posted": "2026-11-21",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350606",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350608",
+        "key": "350608",
+        "location": "Seattle, WA, United States; +3 more",
+        "posted": "2026-11-21",
+        "salary": "$114K\u2013$306K",
+        "source_posted": "2026-11-16",
+        "title": "Lead Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350608",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350438",
+        "key": "350438",
+        "location": "Nashville, TN, United States; +1 more",
+        "posted": "2026-11-21",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-12",
+        "title": "Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350438",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
