@@ -11,6 +11,39 @@
       "message": "Recovered \u2705"
     }
   ],
-  "jobs": [],
+  "jobs": [
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607465",
+        "key": "10607465",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Software Dev Engineer, AWS Agentic AI Dev Ops",
+        "url": "https://www.amazon.jobs/en/jobs/10607465/software-dev-engineer-aws-agentic-ai-dev-ops",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "302039",
+        "key": "302039",
+        "location": "TX, United States",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "2026-11-21",
+        "title": "Principal Systems Development Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/302039",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "dell"
+    }
+  ],
   "last_sent": "2026-11-21"
 }
