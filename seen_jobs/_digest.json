@@ -11681,6 +11681,23 @@
         "years": ""
       },
       "slug": "apple"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696355-3543",
+        "key": "200696355-3543",
+        "location": "San Diego",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "2026-11-21",
+        "team": "Software and Services",
+        "title": "IOS SPRINGBOARD ENGINEER- WALLPAPERS",
+        "url": "https://jobs.apple.com/en-us/details/200696355-3543/ios-springboard-engineer-wallpapers?team=SFTWR",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-20"
