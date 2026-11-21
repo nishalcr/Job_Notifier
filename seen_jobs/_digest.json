@@ -11864,6 +11864,36 @@
         "years": "3+ yrs"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067863",
+        "key": "1970393557075209",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-21",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-21",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075209",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Databricks",
+      "job": {
+        "job_id": "8951023002",
+        "key": "8951023002",
+        "location": "Remote - Washington D.C.; +1 more",
+        "posted": "2026-11-21",
+        "source_posted": "2026-11-20",
+        "title": "Sr. Staff Forward Deployed Engineer",
+        "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8951023002"
+      },
+      "slug": "databricks"
     }
   ],
   "last_sent": "2026-11-20"
