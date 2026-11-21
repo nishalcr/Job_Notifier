@@ -11766,6 +11766,39 @@
         "years": ""
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696410-0836",
+        "key": "200696410-0836",
+        "location": "Cupertino",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "2026-11-21",
+        "team": "Software and Services",
+        "title": "Senior iOS & macOS UI Engineer, Settings",
+        "url": "https://jobs.apple.com/en-us/details/200696410-0836/senior-ios-macos-ui-engineer-settings?team=SFTWR",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "apple"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "343830",
+        "key": "343830",
+        "location": "United States",
+        "posted": "2026-11-21",
+        "salary": "$170K\u2013$355K",
+        "source_posted": "2026-11-21",
+        "title": "Core Infrastructure Engineering Architect",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343830",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
