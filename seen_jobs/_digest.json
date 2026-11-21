@@ -11815,6 +11815,38 @@
         "years": "10+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350605",
+        "key": "350605",
+        "location": "Seattle, WA, United States; +3 more",
+        "posted": "2026-11-21",
+        "salary": "$114K\u2013$306K",
+        "source_posted": "2026-11-21",
+        "title": "Lead Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350605",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350615",
+        "key": "350615",
+        "location": "Seattle, WA, United States; +3 more",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "2026-11-21",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350615",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
