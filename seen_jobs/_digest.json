@@ -12231,6 +12231,22 @@
         "years": "4+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350902",
+        "key": "350902",
+        "location": "Seattle, WA, United States; +3 more",
+        "posted": "2026-11-21",
+        "salary": "$105K\u2013$264K",
+        "source_posted": "2026-11-18",
+        "title": "Lead Principal Application Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350902",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
