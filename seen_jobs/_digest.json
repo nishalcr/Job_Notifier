@@ -11698,6 +11698,22 @@
         "years": ""
       },
       "slug": "apple"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610882",
+        "key": "10610882",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "November 21, 2026",
+        "title": "Senior Applied Scientist, AWS Security",
+        "url": "https://www.amazon.jobs/en/jobs/10610882/senior-applied-scientist-aws-security",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-20"
