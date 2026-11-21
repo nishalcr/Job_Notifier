@@ -11714,6 +11714,58 @@
         "years": "6+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1159876130064120",
+        "key": "1159876130064120",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Engineering / Machine Learning",
+        "title": "Software Engineer (Technical Leadership), Central Integrity",
+        "url": "https://www.metacareers.com/profile/job_details/1159876130064120",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the role and team Working in Science at Uber means solving complex, real world problems that don't always have a textbook solution. You will be part of a team that turns massive amounts of data into actionable insights, influencing everything from marketplace efficiency to",
+        "job_id": "305295",
+        "key": "305295",
+        "location": "San Francisco, California; +3 more",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "2026-11-20",
+        "team": "Science",
+        "title": "Scientist II, Tech",
+        "url": "https://jobs.uber.com/en/jobs/305295/",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103580527312",
+        "key": "103580527312",
+        "location": "Mountain View, California",
+        "posted": "2026-11-21",
+        "salary": "$316K\u2013$427K",
+        "source_posted": "",
+        "title": "Distinguished Engineer - Growth Engineering",
+        "url": "https://jobs.intuit.com/job/mountain-view/distinguished-engineer-growth-engineering/27595/103580527312",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-20"
