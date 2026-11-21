@@ -43,6 +43,22 @@
         "years": "8+ yrs"
       },
       "slug": "dell"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "302047",
+        "key": "302047",
+        "location": "TX, United States",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "2026-11-21",
+        "title": "Senior Systems Development Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/302047",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "dell"
     }
   ],
   "last_sent": "2026-11-21"
