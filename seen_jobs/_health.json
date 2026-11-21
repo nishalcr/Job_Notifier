@@ -1,1 +1,6 @@
-{}
+{
+  "paramount": {
+    "consecutive_failures": 1,
+    "last_error": "Error on page 1: Paramount search request failed with status 503"
+  }
+}
