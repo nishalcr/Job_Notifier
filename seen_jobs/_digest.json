@@ -94,6 +94,56 @@
       "at": "Nov 21 02:31 AM",
       "company": "Samsung",
       "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 21 03:11 AM",
+      "company": "HP",
+      "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 21 03:11 AM",
+      "company": "Cisco",
+      "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 21 03:11 AM",
+      "company": "NVIDIA",
+      "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 21 03:11 AM",
+      "company": "Disney",
+      "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 21 03:12 AM",
+      "company": "PayPal",
+      "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 21 03:12 AM",
+      "company": "Yahoo",
+      "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 21 03:12 AM",
+      "company": "Red Hat",
+      "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 21 03:12 AM",
+      "company": "Intel",
+      "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 21 03:12 AM",
+      "company": "Adobe",
+      "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 21 03:12 AM",
+      "company": "Palo Alto Networks",
+      "message": "Recovered \u2705"
     }
   ],
   "jobs": [
@@ -12360,6 +12410,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2029624",
+        "key": "2029624",
+        "location": "2 Locations",
+        "posted": "2026-11-21",
+        "salary": "$117K\u2013$191K",
+        "source_posted": "Posted Today",
+        "title": "Network Systems Engineer",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Rancho-Cordova-California-US/Network-Systems-Engineer_2029624",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-20"
