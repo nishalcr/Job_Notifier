@@ -12103,6 +12103,22 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2029344",
+        "key": "JR2029344",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-21",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior System Test Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Test-Engineer_JR2029344",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-20"
