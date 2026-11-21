@@ -1,5 +1,21 @@
 {
-  "issues": [],
+  "issues": [
+    {
+      "at": "Nov 20 08:21 PM",
+      "company": "JPMorgan Chase",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Oracle API request failed with status 503"
+    },
+    {
+      "at": "Nov 20 08:21 PM",
+      "company": "Ford",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Oracle API request failed with status 503"
+    },
+    {
+      "at": "Nov 20 08:21 PM",
+      "company": "American Express",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Oracle API request failed with status 503"
+    }
+  ],
   "jobs": [
     {
       "company": "Google",
