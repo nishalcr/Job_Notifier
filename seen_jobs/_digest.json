@@ -12431,6 +12431,86 @@
         "years": "3+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350939",
+        "key": "350939",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-21",
+        "salary": "$102K\u2013$210K",
+        "source_posted": "2026-11-18",
+        "title": "Principal Network Developer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350939",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350579",
+        "key": "350579",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-21",
+        "salary": "$91K\u2013$187K",
+        "source_posted": "2026-11-16",
+        "title": "Senior Network Developer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350579",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350595",
+        "key": "350595",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-21",
+        "salary": "$102K\u2013$210K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Network Developer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350595",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350594",
+        "key": "350594",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-21",
+        "salary": "$91K\u2013$187K",
+        "source_posted": "2026-11-16",
+        "title": "Senior Network Developer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350594",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350598",
+        "key": "350598",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-21",
+        "salary": "$91K\u2013$187K",
+        "source_posted": "2026-11-16",
+        "title": "Senior Network Developer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350598",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-20"
