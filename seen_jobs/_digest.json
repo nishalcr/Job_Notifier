@@ -101,6 +101,38 @@
         "years": ""
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351102",
+        "key": "351102",
+        "location": "United States",
+        "posted": "2026-11-22",
+        "salary": "$126K\u2013$264K",
+        "source_posted": "2026-11-22",
+        "title": "Senior Principal Software Engineer, Core Infrastructure - GPU Systems and Manufacturing Software",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351102",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351103",
+        "key": "351103",
+        "location": "Santa Clara, CA, United States",
+        "posted": "2026-11-22",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-22",
+        "title": "Principal Software Engineer - Scaled Manufacturing, Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351103",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-21"
