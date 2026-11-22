@@ -9,6 +9,11 @@
       "at": "Nov 21 08:41 AM",
       "company": "Paramount",
       "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 21 08:21 PM",
+      "company": "Dell",
+      "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Oracle API request failed with status 503"
     }
   ],
   "jobs": [
