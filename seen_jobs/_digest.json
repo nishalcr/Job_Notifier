@@ -17,6 +17,22 @@
         "years": ""
       },
       "slug": "apple"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350928",
+        "key": "350928",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-22",
+        "salary": "$86K\u2013$187K",
+        "source_posted": "2026-11-18",
+        "title": "Senior Application Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350928",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-22"
