@@ -910,6 +910,70 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608813",
+        "key": "10608813",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Data Engineer I, Intelligent Talent Acquisition (ITA) - Data",
+        "url": "https://www.amazon.jobs/en/jobs/10608813/data-engineer-i-intelligent-talent-acquisition-ita-data",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611842",
+        "key": "10611842",
+        "location": "Cupertino, California",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Senior Software Engineer, Memory, SoC HAL",
+        "url": "https://www.amazon.jobs/en/jobs/10611842/senior-software-engineer-memory-soc-hal",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "301713",
+        "key": "301713",
+        "location": "Austin, TX, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Senior Systems Development Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/301713",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006357",
+        "key": "R1006357",
+        "location": "2 Locations",
+        "posted": "2026-11-23",
+        "salary": "$197K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1006357-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-23"
