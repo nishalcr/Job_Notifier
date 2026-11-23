@@ -1441,6 +1441,22 @@
         "years": "4+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016941",
+        "key": "26016941",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Sr Software Engineer II- the Card Shop",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016941",
+        "work_type": "Hybrid",
+        "years": "9+ yrs"
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-23"
