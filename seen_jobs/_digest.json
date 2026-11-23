@@ -1571,6 +1571,55 @@
         "years": "5+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612129",
+        "key": "10612129",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Robotics Software Engineer, Data Center Robotics",
+        "url": "https://www.amazon.jobs/en/jobs/10612129/robotics-software-engineer-data-center-robotics",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "100021",
+        "key": "100021",
+        "location": "San Jose, California",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "AI Performance and Debug Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/100021",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068297",
+        "key": "1970393557076474",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-23",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-23",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer, CoreAI",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557076474",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-23"
