@@ -454,6 +454,39 @@
         "years": "5+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006022",
+        "key": "R1006022",
+        "location": "2 Locations",
+        "posted": "2026-11-23",
+        "salary": "$179K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Full Stack Engineer 4 - Enterprise Risk Management",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4---Enterprise-Risk-Management_R1006022-1",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200063392",
+        "key": "1970393557045506",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-23",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-23",
+        "team": "Software Engineering",
+        "title": "Software Engineer II - C++",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557045506",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-23"
