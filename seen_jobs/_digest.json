@@ -782,6 +782,54 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608296",
+        "key": "10608296",
+        "location": "Boston, Massachusetts",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Sr. Applied Scientist, Agentic Automated Reasoning Group",
+        "url": "https://www.amazon.jobs/en/jobs/10608296/sr-applied-scientist-agentic-automated-reasoning-group",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611656",
+        "key": "10611656",
+        "location": "Austin, Texas",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Development Engineer II, System Health",
+        "url": "https://www.amazon.jobs/en/jobs/10611656/software-development-engineer-ii-system-health",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8411988",
+        "key": "8411988",
+        "location": "South San Francisco; +1 more",
+        "posted": "2026-11-23",
+        "salary": "$165K\u2013$235K",
+        "source_posted": "2026-11-23",
+        "title": "Software Engineer, Core Technology",
+        "url": "https://stripe.com/jobs/search?gh_jid=8411988",
+        "work_type": "Onsite",
+        "years": "1+ yrs"
+      },
+      "slug": "stripe"
     }
   ],
   "last_sent": "2026-11-23"
