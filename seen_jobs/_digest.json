@@ -2261,6 +2261,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Zscaler",
+      "job": {
+        "job_id": "5291926007",
+        "key": "5291926007",
+        "location": "Bellevue, Washington, USA; +1 more",
+        "posted": "2026-11-23",
+        "salary": "$186K\u2013$265K",
+        "source_posted": "2026-11-23",
+        "title": "Principal Software Development Engineer, AI Security (C++/Rust/Go)",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5291926007",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "zscaler"
     }
   ],
   "last_sent": "2026-11-23"
