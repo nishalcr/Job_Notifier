@@ -2048,6 +2048,56 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "As an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scient",
+        "job_id": "80162212680737478",
+        "key": "80162212680737478",
+        "location": "Cambridge, MA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Science AI / Google Research",
+        "title": "Research Scientist, Science AI, Google Research",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/80162212680737478",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2028999",
+        "key": "2028999",
+        "location": "6 Locations",
+        "posted": "2026-11-23",
+        "salary": "$139K\u2013$282K",
+        "source_posted": "Posted Today",
+        "title": "Sr. Cloud FinOps Engineer (Remote)",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Denver-Colorado-US/Sr-Cloud-FinOps-Engineer--Remote-_2028999",
+        "work_type": "Remote",
+        "years": "7+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289454",
+        "key": "JR0289454",
+        "location": "2 Locations",
+        "posted": "2026-11-23",
+        "salary": "$174K\u2013$330K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-Software-Engineer_JR0289454",
+        "work_type": "Hybrid",
+        "years": "9+ yrs"
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-23"
