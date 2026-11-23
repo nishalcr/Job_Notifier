@@ -1620,6 +1620,38 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74499",
+        "key": "74499",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-23",
+        "salary": "$65K\u2013$124K",
+        "source_posted": "2026-11-23",
+        "title": "AI Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74499",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Yahoo",
+      "job": {
+        "job_id": "JR0027684",
+        "key": "JR0027684",
+        "location": "United States of America",
+        "posted": "2026-11-23",
+        "salary": "$128K\u2013$267K",
+        "source_posted": "Posted Today",
+        "title": "Paranoids Sr. Technical Security Engineer - Product Security",
+        "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Paranoids-Sr-Technical-Security-Engineer---Product-Security_JR0027684",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "yahoo"
     }
   ],
   "last_sent": "2026-11-23"
