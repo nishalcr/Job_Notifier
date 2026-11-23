@@ -1457,6 +1457,70 @@
         "years": "9+ yrs"
       },
       "slug": "amex"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611673",
+        "key": "10611673",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Development Engineer II, AWS SageMaker",
+        "url": "https://www.amazon.jobs/en/jobs/10611673/software-development-engineer-ii-aws-sagemaker",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612089",
+        "key": "10612089",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Senior Applied Scientist, Last Hundred Yards",
+        "url": "https://www.amazon.jobs/en/jobs/10612089/senior-applied-scientist-last-hundred-yards",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612094",
+        "key": "10612094",
+        "location": "Portland, Oregon",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Senior Applied Scientist, AWS Elemental",
+        "url": "https://www.amazon.jobs/en/jobs/10612094/senior-applied-scientist-aws-elemental",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349600",
+        "key": "349600",
+        "location": "Nashville, TN, United States; +5 more",
+        "posted": "2026-11-23",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-03",
+        "title": "Principal Network Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349600",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
