@@ -97,6 +97,22 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349183",
+        "key": "349183",
+        "location": "Reston, VA, United States; +1 more",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Cloud Architect-Forward Deployed Engineer (FDE)",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349183",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-22"
