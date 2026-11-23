@@ -411,6 +411,22 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611290",
+        "key": "10611290",
+        "location": "Newark, New Jersey",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Development Engineer, Playback Insights & Optimization",
+        "url": "https://www.amazon.jobs/en/jobs/10611290/software-development-engineer-playback-insights-optimization",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-22"
