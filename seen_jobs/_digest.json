@@ -1652,6 +1652,58 @@
         "years": "5+ yrs"
       },
       "slug": "yahoo"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612137",
+        "key": "10612137",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Systems Development Engineer - Ground Infrastructure, Amazon Leo",
+        "url": "https://www.amazon.jobs/en/jobs/10612137/systems-development-engineer-ground-infrastructure-amazon-leo",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "86441523586966214",
+        "key": "86441523586966214",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud AI",
+        "title": "Senior Staff Software Engineer, Infrastructure, Google Cloud AI",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/86441523586966214",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "97225533632193222",
+        "key": "97225533632193222",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure",
+        "title": "Staff Software Engineer, Infrastructure",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/97225533632193222",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-23"
