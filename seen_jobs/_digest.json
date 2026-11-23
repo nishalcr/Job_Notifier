@@ -1216,6 +1216,38 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10602864",
+        "key": "10602864",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 11, 2026",
+        "title": "Sr. Research Scientist III, WW Sustainability",
+        "url": "https://www.amazon.jobs/en/jobs/10602864/sr-research-scientist-iii-ww-sustainability",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1083381",
+        "key": "R1083381",
+        "location": "TX - Work from home",
+        "posted": "2026-11-23",
+        "salary": "$118K\u2013$237K",
+        "source_posted": "Posted Today",
+        "title": "Staff Software Development Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Staff-Software-Development-Engineer_R1083381",
+        "work_type": "Remote",
+        "years": "7+ yrs"
+      },
+      "slug": "cvs_wd"
     }
   ],
   "last_sent": "2026-11-23"
