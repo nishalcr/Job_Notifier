@@ -1120,6 +1120,86 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611893",
+        "key": "10611893",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Senior Software Development Engineer, Leo Commerce Financial Systems and Data (Bestia, Triton, Lucid)",
+        "url": "https://www.amazon.jobs/en/jobs/10611893/senior-software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611895",
+        "key": "10611895",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Development Engineer, Leo Commerce Financial Systems and Data (Bestia, Triton, Lucid)",
+        "url": "https://www.amazon.jobs/en/jobs/10611895/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611894",
+        "key": "10611894",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Development Engineer, Leo Commerce Financial Systems and Data (Bestia, Triton, Lucid)",
+        "url": "https://www.amazon.jobs/en/jobs/10611894/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809213",
+        "key": "210809213",
+        "location": "OH, United States; +1 more",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Lead Software Engineer - Builder",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809213",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810555",
+        "key": "210810555",
+        "location": "OH, United States; +1 more",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Sr. Lead Software Engineer - Builder",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810555",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-23"
