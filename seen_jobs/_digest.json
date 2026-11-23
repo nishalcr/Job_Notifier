@@ -390,6 +390,70 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611508",
+        "key": "10611508",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Development Engineer",
+        "url": "https://www.amazon.jobs/en/jobs/10611508/software-development-engineer",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "301710",
+        "key": "301710",
+        "location": "Austin, TX, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Systems Development Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/301710",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006338",
+        "key": "R1006338",
+        "location": "4 Locations",
+        "posted": "2026-11-23",
+        "salary": "$197K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "Cloud Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Cloud-Engineer-4_R1006338-1",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006407",
+        "key": "R1006407",
+        "location": "3 Locations",
+        "posted": "2026-11-23",
+        "salary": "$147K\u2013$185K",
+        "source_posted": "Posted Today",
+        "title": "Principal Associate, Data Science - GPN",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Principal-Associate--Data-Science---GPN_R1006407-1",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-23"
