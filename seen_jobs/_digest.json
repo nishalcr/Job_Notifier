@@ -2178,6 +2178,24 @@
         "years": "10+ yrs"
       },
       "slug": "adobe"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1180254430960731",
+        "key": "1180254430960731",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Boston, MA / Data Center",
+        "title": "Network Engineer, Deployment & Support",
+        "url": "https://www.metacareers.com/profile/job_details/1180254430960731",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-23"
