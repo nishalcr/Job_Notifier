@@ -617,6 +617,58 @@
         "years": "8+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "CVS Health",
+      "job": {
+        "apply_url": "",
+        "description": "",
+        "job_id": "R1091097",
+        "key": "R1091097",
+        "location": "Bonham Quay Dock Road, Galway, Galway,Ireland",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Digital Engineering & Architecture",
+        "title": "Staff Software Development Engineer",
+        "url": "https://jobs.cvshealth.com/us/en/job/R1091097/Staff-Software-Development-Engineer",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "cvs"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR365253",
+        "key": "JR365253",
+        "location": "Texas - Dallas",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering MTS",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Texas---Dallas/Software-Engineering-MTS_JR365253-1",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "137550",
+        "key": "137550",
+        "location": "Multiple Cities",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Software Developer",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=137550",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
     }
   ],
   "last_sent": "2026-11-23"
