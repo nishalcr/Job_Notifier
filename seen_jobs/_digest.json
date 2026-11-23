@@ -235,6 +235,42 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "The Search Data Science team's mission is to help Google Search become more helpful as generative AI changes how people find information and get things done. From AI Overviews to AI Mode, Search has evolved beyond answering single questions toward supporting richer, multi-step, a",
+        "job_id": "100183975825154758",
+        "key": "100183975825154758",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Product / Search AI Experiences",
+        "title": "Senior Data Scientist, Product, Search AI Experiences",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/100183975825154758",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "At Google, we \"Focus on the user and all else will follow.\" Our UX Engineers are versatile, passionate, and driven to advance the vision for our design teams. Comfortable working across discipline lines, you will develop products and prototypes that bring innovative ideas to life",
+        "job_id": "117776161869570758",
+        "key": "117776161869570758",
+        "location": "New York, NY, USA; +1 more",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Search Ads",
+        "title": "Senior UX Engineer, Search Ads",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/117776161869570758",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-22"
