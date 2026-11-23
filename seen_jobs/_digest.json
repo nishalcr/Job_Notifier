@@ -33,6 +33,38 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610227",
+        "key": "10610227",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Research Scientist , Special Projects",
+        "url": "https://www.amazon.jobs/en/jobs/10610227/research-scientist-special-projects",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610226",
+        "key": "10610226",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Research Scientist , Special Projects",
+        "url": "https://www.amazon.jobs/en/jobs/10610226/research-scientist-special-projects",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-22"
