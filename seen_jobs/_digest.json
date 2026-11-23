@@ -427,6 +427,40 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Trust & Safety team members are tasked with identifying and taking on the biggest problems that challenge the safety and integrity of our products. They use technical know-how, excellent problem-solving skills, user insights, and proactive communication to protect users and our p",
+        "job_id": "98631327967781574",
+        "key": "98631327967781574",
+        "location": "Seattle, WA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Trust and Safety Ads",
+        "title": "Senior Engineering Analyst, Trust and Safety Ads",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/98631327967781574",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810780",
+        "key": "210810780",
+        "location": "Jacksonville, FL, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Data Scientist [Multiple Positions Available]",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810780",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-22"
