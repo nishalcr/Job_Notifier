@@ -461,6 +461,56 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1106750",
+        "key": "R1106750",
+        "location": "TX - Work from home",
+        "posted": "2026-11-23",
+        "salary": "$93K\u2013$185K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer - Artificial Intelligence (AI)",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Software-Engineer---Artificial-Intelligence--AI-_R1106750",
+        "work_type": "Remote",
+        "years": "4+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google Cloud is building the future of cloud computing, underpinned by a global infrastructure that requires quality and reliability. We are seeking an experienced Supplier Quality Engineer (SQE) to lead the Tape Storage Commodity. In this critical role, you will ensure the robus",
+        "job_id": "96661003130806982",
+        "key": "96661003130806982",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Tape Storage",
+        "title": "Senior Supplier Quality Engineer, Tape Storage",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/96661003130806982",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "342982",
+        "key": "342982",
+        "location": "Santa Clara, CA, United States; +1 more",
+        "posted": "2026-11-23",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-23",
+        "title": "Principal Software Engineer, Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342982",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-22"
