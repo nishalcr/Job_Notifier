@@ -2098,6 +2098,38 @@
         "years": "9+ yrs"
       },
       "slug": "intel"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612231",
+        "key": "10612231",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Dev Engineer, Amazon Leo",
+        "url": "https://www.amazon.jobs/en/jobs/10612231/software-dev-engineer-amazon-leo",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289535",
+        "key": "JR0289535",
+        "location": "2 Locations",
+        "posted": "2026-11-23",
+        "salary": "$195K\u2013$276K",
+        "source_posted": "Posted Today",
+        "title": "Forward Deployed Engineer Agentic AI",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Forward-Deployed-Engineer-Agentic-AI_JR0289535-1",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-23"
