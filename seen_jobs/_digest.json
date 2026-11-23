@@ -974,6 +974,136 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "2273427400106148",
+        "key": "2273427400106148",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI Infrastructure / Infrastructure / Engineering",
+        "title": "Software Engineer, MTIA-SW Foundation",
+        "url": "https://www.metacareers.com/profile/job_details/2273427400106148",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806717",
+        "key": "210806717",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-23",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-23",
+        "title": "Software Engineer III: Python/ AWS/PySpark/Glue",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806717",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809664",
+        "key": "210809664",
+        "location": "Houston, TX, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Lead Software Engineer - Python/React",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809664",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810052",
+        "key": "210810052",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-23",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-23",
+        "title": "Software Engineer III- Python, Databricks",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810052",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005980",
+        "key": "R1005980",
+        "location": "2 Locations",
+        "posted": "2026-11-23",
+        "salary": "$111K\u2013$138K",
+        "source_posted": "Posted Today",
+        "title": "Sr. Business Analyst - Profitability & Growth Analysis",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Sr-Business-Analyst---Profitability---Growth-Analysis_R1005980",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005979",
+        "key": "R1005979",
+        "location": "2 Locations",
+        "posted": "2026-11-23",
+        "salary": "$111K\u2013$138K",
+        "source_posted": "Posted Today",
+        "title": "Sr. Business Analyst, CRE & VBA",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Sr-Business-Analyst--CRE---VBA_R1005979-1",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006354",
+        "key": "R1006354",
+        "location": "New York, NY",
+        "posted": "2026-11-23",
+        "salary": "$215K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1006354-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351152",
+        "key": "351152",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Senior Principal SDE",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351152",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
