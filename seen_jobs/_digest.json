@@ -1104,6 +1104,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351160",
+        "key": "351160",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351160",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
