@@ -1785,6 +1785,22 @@
         "years": "4+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "300411",
+        "key": "300411",
+        "location": "Round Rock, TX, United States",
+        "posted": "2026-11-23",
+        "salary": "$172K\u2013$236K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Principal Systems Development Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/300411",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "dell"
     }
   ],
   "last_sent": "2026-11-23"
