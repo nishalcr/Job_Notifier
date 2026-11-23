@@ -130,6 +130,102 @@
         "years": "5+ yrs"
       },
       "slug": "salesforce"
+    },
+    {
+      "company": "Reddit",
+      "job": {
+        "job_id": "8411613",
+        "key": "8411613",
+        "location": "Remote - United States",
+        "posted": "2026-11-23",
+        "salary": "$191K\u2013$267K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Software Engineer, AI & Science Platform",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8411613",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "reddit"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "341404",
+        "key": "341404",
+        "location": "Santa Clara, CA, United States; +1 more",
+        "posted": "2026-11-23",
+        "salary": "$97K\u2013$306K",
+        "source_posted": "2026-11-23",
+        "title": "Lead Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/341404",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351064",
+        "key": "351064",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Senior Software Engineer, Platform",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351064",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351067",
+        "key": "351067",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Senior Software Engineer, Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351067",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351069",
+        "key": "351069",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Principal Software Engineer, Platform",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351069",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351071",
+        "key": "351071",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Principal Software Engineer, Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351071",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
