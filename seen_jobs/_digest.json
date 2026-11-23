@@ -2130,6 +2130,38 @@
         "years": "5+ yrs"
       },
       "slug": "intel"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612239",
+        "key": "10612239",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Development Engineer II, AWS Invoicing",
+        "url": "https://www.amazon.jobs/en/jobs/10612239/software-development-engineer-ii-aws-invoicing",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808802",
+        "key": "210808802",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Principal Architect: Asset Management",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808802",
+        "work_type": "Onsite",
+        "years": "10+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-23"
