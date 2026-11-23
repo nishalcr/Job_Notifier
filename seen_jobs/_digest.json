@@ -145,6 +145,24 @@
         "years": "10+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Our Security team works to create and maintain the safest operating environment for Google's users and developers. Security Engineers work with network equipment and actively monitor our systems for attacks and intrusions. In this role, you will also work with software engineers",
+        "job_id": "138761475157041862",
+        "key": "138761475157041862",
+        "location": "Kirkland, WA, USA; +4 more",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Product Security / Cloud CISO",
+        "title": "Senior Security Engineer, Product Security, Cloud CISO",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/138761475157041862",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-22"
