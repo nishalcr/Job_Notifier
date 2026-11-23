@@ -65,6 +65,38 @@
         "years": "1+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210796807",
+        "key": "210796807",
+        "location": "Jersey City, NJ, United States; +1 more",
+        "posted": "2026-11-23",
+        "salary": "$171K\u2013$260K",
+        "source_posted": "2026-11-23",
+        "title": "Applied AI ML Lead - Payments Operations",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796807",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210811508",
+        "key": "210811508",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-23",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-23",
+        "title": "Software Engineer III - Agent Builder Platform",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811508",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-22"
