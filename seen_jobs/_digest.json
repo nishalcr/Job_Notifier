@@ -1200,6 +1200,22 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351163",
+        "key": "351163",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-23",
+        "title": "Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351163",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
