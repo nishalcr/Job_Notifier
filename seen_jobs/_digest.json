@@ -199,6 +199,42 @@
         "years": "2+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "75134352165348038",
+        "key": "75134352165348038",
+        "location": "Fremont, CA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Display Test / Raxium",
+        "title": "Staff Software Engineer, Display Test, Raxium",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/75134352165348038",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "141913912432829126",
+        "key": "141913912432829126",
+        "location": "San Jose, CA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Agentic SDLC Foundations",
+        "title": "Staff Software Engineer, Agentic SDLC Foundations",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/141913912432829126",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-22"
