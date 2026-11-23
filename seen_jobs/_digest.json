@@ -356,6 +356,40 @@
         "years": "15+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "2065281677624998",
+        "key": "2065281677624998",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Artificial Intelligence / AI Research",
+        "title": "AI Research Scientist (Technical Leadership), MSL FAIR Data",
+        "url": "https://www.metacareers.com/profile/job_details/2065281677624998",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808007",
+        "key": "210808007",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-23",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-23",
+        "title": "Software Engineer III - QA Automation with development exp",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808007",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-23"
