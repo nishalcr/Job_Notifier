@@ -325,6 +325,40 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "125438658403541702",
+        "key": "125438658403541702",
+        "location": "Kirkland, WA, USA; +1 more",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "BigQuery Agentic AI",
+        "title": "Senior Software Engineer, BigQuery Agentic AI",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/125438658403541702",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210801019",
+        "key": "210801019",
+        "location": "Houston, TX, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Software Engineer III",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801019",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-22"
