@@ -324,6 +324,38 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806591",
+        "key": "210806591",
+        "location": "NY, United States",
+        "posted": "2026-11-23",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-23",
+        "title": "Lead Software Engineer - Fullstack",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806591",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024775",
+        "key": "JR-024775",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-23",
+        "salary": "$249K\u2013$341K",
+        "source_posted": "Posted Today",
+        "title": "Distinguished Engineer (Foundational Platform)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Distinguished-Engineer_JR-024775",
+        "work_type": "",
+        "years": "15+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-23"
