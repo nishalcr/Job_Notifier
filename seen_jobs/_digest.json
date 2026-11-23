@@ -669,6 +669,87 @@
         "years": ""
       },
       "slug": "ibm"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611635",
+        "key": "10611635",
+        "location": "Newark, New Jersey",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Development Engineer - Data",
+        "url": "https://www.amazon.jobs/en/jobs/10611635/software-development-engineer-data",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611632",
+        "key": "10611632",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Development Engineer II, FAE",
+        "url": "https://www.amazon.jobs/en/jobs/10611632/software-development-engineer-ii-fae",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1091099",
+        "key": "R1091099",
+        "location": "IRL - Galway",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IRL---Galway/Senior-Software-Engineer_R1091099",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8411927",
+        "key": "8411927",
+        "location": "Seattle; +1 more",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Software Engineer, Data Warehouse Analytics",
+        "url": "https://stripe.com/jobs/search?gh_jid=8411927",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "stripe"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200063314",
+        "key": "1970393557045315",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-23",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-23",
+        "team": "Security Research",
+        "title": "Senior Security Researcher",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557045315",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-23"
