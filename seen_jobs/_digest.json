@@ -242,6 +242,70 @@
         "years": "5+ yrs"
       },
       "slug": "cvs_wd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611446",
+        "key": "10611446",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Development Engineer, Region Reliability Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10611446/software-development-engineer-region-reliability-engineering",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006271",
+        "key": "R1006271",
+        "location": "New York, NY",
+        "posted": "2026-11-23",
+        "salary": "$215K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4 (Python, Vue, AWS)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Python--Vue--AWS-_R1006271-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1000856",
+        "key": "R1000856",
+        "location": "Riverwoods, IL",
+        "posted": "2026-11-23",
+        "salary": "$147K\u2013$168K",
+        "source_posted": "Posted Today",
+        "title": "Principal Associate, Data Science - GPN",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Principal-Associate--Data-Science---GPN_R1000856-2",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8399913",
+        "key": "8399913",
+        "location": "Remote - US",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Staff Offensive Security Engineer, Proactive threat",
+        "url": "https://stripe.com/jobs/search?gh_jid=8399913",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "stripe"
     }
   ],
   "last_sent": "2026-11-23"
