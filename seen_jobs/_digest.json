@@ -1914,6 +1914,54 @@
         "years": "4+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289456",
+        "key": "JR0289456",
+        "location": "2 Locations",
+        "posted": "2026-11-23",
+        "salary": "$174K\u2013$330K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Senior-Software-Engineer_JR0289456-1",
+        "work_type": "Hybrid",
+        "years": "9+ yrs"
+      },
+      "slug": "intel"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351255",
+        "key": "351255",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Software Engineer, Core Infrastructure - Nashville",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351255",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351256",
+        "key": "351256",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-23",
+        "title": "Principal Software Engineer, Core Infrastructure - Nashville",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351256",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
