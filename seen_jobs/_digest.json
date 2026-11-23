@@ -359,6 +359,24 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "132412173463757510",
+        "key": "132412173463757510",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML / Pod Health",
+        "title": "Staff Software Engineer (TL), AI/ML, Pod Health",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/132412173463757510",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-22"
