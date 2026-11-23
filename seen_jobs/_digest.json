@@ -487,6 +487,136 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Goldman Sachs",
+      "job": {
+        "description": "",
+        "job_id": "189681",
+        "key": "189681",
+        "location": "Salt Lake City, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "HCM- Salt Lake City-Associate, Data Analytics & Reporting-10113184",
+        "title": "HCM- Salt Lake City-Associate, Data Analytics & Reporting-10113184",
+        "url": "https://higher.gs.com/roles/189681",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "goldman-sachs"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210811346",
+        "key": "210811346",
+        "location": "Newark, DE, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Basel Measurement & Analytics Derivatives Analyst",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811346",
+        "work_type": "Onsite",
+        "years": "1+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Adobe",
+      "job": {
+        "job_id": "R173692",
+        "key": "R173692",
+        "location": "Lehi",
+        "posted": "2026-11-23",
+        "salary": "$89K\u2013$184K",
+        "source_posted": "Posted Today",
+        "title": "Data Governance Engineer",
+        "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Lehi/Data-Governance-Engineer_R173692-1",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "adobe"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351125",
+        "key": "351125",
+        "location": "Seattle, WA, United States; +2 more",
+        "posted": "2026-11-23",
+        "salary": "$88K\u2013$210K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351125",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350602",
+        "key": "350602",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350602",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350609",
+        "key": "350609",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350609",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350610",
+        "key": "350610",
+        "location": "Seattle, WA, United States; +3 more",
+        "posted": "2026-11-23",
+        "salary": "$81K\u2013$166K",
+        "source_posted": "2026-11-16",
+        "title": "Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350610",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350614",
+        "key": "350614",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350614",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
