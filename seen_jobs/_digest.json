@@ -1801,6 +1801,119 @@
         "years": "8+ yrs"
       },
       "slug": "dell"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612182",
+        "key": "10612182",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Development Engineer II, Selling Partner Growth",
+        "url": "https://www.amazon.jobs/en/jobs/10612182/software-development-engineer-ii-selling-partner-growth",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068507",
+        "key": "1970393557078539",
+        "location": "Redmond, Washington; +1 more",
+        "posted": "2026-11-23",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-23",
+        "team": "Software Engineering",
+        "title": "Principal Applied AI Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557078539",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351247",
+        "key": "351247",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$88K\u2013$210K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Software Engineer, Platform",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351247",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351251",
+        "key": "351251",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$88K\u2013$210K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Software Engineer, Platform, Nashville",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351251",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351254",
+        "key": "351254",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-23",
+        "title": "Principal Software Engineer, Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351254",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351252",
+        "key": "351252",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-23",
+        "title": "Principal Software Engineer, Platform",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351252",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351249",
+        "key": "351249",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Software Engineer, Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351249",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
