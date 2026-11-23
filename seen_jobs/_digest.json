@@ -1962,6 +1962,60 @@
         "years": "7+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the team Earners (drivers and couriers) are an integral part of Uber\u2019s multi sided marketplace. They provide the time and the means to move people and things. Importantly, they enable the connection between the physical and digital world to make the movement happen at the p",
+        "job_id": "304958",
+        "key": "304958",
+        "location": "San Francisco, California; +3 more",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "team": "Engineer",
+        "title": "Sr Software Engineer - ML Engineer",
+        "url": "https://jobs.uber.com/en/jobs/304958/",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Role As an ML Engineer on the Location & Sensors team, you will play a crucial role in developing Uber's Location Platform to further enhance Uber's geospatial capabilities. The Location & Sensors team is focused on improving location accuracy and sensor data processing",
+        "job_id": "304857",
+        "key": "304857",
+        "location": "San Francisco, California",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "team": "Engineer",
+        "title": "Sr Machine Learning Engineer",
+        "url": "https://jobs.uber.com/en/jobs/304857/",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the role and team Ads is one of Uber\u2019s fastest growing businesses and a key contributor to Uber\u2019s long term profitability. The Ads Engineering team plays a critical and multifaceted role in optimizing the Uber advertising ecosystem. Our core mission is to meticulously serve",
+        "job_id": "305211",
+        "key": "305211",
+        "location": "San Francisco, California; +1 more",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "team": "Engineer",
+        "title": "Principal Engineer - Ads",
+        "url": "https://jobs.uber.com/en/jobs/305211/",
+        "work_type": "Onsite",
+        "years": "10+ yrs"
+      },
+      "slug": "uber"
     }
   ],
   "last_sent": "2026-11-23"
