@@ -2196,6 +2196,22 @@
         "years": "8+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Paramount",
+      "job": {
+        "job_id": "1453257400",
+        "key": "1453257400",
+        "location": "Los Angeles, CA",
+        "posted": "2026-11-23",
+        "salary": "$98K\u2013$148K",
+        "source_posted": "Nov 23, 2026",
+        "title": "Data Engineer",
+        "url": "https://careers.paramount.com/job/Los-Angeles-Data-Engineer-CA-90038/1453257400/",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "paramount"
     }
   ],
   "last_sent": "2026-11-23"
