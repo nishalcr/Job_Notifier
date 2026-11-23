@@ -377,6 +377,22 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808419",
+        "key": "210808419",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-23",
+        "salary": "$110K\u2013$125K",
+        "source_posted": "2026-11-23",
+        "title": "Quantitative Trading & Research - Algorithmic Execution - Analyst",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808419",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-22"
