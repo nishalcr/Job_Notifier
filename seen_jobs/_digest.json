@@ -113,6 +113,22 @@
         "years": "6+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611083",
+        "key": "10611083",
+        "location": "Denver, Colorado",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Senior Software Development Engineer, Controls Design Execution",
+        "url": "https://www.amazon.jobs/en/jobs/10611083/senior-software-development-engineer-controls-design-execution",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-22"
