@@ -1328,6 +1328,38 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612037",
+        "key": "10612037",
+        "location": "Austin, Texas",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Development Engineer, AWS Vulnerability Management (AVM)",
+        "url": "https://www.amazon.jobs/en/jobs/10612037/software-development-engineer-aws-vulnerability-management-avm",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR359771",
+        "key": "JR359771",
+        "location": "2 Locations",
+        "posted": "2026-11-23",
+        "salary": "$197K\u2013$345K",
+        "source_posted": "Posted Today",
+        "title": "Staff Backend Engineer, Slackbot AI - Slack",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Staff-Backend-Product-Engineer--SlackBot-_JR359771-1",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "salesforce"
     }
   ],
   "last_sent": "2026-11-23"
