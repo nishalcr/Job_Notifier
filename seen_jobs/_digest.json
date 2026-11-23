@@ -1720,6 +1720,71 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1102069",
+        "key": "R1102069",
+        "location": "49 Locations",
+        "posted": "2026-11-23",
+        "salary": "$65K\u2013$173K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer - Personalization",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Software-Engineer---Personalization_R1102069",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006440",
+        "key": "R1006440",
+        "location": "4 Locations",
+        "posted": "2026-11-23",
+        "salary": "$179K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1006440-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068492",
+        "key": "1970393557078505",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-23",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-23",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557078505",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351245",
+        "key": "351245",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$88K\u2013$210K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Software Engineer, Platform Nashville",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351245",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
