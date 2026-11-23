@@ -271,6 +271,42 @@
         "years": "6+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "104539141382775494",
+        "key": "104539141382775494",
+        "location": "Atlanta, GA, USA; +1 more",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure Control Networks",
+        "title": "Senior Network Engineer, Infrastructure Control Networks",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/104539141382775494",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "128190736007865030",
+        "key": "128190736007865030",
+        "location": "Atlanta, GA, USA; +3 more",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Cloud Learning Services",
+        "title": "Data Engineer, Cloud Learning Services",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/128190736007865030",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-22"
