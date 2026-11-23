@@ -830,6 +830,86 @@
         "years": "1+ yrs"
       },
       "slug": "stripe"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611672",
+        "key": "10611672",
+        "location": "Cupertino, California",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Sr. Software Development Engineer \u2013 AI/ML Networking Disaggregated Inference, Annapurna Labs, Annapurna Labs",
+        "url": "https://www.amazon.jobs/en/jobs/10611672/sr-software-development-engineer-ai-ml-networking-disaggregated-inference-annapurna-labs-annapurna-labs",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611679",
+        "key": "10611679",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Network Development Engineer,  Amazon Leo Network Services - L3N Infra",
+        "url": "https://www.amazon.jobs/en/jobs/10611679/network-development-engineer-amazon-leo-network-services-l3n-infra",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210762311",
+        "key": "210762311",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Backend Software Engineer III - JAVA, Springboot",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762311",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289438",
+        "key": "JR0289438",
+        "location": "US, New Mexico, Albuquerque",
+        "posted": "2026-11-23",
+        "salary": "$76K\u2013$146K",
+        "source_posted": "Posted Today",
+        "title": "New Mexico Module Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/New-Mexico-Module-Engineer_JR0289438",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "intel"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97822",
+        "key": "97822",
+        "location": "Austin, Texas",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Senior Full-Stack Platform Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/97822",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-23"
