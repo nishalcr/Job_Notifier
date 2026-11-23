@@ -1521,6 +1521,56 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the role and team Uber Maps Search helps people find the places and destinations they need across Uber experiences. The multi disciplinary team builds the backend systems, deep learning models & user experience components behind location search from understanding a query an",
+        "job_id": "304856",
+        "key": "304856",
+        "location": "San Francisco, California; +1 more",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "team": "Engineer",
+        "title": "Sr Software Engineer",
+        "url": "https://jobs.uber.com/en/jobs/304856/",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74548",
+        "key": "74548",
+        "location": "Long Beach, CA, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Staff Business Architect",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74548",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74550",
+        "key": "74550",
+        "location": "Long Beach, CA, United States",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Senior Business Architect",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74550",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-23"
