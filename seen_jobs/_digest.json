@@ -2212,6 +2212,55 @@
         "years": "4+ yrs"
       },
       "slug": "paramount"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612268",
+        "key": "10612268",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Wireless Embedded Software Developer, RTI, Amazon Leo",
+        "url": "https://www.amazon.jobs/en/jobs/10612268/wireless-embedded-software-developer-rti-amazon-leo",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "146459",
+        "key": "146459",
+        "location": "Herndon, US",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data & Analytics",
+        "title": "Federal Associate Developer - Digital Product Engineering iX",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=146459",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "343006",
+        "key": "343006",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Software Engineer, Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343006",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
