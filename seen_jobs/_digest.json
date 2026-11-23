@@ -66,6 +66,38 @@
         "years": "4+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810075",
+        "key": "210810075",
+        "location": "Jersey City, NJ, United States; +1 more",
+        "posted": "2026-11-23",
+        "salary": "$176K\u2013$260K",
+        "source_posted": "2026-11-23",
+        "title": "Senior lead Software Engineer Cloud Platforms",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810075",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289148",
+        "key": "JR0289148",
+        "location": "US, Oregon, Hillsboro",
+        "posted": "2026-11-23",
+        "salary": "$89K\u2013$126K",
+        "source_posted": "Posted Today",
+        "title": "Module Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineer_JR0289148-1",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-23"
