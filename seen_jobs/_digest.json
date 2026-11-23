@@ -2162,6 +2162,22 @@
         "years": "10+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Adobe",
+      "job": {
+        "job_id": "R173801",
+        "key": "R173801",
+        "location": "2 Locations",
+        "posted": "2026-11-23",
+        "salary": "$172K\u2013$307K",
+        "source_posted": "Posted Today",
+        "title": "Machine Learning Engineer - Incubation",
+        "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer---Incubation_R173801",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "adobe"
     }
   ],
   "last_sent": "2026-11-23"
