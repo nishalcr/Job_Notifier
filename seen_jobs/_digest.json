@@ -393,6 +393,24 @@
         "years": ""
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "77665290493534918",
+        "key": "77665290493534918",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Drivers and Systems Engineering",
+        "title": "Staff Software Engineer, Drivers and Systems Engineering",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/77665290493534918",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-22"
