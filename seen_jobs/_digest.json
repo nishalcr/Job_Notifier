@@ -1376,6 +1376,71 @@
         "years": "1\u20132 yrs"
       },
       "slug": "adobe"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210800806",
+        "key": "210800806",
+        "location": "Seattle, WA, United States",
+        "posted": "2026-11-23",
+        "salary": "$176K\u2013$260K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Lead Security Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800806",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067572",
+        "key": "1970393557074549",
+        "location": "Multiple Locations",
+        "posted": "2026-11-23",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-23",
+        "team": "Security Assurance",
+        "title": "Senior Security Assurance Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557074549",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Zscaler",
+      "job": {
+        "job_id": "5266829007",
+        "key": "5266829007",
+        "location": "USA - Update Location",
+        "posted": "2026-11-23",
+        "salary": "$118K\u2013$148K",
+        "source_posted": "2026-11-23",
+        "title": "Sr. Threat Researcher",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5266829007",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "zscaler"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351196",
+        "key": "351196",
+        "location": "United States",
+        "posted": "2026-11-23",
+        "salary": "$86K\u2013$187K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Application Software Engineer- Oracle Health",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351196",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
