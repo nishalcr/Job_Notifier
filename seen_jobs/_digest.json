@@ -1312,6 +1312,22 @@
         "years": ""
       },
       "slug": "adobe"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610935",
+        "key": "10610935",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Sr. Software Development Engineer, ACE",
+        "url": "https://www.amazon.jobs/en/jobs/10610935/sr-software-development-engineer-ace",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-23"
