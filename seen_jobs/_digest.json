@@ -2016,6 +2016,38 @@
         "years": "10+ yrs"
       },
       "slug": "uber"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612224",
+        "key": "10612224",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Software Development Engineer, Online Proxy Fleet (OPF)",
+        "url": "https://www.amazon.jobs/en/jobs/10612224/software-development-engineer-online-proxy-fleet-opf",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10606720",
+        "key": "10606720",
+        "location": "New York, New York",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 16, 2026",
+        "title": "Data Scientist, Global Data & Analytics (GDA) Team",
+        "url": "https://www.amazon.jobs/en/jobs/10606720/data-scientist-global-data-analytics-gda-team",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-23"
