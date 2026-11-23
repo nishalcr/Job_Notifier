@@ -750,6 +750,38 @@
         "years": "3+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0138223",
+        "key": "R0138223",
+        "location": "Chicago, Illinois, United States of America",
+        "posted": "2026-11-23",
+        "salary": "$130K\u2013$194K",
+        "source_posted": "Posted Today",
+        "title": "Sr Data Scientist",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0138223-1",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "paypal"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "342900",
+        "key": "342900",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-23",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Software Engineer, Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342900",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
