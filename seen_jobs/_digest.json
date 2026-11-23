@@ -163,6 +163,24 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's custom-designed machines make up one of the largest and most powerful computing infrastructures in the world. The Hardware Testing Engineering team ensures that this cutting-edge equipment is reliable. In the R&D lab, you design test equipment for prototypes of our machi",
+        "job_id": "111347764058563270",
+        "key": "111347764058563270",
+        "location": "Fremont, CA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "CMOS Backplane / Raxium",
+        "title": "Senior Test Engineer, CMOS Backplane, Raxium",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/111347764058563270",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-22"
