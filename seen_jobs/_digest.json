@@ -307,6 +307,24 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google Cloud\u2019s mission is to make every business successful through AI by combining cutting-edge technology, infrastructure, and talent. AI/ML software engineers in Cloud bridge the gap between pioneering models and a massive product vehicle reaching billions. Our talent density",
+        "job_id": "132880153100329670",
+        "key": "132880153100329670",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI and Infrastructure",
+        "title": "Staff Software Engineer, AI and Infrastructure",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/132880153100329670",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-22"
