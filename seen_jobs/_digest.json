@@ -226,6 +226,22 @@
         "years": "7+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1108712",
+        "key": "R1108712",
+        "location": "MN - Work from home",
+        "posted": "2026-11-23",
+        "salary": "$93K\u2013$185K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Development Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MN---Work-from-home/Senior-Software-Development-Engineer_R1108712",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "cvs_wd"
     }
   ],
   "last_sent": "2026-11-23"
