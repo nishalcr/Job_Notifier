@@ -181,6 +181,24 @@
         "years": "4+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Guide engineering teams during product development to ensure that data collection and usage practices are transparent, protect user privacy, and mitigate risk. Conduct technical and policy reviews to identify and escalate potential privacy concerns. Lead and manage the proactive",
+        "job_id": "112141439655125702",
+        "key": "112141439655125702",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Ads Privacy",
+        "title": "Privacy Engineer, Ads Privacy",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/112141439655125702",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-22"
