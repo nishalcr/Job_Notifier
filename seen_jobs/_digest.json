@@ -306,6 +306,24 @@
         "years": ""
       },
       "slug": "stripe"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "103987049106678470",
+        "key": "103987049106678470",
+        "location": "Cambridge, MA, USA",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Platforms",
+        "title": "Senior Software Engineer, Infrastructure, Google Cloud Platforms",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/103987049106678470",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-23"
