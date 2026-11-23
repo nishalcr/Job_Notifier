@@ -1248,6 +1248,70 @@
         "years": "7+ yrs"
       },
       "slug": "cvs_wd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612018",
+        "key": "10612018",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Sr. Applied Scientist, SITE",
+        "url": "https://www.amazon.jobs/en/jobs/10612018/sr-applied-scientist-site",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74378",
+        "key": "74378",
+        "location": "Allen Park, MI, United States",
+        "posted": "2026-11-23",
+        "salary": "$84K\u2013$166K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Acoustics Test Automation Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74378",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74686",
+        "key": "74686",
+        "location": "Louisville, KY, United States",
+        "posted": "2026-11-23",
+        "salary": "$115K\u2013$193K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Systems Integration Engineer \u2013 IVI, OTA & Diagnostics Software",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74686",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Adobe",
+      "job": {
+        "job_id": "R173584",
+        "key": "R173584",
+        "location": "San Jose",
+        "posted": "2026-11-23",
+        "salary": "$121K\u2013$239K",
+        "source_posted": "Posted Today",
+        "title": "2027 University Graduate - Research Scientist",
+        "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Research-Scientist_R173584",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "adobe"
     }
   ],
   "last_sent": "2026-11-23"
