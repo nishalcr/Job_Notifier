@@ -98,6 +98,22 @@
         "years": ""
       },
       "slug": "intel"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611379",
+        "key": "10611379",
+        "location": "Irvine, California",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "November 23, 2026",
+        "title": "Senior Data Engineer, Data Platform, Battery Energy Storage Systems, Project Jewel",
+        "url": "https://www.amazon.jobs/en/jobs/10611379/senior-data-engineer-data-platform-battery-energy-storage-systems-project-jewel",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-23"
