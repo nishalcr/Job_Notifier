@@ -34,6 +34,38 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810320",
+        "key": "210810320",
+        "location": "Wilmington, DE, United States; +1 more",
+        "posted": "2026-11-23",
+        "salary": "$109K\u2013$165K",
+        "source_posted": "2026-11-23",
+        "title": "Performance Marketing Analytics Solution Senior Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810320",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349844",
+        "key": "349844",
+        "location": "Reston, VA, United States; +1 more",
+        "posted": "2026-11-23",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Senior Security Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349844",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
