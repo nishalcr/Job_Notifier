@@ -992,6 +992,39 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613000",
+        "key": "10613000",
+        "location": "Boston, Massachusetts",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer, Amazon Security Lake",
+        "url": "https://www.amazon.jobs/en/jobs/10613000/software-development-engineer-amazon-security-lake",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068314",
+        "key": "1970393557076503",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer - Backend Services - Commerce",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557076503",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-24"
