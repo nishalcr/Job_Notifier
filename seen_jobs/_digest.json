@@ -1837,6 +1837,70 @@
         "years": "8+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR369325",
+        "key": "JR369325",
+        "location": "California - San Francisco",
+        "posted": "2026-11-24",
+        "salary": "$172K\u2013$286K",
+        "source_posted": "Posted Today",
+        "title": "Sr. Software Engineer, Backend - Slack",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Sr-Software-Engineer--Backend---Slack_JR369325-2",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2031903",
+        "key": "2031903",
+        "location": "16 Locations",
+        "posted": "2026-11-24",
+        "salary": "$286K\u2013$468K",
+        "source_posted": "Posted Today",
+        "title": "Distinguished Software Engineer  (Remote)",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Distinguished-Software-Engineer---Remote-_2031903",
+        "work_type": "Remote",
+        "years": "15+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103743717072",
+        "key": "103743717072",
+        "location": "Mountain View, California",
+        "posted": "2026-11-24",
+        "salary": "$202K\u2013$274K",
+        "source_posted": "",
+        "title": "Staff Software Engineer \u2013 Data Protection",
+        "url": "https://jobs.intuit.com/job/mountain-view/staff-software-engineer-data-protection/27595/103743717072",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "intuit"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103743704944",
+        "key": "103743704944",
+        "location": "San Diego; +more",
+        "posted": "2026-11-24",
+        "salary": "$188K\u2013$274K",
+        "source_posted": "",
+        "title": "Staff Software Engineer",
+        "url": "https://jobs.intuit.com/job/san-diego/staff-software-engineer/27595/103743704944",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-24"
