@@ -2568,6 +2568,22 @@
         "years": "8+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8415333",
+        "key": "8415333",
+        "location": "New York",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "Analytics Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8415333",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "stripe"
     }
   ],
   "last_sent": "2026-11-24"
