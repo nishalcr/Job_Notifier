@@ -2618,6 +2618,23 @@
         "years": "4+ yrs"
       },
       "slug": "uber"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068239",
+        "key": "1970393557076256",
+        "location": "New York; +2 more",
+        "posted": "2026-11-24",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557076256",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-24"
