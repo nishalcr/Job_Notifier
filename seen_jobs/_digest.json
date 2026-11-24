@@ -2542,6 +2542,57 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068153",
+        "key": "1970393557076109",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "$143K\u2013$331K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer, Developer Productivity - AI Experiences, Microsoft Edge",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557076109",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068151",
+        "key": "1970393557076104",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "$143K\u2013$331K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer, Developer Acceleration - AI Experiences, Microsoft Edge",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557076104",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068150",
+        "key": "1970393557076103",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "$143K\u2013$331K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer, Services & Backend Infrastructure - AI Experiences, Microsoft Edge",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557076103",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-23"
