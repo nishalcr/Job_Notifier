@@ -1937,6 +1937,186 @@
         "years": "10+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10607099",
+        "key": "10607099",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 17, 2026",
+        "title": "Principal Engineer , AWS Applied AI Solution \u2013 Core Services",
+        "url": "https://www.amazon.jobs/en/jobs/10607099/principal-engineer-aws-applied-ai-solution-core-services",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613313",
+        "key": "10613313",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Business Intelligence Engineer, Selling Partner Services - Finance Insights and Analytics",
+        "url": "https://www.amazon.jobs/en/jobs/10613313/business-intelligence-engineer-selling-partner-services-finance-insights-and-analytics",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1039744925604442",
+        "key": "1039744925604442",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Remote, US / Infrastructure",
+        "title": "Network Production Engineer, Physical Network",
+        "url": "https://www.metacareers.com/profile/job_details/1039744925604442",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139235",
+        "key": "R0139235",
+        "location": "San Jose, California, United States of America",
+        "posted": "2026-11-24",
+        "salary": "$176K\u2013$262K",
+        "source_posted": "Posted Today",
+        "title": "Staff Data Scientist",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Data-Scientist_R0139235",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "paypal"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068517",
+        "key": "1970393557078552",
+        "location": "Redmond, Washington; +1 more",
+        "posted": "2026-11-24",
+        "salary": "$143K\u2013$304K",
+        "source_posted": "2026-11-24",
+        "team": "Applied Sciences",
+        "title": "Principal Applied Scientist",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557078552",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068680",
+        "key": "1970393557079335",
+        "location": "Reston, Virginia; +1 more",
+        "posted": "2026-11-24",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Software Engineer II - CTJ - Top Secret",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557079335",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351253",
+        "key": "351253",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-24",
+        "title": "Principal Software Engineer, Platform - Nashville",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351253",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351339",
+        "key": "351339",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-24",
+        "title": "Principal Software Engineer, Platform",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351339",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351337",
+        "key": "351337",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$88K\u2013$210K",
+        "source_posted": "2026-11-24",
+        "title": "Senior Software Engineer, Platform",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351337",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351338",
+        "key": "351338",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-24",
+        "title": "Senior Software Engineer, Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351338",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351340",
+        "key": "351340",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-24",
+        "title": "Principal Software Engineer, Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351340",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-24"
