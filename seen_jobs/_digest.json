@@ -2404,6 +2404,38 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74559",
+        "key": "74559",
+        "location": "United States",
+        "posted": "2026-11-24",
+        "salary": "$100K\u2013$193K",
+        "source_posted": "2026-11-24",
+        "title": "Senior Software Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74559",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351197",
+        "key": "351197",
+        "location": "United States",
+        "posted": "2026-11-24",
+        "salary": "$100K\u2013$210K",
+        "source_posted": "2026-11-24",
+        "title": "Principal Application Software Engineer- Oracle Health",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351197",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-24"
