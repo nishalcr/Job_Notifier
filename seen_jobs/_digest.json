@@ -3193,6 +3193,42 @@
         "years": "2+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "124165355219100358",
+        "key": "124165355219100358",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML / App Ads Quality",
+        "title": "Software Engineer III, AI/ML, App Ads Quality",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/124165355219100358",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's leadership team hand-picks thorny business challenges, and members of BizOps work in small teams to find solutions. As part of this team you fully immerse yourself in data collection, draw insight from analysis, and then zoom out to develop compelling, synthesized recomm",
+        "job_id": "91531850106708678",
+        "key": "91531850106708678",
+        "location": "Chicago, IL, USA; +3 more",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Legal and Global Affairs",
+        "title": "Business Data Scientist, Legal and Global Affairs",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/91531850106708678",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-23"
