@@ -776,6 +776,88 @@
         "years": "1+ yrs"
       },
       "slug": "cvs_wd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612955",
+        "key": "10612955",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Data Engineer, Infra-Finance Business intelligence & Transformations",
+        "url": "https://www.amazon.jobs/en/jobs/10612955/data-engineer-infra-finance-business-intelligence-transformations",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030444",
+        "key": "JR2030444",
+        "location": "3 Locations",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Staff FinOps Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-FinOps-Engineer_JR2030444",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068508",
+        "key": "1970393557078545",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557078545",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067758",
+        "key": "1970393557075043",
+        "location": "Redmond, Washington; +1 more",
+        "posted": "2026-11-24",
+        "salary": "$166K\u2013$331K",
+        "source_posted": "2026-11-24",
+        "team": "Data Science",
+        "title": "Principal Data Scientist",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075043",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-023401",
+        "key": "JR-023401",
+        "location": "Santa Clara, United States of America",
+        "posted": "2026-11-24",
+        "salary": "$163K\u2013$264K",
+        "source_posted": "Posted Today",
+        "title": "Principal Applied AI Researcher (Prisma AIRS)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Santa-Clara-United-States-of-America/Principal-Applied-AI-Researcher--Prisma-AIRS-_JR-023401",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-24"
