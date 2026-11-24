@@ -1547,6 +1547,38 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139250",
+        "key": "R0139250",
+        "location": "San Jose, California, United States of America",
+        "posted": "2026-11-24",
+        "salary": "$218K\u2013$324K",
+        "source_posted": "Posted Today",
+        "title": "Sr Staff Machine Learning Engineer",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Staff-Machine-Learning-Engineer_R0139250-1",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "paypal"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "349655",
+        "key": "349655",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "Senior Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349655",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-24"
