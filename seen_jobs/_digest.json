@@ -1025,6 +1025,70 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "HP",
+      "job": {
+        "job_id": "3170354",
+        "key": "3170354",
+        "location": "Austin, Texas, United States of America",
+        "posted": "2026-11-24",
+        "salary": "$111K\u2013$162K",
+        "source_posted": "Posted Today",
+        "title": "Build Infrastructure & Pipeline Engineer - Poly",
+        "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Build-Infrastructure---Pipeline-Engineer---Poly_3170354-1",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "hp"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351348",
+        "key": "351348",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "Senior Software Engineer, Core Infrastructure - Nashville",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351348",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351349",
+        "key": "351349",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-24",
+        "title": "Principal Software Engineer, Platform - Nashville",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351349",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351351",
+        "key": "351351",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-24",
+        "title": "Principal Software Engineer, Core Infrastructure - Nashville",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351351",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-24"
