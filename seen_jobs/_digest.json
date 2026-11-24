@@ -2205,6 +2205,41 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Role Places APIs powers location search, geocoding, and place details for 250+ services across Uber. Our APIs help riders find destinations, couriers reach delivery addresses, and product teams build on consistent place data. As a Senior Software Engineer, you will desi",
+        "job_id": "304859",
+        "key": "304859",
+        "location": "San Francisco, California",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "team": "Engineer",
+        "title": "Sr Software Engineer",
+        "url": "https://jobs.uber.com/en/jobs/304859/",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "uber"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068187",
+        "key": "1970393557076167",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Senior Embedded Firmware Engineer - XBOX",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557076167",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-24"
