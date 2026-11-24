@@ -2641,6 +2641,24 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the role and team Engineering at Uber means building for real world impact under real world constraints. As Uber\u2019s core stateful distributed database platform, the team sits at the intersection of extreme scale, multi cloud flexibility, and high performance transactional da",
+        "job_id": "304777",
+        "key": "304777",
+        "location": "Sunnyvale, California; +2 more",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "team": "Engineer",
+        "title": "Senior Software Engineer, Distributed Storage (Docstore & TiDB)",
+        "url": "https://jobs.uber.com/en/jobs/304777/",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "uber"
     }
   ],
   "last_sent": "2026-11-23"
