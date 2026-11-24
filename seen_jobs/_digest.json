@@ -1141,6 +1141,38 @@
         "years": "3+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613168",
+        "key": "10613168",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Data Scientist II, Selection Growth Science",
+        "url": "https://www.amazon.jobs/en/jobs/10613168/data-scientist-ii-selection-growth-science",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610878",
+        "key": "10610878",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "RDS Oracle Database Engineer II, RDS Oracle",
+        "url": "https://www.amazon.jobs/en/jobs/10610878/rds-oracle-database-engineer-ii-rds-oracle",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-24"
