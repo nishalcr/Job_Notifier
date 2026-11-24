@@ -696,6 +696,38 @@
         "years": "8+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8414532",
+        "key": "8414532",
+        "location": "Seattle; +1 more",
+        "posted": "2026-11-24",
+        "salary": "$157K\u2013$235K",
+        "source_posted": "2026-11-24",
+        "title": "Infrastructure Engineer, Workflow Engine",
+        "url": "https://stripe.com/jobs/search?gh_jid=8414532",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "stripe"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351121",
+        "key": "351121",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$91K\u2013$187K",
+        "source_posted": "2026-11-23",
+        "title": "Senior Network Developer - Topology Scaling",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351121",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-24"
