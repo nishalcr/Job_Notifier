@@ -3311,6 +3311,54 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2028162",
+        "key": "2028162",
+        "location": "San Jose, California, US",
+        "posted": "2026-11-24",
+        "salary": "$149K\u2013$282K",
+        "source_posted": "Posted Today",
+        "title": "Sr. Software Test Engineer, Hardware Diagnostics",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Sr-Software-Test-Engineer--Hardware-Diagnostics_2028162",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2028165",
+        "key": "2028165",
+        "location": "San Jose, California, US",
+        "posted": "2026-11-24",
+        "salary": "$166K\u2013$308K",
+        "source_posted": "Posted Today",
+        "title": "Software Test Engineering Technical Lead \u2013 Hardware Diagnostics",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Test-Engineering-Technical-Lead---Hardware-Diagnostics_2028165",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74214",
+        "key": "74214",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "TE - BMS Software",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74214",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-23"
