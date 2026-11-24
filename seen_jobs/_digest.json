@@ -2835,6 +2835,86 @@
         "years": "10+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612380",
+        "key": "10612380",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer III",
+        "url": "https://www.amazon.jobs/en/jobs/10612380/software-development-engineer-iii",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612379",
+        "key": "10612379",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer III",
+        "url": "https://www.amazon.jobs/en/jobs/10612379/software-development-engineer-iii",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612378",
+        "key": "10612378",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer III",
+        "url": "https://www.amazon.jobs/en/jobs/10612378/software-development-engineer-iii",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612377",
+        "key": "10612377",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer III",
+        "url": "https://www.amazon.jobs/en/jobs/10612377/software-development-engineer-iii",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612376",
+        "key": "10612376",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer II",
+        "url": "https://www.amazon.jobs/en/jobs/10612376/software-development-engineer-ii",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-23"
