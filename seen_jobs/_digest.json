@@ -119,6 +119,42 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "130593924828799686",
+        "key": "130593924828799686",
+        "location": "San Jose, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Full Stack",
+        "title": "Staff Software Engineer, Full Stack",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/130593924828799686",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "88306707624534726",
+        "key": "88306707624534726",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Safety Classifiers and Agentic Systems",
+        "title": "Senior Software Engineer, Safety Classifiers and Agentic Systems",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/88306707624534726",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-24"
