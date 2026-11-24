@@ -2518,6 +2518,56 @@
         "years": ""
       },
       "slug": "atlassian"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613418",
+        "key": "10613418",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Application Security Engineer, AWS Security",
+        "url": "https://www.amazon.jobs/en/jobs/10613418/application-security-engineer-aws-security",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "2226129517969205",
+        "key": "2226129517969205",
+        "location": "Bellevue, WA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Engineering",
+        "title": "Backend Software Engineer, Applied AI Engineering",
+        "url": "https://www.metacareers.com/profile/job_details/2226129517969205",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2031554",
+        "key": "2031554",
+        "location": "19 Locations",
+        "posted": "2026-11-24",
+        "salary": "$166K\u2013$308K",
+        "source_posted": "Posted Today",
+        "title": "Site Reliability Engineering Technical Leader",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Glendale-California-US/Site-Reliability-Engineering-Technical-Leader_2031554",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-24"
