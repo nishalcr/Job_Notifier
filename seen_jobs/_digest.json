@@ -235,6 +235,102 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612795",
+        "key": "10612795",
+        "location": "Cupertino, California",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Embedded Software Engineer, Annapurna Ml Software",
+        "url": "https://www.amazon.jobs/en/jobs/10612795/embedded-software-engineer-annapurna-ml-software",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1049459",
+        "key": "R1049459",
+        "location": "CT - Hartford",
+        "posted": "2026-11-24",
+        "salary": "$102K\u2013$204K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Development Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Software-Development-Engineer_R1049459",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2030719",
+        "key": "2030719",
+        "location": "Boxborough, Massachusetts, US",
+        "posted": "2026-11-24",
+        "salary": "$112K\u2013$203K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Boxborough-Massachusetts-US/Software-Engineer_2030719-1",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2030706",
+        "key": "2030706",
+        "location": "Arlington, Virginia, US",
+        "posted": "2026-11-24",
+        "salary": "$138K\u2013$256K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineer",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Arlington-Virginia-US/Software-Engineer_2030706-1",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "cisco"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806672",
+        "key": "210806672",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-24",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-24",
+        "title": "Lead Software Engineer- (Java Backend, AWS, AI Native)",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806672",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006438",
+        "key": "R1006438",
+        "location": "Plano, TX",
+        "posted": "2026-11-24",
+        "salary": "$179K\u2013$205K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4 (Java, Python, AWS)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Java--Python--AWS-_R1006438-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-24"
