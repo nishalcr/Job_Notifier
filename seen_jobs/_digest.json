@@ -3139,6 +3139,42 @@
         "years": "2+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "We are a small team where data science, analysis and policy judgment come together, and where your findings directly shape what launches. We work quickly, write things down clearly, and rely heavily on AI agents and automation to operate at web scale As an Engineering Analyst in",
+        "job_id": "92719322664706758",
+        "key": "92719322664706758",
+        "location": "Seattle, WA, USA; +2 more",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Trust and Safety Search / Sensitive Search Verticals",
+        "title": "Senior Engineering Analyst, Trust and Safety Search, Sensitive Search Verticals",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/92719322664706758",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "111059176616010438",
+        "key": "111059176616010438",
+        "location": "Cambridge, MA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Platforms",
+        "title": "Software Engineer III, Infrastructure, Google Cloud Platforms",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/111059176616010438",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-23"
