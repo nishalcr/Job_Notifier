@@ -3359,6 +3359,22 @@
         "years": "8+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "102730",
+        "key": "102730",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "Product Quality Engineering",
+        "url": "https://careers.amd.com/careers-home/jobs/102730",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-23"
