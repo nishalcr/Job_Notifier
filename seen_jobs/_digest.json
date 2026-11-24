@@ -2426,6 +2426,54 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030465",
+        "key": "JR2030465",
+        "location": "6 Locations",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior HPC Architect, Identity and Security at Scale",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-Architect--Identity-and-Security-at-Scale_JR2030465",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030471",
+        "key": "JR2030471",
+        "location": "6 Locations",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior System Software Engineer, Telemetry at Scale",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Telemetry-at-Scale_JR2030471",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030470",
+        "key": "JR2030470",
+        "location": "6 Locations",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior HPC Architect, Storage Management at Scale",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-Architect--Storage-Management-at-Scale_JR2030470",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-23"
