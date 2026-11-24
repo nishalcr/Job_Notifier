@@ -1173,6 +1173,40 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612974",
+        "key": "10612974",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer, VirtSat Team",
+        "url": "https://www.amazon.jobs/en/jobs/10612974/software-development-engineer-virtsat-team",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1465603252451425",
+        "key": "1465603252451425",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Engineering",
+        "title": "Full Stack Engineer (Technical Leadership), Product Risk & Compliance",
+        "url": "https://www.metacareers.com/profile/job_details/1465603252451425",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-24"
