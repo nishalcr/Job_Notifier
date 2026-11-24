@@ -3295,6 +3295,22 @@
         "years": "5+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809509",
+        "key": "210809509",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "Gen AI Data Scientist - Wholesale Credit Risk  - Senior Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809509",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-23"
