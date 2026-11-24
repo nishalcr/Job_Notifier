@@ -858,6 +858,56 @@
         "years": "8+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1175149555168202",
+        "key": "1175149555168202",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Engineering",
+        "title": "Software Engineer (Technical Leadership) - Privacy",
+        "url": "https://www.metacareers.com/profile/job_details/1175149555168202",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210806614",
+        "key": "210806614",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "Lead Software Engineer - JAVA/AWS/AI",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806614",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006497",
+        "key": "R1006497",
+        "location": "5 Locations",
+        "posted": "2026-11-24",
+        "salary": "$230K\u2013$286K",
+        "source_posted": "Posted Today",
+        "title": "AI Engineer 5 (GenAI Platform Services)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/AI-Engineer-5--GenAI-Platform-Services-_R1006497-1",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-24"
