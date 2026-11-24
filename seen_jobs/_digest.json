@@ -2117,6 +2117,94 @@
         "years": "7+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "4505238863028026",
+        "key": "4505238863028026",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / New York, NY / AI Infrastructure",
+        "title": "Software Engineer, Systems",
+        "url": "https://www.metacareers.com/profile/job_details/4505238863028026",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1489207229762040",
+        "key": "1489207229762040",
+        "location": "Bellevue, WA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Menlo Park, CA / AI Infrastructure",
+        "title": "Software Engineer, AI Builder - Devices and Embedded",
+        "url": "https://www.metacareers.com/profile/job_details/1489207229762040",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "39982369118077971",
+        "key": "39982369118077971",
+        "location": "Austin, TX",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Menlo Park, CA",
+        "title": "Software Developer, Scaled Ops AI Acceleration Team",
+        "url": "https://www.metacareers.com/profile/job_details/39982369118077971",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "2420642692010378",
+        "key": "2420642692010378",
+        "location": "Bellevue, WA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Redmond, WA",
+        "title": "Software Engineer, Systems and Infrastructure",
+        "url": "https://www.metacareers.com/profile/job_details/2420642692010378",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210812119",
+        "key": "210812119",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-24",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-24",
+        "title": "Lead Software Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812119",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-24"
