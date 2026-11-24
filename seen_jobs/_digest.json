@@ -3279,6 +3279,22 @@
         "years": ""
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74366",
+        "key": "74366",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-24",
+        "salary": "$74K\u2013$166K",
+        "source_posted": "2026-11-24",
+        "title": "IP Core & Application Engineer",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74366",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-23"
