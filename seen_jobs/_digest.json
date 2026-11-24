@@ -2600,6 +2600,24 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Role Uber is launching AV Labs to accelerate the autonomous technology ecosystem. We're building out a high velocity team of multi disciplinary experts to turn real world operations into high quality data for our autonomous partners. This team is focused on the hardest",
+        "job_id": "304930",
+        "key": "304930",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "team": "Engineer",
+        "title": "Sr Machine Learning Engineer",
+        "url": "https://jobs.uber.com/en/jobs/304930/",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "uber"
     }
   ],
   "last_sent": "2026-11-24"
