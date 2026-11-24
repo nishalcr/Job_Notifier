@@ -908,6 +908,90 @@
         "years": "6+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612989",
+        "key": "10612989",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Principal Applied Scientist, Alexa Shopping",
+        "url": "https://www.amazon.jobs/en/jobs/10612989/principal-applied-scientist-alexa-shopping",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "134779765595742918",
+        "key": "134779765595742918",
+        "location": "Raleigh, NC, USA; +1 more",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Platforms",
+        "title": "Software Engineer III, Infrastructure, Google Cloud Platforms",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/134779765595742918",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1740920570352101",
+        "key": "1740920570352101",
+        "location": "Pittsburgh, PA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Burlingame, CA / AI Research",
+        "title": "CV/ML Systems Engineer, Hardware Architecture",
+        "url": "https://www.metacareers.com/profile/job_details/1740920570352101",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "93258",
+        "key": "93258",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "MTS Software Development Eng.",
+        "url": "https://careers.amd.com/careers-home/jobs/93258",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97930",
+        "key": "97930",
+        "location": "Bellevue, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "GPU Systems Software Engineer (AI Runtime & Compiler Infrastructure)",
+        "url": "https://careers.amd.com/careers-home/jobs/97930",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-24"
