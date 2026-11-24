@@ -3051,6 +3051,24 @@
         "years": "8+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "142467825775059654",
+        "key": "142467825775059654",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Play",
+        "title": "Software Engineer III, Infrastructure, Google Play",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/142467825775059654",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-23"
