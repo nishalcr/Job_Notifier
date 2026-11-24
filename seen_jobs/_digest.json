@@ -2683,6 +2683,23 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Netflix",
+      "job": {
+        "job_id": "JR43427",
+        "key": "790319332434",
+        "location": "Remote, United States",
+        "posted": "2026-11-24",
+        "salary": "$500K\u2013$860K",
+        "source_posted": "",
+        "team": "Data & Insights",
+        "title": "AI Software Engineer (L5) - Machine Learning",
+        "url": "https://explore.jobs.netflix.net/careers/job/790319332434",
+        "work_type": "Remote",
+        "years": "4+ yrs"
+      },
+      "slug": "netflix"
     }
   ],
   "last_sent": "2026-11-24"
