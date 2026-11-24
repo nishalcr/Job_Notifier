@@ -3103,6 +3103,42 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "The Geo Auto Forward Deployed Engineering (FDE) team collaborates with global partners to integrate Google Maps and develop navigation solutions for vehicles. Our primary objective is to maximize reach, making Maps available in as many vehicles as possible. We align Google's stra",
+        "job_id": "140592058938073798",
+        "key": "140592058938073798",
+        "location": "Mountain View, CA, USA; +1 more",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Geo Auto",
+        "title": "Forward Deployed Engineer, Geo Auto",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/140592058938073798",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "133761892706329286",
+        "key": "133761892706329286",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "GDC Networking / Google Cloud",
+        "title": "Software Engineer, GDC Networking, Google Cloud",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/133761892706329286",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-23"
