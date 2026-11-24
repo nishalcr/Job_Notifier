@@ -1901,6 +1901,42 @@
         "years": "7+ yrs"
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1501102891960516",
+        "key": "1501102891960516",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Network Engineering / Production Engineering",
+        "title": "Network Quantitative Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1501102891960516",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1480142257395696",
+        "key": "1480142257395696",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Software Engineering / Engineering",
+        "title": "Software Engineer, Observability (Technical Leadership)",
+        "url": "https://www.metacareers.com/profile/job_details/1480142257395696",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-24"
