@@ -2277,6 +2277,22 @@
         "years": "10+ yrs"
       },
       "slug": "zscaler"
+    },
+    {
+      "company": "Pinterest",
+      "job": {
+        "job_id": "8244282",
+        "key": "8244282",
+        "location": "San Francisco, CA, US; +1 more",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "title": "Sr. Staff Software Engineer - Delivery Retrieval Infrastructure",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244282",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "pinterest"
     }
   ],
   "last_sent": "2026-11-23"
