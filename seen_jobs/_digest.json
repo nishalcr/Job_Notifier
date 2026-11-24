@@ -331,6 +331,182 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612828",
+        "key": "10612828",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer II, Security Automation",
+        "url": "https://www.amazon.jobs/en/jobs/10612828/software-development-engineer-ii-security-automation",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612829",
+        "key": "10612829",
+        "location": "Denver, Colorado",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Systems Development Engineer, Amazon Dedicated Cloud (ADC) Networking",
+        "url": "https://www.amazon.jobs/en/jobs/10612829/systems-development-engineer-amazon-dedicated-cloud-adc-networking",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612827",
+        "key": "10612827",
+        "location": "Denver, Colorado",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "System Development Engineer - AWS, Amazon Dedicated Cloud (ADC) Networking",
+        "url": "https://www.amazon.jobs/en/jobs/10612827/system-development-engineer-aws-amazon-dedicated-cloud-adc-networking",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612825",
+        "key": "10612825",
+        "location": "Denver, Colorado",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer - AWS, Amazon Dedicated Cloud (ADC) Networking",
+        "url": "https://www.amazon.jobs/en/jobs/10612825/software-development-engineer-aws-amazon-dedicated-cloud-adc-networking",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368552",
+        "key": "JR368552",
+        "location": "Massachusetts - Remote",
+        "posted": "2026-11-24",
+        "salary": "$150K\u2013$227K",
+        "source_posted": "Posted Today",
+        "title": "Data Analytics Senior Lead",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Massachusetts---Remote/Data-Analytics-Senior-Lead_JR368552",
+        "work_type": "Remote",
+        "years": "10+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Red Hat",
+      "job": {
+        "job_id": "R-056859",
+        "key": "R-056859",
+        "location": "3 Locations",
+        "posted": "2026-11-24",
+        "salary": "$119K\u2013$196K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer in Crypto (Smart Cards)",
+        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raleigh/Senior-Software-Engineer-in-Crypto--Smart-Cards-_R-056859",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "redhat"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8394936",
+        "key": "8394936",
+        "location": "New York City",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "Software Engineer, Experimental Projects",
+        "url": "https://stripe.com/jobs/search?gh_jid=8394936",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "stripe"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351330",
+        "key": "351330",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$88K\u2013$210K",
+        "source_posted": "2026-11-24",
+        "title": "Senior Software Engineer, Platform (Nashville)",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351330",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351331",
+        "key": "351331",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$79K\u2013$210K",
+        "source_posted": "2026-11-24",
+        "title": "Senior Software Engineer, Core Infrastructure (Nashville)",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351331",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351333",
+        "key": "351333",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-24",
+        "title": "Principal Software Engineer, Core Infrastructure (Nashville)",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351333",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351332",
+        "key": "351332",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$106K\u2013$235K",
+        "source_posted": "2026-11-24",
+        "title": "Principal Software Engineer, Platform (Nashville)",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351332",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-24"
