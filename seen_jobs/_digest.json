@@ -662,6 +662,40 @@
         "years": "2+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1696494735515242",
+        "key": "1696494735515242",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Data & Analytics / Data Engineering / Data Science",
+        "title": "Data Scientist, Finance",
+        "url": "https://www.metacareers.com/profile/job_details/1696494735515242",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351312",
+        "key": "351312",
+        "location": "Burlington, MA, United States",
+        "posted": "2026-11-24",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-24",
+        "title": "Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351312",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-24"
