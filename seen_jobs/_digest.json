@@ -2963,6 +2963,60 @@
         "url": "https://jobs.apple.com/en-us/details/200696384-3956/ar-vr-software-engineer-siri-and-visual-intelligence-vision-products-software?team=SFTWR"
       },
       "slug": "apple"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "87748430595531462",
+        "key": "87748430595531462",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Search Platforms / GenAI Content",
+        "title": "Senior Staff Software Engineer, Search Platforms, GenAI Content",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/87748430595531462",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "129464451509166790",
+        "key": "129464451509166790",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Search Ads Auction Infrastructure",
+        "title": "Software Engineer, Search Ads Auction Infrastructure",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/129464451509166790",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "99311994384851654",
+        "key": "99311994384851654",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML",
+        "title": "Senior Software Engineer, AI/ML",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/99311994384851654",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-23"
