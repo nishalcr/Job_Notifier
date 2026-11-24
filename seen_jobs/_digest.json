@@ -2474,6 +2474,74 @@
         "years": ""
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068149",
+        "key": "1970393557076102",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "$143K\u2013$331K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer, Browser Engineering - AI Experiences, Microsoft Edge",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557076102",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067996",
+        "key": "1970393557075588",
+        "location": "Multiple Locations; +3 more",
+        "posted": "2026-11-24",
+        "salary": "$166K\u2013$331K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Senior Principal Software Engineer, AI Infrastructure - Performance",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075588",
+        "work_type": "Onsite",
+        "years": "8+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067691",
+        "key": "1970393557074869",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "$166K\u2013$331K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Principal Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557074869",
+        "work_type": "Onsite",
+        "years": "8+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067743",
+        "key": "1970393557075030",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075030",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-23"
