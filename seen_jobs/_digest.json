@@ -2343,6 +2343,39 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067380",
+        "key": "1970393557073425",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "$85K\u2013$184K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Software Engineer-Securing AI",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073425",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Intuit",
+      "job": {
+        "job_id": "103708233344",
+        "key": "103708233344",
+        "location": "Mountain View, California",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "title": "Staff Software Engineer \u2014 BI Reporting Tools (Business Intelligence Platform Team)",
+        "url": "https://jobs.intuit.com/job/mountain-view/staff-software-engineer-bi-reporting-tools-business-intelligence-platform-team/27595/103708233344",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "intuit"
     }
   ],
   "last_sent": "2026-11-23"
