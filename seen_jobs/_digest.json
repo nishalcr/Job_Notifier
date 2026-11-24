@@ -2771,6 +2771,70 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351280",
+        "key": "351280",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$117K\u2013$264K",
+        "source_posted": "2026-11-24",
+        "title": "Lead Principal Field Systems Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351280",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351151",
+        "key": "351151",
+        "location": "United States",
+        "posted": "2026-11-24",
+        "salary": "$105K\u2013$174K",
+        "source_posted": "2026-11-23",
+        "title": "Cloud Migration Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351151",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351259",
+        "key": "351259",
+        "location": "Nashville, TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-23",
+        "title": "Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351259",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350131",
+        "key": "350131",
+        "location": "Nashville, TN, United States; +1 more",
+        "posted": "2026-11-24",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-10",
+        "title": "Principal Core Infrastructure Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350131",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-23"
