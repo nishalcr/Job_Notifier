@@ -2931,6 +2931,24 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "In this role, you\u2019ll work to shape the future of AI/ML hardware acceleration. You will have an opportunity to drive cutting-edge TPU (Tensor Processing Unit) technology that powers Google's most demanding AI/ML applications. You\u2019ll be part of a team that pushes boundaries, develo",
+        "job_id": "94420816908690118",
+        "key": "94420816908690118",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Cloud",
+        "title": "Machine Learning Hardware Architect, Google Cloud",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/94420816908690118",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-23"
