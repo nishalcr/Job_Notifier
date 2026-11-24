@@ -155,6 +155,38 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612756",
+        "key": "10612756",
+        "location": "Austin, Texas",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Senior Software Development Engineer, Validation Tools and Infrastructure - Annapurna Labs",
+        "url": "https://www.amazon.jobs/en/jobs/10612756/senior-software-development-engineer-validation-tools-and-infrastructure-annapurna-labs",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210807025",
+        "key": "210807025",
+        "location": "OH, United States",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "Full Stack AWS Lead Software Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807025",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-24"
