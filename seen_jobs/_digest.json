@@ -540,6 +540,128 @@
         "years": "6+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612886",
+        "key": "10612886",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer, Amazon Customer Service",
+        "url": "https://www.amazon.jobs/en/jobs/10612886/software-development-engineer-amazon-customer-service",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612878",
+        "key": "10612878",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer, ElastiCache",
+        "url": "https://www.amazon.jobs/en/jobs/10612878/software-development-engineer-elasticache",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "91067581321880262",
+        "key": "91067581321880262",
+        "location": "Kirkland, WA, USA; +2 more",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "BigQuery Processing Core Runtime",
+        "title": "Staff Software Engineer, BigQuery Processing Core Runtime",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/91067581321880262",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "124492734806270662",
+        "key": "124492734806270662",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Generative AI / Google Cloud AI",
+        "title": "Staff Software Engineer, Generative AI, Google Cloud AI",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/124492734806270662",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "134230009781854918",
+        "key": "134230009781854918",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Compute",
+        "title": "Senior Software Engineer, Infrastructure, Google Cloud Compute",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/134230009781854918",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "96248480111960774",
+        "key": "96248480111960774",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Global Networking",
+        "title": "Senior Software Engineer, Infrastructure, Google Cloud Global Networking",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/96248480111960774",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "As an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scient",
+        "job_id": "103214985785549510",
+        "key": "103214985785549510",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Cloud AI Research",
+        "title": "Research Scientist, Google Cloud AI Research",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/103214985785549510",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-24"
