@@ -1089,6 +1089,58 @@
         "years": "7+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613154",
+        "key": "10613154",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer (SDE2), Amazon Talent Evaluation",
+        "url": "https://www.amazon.jobs/en/jobs/10613154/software-development-engineer-sde2-amazon-talent-evaluation",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Goldman Sachs",
+      "job": {
+        "description": "",
+        "job_id": "183034",
+        "key": "183034",
+        "location": "Dallas, United States",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "The Core Engineering-L2-Dallas-Associate-Legal Product Management",
+        "title": "The Core Engineering-L2-Dallas-Associate-Legal Product Management",
+        "url": "https://higher.gs.com/roles/183034",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "goldman-sachs"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1616351779810443",
+        "key": "1616351779810443",
+        "location": "New York, NY",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Security / Engineering",
+        "title": "Integrity Science Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1616351779810443",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-24"
