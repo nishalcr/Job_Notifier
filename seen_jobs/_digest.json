@@ -2915,6 +2915,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210811391",
+        "key": "210811391",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-24",
+        "salary": "$176K\u2013$260K",
+        "source_posted": "2026-11-24",
+        "title": "Senior Lead Software Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811391",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-23"
