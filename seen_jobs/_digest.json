@@ -3375,6 +3375,38 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210800132",
+        "key": "210800132",
+        "location": "Seattle, WA, United States",
+        "posted": "2026-11-24",
+        "salary": "$100K\u2013$125K",
+        "source_posted": "2026-11-24",
+        "title": "Software Engineer I",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800132",
+        "work_type": "Onsite",
+        "years": "1+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210811719",
+        "key": "210811719",
+        "location": "Palo Alto, CA, United States",
+        "posted": "2026-11-24",
+        "salary": "$176K\u2013$260K",
+        "source_posted": "2026-11-24",
+        "title": "Senior Lead Network Access Control Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811719",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-23"
