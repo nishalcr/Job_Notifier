@@ -2372,6 +2372,38 @@
         "years": "1+ yrs"
       },
       "slug": "goldman-sachs"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10601704",
+        "key": "10601704",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Sr. Applied Scientist, AWS Applied AI Solutions",
+        "url": "https://www.amazon.jobs/en/jobs/10601704/sr-applied-scientist-aws-applied-ai-solutions",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210811630",
+        "key": "210811630",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-24",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-24",
+        "title": "Software Engineer III - Python,AWS,Spark",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811630",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-24"
