@@ -2240,6 +2240,38 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610793",
+        "key": "10610793",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 20, 2026",
+        "title": "Front-End Engineer \u2013 2027 (US)",
+        "url": "https://www.amazon.jobs/en/jobs/10610793/front-end-engineer-2027-us",
+        "work_type": "",
+        "years": "18+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10587873",
+        "key": "10587873",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "October 26, 2026",
+        "title": "SDE Verification & Monitoring, AWS Governance",
+        "url": "https://www.amazon.jobs/en/jobs/10587873/sde-verification-monitoring-aws-governance",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-24"
