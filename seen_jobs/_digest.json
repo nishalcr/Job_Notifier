@@ -2949,6 +2949,20 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Apple",
+      "job": {
+        "job_id": "200696384-3956",
+        "key": "200696384-3956",
+        "location": "Sunnyvale",
+        "posted": "2026-11-24",
+        "source_posted": "2026-11-24",
+        "team": "Software and Services",
+        "title": "AR/VR Software Engineer, Siri and Visual Intelligence - Vision Products Software",
+        "url": "https://jobs.apple.com/en-us/details/200696384-3956/ar-vr-software-engineer-siri-and-visual-intelligence-vision-products-software?team=SFTWR"
+      },
+      "slug": "apple"
     }
   ],
   "last_sent": "2026-11-23"
