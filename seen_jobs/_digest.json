@@ -728,6 +728,54 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612929",
+        "key": "10612929",
+        "location": "Nashville, Tennessee",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Systems Development Engineer, Systems Operations and Scaling, One MHS",
+        "url": "https://www.amazon.jobs/en/jobs/10612929/systems-development-engineer-systems-operations-and-scaling-one-mhs",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10611675",
+        "key": "10611675",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Dev Engineer, AWS ECS",
+        "url": "https://www.amazon.jobs/en/jobs/10611675/software-dev-engineer-aws-ecs",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1113122",
+        "key": "R1113122",
+        "location": "TX - Work from home",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Business Analyst",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Business-Analyst_R1113122",
+        "work_type": "Hybrid",
+        "years": "1+ yrs"
+      },
+      "slug": "cvs_wd"
     }
   ],
   "last_sent": "2026-11-24"
