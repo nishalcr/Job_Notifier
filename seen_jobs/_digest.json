@@ -1725,6 +1725,118 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613286",
+        "key": "10613286",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Senior Software Development Engineer, AWS Transactional Services",
+        "url": "https://www.amazon.jobs/en/jobs/10613286/senior-software-development-engineer-aws-transactional-services",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810444",
+        "key": "210810444",
+        "location": "Wilmington, DE, United States",
+        "posted": "2026-11-24",
+        "salary": "$152K\u2013$260K",
+        "source_posted": "2026-11-24",
+        "title": "Senior Lead Security Engineer, Technology Resiliency",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810444",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351358",
+        "key": "351358",
+        "location": "United States",
+        "posted": "2026-11-24",
+        "salary": "$81K\u2013$187K",
+        "source_posted": "2026-11-24",
+        "title": "Senior Site Reliability Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351358",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350933",
+        "key": "350933",
+        "location": "TN, United States",
+        "posted": "2026-11-24",
+        "salary": "$74K\u2013$148K",
+        "source_posted": "2026-11-18",
+        "title": "Senior Application Solution Developer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350933",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350402",
+        "key": "350402",
+        "location": "Columbia, MO, United States",
+        "posted": "2026-11-24",
+        "salary": "$48K\u2013$94K",
+        "source_posted": "2026-11-12",
+        "title": "Business Analyst 1-Ops",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350402",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350415",
+        "key": "350415",
+        "location": "Kansas City, MO, United States",
+        "posted": "2026-11-24",
+        "salary": "$54K\u2013$105K",
+        "source_posted": "2026-11-12",
+        "title": "Systems Engineer 1",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350415",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350422",
+        "key": "350422",
+        "location": "Nashville, TN, United States; +1 more",
+        "posted": "2026-11-24",
+        "salary": "$74K\u2013$148K",
+        "source_posted": "2026-11-12",
+        "title": "Senior Systems Engineer, Oracle Health",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350422",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-24"
