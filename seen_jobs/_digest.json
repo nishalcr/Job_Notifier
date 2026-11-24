@@ -2293,6 +2293,24 @@
         "years": ""
       },
       "slug": "pinterest"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Role We are seeking a Staff Software Engineer specializing in AI/ML to lead the architecture and development of next generation, LLM powered Search systems for Uber Eats. This role will drive the technical direction of Search as an LLM (SaaL), transforming traditional r",
+        "job_id": "304740",
+        "key": "304740",
+        "location": "Sunnyvale, California",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-23",
+        "team": "Engineer",
+        "title": "Staff Software Engineer",
+        "url": "https://jobs.uber.com/en/jobs/304740/",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "uber"
     }
   ],
   "last_sent": "2026-11-23"
