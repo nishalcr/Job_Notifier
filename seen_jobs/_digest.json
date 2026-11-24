@@ -2436,6 +2436,88 @@
         "years": "7+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613384",
+        "key": "10613384",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "SDET III, Amazon Leo, Leo Customer Terminals Applications & Networking Team",
+        "url": "https://www.amazon.jobs/en/jobs/10613384/sdet-iii-amazon-leo-leo-customer-terminals-applications-networking-team",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613387",
+        "key": "10613387",
+        "location": "Nashville, Tennessee",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer II, OST - Intuition Core",
+        "url": "https://www.amazon.jobs/en/jobs/10613387/software-development-engineer-ii-ost-intuition-core",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613382",
+        "key": "10613382",
+        "location": "Nashville, Tennessee",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "System Development Engineer II, OST - Intuition Core",
+        "url": "https://www.amazon.jobs/en/jobs/10613382/system-development-engineer-ii-ost-intuition-core",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068497",
+        "key": "1970393557078515",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Software Engineer II - Forward Deployed Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557078515",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
+    },
+    {
+      "company": "Atlassian",
+      "job": {
+        "job_id": "28583",
+        "key": "28583",
+        "location": "New York, United States; +5 more",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Engineering",
+        "title": "Senior Principal, Engineering Strategy & Execution",
+        "url": "https://careers-americas.icims.com/jobs/28583/senior-principal%2c-engineering-strategy-%26-execution/job",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "atlassian"
     }
   ],
   "last_sent": "2026-11-24"
