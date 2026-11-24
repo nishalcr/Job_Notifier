@@ -3035,6 +3035,22 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030132",
+        "key": "JR2030132",
+        "location": "3 Locations",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Technical Trainer and Content Developer, AI Compute Systems",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-Technical-Trainer-and-Content-Developer--AI-Compute-Systems_JR2030132",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-23"
