@@ -2659,6 +2659,38 @@
         "years": "5+ yrs"
       },
       "slug": "uber"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030242",
+        "key": "JR2030242",
+        "location": "3 Locations",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Safety Engineer - Halos Solutions",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Safety-Engineer---Halos-Solutions_JR2030242",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030271",
+        "key": "JR2030271",
+        "location": "2 Locations",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Systems Software Engineer - Chromium Engineering For GeForce Now",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Chromium-Engineering-For-GeForce-Now_JR2030271",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-23"
