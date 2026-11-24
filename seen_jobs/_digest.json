@@ -1223,6 +1223,135 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613206",
+        "key": "10613206",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Applied Scientist, Amazon Customer Service",
+        "url": "https://www.amazon.jobs/en/jobs/10613206/applied-scientist-amazon-customer-service",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612960",
+        "key": "10612960",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Senior Software Development Engineer, Leo AI Foundations",
+        "url": "https://www.amazon.jobs/en/jobs/10612960/senior-software-development-engineer-leo-ai-foundations",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609889",
+        "key": "10609889",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Dev Engineer III, Amazon OpenSearch",
+        "url": "https://www.amazon.jobs/en/jobs/10609889/software-dev-engineer-iii-amazon-opensearch",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "HP",
+      "job": {
+        "job_id": "3168420",
+        "key": "3168420",
+        "location": "2 Locations",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "[Agentic AI] Senior Data Scientist \u2013 Edge AI Platforms & Systems Analytics",
+        "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/XMLNAME--Agentic-AI--Senior-Data-Scientist---Edge-AI-Platforms---Systems-Analytics_3168420-1",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "hp"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74834",
+        "key": "74834",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-24",
+        "salary": "$100K\u2013$193K",
+        "source_posted": "2026-11-24",
+        "title": "Incident Response Engineer, Ford Energy",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74834",
+        "work_type": "Hybrid",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006471",
+        "key": "R1006471",
+        "location": "Plano, TX",
+        "posted": "2026-11-24",
+        "salary": "$179K\u2013$205K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1006471-2",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006322",
+        "key": "R1006322",
+        "location": "Plano, TX",
+        "posted": "2026-11-24",
+        "salary": "$179K\u2013$205K",
+        "source_posted": "Posted Today",
+        "title": "Machine Learning Engineer 4",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Machine-Learning-Engineer-4_R1006322-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200054507",
+        "key": "1970393556991944",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-24",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-24",
+        "team": "Data Engineering",
+        "title": "Senior Data Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556991944",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-24"
