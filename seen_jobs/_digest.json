@@ -1352,6 +1352,88 @@
         "years": "3+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613218",
+        "key": "10613218",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Sr. Research Scientist , WW Sustainability",
+        "url": "https://www.amazon.jobs/en/jobs/10613218/sr-research-scientist-ww-sustainability",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613237",
+        "key": "10613237",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Sr. Software Development Engineer, Development Environment",
+        "url": "https://www.amazon.jobs/en/jobs/10613237/sr-software-development-engineer-development-environment",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "2004222000254303",
+        "key": "2004222000254303",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Washington, DC",
+        "title": "Full Stack Engineer, Product Risk & Compliance",
+        "url": "https://www.metacareers.com/profile/job_details/2004222000254303",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808506",
+        "key": "210808506",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "Data Scientist, Auto Data & Analytics - Senior Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808506",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210808519",
+        "key": "210808519",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "Data Scientist, Auto Data & Analytics - Senior Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808519",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-24"
