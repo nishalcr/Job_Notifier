@@ -2272,6 +2272,72 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1277771494565971",
+        "key": "1277771494565971",
+        "location": "Bellevue, WA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Menlo Park, CA",
+        "title": "Security Engineer, Applied AI",
+        "url": "https://www.metacareers.com/profile/job_details/1277771494565971",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210773611",
+        "key": "210773611",
+        "location": "Jersey City, NJ, United States; +1 more",
+        "posted": "2026-11-24",
+        "salary": "$104K\u2013$170K",
+        "source_posted": "2026-11-24",
+        "title": "Applied AI/ML Data Scientist - Data & Analytics - Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773611",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74307",
+        "key": "74307",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-24",
+        "salary": "$84K\u2013$166K",
+        "source_posted": "2026-11-24",
+        "title": "STA Engineer - Resident/Launch",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74307",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006504",
+        "key": "R1006504",
+        "location": "4 Locations",
+        "posted": "2026-11-24",
+        "salary": "$179K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "Mobile Engineer 4 - Android Applications",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Mobile-Engineer-4---Android-Applications_R1006504-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-24"
