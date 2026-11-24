@@ -2584,6 +2584,22 @@
         "years": ""
       },
       "slug": "stripe"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608184",
+        "key": "10608184",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Dev Engineer - II, AWS Field Experiences AFX-Fixed",
+        "url": "https://www.amazon.jobs/en/jobs/10608184/software-dev-engineer-ii-aws-field-experiences-afx-fixed",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-24"
