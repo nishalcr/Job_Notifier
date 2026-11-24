@@ -68,6 +68,22 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210811377",
+        "key": "210811377",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-24",
+        "salary": "$135K\u2013$150K",
+        "source_posted": "2026-11-24",
+        "title": "Wholesale Credit Quantitative Research - Senior Associate",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811377",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-24"
