@@ -3069,6 +3069,40 @@
         "years": "2+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612558",
+        "key": "10612558",
+        "location": "Nashville, Tennessee",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Systems Development Engineer , Operations Infrastructure Services",
+        "url": "https://www.amazon.jobs/en/jobs/10612558/systems-development-engineer-operations-infrastructure-services",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "88849041734935238",
+        "key": "88849041734935238",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Search Ads Wholepage Optimization",
+        "title": "Staff Software Engineer, Search Ads Wholepage Optimization",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/88849041734935238",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-23"
