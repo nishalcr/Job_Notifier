@@ -507,6 +507,39 @@
         "years": "7+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006397",
+        "key": "R1006397",
+        "location": "3 Locations",
+        "posted": "2026-11-24",
+        "salary": "$179K\u2013$246K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4 - CORE Technology (Python, DynamoDB)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4---CORE-Technology--Python--DynamoDB-_R1006397-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068527",
+        "key": "1970393557078564",
+        "location": "Redmond, Washington; +2 more",
+        "posted": "2026-11-24",
+        "salary": "$143K\u2013$331K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Staff/ Principal Software Engineer - GitHub (CoreAI)",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557078564",
+        "work_type": "Onsite",
+        "years": "6+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-24"
