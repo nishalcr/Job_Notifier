@@ -84,6 +84,41 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "3108906696119886",
+        "key": "3108906696119886",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Engineering",
+        "title": "Machine Learning Engineer, Central Growth",
+        "url": "https://www.metacareers.com/profile/job_details/3108906696119886",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200063396",
+        "key": "1970393557045510",
+        "location": "Mountain View, California",
+        "posted": "2026-11-24",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-24",
+        "team": "Software Engineering",
+        "title": "Software Engineer II",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557045510",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-24"
