@@ -2376,6 +2376,22 @@
         "years": "8+ yrs"
       },
       "slug": "intuit"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612303",
+        "key": "10612303",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer, Data, Communications Tech",
+        "url": "https://www.amazon.jobs/en/jobs/10612303/software-development-engineer-data-communications-tech",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-23"
