@@ -2338,6 +2338,40 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613355",
+        "key": "10613355",
+        "location": "Cupertino, California",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Sr. Physical Design Engineer - Static Timing Analysis, Annapurna Labs, Cloud Scale Machine Learning",
+        "url": "https://www.amazon.jobs/en/jobs/10613355/sr-physical-design-engineer-static-timing-analysis-annapurna-labs-cloud-scale-machine-learning",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Goldman Sachs",
+      "job": {
+        "description": "",
+        "job_id": "189790",
+        "key": "189790",
+        "location": "New York, United States",
+        "posted": "2026-11-24",
+        "salary": "$110K\u2013$125K",
+        "source_posted": "",
+        "team": "Engineering - Prime Finance Engineering - Analyst \u2013 New York",
+        "title": "Engineering - Prime Finance Engineering - Analyst \u2013 New York",
+        "url": "https://higher.gs.com/roles/189790",
+        "work_type": "Onsite",
+        "years": "1+ yrs"
+      },
+      "slug": "goldman-sachs"
     }
   ],
   "last_sent": "2026-11-24"
