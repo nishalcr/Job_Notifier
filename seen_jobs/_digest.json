@@ -2691,6 +2691,54 @@
         "years": "8+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139239",
+        "key": "R0139239",
+        "location": "San Jose, California, United States of America",
+        "posted": "2026-11-24",
+        "salary": "$160K\u2013$236K",
+        "source_posted": "Posted Today",
+        "title": "Sr Machine Learning Engineer",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0139239-1",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "paypal"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139247",
+        "key": "R0139247",
+        "location": "San Jose, California, United States of America",
+        "posted": "2026-11-24",
+        "salary": "$196K\u2013$292K",
+        "source_posted": "Posted Today",
+        "title": "Staff Machine Learning Engineer",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Machine-Learning-Engineer_R0139247-1",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "paypal"
+    },
+    {
+      "company": "PayPal",
+      "job": {
+        "job_id": "R0139248",
+        "key": "R0139248",
+        "location": "San Jose, California, United States of America",
+        "posted": "2026-11-24",
+        "salary": "$130K\u2013$192K",
+        "source_posted": "Posted Today",
+        "title": "Machine Learning Engineer",
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0139248-1",
+        "work_type": "Hybrid",
+        "years": "1+ yrs"
+      },
+      "slug": "paypal"
     }
   ],
   "last_sent": "2026-11-23"
