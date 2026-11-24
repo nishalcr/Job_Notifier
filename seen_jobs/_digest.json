@@ -1579,6 +1579,88 @@
         "years": "6+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613269",
+        "key": "10613269",
+        "location": "New York, New York",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Robotics/AI Motor Control Scientist, Fauna",
+        "url": "https://www.amazon.jobs/en/jobs/10613269/robotics-ai-motor-control-scientist-fauna",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613266",
+        "key": "10613266",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Dev Engineer II, EC2 , EC2 Machine Learning Super Compute",
+        "url": "https://www.amazon.jobs/en/jobs/10613266/software-dev-engineer-ii-ec2-ec2-machine-learning-super-compute",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613267",
+        "key": "10613267",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Senior Software Development Engineer, EC2 Machine Learning Super Compute",
+        "url": "https://www.amazon.jobs/en/jobs/10613267/senior-software-development-engineer-ec2-machine-learning-super-compute",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1127581479979089",
+        "key": "1127581479979089",
+        "location": "Sunnyvale, CA",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Bellevue, WA",
+        "title": "Research Engineer, AI Ecosystem Optimization",
+        "url": "https://www.metacareers.com/profile/job_details/1127581479979089",
+        "work_type": "",
+        "years": "6+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "300907",
+        "key": "300907",
+        "location": "Round Rock, TX, United States",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "2026-11-24",
+        "title": "Technical Staff, Storage Architect",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/300907",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "dell"
     }
   ],
   "last_sent": "2026-11-24"
