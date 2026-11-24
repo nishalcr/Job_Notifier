@@ -1661,6 +1661,70 @@
         "years": "10+ yrs"
       },
       "slug": "dell"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609524",
+        "key": "10609524",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 19, 2026",
+        "title": "Software Development Engineer II, Special Projects",
+        "url": "https://www.amazon.jobs/en/jobs/10609524/software-development-engineer-ii-special-projects",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613277",
+        "key": "10613277",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Principal Applied Scientist, Foundation Models for Life Sciences, Grand Challenge",
+        "url": "https://www.amazon.jobs/en/jobs/10613277/principal-applied-scientist-foundation-models-for-life-sciences-grand-challenge",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10593936",
+        "key": "10593936",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "October 31, 2026",
+        "title": "Software Development Engineer , Customer Service Technology \u2013 Intent Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10593936/software-development-engineer-customer-service-technology-intent-engineering",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10612245",
+        "key": "10612245",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-24",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Software Development Engineer II, Software Traceability and Integrity",
+        "url": "https://www.amazon.jobs/en/jobs/10612245/software-development-engineer-ii-software-traceability-and-integrity",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-24"
