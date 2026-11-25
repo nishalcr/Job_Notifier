@@ -602,6 +602,86 @@
         "years": "5+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614354",
+        "key": "10614354",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Mobility Algorithm Engineer , Leo Customer Terminal",
+        "url": "https://www.amazon.jobs/en/jobs/10614354/mobility-algorithm-engineer-leo-customer-terminal",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR369619",
+        "key": "JR369619",
+        "location": "5 Locations",
+        "posted": "2026-11-25",
+        "salary": "$148K\u2013$345K",
+        "source_posted": "Posted Today",
+        "title": "Senior Technical Architect - Voice - Contact Center",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Illinois---Chicago/Senior-Technical-Architect---Voice---Contact-Center_JR369619",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030675",
+        "key": "JR2030675",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Developer Test and Automation",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Developer-Test-and-Automation_JR2030675",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289457",
+        "key": "JR0289457",
+        "location": "US, California, Santa Clara",
+        "posted": "2026-11-25",
+        "salary": "$156K\u2013$220K",
+        "source_posted": "Posted Today",
+        "title": "Module Development Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Module-Development-Engineer_JR0289457",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "intel"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-025227",
+        "key": "JR-025227",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-25",
+        "salary": "$156K\u2013$253K",
+        "source_posted": "Posted Today",
+        "title": "Principal Engineer \u2014 AI-Driven Test Automation for Prisma Access / SASE",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Engineer---AI-Driven-Test-Automation-for-Prisma-Access---SASE_JR-025227",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-25"
