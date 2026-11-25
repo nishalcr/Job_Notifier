@@ -842,6 +842,22 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "98999",
+        "key": "98999",
+        "location": "Secaucus, New Jersey",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "Sr. Failure Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/98999",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-25"
