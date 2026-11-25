@@ -145,6 +145,76 @@
         "years": "7+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "136593599004320454",
+        "key": "136593599004320454",
+        "location": "Kirkland, WA, USA",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Workspace",
+        "title": "Software Engineer III, Infrastructure, Google Workspace",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/136593599004320454",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "138978989480780486",
+        "key": "138978989480780486",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "",
+        "team": "AI/ML GenAI / Search",
+        "title": "Senior Software Engineer, AI/ML GenAI, Search",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/138978989480780486",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Help serve Google's worldwide user base of more than a billion people. Data Scientists provide quantitative support, market understanding and a strategic perspective to our partners throughout the organization. As a data-loving member of the team, you serve as an analytics expert",
+        "job_id": "74171575116407494",
+        "key": "74171575116407494",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "",
+        "team": "Product",
+        "title": "Staff Data Scientist, Product",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/74171575116407494",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74883",
+        "key": "74883",
+        "location": "Dearborn, MI, United States",
+        "posted": "2026-11-25",
+        "salary": "$99K\u2013$166K",
+        "source_posted": "2026-11-25",
+        "title": "SAP Security Engineer, Ford Energy",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74883",
+        "work_type": "Hybrid",
+        "years": "3\u20135 yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-25"
