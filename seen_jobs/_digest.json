@@ -49,6 +49,54 @@
         "years": "8+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614043",
+        "key": "10614043",
+        "location": "Cupertino, California",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Software Development Engineer, Annapurna Labs - LibNVMe",
+        "url": "https://www.amazon.jobs/en/jobs/10614043/software-development-engineer-annapurna-labs-libnvme",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1097534",
+        "key": "R1097534",
+        "location": "TX - Richardson",
+        "posted": "2026-11-25",
+        "salary": "$118K\u2013$237K",
+        "source_posted": "Posted Today",
+        "title": "Staff Software Development Engineer (Agentic AI/ML Architect)",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Staff-Software-Development-Engineer--Agentic-AI-ML-Architect-_R1097534",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "cvs_wd"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016951",
+        "key": "26016951",
+        "location": "New York, NY, United States",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "Associate, Technology Operations Engineering",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016951",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-25"
