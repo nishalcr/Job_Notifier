@@ -32,6 +32,23 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068613",
+        "key": "1970393557079083",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-25",
+        "salary": "$166K\u2013$331K",
+        "source_posted": "2026-11-25",
+        "team": "Software Engineering",
+        "title": "Principal Architect",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557079083",
+        "work_type": "Onsite",
+        "years": "8+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-25"
