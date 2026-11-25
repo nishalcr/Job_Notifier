@@ -3175,6 +3175,22 @@
         "years": "4+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289423",
+        "key": "JR0289423",
+        "location": "US, Oregon, Hillsboro",
+        "posted": "2026-11-25",
+        "salary": "$164K\u2013$269K",
+        "source_posted": "Posted Today",
+        "title": "Senior Product Failure Analysis Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-Product-Failure-Analysis-Engineer_JR0289423",
+        "work_type": "Hybrid",
+        "years": "3+ yrs"
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-24"
