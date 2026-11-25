@@ -3191,6 +3191,24 @@
         "years": "3+ yrs"
       },
       "slug": "intel"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Ads Metrics is the Data Science team for Search ads. We support the SAGE (Search Ads and Google Experience) organization in developing the most important ad products at Google - from classic text ads, to rich shopping ads, to exciting new products like Discovery ads. These produc",
+        "job_id": "139846916471956166",
+        "key": "139846916471956166",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "",
+        "team": "Core Metrics",
+        "title": "Research Data Scientist, Core Metrics",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/139846916471956166",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-24"
