@@ -3496,6 +3496,74 @@
         "years": "4+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "88211376530432710",
+        "key": "88211376530432710",
+        "location": "Seattle, WA, USA",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "",
+        "team": "GCE Fleet Maintenance",
+        "title": "Senior Staff Software Engineer, GCE Fleet Maintenance",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/88211376530432710",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Team Learning Frontiers' mission is to reimagine learning in the agentic era with frontier and multimodal models by building novel student and teacher experiences grounded in proven learning science. Operating like a nimble 0-to-1 startup within Google, we ideate, prototype, and",
+        "job_id": "122853689386771142",
+        "key": "122853689386771142",
+        "location": "New York, NY, USA",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "",
+        "team": "Learning Frontiers",
+        "title": "Staff Software Engineer, Learning Frontiers",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/122853689386771142",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "HP",
+      "job": {
+        "job_id": "3168122",
+        "key": "3168122",
+        "location": "2 Locations",
+        "posted": "2026-11-25",
+        "salary": "$93K\u2013$144K",
+        "source_posted": "Posted Today",
+        "title": "Cloud Operations Engineer",
+        "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Cloud-Operations-Engineer_3168122-1",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "hp"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289471",
+        "key": "JR0289471",
+        "location": "US, Oregon, Hillsboro",
+        "posted": "2026-11-25",
+        "salary": "$52K\u2013$200K",
+        "source_posted": "Posted Today",
+        "title": "Tool Install Engineer (Contract)",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Tool-Install-Engineer--Contract-_JR0289471",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-24"
