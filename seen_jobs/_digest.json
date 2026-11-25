@@ -490,6 +490,38 @@
         "years": ""
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614362",
+        "key": "10614362",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Software Development Engineer III, Optimization Data",
+        "url": "https://www.amazon.jobs/en/jobs/10614362/software-development-engineer-iii-optimization-data",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016742",
+        "key": "26016742",
+        "location": "Phoenix, AZ, United States",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "Senior Associate - Technology Operations Engineering",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016742",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-25"
