@@ -2975,6 +2975,70 @@
         "years": "5+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613692",
+        "key": "10613692",
+        "location": "New York, New York",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Applied Scientist II, Brand Optimization",
+        "url": "https://www.amazon.jobs/en/jobs/10613692/applied-scientist-ii-brand-optimization",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030535",
+        "key": "JR2030535",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior System Software Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer_JR2030535",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030205",
+        "key": "JR2030205",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior System Software Architect - Automotive Applications",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Architect---Automotive-Applications_JR2030205",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030353",
+        "key": "JR2030353",
+        "location": "2 Locations",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Developer - Autonomous Vehicles",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Developer---Autonomous-Vehicles_JR2030353",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-24"
