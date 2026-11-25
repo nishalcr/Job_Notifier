@@ -3071,6 +3071,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350590",
+        "key": "350590",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-25",
+        "salary": "$102K\u2013$210K",
+        "source_posted": "2026-11-16",
+        "title": "Principal Network Developer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350590",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-24"
