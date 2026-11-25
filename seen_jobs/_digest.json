@@ -3127,6 +3127,22 @@
         "years": "12+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613731",
+        "key": "10613731",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Software Development Engineer , Amazon Leo e-commerce",
+        "url": "https://www.amazon.jobs/en/jobs/10613731/software-development-engineer-amazon-leo-e-commerce",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-24"
