@@ -778,6 +778,70 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614445",
+        "key": "10614445",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Software Engineer III, AWS CloudFormation",
+        "url": "https://www.amazon.jobs/en/jobs/10614445/software-engineer-iii-aws-cloudformation",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "301703",
+        "key": "301703",
+        "location": "Austin, TX, United States",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "System Senior Development Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/301703",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "301704",
+        "key": "301704",
+        "location": "Austin, TX, United States",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "Systems Principal Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/301704",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97478",
+        "key": "97478",
+        "location": "Austin, Texas",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "IT Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/97478",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-25"
