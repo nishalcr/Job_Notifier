@@ -522,6 +522,22 @@
         "years": "5+ yrs"
       },
       "slug": "amex"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26016707",
+        "key": "26016707",
+        "location": "Phoenix, AZ, United States",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "Senior Engineer I",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016707",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-25"
