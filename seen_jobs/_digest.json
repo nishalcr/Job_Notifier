@@ -97,6 +97,22 @@
         "years": ""
       },
       "slug": "amex"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614118",
+        "key": "10614118",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Software Development Engineer, BigMesh, Traffic Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10614118/software-development-engineer-bigmesh-traffic-engineering",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-25"
