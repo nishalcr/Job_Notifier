@@ -3143,6 +3143,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609077",
+        "key": "10609077",
+        "location": "New York, New York",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Senior Forward Deployed Engineer, Sr Forward Deployment Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10609077/senior-forward-deployed-engineer-sr-forward-deployment-engineering",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-24"
