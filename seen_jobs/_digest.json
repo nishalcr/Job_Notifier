@@ -939,6 +939,39 @@
         "years": ""
       },
       "slug": "netflix"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614465",
+        "key": "10614465",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Senior Data Engineer, Internal Audit",
+        "url": "https://www.amazon.jobs/en/jobs/10614465/senior-data-engineer-internal-audit",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068681",
+        "key": "1970393557079338",
+        "location": "Redmond, Washington; +2 more",
+        "posted": "2026-11-25",
+        "salary": "$102K\u2013$261K",
+        "source_posted": "2026-11-25",
+        "team": "Software Engineering",
+        "title": "Software Engineer II and/or Senior Software Engineer - AI Accelerator Networking",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557079338",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-25"
