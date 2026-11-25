@@ -3282,6 +3282,42 @@
         "years": "6+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google is proud to boast a network that provides service to millions of Internet users around the world. The Network Engineering team is responsible for operating that network reliably and at scale. As a member of the team, you have a direct impact on design and feature enhanceme",
+        "job_id": "96344738918998726",
+        "key": "96344738918998726",
+        "location": "Austin, TX, USA; +1 more",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "",
+        "team": "GEN Network Engineering",
+        "title": "Network Engineer, GEN Network Engineering",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/96344738918998726",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "97795544511849158",
+        "key": "97795544511849158",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "",
+        "team": "",
+        "title": "Applied ML and Backend Software Engineer",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/97795544511849158",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-24"
