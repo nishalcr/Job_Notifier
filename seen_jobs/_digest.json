@@ -906,6 +906,39 @@
         "years": "5+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289473",
+        "key": "JR0289473",
+        "location": "2 Locations",
+        "posted": "2026-11-25",
+        "salary": "$141K\u2013$270K",
+        "source_posted": "Posted Today",
+        "title": "Senior Supply Chain Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Senior-Supply-Chain-Engineer_JR0289473",
+        "work_type": "Onsite",
+        "years": "9+ yrs"
+      },
+      "slug": "intel"
+    },
+    {
+      "company": "Netflix",
+      "job": {
+        "job_id": "JR43853",
+        "key": "790319742534",
+        "location": "Remote, United States",
+        "posted": "2026-11-25",
+        "salary": "$500K\u2013$860K",
+        "source_posted": "",
+        "team": "Data & Insights",
+        "title": "Machine Learning Scientist 5 (L5) - Human Understanding & Applied AI, Content & Studio",
+        "url": "https://explore.jobs.netflix.net/careers/job/790319742534",
+        "work_type": "Remote",
+        "years": ""
+      },
+      "slug": "netflix"
     }
   ],
   "last_sent": "2026-11-25"
