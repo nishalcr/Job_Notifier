@@ -1104,6 +1104,54 @@
         "years": "5+ yrs"
       },
       "slug": "salesforce"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030637",
+        "key": "JR2030637",
+        "location": "5 Locations",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Applied Research Scientist \u2013 AI Native Numerical Methods",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Applied-Research-Scientist---AI-Native-Numerical-Methods_JR2030637",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030505",
+        "key": "JR2030505",
+        "location": "6 Locations",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Machine Learning Engineer, User Simulation and Advanced Synthetic Data Generation",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--User-Simulation-and-Advanced-Synthetic-Data-Generation_JR2030505",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "97993",
+        "key": "97993",
+        "location": "Austin, Texas",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "Principal Software Engineer, Agentic AI",
+        "url": "https://careers.amd.com/careers-home/jobs/97993",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-25"
