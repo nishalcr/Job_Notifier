@@ -113,6 +113,38 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1006516",
+        "key": "R1006516",
+        "location": "4 Locations",
+        "posted": "2026-11-25",
+        "salary": "$209K\u2013$286K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 5 (IC)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--IC-_R1006516-1",
+        "work_type": "Hybrid",
+        "years": "6+ yrs"
+      },
+      "slug": "capitalone"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024144",
+        "key": "JR-024144",
+        "location": "3 Locations",
+        "posted": "2026-11-25",
+        "salary": "$249K\u2013$341K",
+        "source_posted": "Posted Today",
+        "title": "Distinguished Forward Deployed Engineer, AI Security",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Distinguished-Forward-Deployed-Engineer--AI-Security_JR-024144-1",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-25"
