@@ -2734,6 +2734,54 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613597",
+        "key": "10613597",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "Security Engineer, Endpoint Security, US Amazon Dedicated Cloud Security",
+        "url": "https://www.amazon.jobs/en/jobs/10613597/security-engineer-endpoint-security-us-amazon-dedicated-cloud-security",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613594",
+        "key": "10613594",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 24, 2026",
+        "title": "AWS Security Operations/Incident Response Engineer, US Amazon Dedicated Cloud Security",
+        "url": "https://www.amazon.jobs/en/jobs/10613594/aws-security-operations-incident-response-engineer-us-amazon-dedicated-cloud-security",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613598",
+        "key": "10613598",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Software Development Engineer, US ADC Security",
+        "url": "https://www.amazon.jobs/en/jobs/10613598/software-development-engineer-us-adc-security",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-24"
