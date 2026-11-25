@@ -2943,6 +2943,38 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "102627",
+        "key": "102627",
+        "location": "San Francisco, California",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "Research Scientist - Generative Modeling",
+        "url": "https://careers.amd.com/careers-home/jobs/102627",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "amd"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-024934",
+        "key": "JR-024934",
+        "location": "Office - USA - CA - Console Systems",
+        "posted": "2026-11-25",
+        "salary": "$156K\u2013$253K",
+        "source_posted": "Posted Today",
+        "title": "Principal Platform Software Engineer (Console)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Console-Systems/Principal-Platform-Software-Engineer--Console-_JR-024934-1",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-24"
