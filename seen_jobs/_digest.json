@@ -2878,6 +2878,39 @@
         "years": "4+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613638",
+        "key": "10613638",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Software Development Engineer III",
+        "url": "https://www.amazon.jobs/en/jobs/10613638/software-development-engineer-iii",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200067801",
+        "key": "1970393557075113",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-25",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-25",
+        "team": "Software Engineering",
+        "title": "Software Engineer II",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075113",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-24"
