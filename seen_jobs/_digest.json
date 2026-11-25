@@ -1152,6 +1152,38 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368846",
+        "key": "JR368846",
+        "location": "2 Locations",
+        "posted": "2026-11-25",
+        "salary": "$238K\u2013$380K",
+        "source_posted": "Posted Today",
+        "title": "Principal Software Engineer, Infrastructure & Service Mesh",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Infrastructure-Service-Mesh-Principal--Software-Engineer_JR368846",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "salesforce"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0289598",
+        "key": "JR0289598",
+        "location": "US, Oregon, Hillsboro",
+        "posted": "2026-11-25",
+        "salary": "$84K\u2013$118K",
+        "source_posted": "Posted Today",
+        "title": "Intel Foundry Device Infrastructure Development Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Device-Infrastructure-Development-Engineer_JR0289598",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "intel"
     }
   ],
   "last_sent": "2026-11-25"
