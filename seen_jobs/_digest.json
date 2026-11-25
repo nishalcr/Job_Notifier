@@ -247,6 +247,88 @@
         "years": "1+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614186",
+        "key": "10614186",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Senior Software Dev Engineer, Leo Telemetry Platform",
+        "url": "https://www.amazon.jobs/en/jobs/10614186/senior-software-dev-engineer-leo-telemetry-platform",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614187",
+        "key": "10614187",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Senior Software Dev Engineer, Leo Telemetry Platform",
+        "url": "https://www.amazon.jobs/en/jobs/10614187/senior-software-dev-engineer-leo-telemetry-platform",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "4604362149801918",
+        "key": "4604362149801918",
+        "location": "Menlo Park, CA",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering / Engineering",
+        "title": "Software Engineer, Machine Learning - Ranking, Home Feed, Standalone Apps Team",
+        "url": "https://www.metacareers.com/profile/job_details/4604362149801918",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "meta"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210812363",
+        "key": "210812363",
+        "location": "Palo Alto, CA, United States; +2 more",
+        "posted": "2026-11-25",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-25",
+        "title": "Lead Software Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812363",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Reddit",
+      "job": {
+        "job_id": "8415553",
+        "key": "8415553",
+        "location": "San Francisco, CA",
+        "posted": "2026-11-25",
+        "salary": "$165K\u2013$230K",
+        "source_posted": "2026-11-25",
+        "title": "Software Engineer, Ads",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8415553",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "reddit"
     }
   ],
   "last_sent": "2026-11-25"
