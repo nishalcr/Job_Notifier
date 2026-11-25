@@ -858,6 +858,54 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614461",
+        "key": "10614461",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Software Development Engineer, AWS Console",
+        "url": "https://www.amazon.jobs/en/jobs/10614461/software-development-engineer-aws-console",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614462",
+        "key": "10614462",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Software Development Engineer, AWS Console",
+        "url": "https://www.amazon.jobs/en/jobs/10614462/software-development-engineer-aws-console",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030679",
+        "key": "JR2030679",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior System Software Engineer - AV Platform",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2030679",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-25"
