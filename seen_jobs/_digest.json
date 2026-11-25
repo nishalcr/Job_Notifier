@@ -3159,6 +3159,22 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613624",
+        "key": "10613624",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Senior Systems Development Engineer, AWS Resilience",
+        "url": "https://www.amazon.jobs/en/jobs/10613624/senior-systems-development-engineer-aws-resilience",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-24"
