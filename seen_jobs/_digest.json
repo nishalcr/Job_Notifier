@@ -329,6 +329,38 @@
         "years": ""
       },
       "slug": "reddit"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809101",
+        "key": "210809101",
+        "location": "NY, United States",
+        "posted": "2026-11-25",
+        "salary": "$176K\u2013$260K",
+        "source_posted": "2026-11-25",
+        "title": "Sr Lead Software Engineer - Platform Engineering Lead (The Infatuation)",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809101",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74520",
+        "key": "74520",
+        "location": "Chicago Heights, IL, United States",
+        "posted": "2026-11-25",
+        "salary": "$87K\u2013$145K",
+        "source_posted": "2026-11-25",
+        "title": "Engineer III, Occupational Safety",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74520",
+        "work_type": "Onsite",
+        "years": "1+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-25"
