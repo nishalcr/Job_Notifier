@@ -2782,6 +2782,38 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613623",
+        "key": "10613623",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Application Security Engineer, US ADC Security",
+        "url": "https://www.amazon.jobs/en/jobs/10613623/application-security-engineer-us-adc-security",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613621",
+        "key": "10613621",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Application Security Engineer, US ADC Security",
+        "url": "https://www.amazon.jobs/en/jobs/10613621/application-security-engineer-us-adc-security",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-24"
