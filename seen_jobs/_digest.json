@@ -2814,6 +2814,38 @@
         "years": "2+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10609853",
+        "key": "10609853",
+        "location": "San Francisco, California",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Data Scientist, Discovery & Recommendations",
+        "url": "https://www.amazon.jobs/en/jobs/10609853/data-scientist-discovery-recommendations",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "94500",
+        "key": "94500",
+        "location": "San Jose, California",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "Senior Software Performance Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/94500",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-24"
