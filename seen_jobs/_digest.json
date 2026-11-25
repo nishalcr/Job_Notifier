@@ -1039,6 +1039,39 @@
         "years": "3+ yrs"
       },
       "slug": "uber"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030744",
+        "key": "JR2030744",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Cosmos Research Scientist, Agentic AI for 3D and Robotics",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Cosmos-Research-Scientist--Agentic-AI-for-3D-and-Robotics_JR2030744",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068663",
+        "key": "1970393557079294",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-25",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-25",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557079294",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-25"
