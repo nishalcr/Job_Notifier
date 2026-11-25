@@ -3039,6 +3039,38 @@
         "years": "5+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030512",
+        "key": "JR2030512",
+        "location": "3 Locations",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Principal Software Engineer",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer_JR2030512",
+        "work_type": "",
+        "years": "15+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351347",
+        "key": "351347",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-25",
+        "salary": "$115K\u2013$235K",
+        "source_posted": "2026-11-24",
+        "title": "Principal Software Engineer, Core Infrastructure",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351347",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-24"
