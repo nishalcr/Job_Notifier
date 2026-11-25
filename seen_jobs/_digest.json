@@ -3424,6 +3424,24 @@
         "years": "4+ yrs"
       },
       "slug": "capitalone"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "There's no such thing as a \"safe system\" - only safer systems. Our Security team works to create and maintain the safest operating environment for Google's users and developers. As a Security Engineer, you help protect network boundaries, keep computer systems and network devices",
+        "job_id": "111922894539236038",
+        "key": "111922894539236038",
+        "location": "Sunnyvale, CA, USA; +5 more",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "",
+        "team": "Detection / Google Cloud CISO",
+        "title": "Staff Security Engineering, Detection, Google Cloud CISO",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/111922894539236038",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-24"
