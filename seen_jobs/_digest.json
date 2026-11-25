@@ -393,6 +393,55 @@
         "years": "12+ yrs"
       },
       "slug": "doordash"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614341",
+        "key": "10614341",
+        "location": "New York, New York",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Software Development Engineer",
+        "url": "https://www.amazon.jobs/en/jobs/10614341/software-development-engineer",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8417797",
+        "key": "8417797",
+        "location": "Seattle",
+        "posted": "2026-11-25",
+        "salary": "$224K\u2013$336K",
+        "source_posted": "2026-11-25",
+        "title": "Staff Software Engineer, Batch Compute",
+        "url": "https://stripe.com/jobs/search?gh_jid=8417797",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "stripe"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068244",
+        "key": "1970393557076281",
+        "location": "Redmond, Washington; +1 more",
+        "posted": "2026-11-25",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-25",
+        "team": "Software Engineering",
+        "title": "Senior Software Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557076281",
+        "work_type": "Onsite",
+        "years": "4+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-25"
