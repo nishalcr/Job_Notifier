@@ -2846,6 +2846,38 @@
         "years": ""
       },
       "slug": "amd"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030543",
+        "key": "JR2030543",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2030543-1",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-025049",
+        "key": "JR-025049",
+        "location": "Office - USA - CA - Headquarters",
+        "posted": "2026-11-25",
+        "salary": "$141K\u2013$228K",
+        "source_posted": "Posted Today",
+        "title": "Sr UX Design Systems Engineer (NetSec)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Sr-UX-Design-Systems-Engineer--NetSec-_JR-025049-1",
+        "work_type": "",
+        "years": "4+ yrs"
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-24"
