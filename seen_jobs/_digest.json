@@ -698,6 +698,38 @@
         "years": "5+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74453",
+        "key": "74453",
+        "location": "Dearborn, MI, United States; +2 more",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "Staff Software Engineer - IVI Camera Software",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74453",
+        "work_type": "Hybrid",
+        "years": "5\u20138 yrs"
+      },
+      "slug": "ford"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74620",
+        "key": "74620",
+        "location": "Palo Alto, CA, United States",
+        "posted": "2026-11-25",
+        "salary": "$167K\u2013$317K",
+        "source_posted": "2026-11-25",
+        "title": "Senior Staff Product Cybersecurity Engineer \u2013 In Vehicle Infotainment",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74620",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-25"
