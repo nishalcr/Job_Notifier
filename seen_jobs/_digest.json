@@ -1,5 +1,38 @@
 {
   "issues": [],
-  "jobs": [],
+  "jobs": [
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614001",
+        "key": "10614001",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Senior Security Engineer, Foundational Compute Security",
+        "url": "https://www.amazon.jobs/en/jobs/10614001/senior-security-engineer-foundational-compute-security",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613998",
+        "key": "10613998",
+        "location": "Nashville, Tennessee",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Systems Development Engineer II, Mobility and Devices (MAD)",
+        "url": "https://www.amazon.jobs/en/jobs/10613998/systems-development-engineer-ii-mobility-and-devices-mad",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    }
+  ],
   "last_sent": "2026-11-25"
 }
