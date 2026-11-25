@@ -682,6 +682,22 @@
         "years": "8+ yrs"
       },
       "slug": "paloalto"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614414",
+        "key": "10614414",
+        "location": "Santa Clara, California",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Senior Software Development Engineer, Amazon Quick",
+        "url": "https://www.amazon.jobs/en/jobs/10614414/senior-software-development-engineer-amazon-quick",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-25"
