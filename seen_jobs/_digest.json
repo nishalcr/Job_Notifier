@@ -3087,6 +3087,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613726",
+        "key": "10613726",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Sr. Software Development Engineer, Resilience Infrastruction and Solutions: Incident Mitigation",
+        "url": "https://www.amazon.jobs/en/jobs/10613726/sr-software-development-engineer-resilience-infrastruction-and-solutions-incident-mitigation",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-24"
