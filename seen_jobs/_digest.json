@@ -746,6 +746,38 @@
         "years": ""
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "301709",
+        "key": "301709",
+        "location": "Austin, TX, United States",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "Senior Principal\u00a0Systems Development Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/301709",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "dell"
+    },
+    {
+      "company": "AMD",
+      "job": {
+        "job_id": "98734",
+        "key": "98734",
+        "location": "San Jose, California",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "Customer Quality Engineer",
+        "url": "https://careers.amd.com/careers-home/jobs/98734",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amd"
     }
   ],
   "last_sent": "2026-11-25"
