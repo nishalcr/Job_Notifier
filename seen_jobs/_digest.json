@@ -3460,6 +3460,24 @@
         "years": "10+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "29554487220829722",
+        "key": "29554487220829722",
+        "location": "Bellevue, WA",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Menlo Park, CA",
+        "title": "Backend Engineer (Technical Leadership), Central Integrity",
+        "url": "https://www.metacareers.com/profile/job_details/29554487220829722",
+        "work_type": "",
+        "years": "12+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-24"
