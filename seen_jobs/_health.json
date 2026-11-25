@@ -1,36 +1,8 @@
 {
-  "databricks": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Greenhouse API request failed with status 403"
-  },
-  "doordash": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Greenhouse API request failed with status 403"
-  },
-  "godaddy": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Greenhouse API request failed with status 403"
-  },
   "goldman-sachs": {
     "broken_since": "2026-11-25T04:32:12+00:00",
     "consecutive_failures": 3,
     "last_error": "No jobs extracted. The page structure may have changed.",
     "status": "broken"
-  },
-  "pinterest": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Greenhouse API request failed with status 403"
-  },
-  "reddit": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Greenhouse API request failed with status 403"
-  },
-  "stripe": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Greenhouse API request failed with status 403"
-  },
-  "zscaler": {
-    "consecutive_failures": 1,
-    "last_error": "Error on page 1: Greenhouse API request failed with status 403"
   }
 }
