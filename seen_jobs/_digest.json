@@ -3408,6 +3408,22 @@
         "years": "4+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Capital One",
+      "job": {
+        "job_id": "R1005707",
+        "key": "R1005707",
+        "location": "McLean, VA",
+        "posted": "2026-11-25",
+        "salary": "$197K\u2013$225K",
+        "source_posted": "Posted Today",
+        "title": "Full-stack Engineer 4 (Bank Tech)",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Bank-Tech-_R1005707-1",
+        "work_type": "Hybrid",
+        "years": "4+ yrs"
+      },
+      "slug": "capitalone"
     }
   ],
   "last_sent": "2026-11-24"
