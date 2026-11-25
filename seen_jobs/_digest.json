@@ -730,6 +730,22 @@
         "years": "7+ yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210810134",
+        "key": "210810134",
+        "location": "Wilmington, DE, United States; +4 more",
+        "posted": "2026-11-25",
+        "salary": "$180K\u2013$325K",
+        "source_posted": "2026-11-25",
+        "title": "Sr Principal Cybersecurity Architect, Core Engineering Solutions",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810134",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-25"
