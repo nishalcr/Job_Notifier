@@ -972,6 +972,55 @@
         "years": "2+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614480",
+        "key": "10614480",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Software Development Engineer, Amazon Quick",
+        "url": "https://www.amazon.jobs/en/jobs/10614480/software-development-engineer-amazon-quick",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2013016",
+        "key": "JR2013016",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Product Data Operations Engineering Systems Analyst",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Data-Operations-Engineering-Systems-Analyst_JR2013016",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200068829",
+        "key": "1970393557095745",
+        "location": "Multiple Locations; +1 more",
+        "posted": "2026-11-25",
+        "salary": "$120K\u2013$261K",
+        "source_posted": "2026-11-25",
+        "team": "Data Engineering",
+        "title": "Senior Data Engineer",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557095745",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-25"
