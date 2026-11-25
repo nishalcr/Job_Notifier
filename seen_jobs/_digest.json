@@ -442,6 +442,54 @@
         "years": "4+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614355",
+        "key": "10614355",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Software Dev Engineer, Antenna System Validation",
+        "url": "https://www.amazon.jobs/en/jobs/10614355/software-dev-engineer-antenna-system-validation",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10614356",
+        "key": "10614356",
+        "location": "Arlington, Virginia",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "November 25, 2026",
+        "title": "Software Dev Engineer II, AWS Elastic Compute Cloud (EC2)",
+        "url": "https://www.amazon.jobs/en/jobs/10614356/software-dev-engineer-ii-aws-elastic-compute-cloud-ec2",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "job": {
+        "job_id": "JR-025200",
+        "key": "JR-025200",
+        "location": "Santa Clara, United States of America",
+        "posted": "2026-11-25",
+        "salary": "$108K\u2013$175K",
+        "source_posted": "Posted Today",
+        "title": "Machine Learning Engineer \u2013 AI (Cybersecurity LLM Post-Training, Evals, and Environments)",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Santa-Clara-United-States-of-America/Machine-Learning-Engineer---AI--Cybersecurity-LLM-Post-Training--Evals--and-Environments-_JR-025200",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "paloalto"
     }
   ],
   "last_sent": "2026-11-25"
