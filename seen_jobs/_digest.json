@@ -215,6 +215,38 @@
         "years": "3\u20135 yrs"
       },
       "slug": "ford"
+    },
+    {
+      "company": "Red Hat",
+      "job": {
+        "job_id": "R-060671",
+        "key": "R-060671",
+        "location": "Raleigh",
+        "posted": "2026-11-25",
+        "salary": "$150K\u2013$230K",
+        "source_posted": "Posted Today",
+        "title": "Senior Principal Engineer",
+        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raleigh/Senior-Principal-Engineer_R-060671",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "redhat"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351580",
+        "key": "351580",
+        "location": "Kansas City, MO, United States",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "title": "Platform Software Engineer 2",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351580",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-25"
