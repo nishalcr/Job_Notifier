@@ -538,6 +538,70 @@
         "years": "7+ yrs"
       },
       "slug": "amex"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030632",
+        "key": "JR2030632",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Development Engineer in Test, Confidential Computing - SDET",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test--Confidential-Computing---SDET_JR2030632",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030644",
+        "key": "JR2030644",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Development Engineer in Test - SDET",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---SDET_JR2030644",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030429",
+        "key": "JR2030429",
+        "location": "US, CA, Santa Clara",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "Senior System Software Engineer, Embedded Formal Methods",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Embedded-Formal-Methods_JR2030429",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "nvidia"
+    },
+    {
+      "company": "Ford",
+      "job": {
+        "job_id": "74488",
+        "key": "74488",
+        "location": "Allen Park, MI, United States",
+        "posted": "2026-11-25",
+        "salary": "$100K\u2013$193K",
+        "source_posted": "2026-11-25",
+        "title": "Senior Simulation Engineer - Power Management Simulation",
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74488",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ford"
     }
   ],
   "last_sent": "2026-11-25"
