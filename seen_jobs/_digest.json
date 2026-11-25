@@ -4,6 +4,11 @@
       "at": "Nov 24 09:32 PM",
       "company": "Goldman Sachs",
       "message": "Broken for 3 consecutive runs. Last error: No jobs extracted. The page structure may have changed."
+    },
+    {
+      "at": "Nov 25 02:02 AM",
+      "company": "Goldman Sachs",
+      "message": "Recovered \u2705"
     }
   ],
   "jobs": [
