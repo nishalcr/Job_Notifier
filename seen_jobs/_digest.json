@@ -1021,6 +1021,24 @@
         "years": "3+ yrs"
       },
       "slug": "microsoft"
+    },
+    {
+      "company": "Uber",
+      "job": {
+        "description": "About the Role The UberEats Feed Ranking team is responsible for the ML ranking layer which personalizes the Eats Homefeed. This personalization layer is one of the main drivers of order growth across the Delivery organization. As a Machine Learning Engineer (MLE) on the Feed Ran",
+        "job_id": "304446",
+        "key": "304446",
+        "location": "San Francisco, California; +1 more",
+        "posted": "2026-11-25",
+        "salary": "",
+        "source_posted": "2026-11-25",
+        "team": "Engineer",
+        "title": "Software Engineer II - ML Engineer",
+        "url": "https://jobs.uber.com/en/jobs/304446/",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "uber"
     }
   ],
   "last_sent": "2026-11-25"
