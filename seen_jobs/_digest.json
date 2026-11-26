@@ -1382,6 +1382,22 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Cisco",
+      "job": {
+        "job_id": "2027245",
+        "key": "2027245",
+        "location": "2 Locations",
+        "posted": "2026-11-26",
+        "salary": "$149K\u2013$282K",
+        "source_posted": "Posted Today",
+        "title": "Senior Software Engineer | Secure Workload",
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Senior-Software-Engineer---Secure-Workload_2027245",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "cisco"
     }
   ],
   "last_sent": "2026-11-25"
