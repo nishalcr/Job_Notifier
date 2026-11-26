@@ -1506,6 +1506,22 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "NVIDIA",
+      "job": {
+        "job_id": "JR2030522",
+        "key": "JR2030522",
+        "location": "6 Locations",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "Posted Today",
+        "title": "AI Infrastructure Engineer - NVIS",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/AI-Infrastructure-Engineer---NVIS_JR2030522",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "nvidia"
     }
   ],
   "last_sent": "2026-11-25"
