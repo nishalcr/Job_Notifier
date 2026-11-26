@@ -1522,6 +1522,24 @@
         "years": "5+ yrs"
       },
       "slug": "nvidia"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "143366934228804294",
+        "key": "143366934228804294",
+        "location": "New York, NY, USA; +1 more",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Chat Client-Side Encryption",
+        "title": "Staff Software Developer, Google Chat Client-Side Encryption",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/143366934228804294",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-25"
