@@ -1540,6 +1540,54 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210790682",
+        "key": "210790682",
+        "location": "Houston, TX, United States",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "2026-11-26",
+        "title": "Lead Software Engineer - IP FS Data Protection and Recovery",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790682",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "Intel",
+      "job": {
+        "job_id": "JR0283881",
+        "key": "JR0283881",
+        "location": "2 Locations",
+        "posted": "2026-11-26",
+        "salary": "$116K\u2013$228K",
+        "source_posted": "Posted Today",
+        "title": "Data Scientist/Statistician",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Data-Scientist-Statistician_JR0283881",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "intel"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "351363",
+        "key": "351363",
+        "location": "Nashville, TN, United States; +1 more",
+        "posted": "2026-11-26",
+        "salary": "$80K\u2013$187K",
+        "source_posted": "2026-11-24",
+        "title": "Senior Security Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351363",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-25"
