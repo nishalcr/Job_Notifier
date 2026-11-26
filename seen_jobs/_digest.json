@@ -1470,6 +1470,24 @@
         "years": "8+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "124863253044961990",
+        "key": "124863253044961990",
+        "location": "Pittsburgh, PA, USA",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "",
+        "team": "AQI Data SRE",
+        "title": "Staff Site Reliability Engineer, AQI Data SRE",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/124863253044961990",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-25"
