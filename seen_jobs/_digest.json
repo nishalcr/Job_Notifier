@@ -1346,6 +1346,42 @@
         "years": "5+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "The Google Cloud Consulting Professional Services team guides customers through the moments that matter most in their cloud journey to help businesses thrive. We help customers transform and evolve their business through the use of Google\u2019s global network, web-scale data centers,",
+        "job_id": "120262621516440262",
+        "key": "120262621516440262",
+        "location": "Austin, TX, USA; +3 more",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "",
+        "team": "Professional Services / Google Cloud",
+        "title": "Application Modernization Engineer, Professional Services, Google Cloud",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/120262621516440262",
+        "work_type": "Remote",
+        "years": "6+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "96775403879703238",
+        "key": "96775403879703238",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "",
+        "team": "Google Photos / Mobile (Android)",
+        "title": "Senior Software Engineer, Google Photos, Mobile (Android)",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/96775403879703238",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-25"
