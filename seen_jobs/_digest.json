@@ -1328,6 +1328,24 @@
         "years": "5+ yrs"
       },
       "slug": "cisco"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "",
+        "job_id": "138207750793372358",
+        "key": "138207750793372358",
+        "location": "Sunnyvale, CA, USA",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "",
+        "team": "Gemini Inference",
+        "title": "Senior Software Engineer, Gemini Inference",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/138207750793372358",
+        "work_type": "Remote",
+        "years": "5+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-25"
