@@ -1184,6 +1184,22 @@
         "years": ""
       },
       "slug": "intel"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10615061",
+        "key": "10615061",
+        "location": "Cupertino, California",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "November 26, 2026",
+        "title": "Sr. Software Development Engineer, Annapurna Labs - LibNVMe",
+        "url": "https://www.amazon.jobs/en/jobs/10615061/sr-software-development-engineer-annapurna-labs-libnvme",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-25"
