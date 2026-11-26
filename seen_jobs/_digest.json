@@ -1588,6 +1588,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210796537",
+        "key": "210796537",
+        "location": "Seattle, WA, United States; +1 more",
+        "posted": "2026-11-26",
+        "salary": "$157K\u2013$215K",
+        "source_posted": "2026-11-26",
+        "title": "Lead Security Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796537",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-25"
