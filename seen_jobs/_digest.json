@@ -1264,6 +1264,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10615136",
+        "key": "10615136",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "November 26, 2026",
+        "title": "Aerospace Systems Development Service Engineer, Prime Air",
+        "url": "https://www.amazon.jobs/en/jobs/10615136/aerospace-systems-development-service-engineer-prime-air",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-25"
