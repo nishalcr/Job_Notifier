@@ -1,5 +1,22 @@
 {
   "issues": [],
-  "jobs": [],
+  "jobs": [
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10610906",
+        "key": "10610906",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "November 26, 2026",
+        "title": "Embedded Software Engineer, Amazon Leo Government, ALG Software",
+        "url": "https://www.amazon.jobs/en/jobs/10610906/embedded-software-engineer-amazon-leo-government-alg-software",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    }
+  ],
   "last_sent": "2026-11-26"
 }
