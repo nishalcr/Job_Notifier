@@ -16,6 +16,24 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Meta",
+      "job": {
+        "description": "",
+        "job_id": "1603944021501959",
+        "key": "1603944021501959",
+        "location": "Bellevue, WA",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "",
+        "team": "\u22c5 / Menlo Park, CA / Software Engineering",
+        "title": "Software Engineer, Endpoint Networking (Technical Leadership)",
+        "url": "https://www.metacareers.com/profile/job_details/1603944021501959",
+        "work_type": "",
+        "years": "10+ yrs"
+      },
+      "slug": "meta"
     }
   ],
   "last_sent": "2026-11-26"
