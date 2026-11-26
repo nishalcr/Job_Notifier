@@ -1216,6 +1216,22 @@
         "years": "2+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10615129",
+        "key": "10615129",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "November 26, 2026",
+        "title": "Security Engineer II, AWS Cloud Security Response",
+        "url": "https://www.amazon.jobs/en/jobs/10615129/security-engineer-ii-aws-cloud-security-response",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-25"
