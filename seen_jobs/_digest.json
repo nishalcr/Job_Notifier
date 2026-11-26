@@ -1232,6 +1232,38 @@
         "years": "2+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10615132",
+        "key": "10615132",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "November 26, 2026",
+        "title": "Software Development Engineer, US ADC Security",
+        "url": "https://www.amazon.jobs/en/jobs/10615132/software-development-engineer-us-adc-security",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10615130",
+        "key": "10615130",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "November 26, 2026",
+        "title": "Software Development Engineer, US ADC Security",
+        "url": "https://www.amazon.jobs/en/jobs/10615130/software-development-engineer-us-adc-security",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-25"
