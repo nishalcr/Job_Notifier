@@ -1452,6 +1452,24 @@
         "years": "2+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "115897835232076486",
+        "key": "115897835232076486",
+        "location": "Mountain View, CA, USA",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "",
+        "team": "ML / Search Ads Creatives",
+        "title": "Staff Software Engineer, ML, Search Ads Creatives",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/115897835232076486",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-25"
