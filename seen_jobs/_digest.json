@@ -1416,6 +1416,42 @@
         "years": "6+ yrs"
       },
       "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "In this role, you\u2019ll work to shape the future of AI/ML hardware acceleration. You will have an opportunity to drive cutting-edge TPU (Tensor Processing Unit) technology that powers Google's most demanding AI/ML applications. You\u2019ll be part of a team that pushes boundaries, develo",
+        "job_id": "85118381602022086",
+        "key": "85118381602022086",
+        "location": "Sunnyvale, CA, USA; +1 more",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "",
+        "team": "ML Accelerators",
+        "title": "ASIC Power Engineer, ML Accelerators",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/85118381602022086",
+        "work_type": "Remote",
+        "years": "8+ yrs"
+      },
+      "slug": "google"
+    },
+    {
+      "company": "Google",
+      "job": {
+        "description": "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for e",
+        "job_id": "106710590948287174",
+        "key": "106710590948287174",
+        "location": "Reston, VA, USA; +1 more",
+        "posted": "2026-11-26",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure / Google Cloud Security",
+        "title": "Software Engineer III, Infrastructure, Google Cloud Security",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/106710590948287174",
+        "work_type": "Remote",
+        "years": "2+ yrs"
+      },
+      "slug": "google"
     }
   ],
   "last_sent": "2026-11-25"
