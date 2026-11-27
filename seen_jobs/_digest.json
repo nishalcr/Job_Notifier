@@ -451,6 +451,244 @@
         "years": ""
       },
       "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "92036",
+        "key": "92036",
+        "location": "Yorktown Heights, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Research",
+        "title": "Research Scientist (Analog and Mixed-Signal Design)",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=92036",
+        "work_type": "Hybrid",
+        "years": "2+ yrs"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144918",
+        "key": "144918",
+        "location": "Multiple Cities",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure & Technology",
+        "title": "Quantum Interposer Integration Engineer",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144918",
+        "work_type": "Hybrid",
+        "years": "7+ yrs"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "145585",
+        "key": "145585",
+        "location": "Chicago, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Research",
+        "title": "Research Scientist",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145585",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "147058",
+        "key": "147058",
+        "location": "Austin, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=147058",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "147052",
+        "key": "147052",
+        "location": "No City, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Java & Web Technologies",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=147052",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "147041",
+        "key": "147041",
+        "location": "WASHINGTON, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-SAP ABAP HANA",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=147041",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "146933",
+        "key": "146933",
+        "location": "Austin, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "AuthMind - Senior DevOps Engineer",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=146933",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "146932",
+        "key": "146932",
+        "location": "Austin, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "AuthMind - Senior DevOps Engineer",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=146932",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "147091",
+        "key": "147091",
+        "location": "Minneapolis, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-SAP ADM",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=147091",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "147081",
+        "key": "147081",
+        "location": "JERSEY CITY, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Architect-AWS Cloud",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=147081",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "147067",
+        "key": "147067",
+        "location": "San Jose, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Technical Architect-Salesforce",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=147067",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "147047",
+        "key": "147047",
+        "location": "Dallas, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-ServiceNow Implementation",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=147047",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "147113",
+        "key": "147113",
+        "location": "CORAL GABLES, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Hybrid Cloud Manage",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=147113",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "144864",
+        "key": "144864",
+        "location": "Multiple Cities",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Infrastructure & Technology",
+        "title": "AMI Data Engineer \u2013 Utilities",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=144864",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
     }
   ],
   "last_sent": "2026-11-27"
