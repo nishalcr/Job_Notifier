@@ -1,5 +1,22 @@
 {
   "issues": [],
-  "jobs": [],
+  "jobs": [
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10615936",
+        "key": "10615936",
+        "location": "Herndon, Virginia",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "November 27, 2026",
+        "title": "Software Development Engineer, AWS Security: AWS Field Security, AWS Security: AWS Field Security",
+        "url": "https://www.amazon.jobs/en/jobs/10615936/software-development-engineer-aws-security-aws-field-security-aws-security-aws-field-security",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    }
+  ],
   "last_sent": "2026-11-27"
 }
