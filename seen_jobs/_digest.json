@@ -352,6 +352,22 @@
         "years": "5+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Salesforce",
+      "job": {
+        "job_id": "JR368557",
+        "key": "JR368557",
+        "location": "California - San Francisco",
+        "posted": "2026-11-27",
+        "salary": "$309K\u2013$330K",
+        "source_posted": "Posted Today",
+        "title": "Software Engineering PMTS",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineering-PMTS_JR368557",
+        "work_type": "Hybrid",
+        "years": "10+ yrs"
+      },
+      "slug": "salesforce"
     }
   ],
   "last_sent": "2026-11-27"
