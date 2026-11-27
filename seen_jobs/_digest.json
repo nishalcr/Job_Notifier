@@ -400,6 +400,57 @@
         "years": "7+ yrs"
       },
       "slug": "oracle"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "146938",
+        "key": "146938",
+        "location": "Austin, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "AuthMind - Software Engineer,  Data Connectors & Ingestion Platform",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=146938",
+        "work_type": "Hybrid",
+        "years": "3\u201310 yrs"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "147046",
+        "key": "147046",
+        "location": "Charlotte, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Security",
+        "title": "Quality Engineer-Full Stack",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=147046",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "146327",
+        "key": "146327",
+        "location": "BATON ROUGE, US",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer - IT Service Management",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=146327",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
     }
   ],
   "last_sent": "2026-11-27"
