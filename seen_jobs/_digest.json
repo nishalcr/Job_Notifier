@@ -240,6 +240,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8421367",
+        "key": "8421367",
+        "location": "New York; +1 more",
+        "posted": "2026-11-27",
+        "salary": "$190K\u2013$286K",
+        "source_posted": "2026-11-27",
+        "title": "Software Engineer, Reporting Platform",
+        "url": "https://stripe.com/jobs/search?gh_jid=8421367",
+        "work_type": "Onsite",
+        "years": ""
+      },
+      "slug": "stripe"
     }
   ],
   "last_sent": "2026-11-27"
