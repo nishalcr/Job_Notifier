@@ -80,6 +80,38 @@
         "years": ""
       },
       "slug": "stripe"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10608779",
+        "key": "10608779",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "November 27, 2026",
+        "title": "Software Development  Engineer, Aurora Control Plane",
+        "url": "https://www.amazon.jobs/en/jobs/10608779/software-development-engineer-aurora-control-plane",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809992",
+        "key": "210809992",
+        "location": "OH, United States",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "2026-11-27",
+        "title": "Security Engineer II - Endpoint Security Platforms (Employee Compute / GitOps Automation)",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809992",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-27"
