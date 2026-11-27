@@ -208,6 +208,22 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10613684",
+        "key": "10613684",
+        "location": "Irvine, California",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "November 27, 2026",
+        "title": "Sr Applied Scientist, Embedded Battery Algorithms, Energy Storage",
+        "url": "https://www.amazon.jobs/en/jobs/10613684/sr-applied-scientist-embedded-battery-algorithms-energy-storage",
+        "work_type": "Hybrid",
+        "years": "8+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-27"
