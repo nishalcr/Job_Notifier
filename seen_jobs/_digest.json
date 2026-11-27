@@ -16,6 +16,22 @@
         "years": "3+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210812617",
+        "key": "210812617",
+        "location": "Palo Alto, CA, United States; +1 more",
+        "posted": "2026-11-27",
+        "salary": "$176K\u2013$260K",
+        "source_posted": "2026-11-27",
+        "title": "Sr Lead Infrastructure Engineer \u2013 Wireless & Enterprise Connectivity",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812617",
+        "work_type": "Onsite",
+        "years": "7+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-27"
