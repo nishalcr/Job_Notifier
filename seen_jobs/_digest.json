@@ -304,6 +304,22 @@
         "years": ""
       },
       "slug": "stripe"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10598808",
+        "key": "10598808",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "November 27, 2026",
+        "title": "Data Scientist, AWS Infrastructure Services Science",
+        "url": "https://www.amazon.jobs/en/jobs/10598808/data-scientist-aws-infrastructure-services-science",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-27"
