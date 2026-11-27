@@ -50,6 +50,22 @@
         "years": "8+ yrs"
       },
       "slug": "dell"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210812150",
+        "key": "210812150",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "2026-11-27",
+        "title": "Lead Security Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812150",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-26"
