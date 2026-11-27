@@ -34,6 +34,22 @@
         "years": "10+ yrs"
       },
       "slug": "meta"
+    },
+    {
+      "company": "Dell",
+      "job": {
+        "job_id": "303088",
+        "key": "303088",
+        "location": "Santa Clara, CA, United States",
+        "posted": "2026-11-27",
+        "salary": "$170K\u2013$316K",
+        "source_posted": "2026-11-27",
+        "title": "Principal Systems Development Engineer",
+        "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/303088",
+        "work_type": "",
+        "years": "8+ yrs"
+      },
+      "slug": "dell"
     }
   ],
   "last_sent": "2026-11-26"
