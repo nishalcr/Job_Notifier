@@ -128,6 +128,22 @@
         "years": ""
       },
       "slug": "stripe"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10615974",
+        "key": "10615974",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "November 27, 2026",
+        "title": "Sr. Data Engineer, WW Pricing Data and Insights",
+        "url": "https://www.amazon.jobs/en/jobs/10615974/sr-data-engineer-ww-pricing-data-and-insights",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-27"
