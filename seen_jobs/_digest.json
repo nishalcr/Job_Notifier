@@ -48,6 +48,22 @@
         "years": "9+ yrs"
       },
       "slug": "cvs_wd"
+    },
+    {
+      "company": "American Express",
+      "job": {
+        "job_id": "26017012",
+        "key": "26017012",
+        "location": "Sunrise, FL, United States; +2 more",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "2026-11-27",
+        "title": "Staff-Software Engineer",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017012",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "amex"
     }
   ],
   "last_sent": "2026-11-27"
