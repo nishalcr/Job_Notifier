@@ -272,6 +272,22 @@
         "years": ""
       },
       "slug": "stripe"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8421434",
+        "key": "8421434",
+        "location": "South San Francisco; +1 more",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "2026-11-27",
+        "title": "Software Engineer",
+        "url": "https://stripe.com/jobs/search?gh_jid=8421434",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "stripe"
     }
   ],
   "last_sent": "2026-11-27"
