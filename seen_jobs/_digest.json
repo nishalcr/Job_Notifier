@@ -64,6 +64,22 @@
         "years": ""
       },
       "slug": "amex"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8421000",
+        "key": "8421000",
+        "location": "South San Francisco; +1 more",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "2026-11-27",
+        "title": "Software Engineer, Full Stack Atlas",
+        "url": "https://stripe.com/jobs/search?gh_jid=8421000",
+        "work_type": "",
+        "years": ""
+      },
+      "slug": "stripe"
     }
   ],
   "last_sent": "2026-11-27"
