@@ -160,6 +160,54 @@
         "years": "2+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210812583",
+        "key": "210812583",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-27",
+        "salary": "$138K\u2013$185K",
+        "source_posted": "2026-11-27",
+        "title": "Software Engineer III",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812583",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210812586",
+        "key": "210812586",
+        "location": "Plano, TX, United States",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "2026-11-27",
+        "title": "Security Engineer I",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812586",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "jpmc"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210812608",
+        "key": "210812608",
+        "location": "Chicago, IL, United States",
+        "posted": "2026-11-27",
+        "salary": "$114K\u2013$155K",
+        "source_posted": "2026-11-27",
+        "title": "Fullstack Software Engineer III - Java/Spring/React (Multiple Positions)",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812608",
+        "work_type": "Onsite",
+        "years": "3+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-27"
