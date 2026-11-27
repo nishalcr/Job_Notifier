@@ -224,6 +224,22 @@
         "years": "8+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10615996",
+        "key": "10615996",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "November 27, 2026",
+        "title": "Software Development Engineer, Amazon Leo - GNC SW",
+        "url": "https://www.amazon.jobs/en/jobs/10615996/software-development-engineer-amazon-leo-gnc-sw",
+        "work_type": "",
+        "years": "3+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-27"
