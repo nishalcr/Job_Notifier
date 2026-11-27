@@ -368,6 +368,22 @@
         "years": "10+ yrs"
       },
       "slug": "salesforce"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210809047",
+        "key": "210809047",
+        "location": "Jersey City, NJ, United States",
+        "posted": "2026-11-27",
+        "salary": "$176K\u2013$260K",
+        "source_posted": "2026-11-27",
+        "title": "Sr Lead Software Engineer - Backend",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809047",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-27"
