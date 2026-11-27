@@ -320,6 +320,38 @@
         "years": "2+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10616037",
+        "key": "10616037",
+        "location": "Redmond, Washington",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "November 27, 2026",
+        "title": "Sr. Communication Systems Research Scientist",
+        "url": "https://www.amazon.jobs/en/jobs/10616037/sr-communication-systems-research-scientist",
+        "work_type": "",
+        "years": "7+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "job": {
+        "job_id": "210807129",
+        "key": "210807129",
+        "location": "OH, United States",
+        "posted": "2026-11-27",
+        "salary": "",
+        "source_posted": "2026-11-27",
+        "title": "Full Stack AI Cloud Lead Software Engineer",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807129",
+        "work_type": "Onsite",
+        "years": "5+ yrs"
+      },
+      "slug": "jpmc"
     }
   ],
   "last_sent": "2026-11-27"
