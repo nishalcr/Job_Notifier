@@ -112,6 +112,22 @@
         "years": "3+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "Stripe",
+      "job": {
+        "job_id": "8421091",
+        "key": "8421091",
+        "location": "Seattle; +1 more",
+        "posted": "2026-11-27",
+        "salary": "$206K\u2013$235K",
+        "source_posted": "2026-11-27",
+        "title": "Software Engineer, Backend",
+        "url": "https://stripe.com/jobs/search?gh_jid=8421091",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "stripe"
     }
   ],
   "last_sent": "2026-11-27"
