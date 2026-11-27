@@ -32,6 +32,22 @@
         "years": "7+ yrs"
       },
       "slug": "jpmc"
+    },
+    {
+      "company": "CVS Health (Workday)",
+      "job": {
+        "job_id": "R1108623",
+        "key": "R1108623",
+        "location": "NC - Work from home",
+        "posted": "2026-11-27",
+        "salary": "$107K\u2013$213K",
+        "source_posted": "Posted Today",
+        "title": "Staff Software Development Engineer",
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---Work-from-home/Staff-Software-Development-Engineer_R1108623",
+        "work_type": "Remote",
+        "years": "9+ yrs"
+      },
+      "slug": "cvs_wd"
     }
   ],
   "last_sent": "2026-11-27"
