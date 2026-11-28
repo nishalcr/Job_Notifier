@@ -874,6 +874,22 @@
         "years": ""
       },
       "slug": "oracle"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10616076",
+        "key": "10616076",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-28",
+        "salary": "",
+        "source_posted": "November 28, 2026",
+        "title": "Data Engineer I, SPIV Data Engineering",
+        "url": "https://www.amazon.jobs/en/jobs/10616076/data-engineer-i-spiv-data-engineering",
+        "work_type": "",
+        "years": "1+ yrs"
+      },
+      "slug": "amazon"
     }
   ],
   "last_sent": "2026-11-27"
