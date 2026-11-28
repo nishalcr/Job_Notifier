@@ -11,12 +11,6 @@
     "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
     "status": "broken"
   },
-  "cvs_wd": {
-    "broken_since": "2026-11-28T07:31:15+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
   "disney": {
     "broken_since": "2026-11-28T07:31:27+00:00",
     "consecutive_failures": 3,
@@ -25,12 +19,6 @@
   },
   "hp": {
     "broken_since": "2026-11-28T07:31:22+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
-  "intel": {
-    "broken_since": "2026-11-28T07:31:30+00:00",
     "consecutive_failures": 3,
     "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
     "status": "broken"
@@ -47,20 +35,8 @@
     "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
     "status": "broken"
   },
-  "paypal": {
-    "broken_since": "2026-11-28T07:31:30+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
   "redhat": {
     "broken_since": "2026-11-28T07:31:35+00:00",
-    "consecutive_failures": 3,
-    "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
-    "status": "broken"
-  },
-  "samsung": {
-    "broken_since": "2026-11-28T07:31:23+00:00",
     "consecutive_failures": 3,
     "last_error": "Error on page 1: Expecting value: line 1 column 1 (char 0)",
     "status": "broken"

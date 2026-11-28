@@ -59,6 +59,26 @@
       "at": "Nov 28 12:31 AM",
       "company": "Adobe",
       "message": "Broken for 3 consecutive runs. Last error: Error on page 1: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "at": "Nov 28 01:31 AM",
+      "company": "CVS Health (Workday)",
+      "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 28 01:31 AM",
+      "company": "Samsung",
+      "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 28 01:31 AM",
+      "company": "PayPal",
+      "message": "Recovered \u2705"
+    },
+    {
+      "at": "Nov 28 01:31 AM",
+      "company": "Intel",
+      "message": "Recovered \u2705"
     }
   ],
   "jobs": [
