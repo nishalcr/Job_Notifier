@@ -890,6 +890,22 @@
         "years": "1+ yrs"
       },
       "slug": "amazon"
+    },
+    {
+      "company": "Oracle",
+      "job": {
+        "job_id": "350616",
+        "key": "350616",
+        "location": "Seattle, WA, United States; +3 more",
+        "posted": "2026-11-28",
+        "salary": "$81K\u2013$166K",
+        "source_posted": "2026-11-16",
+        "title": "Platform Software Engineer",
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350616",
+        "work_type": "",
+        "years": "2+ yrs"
+      },
+      "slug": "oracle"
     }
   ],
   "last_sent": "2026-11-27"
