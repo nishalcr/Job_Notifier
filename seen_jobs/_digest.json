@@ -825,6 +825,39 @@
         "years": ""
       },
       "slug": "ibm"
+    },
+    {
+      "company": "Amazon",
+      "job": {
+        "job_id": "10615117",
+        "key": "10615117",
+        "location": "Seattle, Washington",
+        "posted": "2026-11-28",
+        "salary": "",
+        "source_posted": "November 27, 2026",
+        "title": "Senior Software Development Engineer, Amazon Customer Service",
+        "url": "https://www.amazon.jobs/en/jobs/10615117/senior-software-development-engineer-amazon-customer-service",
+        "work_type": "",
+        "years": "5+ yrs"
+      },
+      "slug": "amazon"
+    },
+    {
+      "company": "Microsoft",
+      "job": {
+        "job_id": "200017601",
+        "key": "1970393556649786",
+        "location": "Multiple Locations",
+        "posted": "2026-11-28",
+        "salary": "$102K\u2013$219K",
+        "source_posted": "2026-11-28",
+        "team": "Software Engineering",
+        "title": "Software Engineer II",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556649786",
+        "work_type": "Onsite",
+        "years": "2+ yrs"
+      },
+      "slug": "microsoft"
     }
   ],
   "last_sent": "2026-11-27"
