@@ -689,6 +689,108 @@
         "years": ""
       },
       "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "147062",
+        "key": "147062",
+        "location": "Lisle, US",
+        "posted": "2026-11-28",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Application Developer-Hybrid Cloud Manage",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=147062",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "147107",
+        "key": "147107",
+        "location": "Columbus, US",
+        "posted": "2026-11-28",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Data Engineer-Enterprise Content Management",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=147107",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "146936",
+        "key": "146936",
+        "location": "Austin, US",
+        "posted": "2026-11-28",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "AuthMind - Software Engineer,  Data Connectors & Ingestion Platform",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=146936",
+        "work_type": "Hybrid",
+        "years": "3\u201310 yrs"
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "146935",
+        "key": "146935",
+        "location": "Austin, US",
+        "posted": "2026-11-28",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "AuthMind - Senior Software Engineer,  Data Connectors & Ingestion Platform",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=146935",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "147093",
+        "key": "147093",
+        "location": "Houston, US",
+        "posted": "2026-11-28",
+        "salary": "",
+        "source_posted": "",
+        "team": "Project Management",
+        "title": "Application Architect-Application Automation",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=147093",
+        "work_type": "Hybrid",
+        "years": ""
+      },
+      "slug": "ibm"
+    },
+    {
+      "company": "IBM",
+      "job": {
+        "job_id": "146939",
+        "key": "146939",
+        "location": "Multiple Cities",
+        "posted": "2026-11-28",
+        "salary": "",
+        "source_posted": "",
+        "team": "Software Engineering",
+        "title": "Full Stack Developer (TS/SCI FSP Clearance)",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=146939",
+        "work_type": "Hybrid",
+        "years": "5+ yrs"
+      },
+      "slug": "ibm"
     }
   ],
   "last_sent": "2026-11-27"
